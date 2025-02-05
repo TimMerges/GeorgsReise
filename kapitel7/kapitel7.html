@@ -3,14 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Digitale Edition – Kapitel 7</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        .container { display: flex; justify-content: space-between; }
-        .image-section img { max-width: 400px; }
-        .navigation { margin-bottom: 20px; }
-        .tei-container { background: #f4f4f4; padding: 10px; margin-top: 20px; border: 1px solid #ccc; max-height: 400px; overflow-y: scroll; }
-        button { margin: 5px; padding: 10px; cursor: pointer; }
-    </style>
+    <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
     <h1>Digitale Edition – Kapitel 7</h1>
@@ -52,19 +45,7 @@
             { base: '0017_p017' },
             { base: '0018_p018' },
             { base: '0019_p019' },
-            { base: '0020_p020' },
-            { base: '0021_p021' },
-            { base: '0022_p022' },
-            { base: '0023_p023' },
-            { base: '0024_p024' },
-            { base: '0025_p025' },
-            { base: '0026_p026' },
-            { base: '0027_p027' },
-            { base: '0028_p028' },
-            { base: '0029_p029' },
-            { base: '0030_p030' },
-            { base: '0031_p031' },
-            { base: '0032_p032' }
+            { base: '0020_p020' }
         ];
 
         function loadPage(index) {
@@ -114,6 +95,13 @@
             const teiContainer = document.getElementById('teiContent');
             teiContainer.style.display = teiContainer.style.display === 'none' ? 'block' : 'none';
         }
+
+        // Initiale Seite laden
+        loadPage(currentIndex);
+    </script>
+</body>
+</html>
+
 
         // Initiale Seite laden
         loadPage(currentIndex);
