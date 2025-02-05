@@ -9,40 +9,44 @@ body {
 /* Container für Bild und Text */
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;      /* Zentriert Bild und Text horizontal */
     align-items: flex-start;
     gap: 20px;
-    max-width: 90vw;          /* Gesamtbreite begrenzen */
-    margin: 0 auto;           /* Container zentrieren */
+    max-width: 90vw;              /* Begrenzung der Gesamtbreite */
+    margin: 0 auto;               /* Zentriert den Container auf der Seite */
 }
 
-/* Bildbereich */
+/* Bildbereich mit fester Größe */
 .image-section {
-    flex: 1;
-    max-width: 45%;           /* Bild nimmt maximal 45% des Containers ein */
+    width: 40%;                   /* Feste Breite für den Bildcontainer */
+    height: auto;                 /* Höhe passt sich automatisch an */
+    max-width: 600px;             /* Maximale Breite des Containers */
+    max-height: 80vh;            /* Maximale Höhe des Containers */
+    overflow: hidden;             /* Überschüssiges Bild wird abgeschnitten */
+    display: flex;
+    justify-content: center;      /* Bild innerhalb des Containers zentrieren */
+    align-items: center;
 }
 
 .image-section img {
-    width: 100%;              /* Bild füllt die Breite des Containers */
-    height: auto;             /* Proportionen beibehalten */
-    max-height: 70vh;         /* Höhe auf 70% der Viewport-Höhe begrenzen */
-    object-fit: contain;      /* Bild ohne Verzerrung anpassen */
+    max-width: 100%;              /* Bild passt sich an die Breite des Containers an */
+    max-height: 100%;             /* Bild passt sich an die Höhe des Containers an */
+    object-fit: contain;          /* Bild skaliert, ohne verzerrt zu werden */
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
 
 /* Textbereich */
 .text-section {
-    flex: 1;
-    max-width: 50%;           /* Text nimmt mehr Platz als das Bild ein */
+    width: 55%;                   /* Feste Breite für den Textcontainer */
     background-color: #FFF8DC;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow-y: auto;         /* Scrollen, wenn der Text länger als der Bereich ist */
-    max-height: 70vh;         /* Textbereich an die Bildhöhe anpassen */
-    font-size: 1.1rem;        /* Lesbare Textgröße */
-    line-height: 1.8;         /* Zeilenabstand für bessere Lesbarkeit */
+    overflow-y: auto;             /* Scrollbar bei zu viel Text */
+    max-height: 80vh;             /* Begrenzung der Höhe */
+    font-size: 1.1rem;
+    line-height: 1.8;
 }
 
 /* Überschriften */
@@ -67,11 +71,4 @@ a {
 a:hover {
     color: #8B0000;
     border-bottom: 1px solid darkred;
-}
-
-/* Seitenzahl */
-.page-number {
-    font-size: 0.9rem;
-    color: #8B4513;
-    margin-left: 10px;
 }
