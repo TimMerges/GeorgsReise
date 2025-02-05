@@ -6,7 +6,6 @@ body {
     color: #333;
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Verhindert, dass der Inhalt zu klein wird */
 }
 
 /* Header */
@@ -18,10 +17,10 @@ body {
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Navigation unter dem Header */
+/* Navigation */
 .navigation {
     text-align: center;
-    margin: 20px 0; /* Dynamischer Abstand */
+    margin: 20px 0;
 }
 
 .navigation button, .navigation a {
@@ -59,36 +58,41 @@ body {
     gap: 20px;
 }
 
-/* Dynamische Größenanpassung für Bild */
+/* Bildbereich */
 .image-section {
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: auto; /* Dynamische Höhe */
 }
 
 .image-section img {
-    width: auto;
-    max-width: 100%;
+    width: 100%;
     height: auto;
-    max-height: 75vh; /* Verhindert, dass das Bild zu groß wird */
+    max-height: 70vh; /* Bildhöhe nicht größer als der Bildschirm */
     object-fit: contain;
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
 
-/* Dynamische Größenanpassung für Text */
+/* Textbereich */
 .text-section {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-height: 70vh; /* Text darf nicht höher als Bild sein */
     background-color: #FFF8DC;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    font-size: 1.1rem;
-    line-height: 1.8;
+    font-size: 1rem; /* Textgröße verkleinert */
+    line-height: 1.5;
+    overflow-y: auto;
 }
 
-/* Dynamischer Footer */
+/* Footer */
 .footer {
     background-color: #FFF8DC;
     padding: 20px;
@@ -115,7 +119,7 @@ a:hover {
     border-bottom: 1px solid darkred;
 }
 
-/* Responsives Verhalten */
+/* Responsive Anpassung */
 @media (max-width: 900px) {
     .container {
         flex-direction: column;
