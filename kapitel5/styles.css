@@ -4,33 +4,26 @@ body {
     margin: 0;
     background-color: #F5F5DC;
     color: #333;
-    min-height: 100vh; /* Statt height: 100vh → min-height */
     display: flex;
     flex-direction: column;
+    min-height: 100vh; /* Verhindert, dass der Inhalt zu klein wird */
 }
 
-/* Fester Header */
-.fixed-header {
+/* Header */
+.header {
     background-color: #FFF8DC;
-    padding: 15px 20px;
+    padding: 20px;
     border-bottom: 2px solid #A0522D;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
     text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Navigation (unterhalb des Headers) */
+/* Navigation unter dem Header */
 .navigation {
-    margin-top: 70px; /* Platz für den Header */
-    padding-top: 20px; /* Mehr Abstand nach unten */
     text-align: center;
+    margin: 20px 0; /* Dynamischer Abstand */
 }
 
-/* Buttons & TEI-XML-Link */
 .navigation button, .navigation a {
     margin: 5px;
     padding: 10px 15px;
@@ -50,71 +43,63 @@ body {
 /* Hauptinhalt */
 .main-content {
     flex: 1;
-    margin-top: 50px;  /* Mehr Platz unter der Navigation */
-    padding-top: 10px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
+    padding: 20px;
 }
 
 /* Container für Bild und Text */
 .container {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
-    width: 85%;
-    max-width: 1100px;
-    margin: auto; /* Zentral ausrichten */
-    padding-top: 20px;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    gap: 20px;
 }
 
-/* Bildbereich */
+/* Dynamische Größenanpassung für Bild */
 .image-section {
     flex: 1;
-    max-width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .image-section img {
     width: auto;
-    max-width: 90%;
+    max-width: 100%;
     height: auto;
-    max-height: 60vh;  /* Begrenzung auf 60% der Bildschirmhöhe */
+    max-height: 75vh; /* Verhindert, dass das Bild zu groß wird */
     object-fit: contain;
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
 
-/* Textbereich */
+/* Dynamische Größenanpassung für Text */
 .text-section {
     flex: 1;
-    max-width: 50%;
     background-color: #FFF8DC;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow-y: auto;
-    max-height: 70vh;
     font-size: 1.1rem;
     line-height: 1.8;
+}
+
+/* Dynamischer Footer */
+.footer {
+    background-color: #FFF8DC;
+    padding: 20px;
+    border-top: 2px solid #A0522D;
+    text-align: center;
 }
 
 /* Überschriften */
 h1, h2 {
     color: darkblue;
     margin-bottom: 10px;
-}
-
-/* Footer */
-.fixed-footer {
-    background-color: #FFF8DC;
-    padding: 10px 20px;
-    border-top: 2px solid #A0522D;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
 }
 
 /* Links */
@@ -130,7 +115,7 @@ a:hover {
     border-bottom: 1px solid darkred;
 }
 
-/* Responsive Design für kleinere Bildschirme */
+/* Responsives Verhalten */
 @media (max-width: 900px) {
     .container {
         flex-direction: column;
@@ -142,9 +127,6 @@ a:hover {
     }
 
     .navigation {
-        margin-top: 100px; /* Extra Platz für Header auf kleinen Bildschirmen */
-    }
-}
-
+        margin-top: 10px;
     }
 }
