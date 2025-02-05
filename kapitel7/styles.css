@@ -1,0 +1,95 @@
+/* Allgemeine Stile */
+body {
+    font-family: 'Merriweather', serif;
+    margin: 20px;
+    background-color: #F5F5DC; /* Beige Hintergrund */
+    color: #333;
+}
+
+/* Container für Bild und Text */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px; /* Abstand zwischen Bild und Text */
+    flex-wrap: wrap; /* Bild und Text bleiben nebeneinander bei kleineren Bildschirmen */
+}
+
+/* Bildbereich */
+.image-section {
+    flex: 1;
+    max-width: 45%; /* Das Bild nimmt 45% der Breite ein */
+    box-sizing: border-box;
+}
+
+.image-section img {
+    width: 100%; /* Bild passt sich vollständig an */
+    height: auto;
+    border: 2px solid #A0522D;
+    border-radius: 8px;
+}
+
+/* Textbereich */
+.text-section {
+    flex: 1;
+    max-width: 50%; /* Der Text nimmt 50% der Breite ein */
+    background-color: #FFF8DC;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: 80vh;
+}
+
+/* Überschriften */
+h1, h2 {
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #8B4513; /* Braun für Seitenzahlen */
+    margin-bottom: 10px;
+}
+
+/* Fließtext */
+p {
+    line-height: 1.6;
+}
+
+/* Fußnoten */
+.footer {
+    margin-top: 20px;
+    font-style: italic;
+    color: #555;
+}
+
+/* Links für Wikidata/Wikimedia Commons */
+a {
+    color: darkred;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 1px dotted darkred; /* Gepunktete Unterstreichung */
+}
+
+a:hover {
+    color: #8B0000; /* Dunkleres Rot beim Hover */
+    border-bottom: 1px solid darkred; /* Durchgezogene Linie beim Hover */
+}
+
+/* Seitenzahl neben der Überschrift */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.page-number-inline {
+    font-size: 0.9em;
+    color: #8B4513;
+    margin-left: 15px;
+}
+
+    text-decoration: underline;
+}
