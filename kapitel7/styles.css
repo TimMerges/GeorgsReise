@@ -14,6 +14,23 @@ body {
     flex-wrap: wrap; /* Bild und Text bleiben nebeneinander bei kleineren Bildschirmen */
 }
 
+.tei-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #8B4513; /* Braun für den Button */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 5px 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+.tei-button:hover {
+    background-color: #A0522D; /* Helleres Braun beim Hover */
+    color: white;
+}
+
 /* Bildbereich */
 .image-section {
     flex: 1;
