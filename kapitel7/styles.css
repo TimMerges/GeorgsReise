@@ -23,12 +23,14 @@ body {
     text-align: center;
 }
 
-/* Navigationsleiste unter dem Header */
+/* 🆕 Mehr Abstand zwischen Header und Navigation */
 .navigation {
-    margin-top: 70px;  /* Platz für den Header */
+    margin-top: 90px; /* Platz für den Header */
     text-align: center;
+    padding: 10px 0;
 }
 
+/* Buttons & TEI-XML-Link */
 .navigation button, .navigation a {
     margin: 5px;
     padding: 10px 15px;
@@ -45,10 +47,11 @@ body {
     background-color: #8B4513;
 }
 
-/* Hauptinhalt */
+/* 🆕 Mehr Abstand zwischen Navigation und Hauptinhalt */
 .main-content {
     flex: 1;
-    margin-top: 20px;
+    margin-top: 20px;  /* Abstand zur Navigation */
+    padding-top: 10px;  /* Sicherheitspuffer */
     overflow: auto;
     display: flex;
     justify-content: center;
@@ -138,6 +141,9 @@ a:hover {
     }
 
     .navigation {
-        margin-top: 90px;
+        margin-top: 100px; /* Extra Platz für Header auf kleinen Bildschirmen */
+    }
+}
+
     }
 }
