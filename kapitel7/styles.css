@@ -1,3 +1,4 @@
+/* Allgemeine Stile */
 body {
     font-family: 'Merriweather', serif;
     margin: 20px;
@@ -5,6 +6,7 @@ body {
     color: #333;
 }
 
+/* Container für Bild und Text */
 .container {
     display: flex;
     justify-content: space-between;
@@ -12,52 +14,81 @@ body {
     gap: 20px; /* Abstand zwischen Bild und Text */
 }
 
-.image-section, .text-section {
-    flex: 1; /* Beide Bereiche nehmen gleich viel Platz ein */
-    max-width: 50%; /* Begrenzung auf die Hälfte der Seite */
-    box-sizing: border-box; /* Padding und Border werden in der Breite berücksichtigt */
+/* Bildbereich */
+.image-section {
+    flex: 1;
+    max-width: 40%; /* Bild nimmt 40% der Breite ein */
+    box-sizing: border-box;
 }
 
 .image-section img {
     width: 100%; /* Bild passt sich vollständig an die Breite des Containers an */
     height: auto; /* Proportionen bleiben erhalten */
-    border: 2px solid #A0522D;
-    border-radius: 8px;
+    border: 2px solid #A0522D; /* Braune Umrandung */
+    border-radius: 8px; /* Abgerundete Ecken */
 }
 
+/* Textbereich */
 .text-section {
+    flex: 2; /* Text nimmt mehr Platz ein */
+    max-width: 60%; /* Text ist breiter als das Bild */
     background-color: #FFF8DC; /* Heller Hintergrund für den Text */
     padding: 15px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leichter Schatten */
     overflow-y: auto; /* Scrollbar, falls der Text länger ist */
     max-height: 80vh; /* Maximale Höhe für den Textbereich */
 }
 
+/* Überschriften */
 h1, h2 {
     color: darkblue;
-}
-
-h3 {
-    color: #8B4513;
     margin-bottom: 10px;
 }
 
+h3 {
+    color: #8B4513; /* Braun für Seitenzahlen */
+    margin-bottom: 10px;
+}
+
+/* Fließtext */
 p {
     line-height: 1.6;
 }
 
+/* Fußnoten */
 .footer {
     margin-top: 20px;
     font-style: italic;
     color: #555;
 }
 
+/* Links für Wikidata/Wikimedia Commons */
 a {
     color: darkred;
     text-decoration: none;
+    font-weight: bold;
+    border-bottom: 1px dotted darkred; /* Gepunktete Unterstreichung */
 }
 
 a:hover {
+    color: #8B0000; /* Dunkleres Rot beim Hover */
+    border-bottom: 1px solid darkred; /* Durchgezogene Linie beim Hover */
+}
+
+/* Seitenzahl neben der Überschrift */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.page-number-inline {
+    font-size: 0.9em;
+    color: #8B4513;
+    margin-left: 15px;
+}
+
     text-decoration: underline;
 }
