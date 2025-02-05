@@ -22,7 +22,7 @@
 
     <div class="container">
         <div class="image-section">
-            <img id="pageImage" src="Kapitel7/0004_p004.jpg" alt="Seite">
+            <img id="pageImage" src="0004_p004.jpg" alt="Seite">
         </div>
         <div class="text-section" id="textContent">
             <!-- Text wird hier dynamisch geladen -->
@@ -69,18 +69,30 @@
 
         function loadPage(index) {
             const page = pages[index];
-            document.getElementById('pageImage').src = `kapitel7/${page.base}.jpg`;
+            document.getElementById('pageImage').src = `${page.base}.jpg`;
 
-            fetch(`kapitel7/${page.base}.html`)
-                .then(response => response.text())
+            fetch(`${page.base}.html`)
+                .then(response => {
+                    if (!response.ok) throw new Error(`Fehler beim Laden der HTML: ${response.statusText}`);
+                    return response.text();
+                })
                 .then(data => {
                     document.getElementById('textContent').innerHTML = data;
+                })
+                .catch(err => {
+                    document.getElementById('textContent').innerHTML = `<p>Fehler beim Laden des Inhalts: ${err.message}</p>`;
                 });
 
-            fetch(`kapitel7/${page.base}.tei.xml`)
-                .then(response => response.text())
+            fetch(`${page.base}.tei.xml`)
+                .then(response => {
+                    if (!response.ok) throw new Error(`Fehler beim Laden der TEI XML: ${response.statusText}`);
+                    return response.text();
+                })
                 .then(data => {
                     document.getElementById('teiContent').textContent = data;
+                })
+                .catch(err => {
+                    document.getElementById('teiContent').textContent = `Fehler beim Laden der TEI XML: ${err.message}`;
                 });
         }
 
