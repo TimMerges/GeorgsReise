@@ -17,10 +17,11 @@ body {
 .header-container h1 {
     color: darkblue;
     margin: 0;
+    font-size: 2rem; /* Größere Schrift für den Titel */
 }
 
 .page-number {
-    font-size: 1.2em;
+    font-size: 1.2rem;
     color: #8B4513;
 }
 
@@ -39,6 +40,7 @@ body {
     border-radius: 5px;
     text-decoration: none;
     cursor: pointer;
+    font-size: 1rem; /* Lesbare Schriftgröße */
 }
 
 .navigation button:hover, .navigation a:hover {
@@ -48,16 +50,18 @@ body {
 /* Container für Bild und Text */
 .container {
     display: flex;
+    flex-wrap: wrap; /* Damit Text unter das Bild fließt, wenn der Platz nicht reicht */
     justify-content: space-between;
     align-items: flex-start;
     gap: 20px;
+    max-width: 100%;
 }
 
 /* Bildbereich */
 .image-section {
-    flex: 1;
-    max-width: 40%;
+    flex: 1 1 45%; /* Flexibles Verhalten für kleinere Bildgröße */
     box-sizing: border-box;
+    max-width: 45%; /* Beschränke die Breite des Bildes auf 45% */
 }
 
 .image-section img {
@@ -69,29 +73,32 @@ body {
 
 /* Textbereich */
 .text-section {
-    flex: 2;
-    max-width: 60%;
+    flex: 1 1 50%; /* Flexibles Verhalten für Textbereich */
+    max-width: 50%; /* Text nimmt maximal 50% der Breite ein */
     background-color: #FFF8DC;
-    padding: 15px;
+    padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow-y: auto;
     max-height: 80vh;
+    overflow-y: auto;
 }
 
 /* Überschriften */
 h2, h3 {
     color: darkblue;
     margin-bottom: 10px;
+    font-size: 1.5rem; /* Größere Schrift für Überschriften */
 }
 
 h3 {
     color: #8B4513;
+    font-size: 1.2rem;
 }
 
 /* Fließtext */
 p {
     line-height: 1.6;
+    font-size: 1rem; /* Angenehme Lesbarkeit */
 }
 
 /* Fußnoten */
@@ -99,6 +106,7 @@ p {
     margin-top: 20px;
     font-style: italic;
     color: #555;
+    font-size: 0.9rem;
 }
 
 /* Links für Wikidata/Wikimedia Commons */
