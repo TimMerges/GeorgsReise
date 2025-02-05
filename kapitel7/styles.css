@@ -8,24 +8,30 @@ body {
 .container {
     display: flex;
     justify-content: space-between;
+    align-items: flex-start; /* Bild und Text am oberen Rand ausrichten */
+    gap: 20px; /* Abstand zwischen Bild und Text */
 }
 
-.image-section {
-    margin-right: 20px;
+.image-section, .text-section {
+    flex: 1; /* Beide Bereiche nehmen gleich viel Platz ein */
+    max-width: 50%; /* Begrenzung auf die Hälfte der Seite */
+    box-sizing: border-box; /* Padding und Border werden in der Breite berücksichtigt */
 }
 
 .image-section img {
-    max-width: 400px;
+    width: 100%; /* Bild passt sich vollständig an die Breite des Containers an */
+    height: auto; /* Proportionen bleiben erhalten */
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
 
 .text-section {
-    max-width: 600px;
-    background-color: #FFF8DC; /* Helles Beige für den Textbereich */
+    background-color: #FFF8DC; /* Heller Hintergrund für den Text */
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto; /* Scrollbar, falls der Text länger ist */
+    max-height: 80vh; /* Maximale Höhe für den Textbereich */
 }
 
 h1, h2 {
