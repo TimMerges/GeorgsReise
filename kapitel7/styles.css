@@ -1,18 +1,18 @@
 /* Allgemeine Stile */
 body {
     font-family: 'Merriweather', serif;
-    margin: 0;                    /* Kein Margin, um Layout konsistent zu halten */
+    margin: 0;
     background-color: #F5F5DC;
     color: #333;
-    height: 100vh;                /* Gesamthöhe des Viewports einnehmen */
+    height: 100vh;
     display: flex;
-    flex-direction: column;       /* Header, Main-Content, Footer in Spalten */
+    flex-direction: column;
 }
 
 /* Fester Header */
 .fixed-header {
     background-color: #FFF8DC;
-    padding: 10px 20px;
+    padding: 15px 20px;
     border-bottom: 2px solid #A0522D;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     position: fixed;
@@ -20,9 +20,87 @@ body {
     left: 0;
     width: 100%;
     z-index: 1000;
+    text-align: center;
 }
 
-/* Fester Footer */
+/* Navigationsleiste unter dem Header */
+.navigation {
+    margin-top: 70px;  /* Platz für den Header */
+    text-align: center;
+}
+
+.navigation button, .navigation a {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border: none;
+    background-color: #A0522D;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.navigation button:hover, .navigation a:hover {
+    background-color: #8B4513;
+}
+
+/* Hauptinhalt */
+.main-content {
+    flex: 1;
+    margin-top: 20px;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+/* Container für Bild und Text */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    width: 90%;
+    max-width: 1200px;
+}
+
+/* Bildbereich */
+.image-section {
+    flex: 1;
+    max-width: 50%;
+}
+
+.image-section img {
+    width: 100%;
+    height: auto;
+    max-height: 70vh;
+    object-fit: contain;
+    border: 2px solid #A0522D;
+    border-radius: 8px;
+}
+
+/* Textbereich */
+.text-section {
+    flex: 1;
+    max-width: 50%;
+    background-color: #FFF8DC;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: 70vh;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+/* Überschriften */
+h1, h2 {
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+/* Footer */
 .fixed-footer {
     background-color: #FFF8DC;
     padding: 10px 20px;
@@ -35,68 +113,7 @@ body {
     z-index: 1000;
 }
 
-/* Hauptinhalt */
-.main-content {
-    flex: 1;
-    margin-top: 80px;             /* Platz für den festen Header */
-    margin-bottom: 50px;          /* Platz für den festen Footer */
-    overflow: auto;               /* Scrollbar falls Inhalt zu groß */
-    display: flex;
-    justify-content: center;      /* Inhalt zentrieren */
-    align-items: flex-start;      /* Inhalt oben ausrichten */
-}
-
-/* Container für Bild und Text */
-.container {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px;
-    width: 90%;
-    max-width: 1200px;            /* Begrenzung der maximalen Breite */
-}
-
-/* Bildbereich */
-.image-section {
-    flex: 1;
-    max-width: 40%;
-}
-
-.image-section img {
-    width: 100%;
-    height: auto;
-    max-height: 75vh;
-    object-fit: contain;
-    border: 2px solid #A0522D;
-    border-radius: 8px;
-}
-
-/* Textbereich */
-.text-section {
-    flex: 1.2;                   /* Text bekommt etwas mehr Platz */
-    max-width: 55%;
-    background-color: #FFF8DC;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow-y: auto;
-    max-height: 75vh;
-    font-size: 1.1rem;
-    line-height: 1.8;
-}
-
-/* Überschriften */
-h1, h2 {
-    color: darkblue;
-    margin-bottom: 10px;
-}
-
-h3 {
-    color: #8B4513;
-    margin-bottom: 10px;
-}
-
-/* Verlinkungen */
+/* Links */
 a {
     color: darkred;
     text-decoration: none;
@@ -118,5 +135,9 @@ a:hover {
 
     .image-section, .text-section {
         max-width: 90%;
+    }
+
+    .navigation {
+        margin-top: 90px;
     }
 }
