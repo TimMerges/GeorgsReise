@@ -10,34 +10,35 @@ body {
 .container {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start; /* Bild und Text am oberen Rand ausrichten */
+    align-items: flex-start;
     gap: 20px; /* Abstand zwischen Bild und Text */
+    flex-wrap: wrap; /* Bild und Text bleiben nebeneinander bei kleineren Bildschirmen */
 }
 
 /* Bildbereich */
 .image-section {
     flex: 1;
-    max-width: 40%; /* Bild nimmt 40% der Breite ein */
+    max-width: 45%; /* Das Bild nimmt 45% der Breite ein */
     box-sizing: border-box;
 }
 
 .image-section img {
-    width: 100%; /* Bild passt sich vollständig an die Breite des Containers an */
-    height: auto; /* Proportionen bleiben erhalten */
-    border: 2px solid #A0522D; /* Braune Umrandung */
-    border-radius: 8px; /* Abgerundete Ecken */
+    width: 100%; /* Bild passt sich vollständig an */
+    height: auto;
+    border: 2px solid #A0522D;
+    border-radius: 8px;
 }
 
 /* Textbereich */
 .text-section {
-    flex: 2; /* Text nimmt mehr Platz ein */
-    max-width: 60%; /* Text ist breiter als das Bild */
-    background-color: #FFF8DC; /* Heller Hintergrund für den Text */
+    flex: 1;
+    max-width: 50%; /* Der Text nimmt 50% der Breite ein */
+    background-color: #FFF8DC;
     padding: 15px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leichter Schatten */
-    overflow-y: auto; /* Scrollbar, falls der Text länger ist */
-    max-height: 80vh; /* Maximale Höhe für den Textbereich */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: 80vh;
 }
 
 /* Überschriften */
