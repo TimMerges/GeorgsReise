@@ -4,49 +4,55 @@ body {
     margin: 20px;
     background-color: #F5F5DC;
     color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* Container für Bild und Text */
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;  /* Inhalte zentrieren */
     align-items: flex-start;
     gap: 20px;
+    max-width: 1200px;  /* Maximalbreite für den Container */
+    width: 100%;  /* Vollständige Breite ausnutzen */
 }
 
 /* Bildbereich */
 .image-section {
     flex: 1;
-    max-width: 40%;  /* Bild nimmt maximal 40% des Containers ein */
+    max-width: 35%;  /* Bild nimmt maximal 35% des Containers ein */
 }
 
 .image-section img {
     width: 100%;
     height: auto;
-    max-height: 80vh;  /* Bildhöhe auf 80% der Viewport-Höhe begrenzen */
-    object-fit: contain;  /* Bild wird skaliert, ohne verzerrt zu werden */
+    max-height: 70vh;  /* Bildhöhe auf 70% der Viewport-Höhe begrenzen */
+    object-fit: contain;
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
 
 /* Textbereich */
 .text-section {
-    flex: 1;
-    max-width: 55%;  /* Text nimmt mehr Platz als das Bild ein */
+    flex: 2;  /* Text nimmt doppelt so viel Platz ein wie das Bild */
+    max-width: 60%;  /* Text nimmt maximal 60% des Containers ein */
     background-color: #FFF8DC;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
     max-height: 80vh;
-    font-size: 1.1rem;  /* Text etwas größer machen */
-    line-height: 1.8;   /* Zeilenabstand für bessere Lesbarkeit */
+    font-size: 1.2rem;  /* Lesbarkeit verbessern */
+    line-height: 1.8;
 }
 
 /* Überschriften */
 h1, h2 {
     color: darkblue;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 h3 {
