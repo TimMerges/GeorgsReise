@@ -17,12 +17,14 @@ body {
 /* Bildbereich */
 .image-section {
     flex: 1;
-    max-width: 45%;
+    max-width: 40%;  /* Bild nimmt maximal 40% des Containers ein */
 }
 
 .image-section img {
     width: 100%;
     height: auto;
+    max-height: 80vh;  /* Bildhöhe auf 80% der Viewport-Höhe begrenzen */
+    object-fit: contain;  /* Bild wird skaliert, ohne verzerrt zu werden */
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
@@ -30,19 +32,21 @@ body {
 /* Textbereich */
 .text-section {
     flex: 1;
-    max-width: 50%;
+    max-width: 55%;  /* Text nimmt mehr Platz als das Bild ein */
     background-color: #FFF8DC;
-    padding: 15px;
+    padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
     max-height: 80vh;
-    font-size: 1rem;  /* Verkleinert den Text */
+    font-size: 1.1rem;  /* Text etwas größer machen */
+    line-height: 1.8;   /* Zeilenabstand für bessere Lesbarkeit */
 }
 
 /* Überschriften */
 h1, h2 {
     color: darkblue;
+    margin-bottom: 10px;
 }
 
 h3 {
