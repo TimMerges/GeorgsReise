@@ -6,60 +6,18 @@ body {
     color: #333;
 }
 
-/* Header-Stile */
-.header-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-}
-
-.header-container h1 {
-    color: darkblue;
-    margin: 0;
-    font-size: 2rem;
-}
-
-.page-number {
-    font-size: 1rem;
-    color: #8B4513;
-}
-
-/* Navigation */
-.navigation {
-    margin-bottom: 20px;
-    display: flex;
-    gap: 10px;
-}
-
-.navigation button, .navigation a {
-    padding: 10px 20px;
-    background-color: #A0522D;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-    font-size: 1rem;
-}
-
-.navigation button:hover, .navigation a:hover {
-    background-color: #8B4513;
-}
-
 /* Container für Bild und Text */
 .container {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
     gap: 20px;
-    max-width: 100%;
 }
 
 /* Bildbereich */
 .image-section {
     flex: 1;
-    max-width: 40%;
+    max-width: 45%;
 }
 
 .image-section img {
@@ -72,42 +30,27 @@ body {
 /* Textbereich */
 .text-section {
     flex: 1;
-    max-width: 55%;
+    max-width: 50%;
     background-color: #FFF8DC;
-    padding: 20px;
+    padding: 15px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    max-height: 85vh;
     overflow-y: auto;
+    max-height: 80vh;
+    font-size: 1rem;  /* Verkleinert den Text */
 }
 
 /* Überschriften */
-h2, h3 {
+h1, h2 {
     color: darkblue;
-    margin-bottom: 10px;
-    font-size: 1.5rem;
 }
 
 h3 {
     color: #8B4513;
-    font-size: 1.2rem;
+    margin-bottom: 10px;
 }
 
-/* Fließtext */
-p {
-    line-height: 1.6;
-    font-size: 1rem;
-}
-
-/* Fußnoten */
-.footer {
-    margin-top: 20px;
-    font-style: italic;
-    color: #555;
-    font-size: 0.9rem;
-}
-
-/* Links für Wikidata/Wikimedia Commons */
+/* Verlinkungen */
 a {
     color: darkred;
     text-decoration: none;
