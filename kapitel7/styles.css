@@ -4,55 +4,51 @@ body {
     margin: 20px;
     background-color: #F5F5DC;
     color: #333;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 /* Container für Bild und Text */
 .container {
     display: flex;
-    justify-content: center;  /* Inhalte zentrieren */
+    justify-content: space-between;
     align-items: flex-start;
     gap: 20px;
-    max-width: 1200px;  /* Maximalbreite für den Container */
-    width: 100%;  /* Vollständige Breite ausnutzen */
+    max-width: 90vw;          /* Gesamtbreite begrenzen */
+    margin: 0 auto;           /* Container zentrieren */
 }
 
 /* Bildbereich */
 .image-section {
     flex: 1;
-    max-width: 35%;  /* Bild nimmt maximal 35% des Containers ein */
+    max-width: 45%;           /* Bild nimmt maximal 45% des Containers ein */
 }
 
 .image-section img {
-    width: 100%;
-    height: auto;
-    max-height: 70vh;  /* Bildhöhe auf 70% der Viewport-Höhe begrenzen */
-    object-fit: contain;
+    width: 100%;              /* Bild füllt die Breite des Containers */
+    height: auto;             /* Proportionen beibehalten */
+    max-height: 70vh;         /* Höhe auf 70% der Viewport-Höhe begrenzen */
+    object-fit: contain;      /* Bild ohne Verzerrung anpassen */
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
 
 /* Textbereich */
 .text-section {
-    flex: 2;  /* Text nimmt doppelt so viel Platz ein wie das Bild */
-    max-width: 60%;  /* Text nimmt maximal 60% des Containers ein */
+    flex: 1;
+    max-width: 50%;           /* Text nimmt mehr Platz als das Bild ein */
     background-color: #FFF8DC;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow-y: auto;
-    max-height: 80vh;
-    font-size: 1.2rem;  /* Lesbarkeit verbessern */
-    line-height: 1.8;
+    overflow-y: auto;         /* Scrollen, wenn der Text länger als der Bereich ist */
+    max-height: 70vh;         /* Textbereich an die Bildhöhe anpassen */
+    font-size: 1.1rem;        /* Lesbare Textgröße */
+    line-height: 1.8;         /* Zeilenabstand für bessere Lesbarkeit */
 }
 
 /* Überschriften */
 h1, h2 {
     color: darkblue;
     margin-bottom: 10px;
-    text-align: center;
 }
 
 h3 {
@@ -71,4 +67,11 @@ a {
 a:hover {
     color: #8B0000;
     border-bottom: 1px solid darkred;
+}
+
+/* Seitenzahl */
+.page-number {
+    font-size: 0.9rem;
+    color: #8B4513;
+    margin-left: 10px;
 }
