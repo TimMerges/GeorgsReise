@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Digitale Edition – Kapitel 7</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { display: flex; justify-content: space-between; }
+        .image-section img { max-width: 400px; }
+        .navigation { margin-bottom: 20px; }
+        .tei-container { background: #f4f4f4; padding: 10px; margin-top: 20px; border: 1px solid #ccc; max-height: 400px; overflow-y: scroll; }
+        button { margin: 5px; padding: 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Digitale Edition – Kapitel 7</h1>
+    <div class="navigation">
+        <button onclick="previousPage()">&#8592; Vorherige Seite</button>
+        <button onclick="nextPage()">Nächste Seite &#8594;</button>
+        <button onclick="toggleTEI()">TEI-XML anzeigen/verstecken</button>
+    </div>
+
+    <div class="container">
+        <div class="image-section">
+            <img id="pageImage" src="0004_p004.jpg" alt="Seite">
+        </div>
+        <div class="text-section" id="textContent">
+            <!-- Text wird hier dynamisch geladen -->
+        </div>
+    </div>
+
+    <div class="tei-container" id="teiContent" style="display: none;">
+        <!-- TEI-XML wird hier dynamisch geladen -->
+    </div>
+
+    <script>
+        let currentIndex = 0;
+        const pages = [
+            { base: '0004_p004' },
+            { base: '0005_p005' },
+            { base: '0006_p006' },
+            { base: '0007_p007' },
+            { base: '0008_p008' },
+            { base: '0009_p009' },
+            { base: '0010_p010' },
+            { base: '0011_p011' },
+            { base: '0012_p012' },
+            { base: '0013_p013' },
+            { base: '0014_p014' },
+            { base: '0015_p015' },
+            { base: '0016_p016' },
+            { base: '0017_p017' },
+            { base: '0018_p018' },
+            { base: '0019_p019' },
+            { base: '0020_p020' },
+            { base: '0021_p021' },
+            { base: '0022_p022' },
+            { base: '0023_p023' },
+            { base: '0024_p024' },
+            { base: '0025_p025' },
+            { base: '0026_p026' },
+            { base: '0027_p027' },
+            { base: '0028_p028' },
+            { base: '0029_p029' },
+            { base: '0030_p030' },
+            { base: '0031_p031' },
+            { base: '0032_p032' }
+        ];
+
+        function loadPage(index) {
+            const page = pages[index];
+            document.getElementById('pageImage').src = `${page.base}.jpg`;
+
+            fetch(`${page.base}.html`)
+                .then(response => {
+                    if (!response.ok) throw new Error(`Fehler beim Laden der HTML: ${response.statusText}`);
+                    return response.text();
+                })
+                .then(data => {
+                    document.getElementById('textContent').innerHTML = data;
+                })
+                .catch(err => {
+                    document.getElementById('textContent').innerHTML = `<p>Fehler beim Laden des Inhalts: ${err.message}</p>`;
+                });
+
+            fetch(`${page.base}.tei.xml`)
+                .then(response => {
+                    if (!response.ok) throw new Error(`Fehler beim Laden der TEI XML: ${response.statusText}`);
+                    return response.text();
+                })
+                .then(data => {
+                    document.getElementById('teiContent').textContent = data;
+                })
+                .catch(err => {
+                    document.getElementById('teiContent').textContent = `Fehler beim Laden der TEI XML: ${err.message}`;
+                });
+        }
+
+        function nextPage() {
+            if (currentIndex < pages.length - 1) {
+                currentIndex++;
+                loadPage(currentIndex);
+            }
+        }
+
+        function previousPage() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                loadPage(currentIndex);
+            }
+        }
+
+        function toggleTEI() {
+            const teiContainer = document.getElementById('teiContent');
+            teiContainer.style.display = teiContainer.style.display === 'none' ? 'block' : 'none';
+        }
+
+        // Initiale Seite laden
+        loadPage(currentIndex);
+    </script>
+</body>
+</html>
