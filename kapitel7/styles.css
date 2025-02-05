@@ -1,74 +1,54 @@
-/* Allgemeine Stile */
-body {
-    font-family: 'Merriweather', serif;
-    margin: 20px;
-    background-color: #F5F5DC;
-    color: #333;
-}
-
-/* Container für Bild und Text */
+/* Gesamtcontainer für Bild und Text */
 .container {
     display: flex;
-    justify-content: center;      /* Zentriert Bild und Text horizontal */
-    align-items: flex-start;
-    gap: 20px;
-    max-width: 90vw;              /* Begrenzung der Gesamtbreite */
-    margin: 0 auto;               /* Zentriert den Container auf der Seite */
+    justify-content: space-between;  /* Abstand zwischen Bild und Text */
+    align-items: flex-start;         /* Beide oben ausrichten */
+    gap: 20px;                      /* Platz zwischen den Containern */
+    max-width: 100%;                /* Container soll nicht über die Seite hinausgehen */
+    flex-wrap: nowrap;              /* Verhindert, dass die Container umbrechen */
 }
 
-/* Bildbereich mit fester Größe */
+/* Bildbereich */
 .image-section {
-    width: 40%;                   /* Feste Breite für den Bildcontainer */
-    height: auto;                 /* Höhe passt sich automatisch an */
-    max-width: 600px;             /* Maximale Breite des Containers */
-    max-height: 80vh;            /* Maximale Höhe des Containers */
-    overflow: hidden;             /* Überschüssiges Bild wird abgeschnitten */
-    display: flex;
-    justify-content: center;      /* Bild innerhalb des Containers zentrieren */
-    align-items: center;
+    flex: 1;                        /* Bild nimmt einen Teil des Raumes ein */
+    max-width: 45%;                 /* Maximal 45% der Seite für das Bild */
+    min-width: 300px;               /* Bild wird nicht kleiner als 300px */
 }
 
 .image-section img {
-    max-width: 100%;              /* Bild passt sich an die Breite des Containers an */
-    max-height: 100%;             /* Bild passt sich an die Höhe des Containers an */
-    object-fit: contain;          /* Bild skaliert, ohne verzerrt zu werden */
+    width: 100%;                    /* Bild passt sich dem Container an */
+    height: auto;                   /* Proportionen bleiben erhalten */
+    max-height: 80vh;               /* Bildhöhe maximal 80% der Viewport-Höhe */
+    object-fit: contain;            /* Kein Verzerren des Bildes */
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
 
 /* Textbereich */
 .text-section {
-    width: 55%;                   /* Feste Breite für den Textcontainer */
+    flex: 1.5;                      /* Text bekommt etwas mehr Platz */
+    max-width: 55%;                 /* Text nimmt maximal 55% der Seite ein */
     background-color: #FFF8DC;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow-y: auto;             /* Scrollbar bei zu viel Text */
-    max-height: 80vh;             /* Begrenzung der Höhe */
+    overflow-y: auto;
+    max-height: 80vh;
     font-size: 1.1rem;
     line-height: 1.8;
 }
 
-/* Überschriften */
-h1, h2 {
-    color: darkblue;
-    margin-bottom: 10px;
+/* Responsive Anpassung für kleinere Bildschirme */
+@media (max-width: 900px) {
+    .container {
+        flex-direction: column;    /* Bild und Text untereinander bei kleinen Bildschirmen */
+        align-items: center;
+    }
+
+    .image-section, .text-section {
+        max-width: 90%;            /* Beide Bereiche nehmen fast die volle Breite ein */
+    }
 }
 
-h3 {
-    color: #8B4513;
-    margin-bottom: 10px;
-}
-
-/* Verlinkungen */
-a {
-    color: darkred;
-    text-decoration: none;
-    font-weight: bold;
-    border-bottom: 1px dotted darkred;
-}
-
-a:hover {
-    color: #8B0000;
     border-bottom: 1px solid darkred;
 }
