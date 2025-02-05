@@ -22,10 +22,6 @@
         </div>
     </div>
 
-    <div class="tei-container" id="teiContent" style="display: none;">
-        <!-- TEI-XML wird hier dynamisch geladen -->
-    </div>
-
     <script>
         let currentIndex = 0;
         const pages = [
@@ -64,17 +60,8 @@
                     document.getElementById('textContent').innerHTML = `<p>Fehler beim Laden des Inhalts: ${err.message}</p>`;
                 });
 
-            fetch(`${page.base}.tei.xml`)
-                .then(response => {
-                    if (!response.ok) throw new Error(`Fehler beim Laden der TEI XML: ${response.statusText}`);
-                    return response.text();
-                })
-                .then(data => {
-                    document.getElementById('teiContent').textContent = data;
-                })
-                .catch(err => {
-                    document.getElementById('teiContent').textContent = `Fehler beim Laden der TEI XML: ${err.message}`;
-                });
+            // **Hier setzen wir den Link zur TEI-XML Datei**
+            document.getElementById('teiLink').href = `${page.base}.tei.xml`;
         }
 
         function nextPage() {
@@ -90,18 +77,6 @@
                 loadPage(currentIndex);
             }
         }
-
-        function toggleTEI() {
-            const teiContainer = document.getElementById('teiContent');
-            teiContainer.style.display = teiContainer.style.display === 'none' ? 'block' : 'none';
-        }
-
-        // Initiale Seite laden
-        loadPage(currentIndex);
-    </script>
-</body>
-</html>
-
 
         // Initiale Seite laden
         loadPage(currentIndex);
