@@ -6,40 +6,62 @@ body {
     color: #333;
 }
 
+/* Header-Stile */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header-container h1 {
+    color: darkblue;
+    margin: 0;
+}
+
+.page-number {
+    font-size: 1.2em;
+    color: #8B4513;
+}
+
+/* Navigation */
+.navigation {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.navigation button, .navigation a {
+    padding: 10px 20px;
+    background-color: #A0522D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navigation button:hover, .navigation a:hover {
+    background-color: #8B4513;
+}
+
+/* Container für Bild und Text */
 .container {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: 20px; /* Abstand zwischen Bild und Text */
-    flex-wrap: wrap; /* Bild und Text bleiben nebeneinander bei kleineren Bildschirmen */
-}
-
-.tei-button {
-    display: inline-block;
-    padding: 10px 15px;
-    background-color: #8B4513; /* Braun für den Button */
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    margin: 5px 0;
-    font-weight: bold;
-    text-align: center;
-}
-
-.tei-button:hover {
-    background-color: #A0522D; /* Helleres Braun beim Hover */
-    color: white;
+    gap: 20px;
 }
 
 /* Bildbereich */
 .image-section {
     flex: 1;
-    max-width: 45%; /* Das Bild nimmt 45% der Breite ein */
+    max-width: 40%;
     box-sizing: border-box;
 }
 
 .image-section img {
-    width: 100%; /* Bild passt sich vollständig an */
+    width: 100%;
     height: auto;
     border: 2px solid #A0522D;
     border-radius: 8px;
@@ -47,8 +69,8 @@ body {
 
 /* Textbereich */
 .text-section {
-    flex: 1;
-    max-width: 50%; /* Der Text nimmt 50% der Breite ein */
+    flex: 2;
+    max-width: 60%;
     background-color: #FFF8DC;
     padding: 15px;
     border-radius: 8px;
@@ -58,14 +80,13 @@ body {
 }
 
 /* Überschriften */
-h1, h2 {
+h2, h3 {
     color: darkblue;
     margin-bottom: 10px;
 }
 
 h3 {
-    color: #8B4513; /* Braun für Seitenzahlen */
-    margin-bottom: 10px;
+    color: #8B4513;
 }
 
 /* Fließtext */
@@ -85,27 +106,10 @@ a {
     color: darkred;
     text-decoration: none;
     font-weight: bold;
-    border-bottom: 1px dotted darkred; /* Gepunktete Unterstreichung */
+    border-bottom: 1px dotted darkred;
 }
 
 a:hover {
-    color: #8B0000; /* Dunkleres Rot beim Hover */
-    border-bottom: 1px solid darkred; /* Durchgezogene Linie beim Hover */
-}
-
-/* Seitenzahl neben der Überschrift */
-.header-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-}
-
-.page-number-inline {
-    font-size: 0.9em;
-    color: #8B4513;
-    margin-left: 15px;
-}
-
-    text-decoration: underline;
+    color: #8B0000;
+    border-bottom: 1px solid darkred;
 }
