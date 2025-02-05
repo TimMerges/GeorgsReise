@@ -6,7 +6,6 @@ body {
     color: #333;
 }
 
-/* Container für Bild und Text */
 .container {
     display: flex;
     justify-content: space-between;
