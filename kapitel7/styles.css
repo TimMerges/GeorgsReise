@@ -1,54 +1,122 @@
-/* Gesamtcontainer für Bild und Text */
+/* Allgemeine Stile */
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;                    /* Kein Margin, um Layout konsistent zu halten */
+    background-color: #F5F5DC;
+    color: #333;
+    height: 100vh;                /* Gesamthöhe des Viewports einnehmen */
+    display: flex;
+    flex-direction: column;       /* Header, Main-Content, Footer in Spalten */
+}
+
+/* Fester Header */
+.fixed-header {
+    background-color: #FFF8DC;
+    padding: 10px 20px;
+    border-bottom: 2px solid #A0522D;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* Fester Footer */
+.fixed-footer {
+    background-color: #FFF8DC;
+    padding: 10px 20px;
+    border-top: 2px solid #A0522D;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* Hauptinhalt */
+.main-content {
+    flex: 1;
+    margin-top: 80px;             /* Platz für den festen Header */
+    margin-bottom: 50px;          /* Platz für den festen Footer */
+    overflow: auto;               /* Scrollbar falls Inhalt zu groß */
+    display: flex;
+    justify-content: center;      /* Inhalt zentrieren */
+    align-items: flex-start;      /* Inhalt oben ausrichten */
+}
+
+/* Container für Bild und Text */
 .container {
     display: flex;
-    justify-content: space-between;  /* Abstand zwischen Bild und Text */
-    align-items: flex-start;         /* Beide oben ausrichten */
-    gap: 20px;                      /* Platz zwischen den Containern */
-    max-width: 100%;                /* Container soll nicht über die Seite hinausgehen */
-    flex-wrap: nowrap;              /* Verhindert, dass die Container umbrechen */
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    width: 90%;
+    max-width: 1200px;            /* Begrenzung der maximalen Breite */
 }
 
 /* Bildbereich */
 .image-section {
-    flex: 1;                        /* Bild nimmt einen Teil des Raumes ein */
-    max-width: 45%;                 /* Maximal 45% der Seite für das Bild */
-    min-width: 300px;               /* Bild wird nicht kleiner als 300px */
+    flex: 1;
+    max-width: 40%;
 }
 
 .image-section img {
-    width: 100%;                    /* Bild passt sich dem Container an */
-    height: auto;                   /* Proportionen bleiben erhalten */
-    max-height: 80vh;               /* Bildhöhe maximal 80% der Viewport-Höhe */
-    object-fit: contain;            /* Kein Verzerren des Bildes */
+    width: 100%;
+    height: auto;
+    max-height: 75vh;
+    object-fit: contain;
     border: 2px solid #A0522D;
     border-radius: 8px;
 }
 
 /* Textbereich */
 .text-section {
-    flex: 1.5;                      /* Text bekommt etwas mehr Platz */
-    max-width: 55%;                 /* Text nimmt maximal 55% der Seite ein */
+    flex: 1.2;                   /* Text bekommt etwas mehr Platz */
+    max-width: 55%;
     background-color: #FFF8DC;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
-    max-height: 80vh;
+    max-height: 75vh;
     font-size: 1.1rem;
     line-height: 1.8;
 }
 
-/* Responsive Anpassung für kleinere Bildschirme */
+/* Überschriften */
+h1, h2 {
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #8B4513;
+    margin-bottom: 10px;
+}
+
+/* Verlinkungen */
+a {
+    color: darkred;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 1px dotted darkred;
+}
+
+a:hover {
+    color: #8B0000;
+    border-bottom: 1px solid darkred;
+}
+
+/* Responsive Design für kleinere Bildschirme */
 @media (max-width: 900px) {
     .container {
-        flex-direction: column;    /* Bild und Text untereinander bei kleinen Bildschirmen */
+        flex-direction: column;
         align-items: center;
     }
 
     .image-section, .text-section {
-        max-width: 90%;            /* Beide Bereiche nehmen fast die volle Breite ein */
+        max-width: 90%;
     }
-}
-
-    border-bottom: 1px solid darkred;
 }
