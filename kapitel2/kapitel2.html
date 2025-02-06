@@ -2,13 +2,13 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Digitale Edition – Kapitel 7</title>
+    <title>Digitale Edition – Kapitel 2</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <!-- Fester Header -->
     <header class="fixed-header">
-        <h1>Digitale Edition – Kapitel 7</h1>
+        <h1>Digitale Edition – Kapitel 2</h1>
         <div class="navigation">
             <button onclick="previousPage()">&#8592; Vorherige Seite</button>
             <button onclick="nextPage()">Nächste Seite &#8594;</button>
@@ -36,12 +36,14 @@
     <script>
         let currentIndex = 0;
         const pages = [
-            { base: '0004_p004' }, { base: '0005_p005' }, { base: '0006_p006' },
-            { base: '0007_p007' }, { base: '0008_p008' }, { base: '0009_p009' },
-            { base: '0010_p010' }, { base: '0011_p011' }, { base: '0012_p012' },
-            { base: '0013_p013' }, { base: '0014_p014' }, { base: '0015_p015' },
-            { base: '0016_p016' }, { base: '0017_p017' }, { base: '0018_p018' },
-            { base: '0019_p019' }, { base: '0020_p020' }
+    { base: '0021_p037' }, { base: '0022_p036' }, { base: '0023_p035' },
+    { base: '0024_p034' }, { base: '0025_p033' }, { base: '0026_p032' },
+    { base: '0027_p031' }, { base: '0028_p030' }, { base: '0029_p029' },
+    { base: '0030_p028' }, { base: '0031_p027' }, { base: '0032_p026' },
+    { base: '0033_p025' }, { base: '0034_p024' }, { base: '0035_p023' },
+    { base: '0036_p022' }, { base: '0037_p021' }, { base: '0038_p020' },
+    { base: '0039_p019' }, { base: '0040_p018' }, { base: '0041_p017' },
+    { base: '0042_p016' }
         ];
 
         function loadPage(index) {
