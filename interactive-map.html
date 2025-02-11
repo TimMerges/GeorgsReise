@@ -42,5 +42,18 @@
     <script src="js/script.js"></script>
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+    // Marker für Plymouth
+    var plymouthMarker = L.marker([50.3755, -4.1427]).addTo(map);
+    plymouthMarker.bindPopup("<b>Plymouth, England</b><br>Ausgangspunkt der Expedition (Juli 1772)");
+
+    // Marker für Madera
+    var madeiraMarker = L.marker([32.7607, -16.9595]).addTo(map);
+    madeiraMarker.bindPopup("<b>Madeira</b><br>Erste Zwischenstation für Vorräte");
+
+    // Zentrum der Karte auf Europa setzen, damit Plymouth und Madera sichtbar sind
+    map.setView([40, -10], 4); // Angepasste Zentrumskoordinaten und Zoom
+</script>
 </body>
 </html>
