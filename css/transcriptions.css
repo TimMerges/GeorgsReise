@@ -92,3 +92,23 @@
         width: 100%;
     }
 }
+
+/* Styling für "Zurück zur Transkriptionsübersicht" Link */
+.back-to-overview {
+    margin-bottom: 15px; /* Abstand unterhalb des Links */
+    text-align: left; /* Link links ausrichten */
+}
+
+.back-to-overview a {
+    display: inline-block; /* Verhindert vollen Container-Breite */
+    padding: 8px 12px;
+    background-color: #f0f0f0; /* Dezenter Hintergrund */
+    color: #333; /* Dunkelgraue Textfarbe */
+    border-radius: 5px;
+    text-decoration: none; /* Unterstreichung entfernen */
+    font-size: 0.9rem;
+}
+
+.back-to-overview a:hover {
+    background-color: #e0e0e0; /* Etwas dunklerer Hover-Hintergrund */
+}
