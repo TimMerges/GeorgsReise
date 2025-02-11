@@ -2,35 +2,56 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Digitale Edition – Kapitel 7</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Georg Forsters Digitale Edition – Kapitel 5</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/transcriptions.css">
+
 </head>
 <body>
-    <!-- Fester Header -->
-    <header class="fixed-header">
-        <h1>Digitale Edition – Kapitel 7</h1>
-        <div class="navigation">
-            <button onclick="previousPage()">&#8592; Vorherige Seite</button>
-            <button onclick="nextPage()">Nächste Seite &#8594;</button>
-            <a id="teiLink" href="#" target="_blank" class="tei-button">TEI-XML in neuem Tab anzeigen</a>   
-        </div>
+
+    <!-- Hauptnavigation -->
+    <header class="main-header">
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../about-forster.html">Über Georg Forster</a></li>
+                <li><a href="../transcriptions.html">Transkriptionen</a></li>
+                <li><a href="../interactive-map.html">Interaktive Karte</a></li>
+                <li><a href="../project-documentation.html">Projekt Dokumentation</a></li>
+                <li><a href="../about-project.html">Über das Projekt</a></li>
+            </ul>
+        </nav>
     </header>
 
-    <!-- Hauptinhalt (Bild & Text) -->
-    <div class="main-content">
-        <div class="container">
-            <div class="image-section">
-                <img id="pageImage" src="0004_p004.jpg" alt="Seite">
+    <!-- Inhalt -->
+    <main class="transcription-container">
+        <section class="edition-navigation">
+            <div class="navigation">
+                <button onclick="previousPage()">&#8592; Vorherige Seite</button>
+                <button onclick="nextPage()">Nächste Seite &#8594;</button>
+                <a id="teiLink" href="#" target="_blank" class="tei-button">TEI-XML in neuem Tab anzeigen</a>   
             </div>
-            <div class="text-section" id="textContent">
-                <!-- Text wird hier dynamisch geladen -->
-            </div>
-        </div>
-    </div>
+        </section>
 
-    <!-- Fester Footer -->
+        <!-- Bild- und Textanzeige nebeneinander -->
+        <section class="synoptic-view">
+            <div class="facsimile-column">
+                <img id="pageImage" src="" alt="Seite">
+            </div>
+            <div class="transcription-column">
+                <div class="transcription-text" id="textContent">
+                    <!-- Text wird hier dynamisch geladen -->
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
     <footer class="fixed-footer">
-        <p>&copy; 2024 Digitale Edition. Alle Rechte vorbehalten.</p>
+        <p>&copy; 2025 Georg Forster Digitale Edition | Patricia Folly, Sarah Sarkis, Tim Merges</p>
     </footer>
 
     <script>
@@ -45,19 +66,40 @@
         ];
 
         function loadPage(index) {
-            const page = pages[index];
+            if (index < 0 || index >= pages.length) return;
+            currentIndex = index;
+            const page = pages[currentIndex];
             document.getElementById('pageImage').src = `${page.base}.jpg`;
             fetch(`${page.base}.html`)
                 .then(response => response.text())
                 .then(data => document.getElementById('textContent').innerHTML = data)
                 .catch(err => document.getElementById('textContent').innerHTML = `<p>Fehler beim Laden: ${err.message}</p>`);
             document.getElementById('teiLink').href = `${page.base}.tei.xml`;
+            window.location.hash = currentIndex;
         }
 
-        function nextPage() { if (currentIndex < pages.length - 1) { currentIndex++; loadPage(currentIndex); } }
-        function previousPage() { if (currentIndex > 0) { currentIndex--; loadPage(currentIndex); } }
+        function nextPage() {
+            if (currentIndex < pages.length - 1) {
+                loadPage(currentIndex + 1);
+            }
+        }
 
-        loadPage(currentIndex);
+        function previousPage() {
+            if (currentIndex > 0) {
+                loadPage(currentIndex - 1);
+            }
+        }
+
+        function loadInitialPage() {
+            const hashIndex = parseInt(window.location.hash.substring(1));
+            if (!isNaN(hashIndex) && hashIndex >= 0 && hashIndex < pages.length) {
+                currentIndex = hashIndex;
+            }
+            loadPage(currentIndex);
+        }
+
+        window.onload = loadInitialPage;
     </script>
+
 </body>
 </html>
