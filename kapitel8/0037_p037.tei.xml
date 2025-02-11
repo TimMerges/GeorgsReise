@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-  <fileDesc n="bsb10916719">
+  <fileDesc n="">
     <titleStmt>
-      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
       <editor>
         <persName role="Herausgeber">
           <forename>Tim</forename>
@@ -38,7 +38,7 @@
       </respStmt>
     </titleStmt>
     <editionStmt>
-      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
     </editionStmt>
     <publicationStmt>
       <publisher>
@@ -59,7 +59,7 @@
         <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
           Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
         </licence>
-        <ab type="version">version-01-22</ab>
+        <ab type="version">version-02-10</ab>
         <ab type="edition">Digitale Edition</ab>
         <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
       </availability>
@@ -68,7 +68,7 @@
     </publicationStmt>
     <sourceDesc>
       <bibl>
-        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
         <idno type="print">BSB-ID 991123990369707356</idno>
       </bibl>
       <msDesc>
@@ -79,7 +79,6 @@
         <physDesc>
           <objectDesc>
             <supportDesc>
-              <!-- ggf. weitere physische Beschreibungen -->
             </supportDesc>
           </objectDesc>
         </physDesc>
