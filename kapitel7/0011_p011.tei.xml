@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Forster, Georg: Georg Forster's sämmtliche Schriften. 1, Johann Reinhold Forster's und Georg Forster's Reise um die Welt in den Jahren 1772 bis 1775</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>München, Bayerische Staatsbibliothek -- Opp. 463 b-1</pubPlace><date when="1732023967491">1732023967491</date></publicationStmt><sourceDesc><p>Herausgegeben von dessen Tochter und begleitet mit einer Charakteristik Forster's von G. G. Gervinus</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>205</page-number><paragraph /><paragraph>aber waren wir 2¼ Grad weiter gegen Süden. Hier fiel uns ein<lb />
-junger Ziegenbock über Bord, den man zwar wieder auffischte und<lb />
-alles mögliche an ihm versuchte, als Reiben, Tabaksklystiere<lb />
-u. d. gl. allein umsonst, er war nicht wieder zum Leben zu bringen.<lb />
-Am 17. da wir über den 227. Grad östlicher Länge hin¬<lb />
-aus und ungefähr im 40. Grade südlicher Breite waren, ließ<lb />
-der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; endlich gerade gegen Norden hinaufsteuern. Bis¬<lb />
-her hatten wir uns nämlich, zu Aufsuchung des Südlandes meh¬<lb />
-rentheils gegen Osten und zwar in den Breiten gehalten, wo<lb />
-dies dem allgemeinen Vorgeben nach, schlechterdings liegen sollte.<lb />
-Auf dieser ganzen Fahrt war uns aber allen die Zeit herzlich<lb />
-lang geworden, denn die Jahreszeit war unangenehm und rauh,<lb />
-der Wind uns mehrentheils zuwider, und an keine Art von Ab¬<lb />
-wechselung zu denken, sondern statt derselben hatten wir ein ewi¬<lb />
-ges Einerlei von längst bekannten Gegenständen vor uns. Das<lb />
-einzige, was wir damit gewonnen hatten, war die Gewißheit,<lb />
-„daß in den mittlern Breiten der Südsee kein großes Land zu<lb />
-finden ist." In Zeit von fünf Tagen erreichten wir bereits den<lb />
-31. Grad südlicher Breite. Nunmehro verloren sich die Albat¬<lb />
-rosse und Sturmvögel, das Thermometer stieg auf 61½, und<lb />
-wir konnten jetzt, seit unsrer Abreise vom Cap zum erstenmal,<lb />
-die Winterkleider ablegen. Je näher wir den Wendezirkeln ka¬<lb />
-men, desto bessern Muths ward unser Seevolk. Die Matrosen<lb />
-fingen schon an, sich des Abends auf dem Verdeck mit man¬<lb />
-cherlei Spielen zu belustigen. Die belebende Mildigkeit und<lb />
-Wärme der Luft war etwas ganz neues, und behagte uns so<lb />
-wohl, daß wir dem warmen Klima bald vor allen andern den<lb />
-Vorzug einräumten und es der Natur des Menschen am zu¬<lb />
-träglichsten hielten. Am 25. Nachmittags sahen wir einen tro-<lb />
-pischen Vogel, ein sicheres Zeichen, daß wir in das mildere Klima,<lb />
-über 30 Grad südlicher Breite, heraufgekommen waren. Die unter¬<lb />
-gehende Sonne erleuchtete die Wolken mit den glänzenden Goldfarben<lb />
-und bestärkte uns in der Meinung, daß die Luft nirgends so schön,<lb />
-der Himmel nirgends so prächtig sei, als zwischen den Wendezirkeln.<lb />
-Am 28. war die Adventure so nahe bei uns, daß wir mit<lb />
-den Leuten derselben sprechen konnten. Sie erzählten uns, daß<lb />
-vor drei Tagen ihr Koch gestorben und daß zwanzig Mann am<lb />
-Scorbute krank wären. Diese Nachricht war uns desto unerwar-<lb />
-teter, da in unserm Schiff kaum bei einem oder dem andern<lb />
-von unsern Leuten Anzeichen des Scorbuts vorhanden waren,</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="205"/><p/><p>aber waren wir 2¼ Grad weiter gegen Süden. Hier fiel uns ein<lb/>
+junger Ziegenbock über Bord, den man zwar wieder auffischte und<lb/>
+alles mögliche an ihm versuchte, als Reiben, Tabaksklystiere<lb/>
+u. d. gl. allein umsonst, er war nicht wieder zum Leben zu bringen.<lb/>
+Am 17. da wir über den 227. Grad östlicher Länge hin¬<lb/>
+aus und ungefähr im 40. Grade südlicher Breite waren, ließ<lb/>
+der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; endlich gerade gegen Norden hinaufsteuern. Bis¬<lb/>
+her hatten wir uns nämlich, zu Aufsuchung des Südlandes meh¬<lb/>
+rentheils gegen Osten und zwar in den Breiten gehalten, wo<lb/>
+dies dem allgemeinen Vorgeben nach, schlechterdings liegen sollte.<lb/>
+Auf dieser ganzen Fahrt war uns aber allen die Zeit herzlich<lb/>
+lang geworden, denn die Jahreszeit war unangenehm und rauh,<lb/>
+der Wind uns mehrentheils zuwider, und an keine Art von Ab¬<lb/>
+wechselung zu denken, sondern statt derselben hatten wir ein ewi¬<lb/>
+ges Einerlei von längst bekannten Gegenständen vor uns. Das<lb/>
+einzige, was wir damit gewonnen hatten, war die Gewißheit,<lb/>
+„daß in den mittlern Breiten der Südsee kein großes Land zu<lb/>
+finden ist." In Zeit von fünf Tagen erreichten wir bereits den<lb/>
+31. Grad südlicher Breite. Nunmehro verloren sich die Albat¬<lb/>
+rosse und Sturmvögel, das Thermometer stieg auf 61½, und<lb/>
+wir konnten jetzt, seit unsrer Abreise vom Cap zum erstenmal,<lb/>
+die Winterkleider ablegen. Je näher wir den Wendezirkeln ka¬<lb/>
+men, desto bessern Muths ward unser Seevolk. Die Matrosen<lb/>
+fingen schon an, sich des Abends auf dem Verdeck mit man¬<lb/>
+cherlei Spielen zu belustigen. Die belebende Mildigkeit und<lb/>
+Wärme der Luft war etwas ganz neues, und behagte uns so<lb/>
+wohl, daß wir dem warmen Klima bald vor allen andern den<lb/>
+Vorzug einräumten und es der Natur des Menschen am zu¬<lb/>
+träglichsten hielten. Am 25. Nachmittags sahen wir einen tro-<lb/>
+pischen Vogel, ein sicheres Zeichen, daß wir in das mildere Klima,<lb/>
+über 30 Grad südlicher Breite, heraufgekommen waren. Die unter¬<lb/>
+gehende Sonne erleuchtete die Wolken mit den glänzenden Goldfarben<lb/>
+und bestärkte uns in der Meinung, daß die Luft nirgends so schön,<lb/>
+der Himmel nirgends so prächtig sei, als zwischen den Wendezirkeln.<lb/>
+Am 28. war die Adventure so nahe bei uns, daß wir mit<lb/>
+den Leuten derselben sprechen konnten. Sie erzählten uns, daß<lb/>
+vor drei Tagen ihr Koch gestorben und daß zwanzig Mann am<lb/>
+Scorbute krank wären. Diese Nachricht war uns desto unerwar-<lb/>
+teter, da in unserm Schiff kaum bei einem oder dem andern<lb/>
+von unsern Leuten Anzeichen des Scorbuts vorhanden waren,</p></body></text>
+</TEI>

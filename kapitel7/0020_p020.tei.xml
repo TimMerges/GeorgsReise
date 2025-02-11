@@ -1,10 +1,100 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Forster, Georg: Georg Forster's sämmtliche Schriften. 1, Johann Reinhold Forster's und Georg Forster's Reise um die Welt in den Jahren 1772 bis 1775</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>München, Bayerische Staatsbibliothek -- Opp. 463 b-1</pubPlace><date when="1732023967491">1732023967491</date></publicationStmt><sourceDesc><p>Herausgegeben von dessen Tochter und begleitet mit einer Charakteristik Forster's von G. G. Gervinus</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>214</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>angenehmen Schilderungen, welche unsere Vorgänger von diesem<lb />
-Lande gemacht hatten. Schon fingen wir an, die unter dem<lb />
-rauhen, südlichen Himmelsstriche ausgestandenen Mühseligkeiten<lb />
-zu vergessen; der trübe Kummer, der bisher unsere Stirne um-<lb />
-wölkt hatte, verschwand; die fürchterlichen Vorstellungen von<lb />
-Krankheit und Schrecken des Todes wichen zurück und alle unsre<lb />
-Sorgen entschliefen.</paragraph><paragraph /><paragraph>Somno positi sub nocte silenti<lb />
-Lenibant curas et corda oblita laborum.<lb />
-Virgil.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="214"/><head>Reise um die Welt</head><p/><p>angenehmen Schilderungen, welche unsere Vorgänger von diesem<lb/>
+Lande gemacht hatten. Schon fingen wir an, die unter dem<lb/>
+rauhen, südlichen Himmelsstriche ausgestandenen Mühseligkeiten<lb/>
+zu vergessen; der trübe Kummer, der bisher unsere Stirne um-<lb/>
+wölkt hatte, verschwand; die fürchterlichen Vorstellungen von<lb/>
+Krankheit und Schrecken des Todes wichen zurück und alle unsre<lb/>
+Sorgen entschliefen.</p><p/><p>Somno positi sub nocte silenti<lb/>
+Lenibant curas et corda oblita laborum.<lb/>
+Virgil.</p></body></text>
+</TEI>
