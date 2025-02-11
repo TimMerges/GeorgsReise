@@ -1,0 +1,77 @@
+@import url("style.css");
+
+/* Stile für die Transkription */
+.transcription-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background-color: #fff; /* Heller Hintergrund für bessere Lesbarkeit */
+}
+
+.transcription-text {
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fefefe;
+    font-family: "Courier New", Courier, monospace;
+    white-space: pre-line;
+    line-height: 1.8;
+    font-size: 1.1rem;
+    color: #222;
+}
+
+.image-section img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Flex-Layout für synoptische Ansicht */
+.synoptic-view {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.facsimile-column, .transcription-column {
+    flex: 1 1 45%;
+    min-width: 300px;
+}
+
+/* Navigation-Buttons */
+.navigation {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.navigation button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #5d8a78;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.navigation button:hover {
+    background-color: #4a6e5f;
+}
+
+/* Responsive Anpassungen */
+@media (max-width: 768px) {
+    .synoptic-view {
+        flex-direction: column;
+    }
+
+    .facsimile-column, .transcription-column {
+        width: 100%;
+    }
+}
