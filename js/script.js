@@ -7,12 +7,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Marker für Plymouth
     var plymouthMarker = L.marker([50.3755, -4.1427]).addTo(map);
-    plymouthMarker.bindPopup("<b>Plymouth, England</b><br>Ausgangspunkt der Expedition (Juli 1772)");
+    plymouthMarker.bindPopup("<b>Plymouth, England</b><br>Ausgangspunkt der Expedition (Juli 1772)<br><a href='https://www.wikidata.org/wiki/Q47525' target='_blank'>Wikidata: Plymouth</a>");
 
     // Marker für Madera
     var madeiraMarker = L.marker([32.7607, -16.9595]).addTo(map);
-    madeiraMarker.bindPopup("<b>Madeira</b><br>Erste Zwischenstation für Vorräte");
+    madeiraMarker.bindPopup("<b>Madeira</b><br>Erste Zwischenstation für Vorräte<br><a href='https://www.wikidata.org/wiki/Q17712' target='_blank'>Wikidata: Madeira</a>");
 
 
-    map.setView([0, 0], 2); // Zentriere Karte auf 0,0
+    map.setView([0, 0], 2);
 });
