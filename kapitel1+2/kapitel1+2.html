@@ -3,46 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Georg Forsters Digitale Edition</title>
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/transcriptions.css">
+    <title>Georg Forsters Digitale Edition – Kapitel 1+2</title>
+
+    <!-- Hauptstyles -->
+    <link rel="stylesheet" href="../css/style.css">
+    <!-- Spezielle Stile für Transkriptionen -->
+    <link rel="stylesheet" href="../css/transcriptions.css">
 </head>
 <body>
+
+    <!-- Hauptnavigation -->
     <header class="main-header">
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-forster.html">Über Georg Forster</a></li>
-                <li><a href="transcriptions.html">Transkriptionen</a></li>
-                <li><a href="interactive-map.html">Interaktive Karte</a></li>
-                <li><a href="project-documentation.html">Projekt Dokumentation</a></li>
-                <li><a href="about-project.html">Über das Projekt</a></li>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../about-forster.html">Über Georg Forster</a></li>
+                <li><a href="../transcriptions.html">Transkriptionen</a></li>
+                <li><a href="../interactive-map.html">Interaktive Karte</a></li>
+                <li><a href="../project-documentation.html">Projekt Dokumentation</a></li>
+                <li><a href="../about-project.html">Über das Projekt</a></li>
             </ul>
         </nav>
     </header>
 
-    <header class="fixed-header">
-        <h1>Digitale Edition – Kapitel 1+2</h1>
-        <div class="navigation">
-            <button onclick="previousPage()">&#8592; Vorherige Seite</button>
-            <button onclick="nextPage()">Nächste Seite &#8594;</button>
-            <a id="teiLink" href="#" target="_blank" class="tei-button">TEI-XML in neuem Tab anzeigen</a>   
-        </div>
-    </header>
+    <!-- Inhalt -->
+    <main class="transcription-container">
+        <section class="edition-navigation">
+            <div class="navigation">
+                <button onclick="previousPage()">&#8592; Vorherige Seite</button>
+                <button onclick="nextPage()">Nächste Seite &#8594;</button>
+                <a id="teiLink" href="#" target="_blank" class="tei-button">TEI-XML in neuem Tab anzeigen</a>   
+            </div>
+        </section>
 
-    <div class="main-content">
-        <div class="container">
-            <div class="image-section">
+        <!-- Bild- und Textanzeige nebeneinander -->
+        <section class="synoptic-view">
+            <div class="facsimile-column">
                 <img id="pageImage" src="" alt="Seite">
             </div>
-            <div class="text-section" id="textContent">
-                <!-- Text wird hier dynamisch geladen -->
+            <div class="transcription-column">
+                <div class="transcription-text" id="textContent">
+                    <!-- Text wird hier dynamisch geladen -->
+                </div>
             </div>
-        </div>
-    </div>
+        </section>
 
+    </main>
+
+    <!-- Footer -->
     <footer class="fixed-footer">
-        <p>&copy; 2024 Digitale Edition. Alle Rechte vorbehalten.</p>
+        <p>&copy; 2025 Georg Forster Digitale Edition | Patricia Folly, Sarah Sarkis, Tim Merges</p>
     </footer>
 
     <script>
@@ -99,10 +109,6 @@
 
         window.onload = loadInitialPage;
     </script>
-
-    <footer>
-        <p>&copy; 2025 Georg Forster Digitale Edition | Patricia Folly, Sarah Sarkis, Tim Merges</p>
-    </footer>
 
 </body>
 </html>
