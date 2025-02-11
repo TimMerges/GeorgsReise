@@ -1,41 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>156</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>Am 23. früh gingen verschiedene Officiere nebst &lt;persName ref="https://www.wikidata.org/wiki/Q433984"&gt;Dr. Sparr¬&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q433984"&gt;mann&lt;/persName&gt; nach Cascadebucht, um dort einen der höchsten Berge in<lb />
-der ganzen&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt; Bei&lt;/place&gt; zu besteigen. Um 2 Uhr erreichten sie die Spitze<lb />
-und gaben uns solches durch Anzündung eines großen Feuers zu<lb />
-erkennen. Wir hätten sie gern begleitet, aber Durchlauf und<lb />
-Colik hielten uns am Bord zurück. Beides kam von der Sorg¬<lb />
-losigkeit des Kochs her, der unser kupfernes Küchengeschirr ganz<lb />
-von Grünspan hatte anlaufen lassen. Doch befanden wir uns<lb />
-gegen Abend wieder so weit besser, daß wir unsern Spaziergän-<lb />
-gern bis nach Cascadebucht entgegen gehen konnten, und kamen<lb />
-hernach mit verschiedenen Pflanzen und Vögeln beladen in ihrer<lb />
-Gesellschaft an Bord zurück. Unterdessen hatte das zum Sig-<lb />
-nal angezündete Feuer, auf der Spitze des Berges, das Gesträuch<lb />
-ergriffen, und sich rund um den Gipfel in einen Flammenzirkel<lb />
-verbreitet, der für das heutige Georgenfest eine schöne Illumina¬<lb />
-tion ausmachte. Die Gesellschaft, welche dort gewesen war, sagte,<lb />
-daß man von der Höhe die ganze &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; und die See jenseits der<lb />
-Berge, in Süden, Südwest und Nordwest, mehr als zwanzig<lb />
-Seemeilen in die Runde, übersehen könne, wozu ihnen das heu¬<lb />
-tige helle und schöne Wetter ansnehmend behülflich war; die<lb />
-Berge im Innern des Landes schienen sehr unfruchtbar zu sein,<lb />
-indem sie aus großen, wildgebrochenen Felsenmassen beständen<lb />
-und an der Spitze mit Schnee bedeckt wären. Aber auf dem<lb />
-Gipfel desjenigen Berges den sie bestiegen, hatte es allerhand<lb />
-kleines Strauchwerk und Alpenkräuter gegeben, die sonst nirgends<lb />
-anzutreffen waren. Etwas niedriger stand höheres Buschwerk,<lb />
-noch weiter herab fanden sie einen Fleck, auf welchem die Bäume<lb />
-alle ausgegangen und abgestorben waren; und dann ging ein<lb />
-grüner Wald an, der in eben dem Maaße höher und schöner<lb />
-ward als sie tiefer herab kamen. Das Hinaufsteigen war wegen<lb />
-der verwickelten Schlingstauden und Dornen mühsam; das Her¬<lb />
-untersteigen aber wegen der Abgründe gefährlich; denn sie mußten<lb />
-mehrentheils längs denselben herabrutschen und sich an Bäumen<lb />
-nnd Büschen festzuhalten suchen. Ziemlich weit auf dem Berg<lb />
-hinauf fanden sie drei bis vier Bäume, die ihnen Palmen zu<lb />
-sein dünkten; von diesen fällten sie einen und ließen sich den<lb />
-mittelsten Schößling zur Erfrischung dienen. Im Grunde ge¬<lb />
-hörten aber diese Bäume nicht zu den rechten Kohlpalmen, (Cab¬<lb />
-bage-palms) ja überhaupt nicht zu den Palmen, denn die wach-<lb />
-sen nur unter mildern Himmelsstrichen; sondern es war eigentlich</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="156"/><head>Reise um die Welt</head><p/><p>Am 23. früh gingen verschiedene Officiere nebst &lt;persName ref="https://www.wikidata.org/wiki/Q433984"&gt;Dr. Sparr¬&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q433984"&gt;mann&lt;/persName&gt; nach Cascadebucht, um dort einen der höchsten Berge in<lb/>
+der ganzen&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt; Bei&lt;/place&gt; zu besteigen. Um 2 Uhr erreichten sie die Spitze<lb/>
+und gaben uns solches durch Anzündung eines großen Feuers zu<lb/>
+erkennen. Wir hätten sie gern begleitet, aber Durchlauf und<lb/>
+Colik hielten uns am Bord zurück. Beides kam von der Sorg¬<lb/>
+losigkeit des Kochs her, der unser kupfernes Küchengeschirr ganz<lb/>
+von Grünspan hatte anlaufen lassen. Doch befanden wir uns<lb/>
+gegen Abend wieder so weit besser, daß wir unsern Spaziergän-<lb/>
+gern bis nach Cascadebucht entgegen gehen konnten, und kamen<lb/>
+hernach mit verschiedenen Pflanzen und Vögeln beladen in ihrer<lb/>
+Gesellschaft an Bord zurück. Unterdessen hatte das zum Sig-<lb/>
+nal angezündete Feuer, auf der Spitze des Berges, das Gesträuch<lb/>
+ergriffen, und sich rund um den Gipfel in einen Flammenzirkel<lb/>
+verbreitet, der für das heutige Georgenfest eine schöne Illumina¬<lb/>
+tion ausmachte. Die Gesellschaft, welche dort gewesen war, sagte,<lb/>
+daß man von der Höhe die ganze &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; und die See jenseits der<lb/>
+Berge, in Süden, Südwest und Nordwest, mehr als zwanzig<lb/>
+Seemeilen in die Runde, übersehen könne, wozu ihnen das heu¬<lb/>
+tige helle und schöne Wetter ansnehmend behülflich war; die<lb/>
+Berge im Innern des Landes schienen sehr unfruchtbar zu sein,<lb/>
+indem sie aus großen, wildgebrochenen Felsenmassen beständen<lb/>
+und an der Spitze mit Schnee bedeckt wären. Aber auf dem<lb/>
+Gipfel desjenigen Berges den sie bestiegen, hatte es allerhand<lb/>
+kleines Strauchwerk und Alpenkräuter gegeben, die sonst nirgends<lb/>
+anzutreffen waren. Etwas niedriger stand höheres Buschwerk,<lb/>
+noch weiter herab fanden sie einen Fleck, auf welchem die Bäume<lb/>
+alle ausgegangen und abgestorben waren; und dann ging ein<lb/>
+grüner Wald an, der in eben dem Maaße höher und schöner<lb/>
+ward als sie tiefer herab kamen. Das Hinaufsteigen war wegen<lb/>
+der verwickelten Schlingstauden und Dornen mühsam; das Her¬<lb/>
+untersteigen aber wegen der Abgründe gefährlich; denn sie mußten<lb/>
+mehrentheils längs denselben herabrutschen und sich an Bäumen<lb/>
+nnd Büschen festzuhalten suchen. Ziemlich weit auf dem Berg<lb/>
+hinauf fanden sie drei bis vier Bäume, die ihnen Palmen zu<lb/>
+sein dünkten; von diesen fällten sie einen und ließen sich den<lb/>
+mittelsten Schößling zur Erfrischung dienen. Im Grunde ge¬<lb/>
+hörten aber diese Bäume nicht zu den rechten Kohlpalmen, (Cab¬<lb/>
+bage-palms) ja überhaupt nicht zu den Palmen, denn die wach-<lb/>
+sen nur unter mildern Himmelsstrichen; sondern es war eigentlich</p></body></text>
+</TEI>

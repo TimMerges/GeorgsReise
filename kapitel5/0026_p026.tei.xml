@@ -1,38 +1,127 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>140</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>die Leute es noch zu rechter Zeit ergriffen hätten. Man brachte<lb />
-es sogleich in eine kleine Bucht in Sicherheit, und die Matrosen<lb />
-machten sich für ihre Mühe durch die Lebensmittel bezahlt, welche<lb />
-die Officiere noch darin vorräthig hatten. Als sie eine kleine<lb />
-Mahlzeit davon gehalten, ließ der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; nach der Stelle hin¬<lb />
-steuern, wo seiner Meinung nach, die Herren sein mußten, de¬<lb />
-nen das Boot weggeschwommen war. Zwischen 7 und 8 Uhr<lb />
-Abends erreichten sie die Bucht, und fanden ihre Jäger auf ei¬<lb />
-ner kleinen Insel, an welche sie aber nicht heran kommen konn¬<lb />
-ten, weil der Ebbezeit wegen das Wasser nicht tief genug war.<lb />
-Sie mußten daher auf einer benachbarten Landspitze aussteigen,<lb />
-und des bereits verstrichnen Tages wegen sich gefallen lassen,<lb />
-die Nacht dort zuzubringen. Mit vieler Mühe brachten sie end-<lb />
-lich ein Feuer zuwege, brateten an demselben einige Fische und<lb />
-legten sich nach gehaltner Mahlzeit, unbequem genug, schlafen,<lb />
-denn der steinige Strand war ihr Bette und der Himmel ihre<lb />
-Decke.</paragraph><paragraph /><paragraph>Um 3 Uhr Morgens, als die Fluth hinlänglich angewachsen,<lb />
-machten sie sich auf und brachten die Officiere von jener un¬<lb />
-wirthbaren Insel, auf welcher sie von ihrem Boote abgeschnitten<lb />
-so lange hatten aushalten müssen, nach der Bucht hin, wo die-<lb />
-ses gestern war zurückgelassen worden. Hier fanden sie bei dem<lb />
-regnigten und windigen Wetter eine unendliche Menge Sturm¬<lb />
-vögel von der bläulichen Art, die auf dem ganzen südlichen<lb />
-Ocean so gemein ist *) Einige flogen herum, andere aber steck-<lb />
-ten im Walde zwischen den Baumwurzeln in Höhlen oder in<lb />
-Felsritzen, wo man ihnen nicht gut beikommen konnte und wo<lb />
-sie dem Anschein nach ihre Nester und Jungen hatten. Diese<lb />
-ließen sich längs den Seiten des Berges in mannigfaltigem Ge-<lb />
-schrei hören, denn einige hatten eine durchdringend helle, andre<lb />
-eine quäkende Stimme, die wie das Koaxen von Fröschen klang.<lb />
-Ich erinnere mich bei dieser Gelegenheit, daß wir ein andermal<lb />
-unzählig viele Höhlen auf der Spitze einer von den Seehundin¬<lb />
-seln fanden, und in selbigen ebenfalls die jungen Sturmvögel<lb />
-hörten; da aber diese Höhlen unter einander zusammen hingen<lb />
-und die Jungen sich aus einer in die andere verkriechen konnten,<lb />
-so wars nicht möglich ihnen beizukommen. Den Tag über ließ<lb />
-sich von den Alten nicht ein einziger sehen, weil sie alsdann in</paragraph><footer>*) S. oben im vorigen Capitel.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="140"/><head>Reise um die Welt</head><p/><p>die Leute es noch zu rechter Zeit ergriffen hätten. Man brachte<lb/>
+es sogleich in eine kleine Bucht in Sicherheit, und die Matrosen<lb/>
+machten sich für ihre Mühe durch die Lebensmittel bezahlt, welche<lb/>
+die Officiere noch darin vorräthig hatten. Als sie eine kleine<lb/>
+Mahlzeit davon gehalten, ließ der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; nach der Stelle hin¬<lb/>
+steuern, wo seiner Meinung nach, die Herren sein mußten, de¬<lb/>
+nen das Boot weggeschwommen war. Zwischen 7 und 8 Uhr<lb/>
+Abends erreichten sie die Bucht, und fanden ihre Jäger auf ei¬<lb/>
+ner kleinen Insel, an welche sie aber nicht heran kommen konn¬<lb/>
+ten, weil der Ebbezeit wegen das Wasser nicht tief genug war.<lb/>
+Sie mußten daher auf einer benachbarten Landspitze aussteigen,<lb/>
+und des bereits verstrichnen Tages wegen sich gefallen lassen,<lb/>
+die Nacht dort zuzubringen. Mit vieler Mühe brachten sie end-<lb/>
+lich ein Feuer zuwege, brateten an demselben einige Fische und<lb/>
+legten sich nach gehaltner Mahlzeit, unbequem genug, schlafen,<lb/>
+denn der steinige Strand war ihr Bette und der Himmel ihre<lb/>
+Decke.</p><p/><p>Um 3 Uhr Morgens, als die Fluth hinlänglich angewachsen,<lb/>
+machten sie sich auf und brachten die Officiere von jener un¬<lb/>
+wirthbaren Insel, auf welcher sie von ihrem Boote abgeschnitten<lb/>
+so lange hatten aushalten müssen, nach der Bucht hin, wo die-<lb/>
+ses gestern war zurückgelassen worden. Hier fanden sie bei dem<lb/>
+regnigten und windigen Wetter eine unendliche Menge Sturm¬<lb/>
+vögel von der bläulichen Art, die auf dem ganzen südlichen<lb/>
+Ocean so gemein ist *) Einige flogen herum, andere aber steck-<lb/>
+ten im Walde zwischen den Baumwurzeln in Höhlen oder in<lb/>
+Felsritzen, wo man ihnen nicht gut beikommen konnte und wo<lb/>
+sie dem Anschein nach ihre Nester und Jungen hatten. Diese<lb/>
+ließen sich längs den Seiten des Berges in mannigfaltigem Ge-<lb/>
+schrei hören, denn einige hatten eine durchdringend helle, andre<lb/>
+eine quäkende Stimme, die wie das Koaxen von Fröschen klang.<lb/>
+Ich erinnere mich bei dieser Gelegenheit, daß wir ein andermal<lb/>
+unzählig viele Höhlen auf der Spitze einer von den Seehundin¬<lb/>
+seln fanden, und in selbigen ebenfalls die jungen Sturmvögel<lb/>
+hörten; da aber diese Höhlen unter einander zusammen hingen<lb/>
+und die Jungen sich aus einer in die andere verkriechen konnten,<lb/>
+so wars nicht möglich ihnen beizukommen. Den Tag über ließ<lb/>
+sich von den Alten nicht ein einziger sehen, weil sie alsdann in</p><footer>*) S. oben im vorigen Capitel.</footer></body></text>
+</TEI>

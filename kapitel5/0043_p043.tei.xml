@@ -1,43 +1,132 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><paragraph /><paragraph>in den Jahren 1772 bis 1775.<lb />
-157<lb />
-eine neue Art von Drachenbaum mit breiten Blättern, (dracaena<lb />
-australis), dergleichen wir nachher noch mehrere in dieser &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt;<lb />
-antrafen und deren Kernschuß, so lang er zart ist, ungefähr wie<lb />
-ein Mandelkern, jedoch etwas kohlartig schmeckt.<lb />
-Am folgenden Morgen begleitete ich &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; zu einer<lb />
-an der nordwestlichen Seite der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; gelegenen Bucht, die, un¬<lb />
-serer dortigen Verrichtungen wegen die Gänsebucht genannt ward.<lb />
-Wir hatten nämlich noch fünf lebendige Gänse von denen am<lb />
-Vorgebirge der guten Hoffnung mitgenommenen übrig, und waren<lb />
-willens sie auf &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seeland&lt;/place&gt; zu lassen, um sich daselbst zu ver¬<lb />
-mehren und wild zu werden. Hierzu dünkte uns diese Bucht<lb />
-am bequemsten, denn es gab dort keine Einwohner, dagegen<lb />
-aber reichliches Futter. Wir setzten sie also ans Ufer und spra¬<lb />
-chen zum Besten künftiger Seefahrer und Bewohner von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-See¬&lt;/place&gt;<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;land&lt;/place&gt; das: „Seid fruchtbar und mehret euch und füllet die Erde!" über<lb />
-sie aus. Sobald sie am Lande waren liefen sie im Schlamm<lb />
-ihrem Fraße nach und werden in diesem abgelegenen Winkel<lb />
-ohne Zweifel gut fortkommen, ja mit der Zeit sich, unserer Ab¬<lb />
-sicht gemäß, hoffentlich über das ganze Land ausbreiten. Den<lb />
-Ueberrest des Tages brachten wir mit Vogelschießen hin, und er¬<lb />
-legten unter andern auch einen weißen Reiher (ardea alba), der<lb />
-in Europa gemein ist.<lb />
-Das schöne Wetter, welches sich nun volle acht Tage hinter¬<lb />
-einander gehalten hatte, war am 25. ganz zu Ende. Es fing<lb />
-Abends an zu regnen, und regnete in einem fort bis folgenden<lb />
-Mittag. Wahrscheinlicherweise ist das gute Wetter in &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dusky-&lt;/place&gt;<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bai&lt;/place&gt;, vornehmlich in dieser Jahreszeit, selten so anhaltend, wenig¬<lb />
-stens blieb es weder vor noch nachher, jemals zwei Tage hinter<lb />
-einander schön. Wir hatten uns daher vorgesehen und diese Zeit<lb />
-zu Ergänzung des Holz= und Wasservorraths genutzt, ingleichen<lb />
-das Schiff wieder in segelfertigen Stand gesetzt. Alle unsre<lb />
-Leute stellten sich an Bord; die Brücke ward abgeworfen, und<lb />
-wir gingen aus unserm Winkel mitten in die Bucht heraus, um<lb />
-mit erstem guten Winde abzusegeln. Die Vorzüge eines civili¬<lb />
-sirten über den rohen Zustand des Menschen fielen durch nichts<lb />
-deutlicher in die Augen, als durch die Veränderungen und Ver¬<lb />
-besserungen die auf dieser Stelle vorgenommen worden waren.<lb />
-In wenig Tagen hatte eine geringe Anzahl von unsern Leuten<lb />
-das Holz von mehr als einem Morgen Landes weggeschafft, wel¬<lb />
-ches funfzig &lt;persName ref="https://www.wikidata.org/wiki/Q871904"&gt;Neu-Seeländer&lt;/persName&gt;, mit ihren steinernen Werkzeugen in</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><p/><p>in den Jahren 1772 bis 1775.<lb/>
+157<lb/>
+eine neue Art von Drachenbaum mit breiten Blättern, (dracaena<lb/>
+australis), dergleichen wir nachher noch mehrere in dieser &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt;<lb/>
+antrafen und deren Kernschuß, so lang er zart ist, ungefähr wie<lb/>
+ein Mandelkern, jedoch etwas kohlartig schmeckt.<lb/>
+Am folgenden Morgen begleitete ich &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; zu einer<lb/>
+an der nordwestlichen Seite der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; gelegenen Bucht, die, un¬<lb/>
+serer dortigen Verrichtungen wegen die Gänsebucht genannt ward.<lb/>
+Wir hatten nämlich noch fünf lebendige Gänse von denen am<lb/>
+Vorgebirge der guten Hoffnung mitgenommenen übrig, und waren<lb/>
+willens sie auf &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seeland&lt;/place&gt; zu lassen, um sich daselbst zu ver¬<lb/>
+mehren und wild zu werden. Hierzu dünkte uns diese Bucht<lb/>
+am bequemsten, denn es gab dort keine Einwohner, dagegen<lb/>
+aber reichliches Futter. Wir setzten sie also ans Ufer und spra¬<lb/>
+chen zum Besten künftiger Seefahrer und Bewohner von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-See¬&lt;/place&gt;<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;land&lt;/place&gt; das: „Seid fruchtbar und mehret euch und füllet die Erde!" über<lb/>
+sie aus. Sobald sie am Lande waren liefen sie im Schlamm<lb/>
+ihrem Fraße nach und werden in diesem abgelegenen Winkel<lb/>
+ohne Zweifel gut fortkommen, ja mit der Zeit sich, unserer Ab¬<lb/>
+sicht gemäß, hoffentlich über das ganze Land ausbreiten. Den<lb/>
+Ueberrest des Tages brachten wir mit Vogelschießen hin, und er¬<lb/>
+legten unter andern auch einen weißen Reiher (ardea alba), der<lb/>
+in Europa gemein ist.<lb/>
+Das schöne Wetter, welches sich nun volle acht Tage hinter¬<lb/>
+einander gehalten hatte, war am 25. ganz zu Ende. Es fing<lb/>
+Abends an zu regnen, und regnete in einem fort bis folgenden<lb/>
+Mittag. Wahrscheinlicherweise ist das gute Wetter in &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dusky-&lt;/place&gt;<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bai&lt;/place&gt;, vornehmlich in dieser Jahreszeit, selten so anhaltend, wenig¬<lb/>
+stens blieb es weder vor noch nachher, jemals zwei Tage hinter<lb/>
+einander schön. Wir hatten uns daher vorgesehen und diese Zeit<lb/>
+zu Ergänzung des Holz= und Wasservorraths genutzt, ingleichen<lb/>
+das Schiff wieder in segelfertigen Stand gesetzt. Alle unsre<lb/>
+Leute stellten sich an Bord; die Brücke ward abgeworfen, und<lb/>
+wir gingen aus unserm Winkel mitten in die Bucht heraus, um<lb/>
+mit erstem guten Winde abzusegeln. Die Vorzüge eines civili¬<lb/>
+sirten über den rohen Zustand des Menschen fielen durch nichts<lb/>
+deutlicher in die Augen, als durch die Veränderungen und Ver¬<lb/>
+besserungen die auf dieser Stelle vorgenommen worden waren.<lb/>
+In wenig Tagen hatte eine geringe Anzahl von unsern Leuten<lb/>
+das Holz von mehr als einem Morgen Landes weggeschafft, wel¬<lb/>
+ches funfzig &lt;persName ref="https://www.wikidata.org/wiki/Q871904"&gt;Neu-Seeländer&lt;/persName&gt;, mit ihren steinernen Werkzeugen in</p></body></text>
+</TEI>

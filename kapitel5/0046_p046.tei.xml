@@ -1,39 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>160</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>gewönne, Arnolds hingegen, als welche immer größern Ausschwei¬<lb />
-fungen unterworfen war, 99", 361 verlöre.<lb />
-Am 27. war eine neue Ausfahrt in die See, gegen Norden,<lb />
-entdeckt worden; und, da diese bequemer zu passiren war, als<lb />
-jene, durch welche wir in die &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bai&lt;/place&gt; eingelaufen waren, so gedachten<lb />
-wir uns derselben zu bedienen und hoben am 29. Nachmittags<lb />
-den Anker, um die &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; hinauf darnach hinzusegeln; allein es ward<lb />
-mit einemmale windstill, weshalb wir in einer Tiefe von 43 Faden,<lb />
-an der Nordseite einer Insel, die wir Longeiland nannten, und unge¬<lb />
-fähr zwei Meilen von der Bucht, wo wir bisher gelegen hatten, wie¬<lb />
-der vor Anker kommen mußten. Am folgenden Tage gingen<lb />
-wir früh um 9 Uhr mit einem gelinden Lüftchen aus Westen<lb />
-wieder vorwärts, allein es war so schwach, daß wir wenig gegen<lb />
-den Strom ausrichten konnten, denn ungeachtet uns noch au¬<lb />
-ßerdem alle unsre Boote boogsiren mußten, so hatten wir um<lb />
-6 Uhr Abends doch mit der größten Mühe nicht mehr als fünf<lb />
-Meilen gewonnen, und mußten um diese Zeit an eben derselben<lb />
-Insel ungefähr hundert Schritte weit vom Ufer, die Anker aufs<lb />
-Neue fallen lassen.</paragraph><paragraph /><paragraph>Bei Tages Anbruch versuchten wir gegen den Wind zu la¬<lb />
-viren, denn es ging ein sanftes Lüftchen die Bei hinab; da es<lb />
-aber bald gänzlich still ward, so trieb uns die Strömung des<lb />
-Wassers rückwärts, und wir geriethen mit dem Hintertheil des<lb />
-Schiffes an einem senkrechtstehenden Felsen, wo kein Grund zu<lb />
-finden war, so nahe ans Ufer, daß der Flaggenstock sich in die<lb />
-Baumzweige verwickelte. Indessen wurden wir mit Hülfe unse¬<lb />
-rer Boote ohne Schaden wieder davon wegboogsirt, und ließen<lb />
-unterhalb jener Stelle, auf welcher wir die vergangene Nacht<lb />
-über geankert hatten, in einer kleinen Bucht an der Nordseite<lb />
-von Longeiland, abermals den Anker fallen. Wir trafen hier<lb />
-zwei Hütten und Feuerstellen an, woraus sich abnehmen ließ,<lb />
-daß der Ort noch vor kurzem müsse bewohnt gewesen sein. Wir<lb />
-fanden auch während unsers Aufenthalts in dieser Bucht ver¬<lb />
-schiedene neue Vögel und Fische; desgleichen einige europäische<lb />
-Fischarten, als die Bastard=Makrele, nebst dem gefleckten und<lb />
-schlichten Hayfisch. (Scomber trachurus, Supplus canicula et<lb />
-Squalus mustelus Linnaei.) Der Capitain ward von einem<lb />
-Fieber und heftigen Rückenschmerzen befallen, die sich mit einer<lb />
-rheumatischen Geschwulst des rechten Fußes endigten, und ver¬</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="160"/><head>Reise um die Welt</head><p/><p>gewönne, Arnolds hingegen, als welche immer größern Ausschwei¬<lb/>
+fungen unterworfen war, 99", 361 verlöre.<lb/>
+Am 27. war eine neue Ausfahrt in die See, gegen Norden,<lb/>
+entdeckt worden; und, da diese bequemer zu passiren war, als<lb/>
+jene, durch welche wir in die &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bai&lt;/place&gt; eingelaufen waren, so gedachten<lb/>
+wir uns derselben zu bedienen und hoben am 29. Nachmittags<lb/>
+den Anker, um die &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; hinauf darnach hinzusegeln; allein es ward<lb/>
+mit einemmale windstill, weshalb wir in einer Tiefe von 43 Faden,<lb/>
+an der Nordseite einer Insel, die wir Longeiland nannten, und unge¬<lb/>
+fähr zwei Meilen von der Bucht, wo wir bisher gelegen hatten, wie¬<lb/>
+der vor Anker kommen mußten. Am folgenden Tage gingen<lb/>
+wir früh um 9 Uhr mit einem gelinden Lüftchen aus Westen<lb/>
+wieder vorwärts, allein es war so schwach, daß wir wenig gegen<lb/>
+den Strom ausrichten konnten, denn ungeachtet uns noch au¬<lb/>
+ßerdem alle unsre Boote boogsiren mußten, so hatten wir um<lb/>
+6 Uhr Abends doch mit der größten Mühe nicht mehr als fünf<lb/>
+Meilen gewonnen, und mußten um diese Zeit an eben derselben<lb/>
+Insel ungefähr hundert Schritte weit vom Ufer, die Anker aufs<lb/>
+Neue fallen lassen.</p><p/><p>Bei Tages Anbruch versuchten wir gegen den Wind zu la¬<lb/>
+viren, denn es ging ein sanftes Lüftchen die Bei hinab; da es<lb/>
+aber bald gänzlich still ward, so trieb uns die Strömung des<lb/>
+Wassers rückwärts, und wir geriethen mit dem Hintertheil des<lb/>
+Schiffes an einem senkrechtstehenden Felsen, wo kein Grund zu<lb/>
+finden war, so nahe ans Ufer, daß der Flaggenstock sich in die<lb/>
+Baumzweige verwickelte. Indessen wurden wir mit Hülfe unse¬<lb/>
+rer Boote ohne Schaden wieder davon wegboogsirt, und ließen<lb/>
+unterhalb jener Stelle, auf welcher wir die vergangene Nacht<lb/>
+über geankert hatten, in einer kleinen Bucht an der Nordseite<lb/>
+von Longeiland, abermals den Anker fallen. Wir trafen hier<lb/>
+zwei Hütten und Feuerstellen an, woraus sich abnehmen ließ,<lb/>
+daß der Ort noch vor kurzem müsse bewohnt gewesen sein. Wir<lb/>
+fanden auch während unsers Aufenthalts in dieser Bucht ver¬<lb/>
+schiedene neue Vögel und Fische; desgleichen einige europäische<lb/>
+Fischarten, als die Bastard=Makrele, nebst dem gefleckten und<lb/>
+schlichten Hayfisch. (Scomber trachurus, Supplus canicula et<lb/>
+Squalus mustelus Linnaei.) Der Capitain ward von einem<lb/>
+Fieber und heftigen Rückenschmerzen befallen, die sich mit einer<lb/>
+rheumatischen Geschwulst des rechten Fußes endigten, und ver¬</p></body></text>
+</TEI>

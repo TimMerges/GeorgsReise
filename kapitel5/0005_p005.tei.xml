@@ -1,40 +1,129 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>119</page-number><paragraph /><paragraph>Überfluß von Holz und Wasser, auch trafen sie allenthalben so<lb />
-viele Fische und Wasservögel an, daß man hoffen konnte, es<lb />
-würde uns nicht leicht an Lebensmitteln dieser Art fehlen, wenn<lb />
-wir gleich noch so lange hier verbleiben wollten. So günstige<lb />
-Aussichten bewogen den &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt;, einige Zeit hier zuzu¬<lb />
-bringen, zumal da er auf seiner ersten Reise das südliche Ende<lb />
-von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu=Seeland&lt;/place&gt; nur flüchtig untersucht hatte. Unsrerseits fan¬<lb />
-den wir, sowohl in dem Thier- als Pflanzenreiche, neue Reich¬<lb />
-thümer, und es gab kaum eine einzige Gattung, die mit den<lb />
-bekannten völlig ubereinstimmte, ja viele wollten sich gar nicht<lb />
-einmal unter die bekannten Geschlechter bringen lassen. Hieran<lb />
-glaubten wir nun während unsers Aufenthalts hinlänglich Be-<lb />
-schäftigung zu finden, obgleich der Herbst dem Pflanzenreich schon<lb />
-den Untergang anzukündigen schien.</paragraph><paragraph /><paragraph>Am folgenden Morgen ward in aller Frühe, ein kleines<lb />
-Boot gegen die Küste geschickt, und nach Verlauf dreier Stunden<lb />
-brachte es schon so viele Fische, die blos mit Angeln gefangen<lb />
-waren, zurück, daß das ganze Schiffsvolk eine Mahlzeit davon<lb />
-halten konnte. Der beste und wohlschmeckendste darunter war<lb />
-eine Art von Cabeljau (cod), den die Matrosen, der Farbe we¬<lb />
-gen, den Kohlenfisch nannten. Außerdem bekamen wir auch ver-<lb />
-schiedene Arten von vortrefflichen dünnen Seerappen (Sciaena)<lb />
-Meerscorpionen (Scorpius) Dickköpfe (mugil. mullet) Bastard=<lb />
-Makrelen (Scomber Trachurus) und andere wohlschmeckende<lb />
-Fische mehr, die in &lt;place ref="https://www.wikidata.org/wiki/Q46"&gt;Europa&lt;/place&gt; ganz unbekannt sind. Um 9 Uhr<lb />
-gingen wir von unserm bisherigen, unzulänglichen Ankerplatz un¬<lb />
-ter Segel, und liefen in den gestern ausfindig gemachten und<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q47525672"&gt;Pickersgill&lt;/place&gt; genannten Hafen ein. Hier lagen wir in einer klei¬<lb />
-nen Bucht, und so nahe am Ufer, daß wirs mit einem Gerüste<lb />
-von wenigen Planken erreichen konnten. Die Natur kam uns<lb />
-dabei mit einem großen Baum zu Hülfe, der vom Lande aus<lb />
-in horizontaler Richtung schief über das Wasser hingewachsen<lb />
-war. Das äußerste Ende befestigten wir mitten aufs Schiff,<lb />
-und machten längst dem Baume einen Steg von Brettern. Am<lb />
-Ufer selbst fanden wir für unsere Bedürfnisse nicht weniger Be¬<lb />
-quemlichkeiten. Die Bäume standen so nahe am Schiffe, daß<lb />
-die Äste bis an unsere Masten hinreichten, und ein schöner Strom<lb />
-frischen Wassers floß nur einen Pistolenschuß weit hinter dem<lb />
-Schiffe. Da nun Holz und Wasser die Hauptartikel waren,<lb />
-welche wir vom Lande aus an Bord zu schaffen hatten, so ge-</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="119"/><p/><p>Überfluß von Holz und Wasser, auch trafen sie allenthalben so<lb/>
+viele Fische und Wasservögel an, daß man hoffen konnte, es<lb/>
+würde uns nicht leicht an Lebensmitteln dieser Art fehlen, wenn<lb/>
+wir gleich noch so lange hier verbleiben wollten. So günstige<lb/>
+Aussichten bewogen den &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt;, einige Zeit hier zuzu¬<lb/>
+bringen, zumal da er auf seiner ersten Reise das südliche Ende<lb/>
+von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu=Seeland&lt;/place&gt; nur flüchtig untersucht hatte. Unsrerseits fan¬<lb/>
+den wir, sowohl in dem Thier- als Pflanzenreiche, neue Reich¬<lb/>
+thümer, und es gab kaum eine einzige Gattung, die mit den<lb/>
+bekannten völlig ubereinstimmte, ja viele wollten sich gar nicht<lb/>
+einmal unter die bekannten Geschlechter bringen lassen. Hieran<lb/>
+glaubten wir nun während unsers Aufenthalts hinlänglich Be-<lb/>
+schäftigung zu finden, obgleich der Herbst dem Pflanzenreich schon<lb/>
+den Untergang anzukündigen schien.</p><p/><p>Am folgenden Morgen ward in aller Frühe, ein kleines<lb/>
+Boot gegen die Küste geschickt, und nach Verlauf dreier Stunden<lb/>
+brachte es schon so viele Fische, die blos mit Angeln gefangen<lb/>
+waren, zurück, daß das ganze Schiffsvolk eine Mahlzeit davon<lb/>
+halten konnte. Der beste und wohlschmeckendste darunter war<lb/>
+eine Art von Cabeljau (cod), den die Matrosen, der Farbe we¬<lb/>
+gen, den Kohlenfisch nannten. Außerdem bekamen wir auch ver-<lb/>
+schiedene Arten von vortrefflichen dünnen Seerappen (Sciaena)<lb/>
+Meerscorpionen (Scorpius) Dickköpfe (mugil. mullet) Bastard=<lb/>
+Makrelen (Scomber Trachurus) und andere wohlschmeckende<lb/>
+Fische mehr, die in &lt;place ref="https://www.wikidata.org/wiki/Q46"&gt;Europa&lt;/place&gt; ganz unbekannt sind. Um 9 Uhr<lb/>
+gingen wir von unserm bisherigen, unzulänglichen Ankerplatz un¬<lb/>
+ter Segel, und liefen in den gestern ausfindig gemachten und<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q47525672"&gt;Pickersgill&lt;/place&gt; genannten Hafen ein. Hier lagen wir in einer klei¬<lb/>
+nen Bucht, und so nahe am Ufer, daß wirs mit einem Gerüste<lb/>
+von wenigen Planken erreichen konnten. Die Natur kam uns<lb/>
+dabei mit einem großen Baum zu Hülfe, der vom Lande aus<lb/>
+in horizontaler Richtung schief über das Wasser hingewachsen<lb/>
+war. Das äußerste Ende befestigten wir mitten aufs Schiff,<lb/>
+und machten längst dem Baume einen Steg von Brettern. Am<lb/>
+Ufer selbst fanden wir für unsere Bedürfnisse nicht weniger Be¬<lb/>
+quemlichkeiten. Die Bäume standen so nahe am Schiffe, daß<lb/>
+die Äste bis an unsere Masten hinreichten, und ein schöner Strom<lb/>
+frischen Wassers floß nur einen Pistolenschuß weit hinter dem<lb/>
+Schiffe. Da nun Holz und Wasser die Hauptartikel waren,<lb/>
+welche wir vom Lande aus an Bord zu schaffen hatten, so ge-</p></body></text>
+</TEI>

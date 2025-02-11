@@ -1,40 +1,129 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>118</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>wir uns nach Land und frischen Gewächsen gesehnt hatten, desto<lb />
-mehr entzückte uns nun dieser à Prospect, und die Regungen der<lb />
-innigsten Zufriedenheit, welche der Anblick dieser neuen Scene<lb />
-durchgängig veranlaßte, waren in eines Jeglichen Augen deutlich<lb />
-zu lesen.</paragraph><paragraph /><paragraph>Um drei Uhr Nachmittags kamen wir endlich unter der<lb />
-Spitze einer Insel vor Anker, woselbst wir einigermaßen gegen<lb />
-die See gedeckt und der Küste so nahe waren, daß man sie mit<lb />
-einem kleinen Taue erreichen konnte. Kaum war das Schiff<lb />
-in Sicherheit, als unsere Matrosen ihre Angeln auswarfen, und<lb />
-in wenig Augenblicken sah man an allen Seiten des Schiffs<lb />
-eine Menge vortrefflicher Fische aus dem Wasser ziehen, deren<lb />
-viel versprechender Anblick die Freude über unsere glückliche An¬<lb />
-kunft in der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; ungemein vermehrte. Wir fanden sie von<lb />
-vortrefflichem Geschmack, und da wir zumal so lange darauf ge¬<lb />
-fastet hatten, so war es kein Wunder, daß uns diese Neu-See¬<lb />
-ländische Mahlzeit als die herrlichste in unserm ganzen Leben<lb />
-vorkam. Zum Nachtisch ergötzte sich das Auge an der vor uns<lb />
-liegenden, wildnißartigen Landschaft, die &lt;persName ref="https://www.wikidata.org/wiki/Q359421"&gt;Salvator Rosa&lt;/persName&gt; nicht<lb />
-schöner hätte mahlen können. Sie war ganz im Geschmack die¬<lb />
-ses Künstlers und bestand aus Felsen, mit Wäldern gekrönt, de¬<lb />
-ren Alter in die Zeiten vor der Sündfluth hinauf zu reichen<lb />
-schien, und zwischen welche sich aller Orten Wasserbäche mit<lb />
-schäumendem Ungestüm herabstürzten. Zwar hätte es bei weitem<lb />
-nicht so vieler Schönheiten bedurft um uns zu entzücken, denn<lb />
-nach einer langen Entfernung vom Lande ist es wahrlich sehr<lb />
-leicht, selbst die ödeste Küste für das herrlichste Land in der<lb />
-Schöpfung anzusehen. Und aus diesem Gesichspunkte muß man<lb />
-auch die feurigen Beschreibungen der wilden Klippen von Juan<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q156325"&gt;Fernandez&lt;/place&gt; und der undurchdringlichen Wälder von Tinian be¬<lb />
-betrachteten.<lb />
-trachten.</paragraph><paragraph /><paragraph>Gleich nach Tische wurden zwei Boote ausgesetzt, um ver¬<lb />
-schiedene Gegenden der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; zu untersuchen, hauptsächlich aber<lb />
-um für unser Schiff einen sichern Hafen ausfindig zu machen,<lb />
-indem unser jetziger Ankerplatz offen, unbequem und nur fürs<lb />
-erste gut genug gewesen war. Wir machten uns diese Gelegen¬<lb />
-heit zu Nutze Untersuchungen in der Naturgeschichte anzustel¬<lb />
-len, und trennten uns, um von beiden Booten und ihren ver¬<lb />
-schiedenen Entdeckungen zu gleicher Zeit Gebrauch zu machen.<lb />
-Beide Partheien fanden bequeme und wohlgedeckte Hafen, nebst</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="118"/><head>Reise um die Welt</head><p/><p>wir uns nach Land und frischen Gewächsen gesehnt hatten, desto<lb/>
+mehr entzückte uns nun dieser à Prospect, und die Regungen der<lb/>
+innigsten Zufriedenheit, welche der Anblick dieser neuen Scene<lb/>
+durchgängig veranlaßte, waren in eines Jeglichen Augen deutlich<lb/>
+zu lesen.</p><p/><p>Um drei Uhr Nachmittags kamen wir endlich unter der<lb/>
+Spitze einer Insel vor Anker, woselbst wir einigermaßen gegen<lb/>
+die See gedeckt und der Küste so nahe waren, daß man sie mit<lb/>
+einem kleinen Taue erreichen konnte. Kaum war das Schiff<lb/>
+in Sicherheit, als unsere Matrosen ihre Angeln auswarfen, und<lb/>
+in wenig Augenblicken sah man an allen Seiten des Schiffs<lb/>
+eine Menge vortrefflicher Fische aus dem Wasser ziehen, deren<lb/>
+viel versprechender Anblick die Freude über unsere glückliche An¬<lb/>
+kunft in der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; ungemein vermehrte. Wir fanden sie von<lb/>
+vortrefflichem Geschmack, und da wir zumal so lange darauf ge¬<lb/>
+fastet hatten, so war es kein Wunder, daß uns diese Neu-See¬<lb/>
+ländische Mahlzeit als die herrlichste in unserm ganzen Leben<lb/>
+vorkam. Zum Nachtisch ergötzte sich das Auge an der vor uns<lb/>
+liegenden, wildnißartigen Landschaft, die &lt;persName ref="https://www.wikidata.org/wiki/Q359421"&gt;Salvator Rosa&lt;/persName&gt; nicht<lb/>
+schöner hätte mahlen können. Sie war ganz im Geschmack die¬<lb/>
+ses Künstlers und bestand aus Felsen, mit Wäldern gekrönt, de¬<lb/>
+ren Alter in die Zeiten vor der Sündfluth hinauf zu reichen<lb/>
+schien, und zwischen welche sich aller Orten Wasserbäche mit<lb/>
+schäumendem Ungestüm herabstürzten. Zwar hätte es bei weitem<lb/>
+nicht so vieler Schönheiten bedurft um uns zu entzücken, denn<lb/>
+nach einer langen Entfernung vom Lande ist es wahrlich sehr<lb/>
+leicht, selbst die ödeste Küste für das herrlichste Land in der<lb/>
+Schöpfung anzusehen. Und aus diesem Gesichspunkte muß man<lb/>
+auch die feurigen Beschreibungen der wilden Klippen von Juan<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q156325"&gt;Fernandez&lt;/place&gt; und der undurchdringlichen Wälder von Tinian be¬<lb/>
+betrachteten.<lb/>
+trachten.</p><p/><p>Gleich nach Tische wurden zwei Boote ausgesetzt, um ver¬<lb/>
+schiedene Gegenden der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; zu untersuchen, hauptsächlich aber<lb/>
+um für unser Schiff einen sichern Hafen ausfindig zu machen,<lb/>
+indem unser jetziger Ankerplatz offen, unbequem und nur fürs<lb/>
+erste gut genug gewesen war. Wir machten uns diese Gelegen¬<lb/>
+heit zu Nutze Untersuchungen in der Naturgeschichte anzustel¬<lb/>
+len, und trennten uns, um von beiden Booten und ihren ver¬<lb/>
+schiedenen Entdeckungen zu gleicher Zeit Gebrauch zu machen.<lb/>
+Beide Partheien fanden bequeme und wohlgedeckte Hafen, nebst</p></body></text>
+</TEI>

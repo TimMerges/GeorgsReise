@@ -1,21 +1,110 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>166</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>hingegen im Charlotten-Sunde und andern Gegenden von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu¬&lt;/place&gt;<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Seeland&lt;/place&gt; so häufig anzutreffen sind. Nicht minder unangenehm<lb />
-ist es, daß die Erdmücken hier so schlimm sind, indem sie mit<lb />
-ihrem gifitigen Biß wirklich blatterähnliche Geschwüre verursachen;<lb />
-ferner, daß hier herum nichts denn Waldung und diese überall<lb />
-verwachsen und undurchdringlich ist; endlich, daß die Berge ent¬<lb />
-setzlich steil sind und folglich nicht angebaut werden können. In¬<lb />
-dessen fallen diese Unannehmlichkeiten, wenigstens die letztern bei¬<lb />
-den, doch mehr den Einwohnern des Landes, als den Seefahrern<lb />
-zur Last, die blos auf eine kurze Zeit hier vor Anker gehen wol¬<lb />
-len, um sich zu erfrischen; für solche Reisende wird &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dusky-Bai&lt;/place&gt;,<lb />
-aller dieser Unannehmlichkeiten unerachtet, immer einer der besten<lb />
-Zufluchtsorte sein, zumal wenn sie, gleich uns, lange Zeit ohne<lb />
-Land zu sehen, in offner See und unter beständigen Mühselig¬<lb />
-keiten zugebracht haben sollten. Die Einfahrt ist sicher und nir¬<lb />
-gends Gefahr dabei, die man nicht überm Wasser sehen könnte,<lb />
-auch giebts aller Orten so viel Hafen und Buchten, daß man<lb />
-unmöglich wegen eines Ankerplatzes in Verlegenheit sein kann,<lb />
-wo sich nicht Holz, Wasser, Fische und Federwildpret in hinrei-<lb />
-chender Menge finden sollte.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="166"/><head>Reise um die Welt</head><p/><p>hingegen im Charlotten-Sunde und andern Gegenden von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu¬&lt;/place&gt;<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Seeland&lt;/place&gt; so häufig anzutreffen sind. Nicht minder unangenehm<lb/>
+ist es, daß die Erdmücken hier so schlimm sind, indem sie mit<lb/>
+ihrem gifitigen Biß wirklich blatterähnliche Geschwüre verursachen;<lb/>
+ferner, daß hier herum nichts denn Waldung und diese überall<lb/>
+verwachsen und undurchdringlich ist; endlich, daß die Berge ent¬<lb/>
+setzlich steil sind und folglich nicht angebaut werden können. In¬<lb/>
+dessen fallen diese Unannehmlichkeiten, wenigstens die letztern bei¬<lb/>
+den, doch mehr den Einwohnern des Landes, als den Seefahrern<lb/>
+zur Last, die blos auf eine kurze Zeit hier vor Anker gehen wol¬<lb/>
+len, um sich zu erfrischen; für solche Reisende wird &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dusky-Bai&lt;/place&gt;,<lb/>
+aller dieser Unannehmlichkeiten unerachtet, immer einer der besten<lb/>
+Zufluchtsorte sein, zumal wenn sie, gleich uns, lange Zeit ohne<lb/>
+Land zu sehen, in offner See und unter beständigen Mühselig¬<lb/>
+keiten zugebracht haben sollten. Die Einfahrt ist sicher und nir¬<lb/>
+gends Gefahr dabei, die man nicht überm Wasser sehen könnte,<lb/>
+auch giebts aller Orten so viel Hafen und Buchten, daß man<lb/>
+unmöglich wegen eines Ankerplatzes in Verlegenheit sein kann,<lb/>
+wo sich nicht Holz, Wasser, Fische und Federwildpret in hinrei-<lb/>
+chender Menge finden sollte.</p></body></text>
+</TEI>

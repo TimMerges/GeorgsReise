@@ -1,41 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>149</page-number><paragraph /><paragraph>nirgends Feuer zu sehen war, so beruhigten wir uns gar bald<lb />
-mit dem Gedanken, daß Nebel oder sonst etwas dergleichen uns<lb />
-in der Dämmerung leichtlich könne hintergangen haben und waren<lb />
-nun lustig darüber her, die Einrichtungen zu unserm Nachtlager<lb />
-zu machen, wobei Jeder sein Stück Arbeit bekam. Damit man<lb />
-sich von dergleichen streifenden Parteien, als wir jetzt, und sonst<lb />
-oft, vor hatten, einen desto bessern Begriff machen könne, wird<lb />
-es nicht undienlich sein, hier zu erzählen, wie es bei dergleichen<lb />
-Gelegenheiten herging. Sobald wir eine Stelle am Ufer ge¬<lb />
-funden hatten, wo man bequem ans Land steigen konnte, und<lb />
-wo ein Bach nebst Holzung in der Nähe war, ging unsere erste<lb />
-Sorge dahin, die Ruder, Segel, Mäntel, Flinten, Beile u. s. w.<lb />
-ans Land zu schaffen. Ein Fäßchen mit Sprossenbier, vielleicht<lb />
-auch eine Flasche Brandwein wurden dabei nicht vergessen. Als-<lb />
-dann legten die Matrosen die Boote vor einen kleinen Anker<lb />
-und machten sie vermittelst eines Stricks an den nächsten Baum<lb />
-auf dem Ufer fest. Während dieser Zeit suchten einige von uns<lb />
-trocknes Feuerholz, welches in einer so nassen Gegend, als &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dus¬&lt;/place&gt;<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;ky-Bai&lt;/place&gt; ist, oft schwer genug zu finden war, andere richteten an<lb />
-einer Stelle, die trocken, und wo möglich, gegen Wind und Re¬<lb />
-gen gedeckt war, ein Zelt oder einen Wetterschirm von Rudern, Se¬<lb />
-geln und starken Baumästen auf, und noch andere machten ein<lb />
-Feuer vor dem Zelt, welches mehrentheils durch Werg und<lb />
-Schießpulver angezündet ward. Bei der Bereitung des Abend¬<lb />
-essens faßten wir uns gemeiniglich kurz. Einige Matrosen nah-<lb />
-men die Fische aus, zogen den Wasservögeln die Haut ab, rei¬<lb />
-nigten und brieten Beides. Unterdessen ward der Tisch herbei¬<lb />
-geholt. Dies pflegte eine Querbank aus dem Boot zu sein, die<lb />
-rein gewaschen wurde, und alsdann statt Schüssel und Teller<lb />
-dienen mußte. Statt Messer und Gabeln ward oft mit Fingern<lb />
-und Zähnen vorgelegt. Der gute gesunde Appetit, den wir der<lb />
-starken Leibesübung und der frischen Luft zu danken hatten, lehrte<lb />
-uns bald die Begriffe von Ekel und Unreinlichkeit überwinden,<lb />
-die dem gesitteten Leser bei dieser Beschreibung unserer Lebensart<lb />
-aufsteigen werden, und nie empfanden wir stärker als bei der¬<lb />
-gleichen Gelegenheiten, mit wie wenigem die Natur zur Erhal-<lb />
-tung des Menschen zufrieden ist. Nach dem Essen hörte man<lb />
-eine Weile der originalen, komischen Laune der Matrosen zu, die<lb />
-ums Feuer herum lagen, ihr Abendbrod machten und manches<lb />
-lustige Geschichtchen mit Fluchen, Schwüren und schmuzigen</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="149"/><p/><p>nirgends Feuer zu sehen war, so beruhigten wir uns gar bald<lb/>
+mit dem Gedanken, daß Nebel oder sonst etwas dergleichen uns<lb/>
+in der Dämmerung leichtlich könne hintergangen haben und waren<lb/>
+nun lustig darüber her, die Einrichtungen zu unserm Nachtlager<lb/>
+zu machen, wobei Jeder sein Stück Arbeit bekam. Damit man<lb/>
+sich von dergleichen streifenden Parteien, als wir jetzt, und sonst<lb/>
+oft, vor hatten, einen desto bessern Begriff machen könne, wird<lb/>
+es nicht undienlich sein, hier zu erzählen, wie es bei dergleichen<lb/>
+Gelegenheiten herging. Sobald wir eine Stelle am Ufer ge¬<lb/>
+funden hatten, wo man bequem ans Land steigen konnte, und<lb/>
+wo ein Bach nebst Holzung in der Nähe war, ging unsere erste<lb/>
+Sorge dahin, die Ruder, Segel, Mäntel, Flinten, Beile u. s. w.<lb/>
+ans Land zu schaffen. Ein Fäßchen mit Sprossenbier, vielleicht<lb/>
+auch eine Flasche Brandwein wurden dabei nicht vergessen. Als-<lb/>
+dann legten die Matrosen die Boote vor einen kleinen Anker<lb/>
+und machten sie vermittelst eines Stricks an den nächsten Baum<lb/>
+auf dem Ufer fest. Während dieser Zeit suchten einige von uns<lb/>
+trocknes Feuerholz, welches in einer so nassen Gegend, als &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dus¬&lt;/place&gt;<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;ky-Bai&lt;/place&gt; ist, oft schwer genug zu finden war, andere richteten an<lb/>
+einer Stelle, die trocken, und wo möglich, gegen Wind und Re¬<lb/>
+gen gedeckt war, ein Zelt oder einen Wetterschirm von Rudern, Se¬<lb/>
+geln und starken Baumästen auf, und noch andere machten ein<lb/>
+Feuer vor dem Zelt, welches mehrentheils durch Werg und<lb/>
+Schießpulver angezündet ward. Bei der Bereitung des Abend¬<lb/>
+essens faßten wir uns gemeiniglich kurz. Einige Matrosen nah-<lb/>
+men die Fische aus, zogen den Wasservögeln die Haut ab, rei¬<lb/>
+nigten und brieten Beides. Unterdessen ward der Tisch herbei¬<lb/>
+geholt. Dies pflegte eine Querbank aus dem Boot zu sein, die<lb/>
+rein gewaschen wurde, und alsdann statt Schüssel und Teller<lb/>
+dienen mußte. Statt Messer und Gabeln ward oft mit Fingern<lb/>
+und Zähnen vorgelegt. Der gute gesunde Appetit, den wir der<lb/>
+starken Leibesübung und der frischen Luft zu danken hatten, lehrte<lb/>
+uns bald die Begriffe von Ekel und Unreinlichkeit überwinden,<lb/>
+die dem gesitteten Leser bei dieser Beschreibung unserer Lebensart<lb/>
+aufsteigen werden, und nie empfanden wir stärker als bei der¬<lb/>
+gleichen Gelegenheiten, mit wie wenigem die Natur zur Erhal-<lb/>
+tung des Menschen zufrieden ist. Nach dem Essen hörte man<lb/>
+eine Weile der originalen, komischen Laune der Matrosen zu, die<lb/>
+ums Feuer herum lagen, ihr Abendbrod machten und manches<lb/>
+lustige Geschichtchen mit Fluchen, Schwüren und schmuzigen</p></body></text>
+</TEI>

@@ -1,40 +1,129 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>154</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>die Einwohner, bei Abfeuerung unsers Gewehrs, uns nicht zuge¬<lb />
-rufen hätten. In beiden Fällen ließen sie, meines Erachtens,<lb />
-eine offenherzige Dreistigkeit und Ehrlichkeit blicken, die ihrem<lb />
-Charakter zur Empfehlung gereicht; denn hätte dieser die minde¬<lb />
-ste Beimischung von verrätherischem, heimtückischen Wesen, so<lb />
-würden sie gesucht haben uns unversehens zu überfallen, wozu<lb />
-es ihnen auch keineswegs an Gelegenheit fehlte, denn sie hätten<lb />
-z. B. unsere kleinen Partheien, die aller Orten einzeln in den<lb />
-Wäldern herumschwärmten, oft und leicht genug abschneiden<lb />
-können.</paragraph><paragraph /><paragraph>Über dieser Unterhandlung mit den Wilden war es Mittag ge¬<lb />
-worden, als wir sie verließen und nordwärts den langen Seearm wie¬<lb />
-der hinabgingen, den&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt; Capitain Cook&lt;/persName&gt; unterwegs aufnahm. Die Nacht<lb />
-übereilte uns ehe er damit fertig war; wir mußten daher einen<lb />
-andern ähnlichen Arm der See ununtersucht lassen und nur ma¬<lb />
-chen, daß wir zum Schiffe zurück kamen, woselbst wir Abends<lb />
-8 Uhr erst anlangten. Man erzählte uns, daß der Wilde mit<lb />
-dem Mädchen bis Mittag an Bord geblieben sei; und als man<lb />
-ihm zu verstehen gegeben, daß in seinem doppelten Canot in<lb />
-Cascadebucht einige Geschenke für ihn wären hingelegt worden,<lb />
-habe er etliche seiner Leute abgeschickt, sie von dort zu holen, sei<lb />
-auch mit seiner ganzen Familie bis diesen Morgen in der Nachbarschaft<lb />
-des Schiffes verblieben. Seit der Zeit aber haben wir sie nicht wieder<lb />
-zu sehen bekommen, und das war um so außerordentlicher, da wir sie<lb />
-nie mit leerer Hand hatten von uns gehen lassen, sondern ihnen,<lb />
-nach und nach, ungefähr neun oder zehn Beile und wenigstens<lb />
-viermal so viel große Nägel, nebst andern Dingen geschenkt hat¬<lb />
-ten. Insofern diese Artikel als Reichthümer unter ihnen ange¬<lb />
-sehen werden, insofern ist dieser Mann der reichste in ganz &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu¬&lt;/place&gt;<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Seeland&lt;/place&gt;; denn vor der zweiten Ankunft englischer Schiffe war<lb />
-auf der ganzen Insel zusammen genommen nicht so viel Eisen¬<lb />
-geräthe anzutreffen. Da &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dusky-Bai&lt;/place&gt; so wenig bewohnt ist, so<lb />
-führen die einzelnen Familien in derselben wahrscheinlicherweise<lb />
-ein unstetes herumwanderndes Leben, und ziehen, vielleicht der Fi¬<lb />
-scherei, vielleicht anderer Umstände wegen in verschiedenen Jahrs-<lb />
-zeiten aus einer Gegend nach der andern. Wir vermuthen da¬<lb />
-her auch, daß unsere Freunde blos aus diesem Grunde weggezo¬<lb />
-gen wären; allein es hieß: der Wilde habe vor seinem Abzuge<lb />
-durch Zeichen zu verstehen gegeben, er wolle aufs Todtschlagen<lb />
-ausgehen und dazu die Beile gebrauchen. Hat man ihn recht</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="154"/><head>Reise um die Welt</head><p/><p>die Einwohner, bei Abfeuerung unsers Gewehrs, uns nicht zuge¬<lb/>
+rufen hätten. In beiden Fällen ließen sie, meines Erachtens,<lb/>
+eine offenherzige Dreistigkeit und Ehrlichkeit blicken, die ihrem<lb/>
+Charakter zur Empfehlung gereicht; denn hätte dieser die minde¬<lb/>
+ste Beimischung von verrätherischem, heimtückischen Wesen, so<lb/>
+würden sie gesucht haben uns unversehens zu überfallen, wozu<lb/>
+es ihnen auch keineswegs an Gelegenheit fehlte, denn sie hätten<lb/>
+z. B. unsere kleinen Partheien, die aller Orten einzeln in den<lb/>
+Wäldern herumschwärmten, oft und leicht genug abschneiden<lb/>
+können.</p><p/><p>Über dieser Unterhandlung mit den Wilden war es Mittag ge¬<lb/>
+worden, als wir sie verließen und nordwärts den langen Seearm wie¬<lb/>
+der hinabgingen, den&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt; Capitain Cook&lt;/persName&gt; unterwegs aufnahm. Die Nacht<lb/>
+übereilte uns ehe er damit fertig war; wir mußten daher einen<lb/>
+andern ähnlichen Arm der See ununtersucht lassen und nur ma¬<lb/>
+chen, daß wir zum Schiffe zurück kamen, woselbst wir Abends<lb/>
+8 Uhr erst anlangten. Man erzählte uns, daß der Wilde mit<lb/>
+dem Mädchen bis Mittag an Bord geblieben sei; und als man<lb/>
+ihm zu verstehen gegeben, daß in seinem doppelten Canot in<lb/>
+Cascadebucht einige Geschenke für ihn wären hingelegt worden,<lb/>
+habe er etliche seiner Leute abgeschickt, sie von dort zu holen, sei<lb/>
+auch mit seiner ganzen Familie bis diesen Morgen in der Nachbarschaft<lb/>
+des Schiffes verblieben. Seit der Zeit aber haben wir sie nicht wieder<lb/>
+zu sehen bekommen, und das war um so außerordentlicher, da wir sie<lb/>
+nie mit leerer Hand hatten von uns gehen lassen, sondern ihnen,<lb/>
+nach und nach, ungefähr neun oder zehn Beile und wenigstens<lb/>
+viermal so viel große Nägel, nebst andern Dingen geschenkt hat¬<lb/>
+ten. Insofern diese Artikel als Reichthümer unter ihnen ange¬<lb/>
+sehen werden, insofern ist dieser Mann der reichste in ganz &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu¬&lt;/place&gt;<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Seeland&lt;/place&gt;; denn vor der zweiten Ankunft englischer Schiffe war<lb/>
+auf der ganzen Insel zusammen genommen nicht so viel Eisen¬<lb/>
+geräthe anzutreffen. Da &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dusky-Bai&lt;/place&gt; so wenig bewohnt ist, so<lb/>
+führen die einzelnen Familien in derselben wahrscheinlicherweise<lb/>
+ein unstetes herumwanderndes Leben, und ziehen, vielleicht der Fi¬<lb/>
+scherei, vielleicht anderer Umstände wegen in verschiedenen Jahrs-<lb/>
+zeiten aus einer Gegend nach der andern. Wir vermuthen da¬<lb/>
+her auch, daß unsere Freunde blos aus diesem Grunde weggezo¬<lb/>
+gen wären; allein es hieß: der Wilde habe vor seinem Abzuge<lb/>
+durch Zeichen zu verstehen gegeben, er wolle aufs Todtschlagen<lb/>
+ausgehen und dazu die Beile gebrauchen. Hat man ihn recht</p></body></text>
+</TEI>

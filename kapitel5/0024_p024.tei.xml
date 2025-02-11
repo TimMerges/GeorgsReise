@@ -1,38 +1,127 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>138</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>ihrem Betragen nach, für eine Person ihres Geschlechts zu hal¬<lb />
-ten schien. Ob er sich aber in der Folge unschickliche Freiheiten<lb />
-genommen, oder ob sie eine andre Ursache zur Unzufriedenheit<lb />
-über ihn gehabt, wissen wir nicht; genug sie wollte ihm nach¬<lb />
-her nie erlauben ihr wieder nahe zu kommen. Da die &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt;<lb />
-bei unsrer Zurückkunft noch an dem angezeigten Ort unweit dem<lb />
-Schiffe waren, so gingen auch wir zu ihnen ans Land. Der<lb />
-Mann verlangte, daß wir uns neben ihn setzen sollten, und<lb />
-zeigte mehrmals auf unsre Boote, die zwischen dem Schiff und<lb />
-dem Lande ab- und zu gingen, als ob er Lust hätte, auch eins<lb />
-zu besitzen. Da ihm aber hierin nicht gewillfahret werden konnte,<lb />
-so gaben wir uns eben keine besondre Mühe zu erfahren, ob<lb />
-sein Deuten diese oder eine andre Meinung gehabt habe. Nach<lb />
-einiger Zeit machten sie, ungefähr 100 Schritte weit von unserm<lb />
-Wasserplatz, ein Feuer an, und bereiteten sich einige Fische zum<lb />
-Abendbrod, blieben auch die ganze Nacht über auf dieser Stelle, wel¬<lb />
-ches uns, als ein deutliches Merkmahl ihres gänzlich unbesorg¬<lb />
-ten Vertrauens zu uns, nicht wenig gefiel. Eine Partie Offi¬<lb />
-ciere, die den morgenden Tag zur Jagd bestimmt hatten, gingen<lb />
-noch heut Abend in einem kleinen Boote nach der Nordseite der<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bai&lt;/place&gt; ab, um die Nacht dort zuzubringen, und morgen gleich<lb />
-mit Tagesanbruch auf dem Platz zu sein.</paragraph><paragraph /><paragraph>Am folgenden Morgen ließ &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; ein Boot be¬<lb />
-mannen, und fuhr in Begleitung meines &lt;persName ref="https://www.wikidata.org/wiki/Q213570"&gt;Vaters&lt;/persName&gt; nach der Mün¬<lb />
-dung der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt;, um die dort gelegenen Klippen und Inseln auf¬<lb />
-zunehmen. An der Südostseite jener Insel, wo wir zuerst gean¬<lb />
-kert, und solche deshalb die Ankerinsel genannt hatten, fanden<lb />
-sie eine kleine artige Bucht, und in derselben einen angenehmen<lb />
-Bach, an dessen Ufer sie sich niederließen, um von einigen mit¬<lb />
-genommenen Krebsen ein zweites Frühstück zu halten, dem zu<lb />
-Ehren diese Bucht&lt;place ref="https://www.wikidata.org/wiki/Q32249621"&gt; Luncheon-cove&lt;/place&gt; genannt wurde. Nach die¬<lb />
-ser kleinen Erfrischung setzten sie ihre Fahrt nach den entlegen¬<lb />
-sten Inseln fort, und trafen auf den dortigen Klippen eine Menge<lb />
-Seehunde, von denen sie vierzehn Stück mit Kugeln schossen,<lb />
-und solche mit an Bord brachten. Es wäre ihnen leicht gewe¬<lb />
-sen noch mehrere zu erlegen, wenn sie der Brandung wegen<lb />
-auf allen Klippen hätten landen können. Die Seehunde in die¬<lb />
-ser Bei sind alle von der Art, welche man Seebären *) nennt,</paragraph><footer>*) Phoca ursina Linn. Ursine Seal. Pennants Syn. Quadr. 271.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="138"/><head>Reise um die Welt</head><p/><p>ihrem Betragen nach, für eine Person ihres Geschlechts zu hal¬<lb/>
+ten schien. Ob er sich aber in der Folge unschickliche Freiheiten<lb/>
+genommen, oder ob sie eine andre Ursache zur Unzufriedenheit<lb/>
+über ihn gehabt, wissen wir nicht; genug sie wollte ihm nach¬<lb/>
+her nie erlauben ihr wieder nahe zu kommen. Da die &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt;<lb/>
+bei unsrer Zurückkunft noch an dem angezeigten Ort unweit dem<lb/>
+Schiffe waren, so gingen auch wir zu ihnen ans Land. Der<lb/>
+Mann verlangte, daß wir uns neben ihn setzen sollten, und<lb/>
+zeigte mehrmals auf unsre Boote, die zwischen dem Schiff und<lb/>
+dem Lande ab- und zu gingen, als ob er Lust hätte, auch eins<lb/>
+zu besitzen. Da ihm aber hierin nicht gewillfahret werden konnte,<lb/>
+so gaben wir uns eben keine besondre Mühe zu erfahren, ob<lb/>
+sein Deuten diese oder eine andre Meinung gehabt habe. Nach<lb/>
+einiger Zeit machten sie, ungefähr 100 Schritte weit von unserm<lb/>
+Wasserplatz, ein Feuer an, und bereiteten sich einige Fische zum<lb/>
+Abendbrod, blieben auch die ganze Nacht über auf dieser Stelle, wel¬<lb/>
+ches uns, als ein deutliches Merkmahl ihres gänzlich unbesorg¬<lb/>
+ten Vertrauens zu uns, nicht wenig gefiel. Eine Partie Offi¬<lb/>
+ciere, die den morgenden Tag zur Jagd bestimmt hatten, gingen<lb/>
+noch heut Abend in einem kleinen Boote nach der Nordseite der<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bai&lt;/place&gt; ab, um die Nacht dort zuzubringen, und morgen gleich<lb/>
+mit Tagesanbruch auf dem Platz zu sein.</p><p/><p>Am folgenden Morgen ließ &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; ein Boot be¬<lb/>
+mannen, und fuhr in Begleitung meines &lt;persName ref="https://www.wikidata.org/wiki/Q213570"&gt;Vaters&lt;/persName&gt; nach der Mün¬<lb/>
+dung der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt;, um die dort gelegenen Klippen und Inseln auf¬<lb/>
+zunehmen. An der Südostseite jener Insel, wo wir zuerst gean¬<lb/>
+kert, und solche deshalb die Ankerinsel genannt hatten, fanden<lb/>
+sie eine kleine artige Bucht, und in derselben einen angenehmen<lb/>
+Bach, an dessen Ufer sie sich niederließen, um von einigen mit¬<lb/>
+genommenen Krebsen ein zweites Frühstück zu halten, dem zu<lb/>
+Ehren diese Bucht&lt;place ref="https://www.wikidata.org/wiki/Q32249621"&gt; Luncheon-cove&lt;/place&gt; genannt wurde. Nach die¬<lb/>
+ser kleinen Erfrischung setzten sie ihre Fahrt nach den entlegen¬<lb/>
+sten Inseln fort, und trafen auf den dortigen Klippen eine Menge<lb/>
+Seehunde, von denen sie vierzehn Stück mit Kugeln schossen,<lb/>
+und solche mit an Bord brachten. Es wäre ihnen leicht gewe¬<lb/>
+sen noch mehrere zu erlegen, wenn sie der Brandung wegen<lb/>
+auf allen Klippen hätten landen können. Die Seehunde in die¬<lb/>
+ser Bei sind alle von der Art, welche man Seebären *) nennt,</p><footer>*) Phoca ursina Linn. Ursine Seal. Pennants Syn. Quadr. 271.</footer></body></text>
+</TEI>

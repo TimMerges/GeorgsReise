@@ -1,29 +1,118 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><paragraph /><paragraph>ist es wahrlich zu verwundern und als ein deutliches Merkmal<lb />
-der göttlichen Obhut anzusehen, daß wir von allen den Folgen<lb />
-nichts erlitten, welche von so mannigfaltigem und gehäustem<lb />
-Elend zu gewarten und zu befürchten waren.</paragraph><heading>Fünftes Capitel.</heading><header>Aufenthalt in Dusky=Bai. Beschreibung derselben. Nachricht von<lb />
-unsern Verrichtungen.</header><page-number>117</page-number><paragraph /><paragraph>Nach einer Fahrt von einhundertzweiundzwanzig Tagen, auf<lb />
-welcher wir ungefähr dreitausend fünfhundert Seemeilen in offner<lb />
-See zurückgelegt hatten, kamen wir endlich am 26. März zu<lb />
-Mittage in Dusky-Bai an. Diese Bei, welche an der Nord¬<lb />
-seite des Cap West liegt, hatte Capitain Cook auf seiner vorigen<lb />
-Reise, in der Endeavour, bereits entdeckt, ihr auch damals schon<lb />
-einen Namen gegeben, ohne sie jedoch selbst zu besuchen *). Aus<lb />
-großer Ungeduld bald vor Anker zu kommen, wünschten wir daß<lb />
-solches gleich an der Mündung der Bei thunlich sein möchte.<lb />
-Allein da das Senkblei dort eine allzu große Tiefe, nämlich von<lb />
-vierzig Faden anzeigte, und etwas weiter hin gar mit sechzig<lb />
-Faden kein Grund mehr zu finden war, so mußten wirs uns<lb />
-gefallen lassen, noch ungleich weiter hinein zu segeln. Das Wet¬<lb />
-ter war indessen schön und in Verhältniß zu demjenigen, das<lb />
-wir bisher hatten empfinden müssen recht erquickend warm. Sanft<lb />
-wehende Winde führten uns nach und nach bei vielen felsigen<lb />
-Inseln vorbei, die alle mit Bäumen und Buschwerk überwachsen<lb />
-waren, deren mannigfaltiges, dunkleres Immergrün, everyreen,<lb />
-mit dem Grün des übrigen Laubes, welches die Herbstzeit ver¬<lb />
-schiedentlich schattirt hatte, malerisch vermischt war und sehr an-<lb />
-genehm von einander abstach. Ganze Schaaren von Wasservö¬<lb />
-geln belebten die felsigen Küsten, und das Land ertönte überall<lb />
-vom wilden Gesang der gefiederten Waldbewohner. Je länger</paragraph><footer>*) Siehe Hawkesworths Geschichte der engl. See=Reisen in 8. dritter<lb />
-Band, pag. 249.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><p/><p>ist es wahrlich zu verwundern und als ein deutliches Merkmal<lb/>
+der göttlichen Obhut anzusehen, daß wir von allen den Folgen<lb/>
+nichts erlitten, welche von so mannigfaltigem und gehäustem<lb/>
+Elend zu gewarten und zu befürchten waren.</p><head>Fünftes Capitel.</head><header>Aufenthalt in Dusky=Bai. Beschreibung derselben. Nachricht von<lb/>
+unsern Verrichtungen.</header><pb n="117"/><p/><p>Nach einer Fahrt von einhundertzweiundzwanzig Tagen, auf<lb/>
+welcher wir ungefähr dreitausend fünfhundert Seemeilen in offner<lb/>
+See zurückgelegt hatten, kamen wir endlich am 26. März zu<lb/>
+Mittage in Dusky-Bai an. Diese Bei, welche an der Nord¬<lb/>
+seite des Cap West liegt, hatte Capitain Cook auf seiner vorigen<lb/>
+Reise, in der Endeavour, bereits entdeckt, ihr auch damals schon<lb/>
+einen Namen gegeben, ohne sie jedoch selbst zu besuchen *). Aus<lb/>
+großer Ungeduld bald vor Anker zu kommen, wünschten wir daß<lb/>
+solches gleich an der Mündung der Bei thunlich sein möchte.<lb/>
+Allein da das Senkblei dort eine allzu große Tiefe, nämlich von<lb/>
+vierzig Faden anzeigte, und etwas weiter hin gar mit sechzig<lb/>
+Faden kein Grund mehr zu finden war, so mußten wirs uns<lb/>
+gefallen lassen, noch ungleich weiter hinein zu segeln. Das Wet¬<lb/>
+ter war indessen schön und in Verhältniß zu demjenigen, das<lb/>
+wir bisher hatten empfinden müssen recht erquickend warm. Sanft<lb/>
+wehende Winde führten uns nach und nach bei vielen felsigen<lb/>
+Inseln vorbei, die alle mit Bäumen und Buschwerk überwachsen<lb/>
+waren, deren mannigfaltiges, dunkleres Immergrün, everyreen,<lb/>
+mit dem Grün des übrigen Laubes, welches die Herbstzeit ver¬<lb/>
+schiedentlich schattirt hatte, malerisch vermischt war und sehr an-<lb/>
+genehm von einander abstach. Ganze Schaaren von Wasservö¬<lb/>
+geln belebten die felsigen Küsten, und das Land ertönte überall<lb/>
+vom wilden Gesang der gefiederten Waldbewohner. Je länger</p><footer>*) Siehe Hawkesworths Geschichte der engl. See=Reisen in 8. dritter<lb/>
+Band, pag. 249.</footer></body></text>
+</TEI>

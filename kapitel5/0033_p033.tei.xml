@@ -1,42 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>147</page-number><paragraph /><paragraph>eben so unbegreiflich, als die Werke der Natur vorgekommen<lb />
-sein müssen. Die vielfach auf einander gebauten Verdecke (Stock-<lb />
-werke) unseres Schiffs und die feste Bauart dieser und anderer<lb />
-Theile desselben erregten seine Bewunderung mehr denn alles<lb />
-übrige. Als das Mädchen &lt;persName ref="https://www.wikidata.org/wiki/Q730841"&gt;Herrn Hodges&lt;/persName&gt; antraf, dessen Arbeit<lb />
-ihr bei der ersten Zusammenkunft so wohlgefallen, schenkte sie ihm<lb />
-ein Stück Zeug von eben der Art als der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; und mein<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q213570"&gt;Vater&lt;/persName&gt; von dem Manne bekommen hatten. Die Gewohnheit<lb />
-Geschenke zu machen, ist sonst, in andern Gegenden von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-&lt;/place&gt;<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Seeland&lt;/place&gt;, nicht so gemein als in den kleinern Inseln zwischen<lb />
-den Wendezirkeln; es schien aber diese Familie sich überhaupt<lb />
-wenig nach den allgemeinen Gebräuchen ihrer Nation zu richten,<lb />
-als vielmehr sich in jedem einzelnen Falle so zu betragen, wie<lb />
-ihre ehrliche Gemüthsart und die Klugheit es ihnen, ihrer Lage<lb />
-nach, anriethen, in Betracht welcher sie sich in unsrer Gewalt<lb />
-befanden. Wir nöthigten sie in die Cajüte, und nach langer<lb />
-Berathschlagung ließen sie sichs endlich gefallen die Treppe her¬<lb />
-unter zu steigen. Hier bewunderten sie nun alles und jedes,<lb />
-vornehmlich aber den Gebrauch der Stühle, und daß sie von<lb />
-einer Stelle an die andere gebracht werden konnten. Der &lt;persName ref="https://www.wikidata.org/wiki/Q213570"&gt;Ca¬&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;pitain&lt;/persName&gt; und mein Vater schenkten ihnen Beile und andere Dinge<lb />
-von geringerm Werth. Letztere legte der Mann auf einen Hau¬<lb />
-fen beisammen und würde sie auch beim Abschiede dort haben<lb />
-liegen lassen, wenn man ihn nicht daran erinnert hätte; Beile<lb />
-und große Nägel hingegen ließ er nie aus den Händen, sobald<lb />
-man sie ihm einmal gegeben hatte. Als sie sahen, daß wir uns<lb />
-zum Frühstück niederließen, setzten sie sich neben uns, waren<lb />
-aber durch kein Bitten zu bewegen, das geringste von unserm<lb />
-Essen zu kosten. Sie erkundigten sich vornehmlich wo wir schlie¬<lb />
-fen; der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; führte sie deshalb nach seiner Hangmatte (cot),<lb />
-die noch ausgespannt da hing und ihnen viel Freude machte.<lb />
-Aus der Cajüte gingen sie nach dem zweiten Verdeck herab in<lb />
-des Constabels Kammer; und, als sie auch da einige Geschenke<lb />
-erhalten, kamen sie zum &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; zurück. Nun zog der Mann,<lb />
-ein kleines ledernes Beutelchen, vermuthlich von Seehundfell,<lb />
-hervor und steckte unter vielen Ceremonien die Finger hinein<lb />
-um den &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; mit Öl oder Fett den Kopf zu salben; diese<lb />
-Ehre ward aber verbeten, weil die Salbe unsern Nasen sehr<lb />
-zuwider war, ob sie gleich von dem ehrlichen Manne für unge-<lb />
-mein wohlriechend und als seine köstlichste Gabe angesehen wer-<lb />
-7*</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="147"/><p/><p>eben so unbegreiflich, als die Werke der Natur vorgekommen<lb/>
+sein müssen. Die vielfach auf einander gebauten Verdecke (Stock-<lb/>
+werke) unseres Schiffs und die feste Bauart dieser und anderer<lb/>
+Theile desselben erregten seine Bewunderung mehr denn alles<lb/>
+übrige. Als das Mädchen &lt;persName ref="https://www.wikidata.org/wiki/Q730841"&gt;Herrn Hodges&lt;/persName&gt; antraf, dessen Arbeit<lb/>
+ihr bei der ersten Zusammenkunft so wohlgefallen, schenkte sie ihm<lb/>
+ein Stück Zeug von eben der Art als der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; und mein<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q213570"&gt;Vater&lt;/persName&gt; von dem Manne bekommen hatten. Die Gewohnheit<lb/>
+Geschenke zu machen, ist sonst, in andern Gegenden von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-&lt;/place&gt;<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Seeland&lt;/place&gt;, nicht so gemein als in den kleinern Inseln zwischen<lb/>
+den Wendezirkeln; es schien aber diese Familie sich überhaupt<lb/>
+wenig nach den allgemeinen Gebräuchen ihrer Nation zu richten,<lb/>
+als vielmehr sich in jedem einzelnen Falle so zu betragen, wie<lb/>
+ihre ehrliche Gemüthsart und die Klugheit es ihnen, ihrer Lage<lb/>
+nach, anriethen, in Betracht welcher sie sich in unsrer Gewalt<lb/>
+befanden. Wir nöthigten sie in die Cajüte, und nach langer<lb/>
+Berathschlagung ließen sie sichs endlich gefallen die Treppe her¬<lb/>
+unter zu steigen. Hier bewunderten sie nun alles und jedes,<lb/>
+vornehmlich aber den Gebrauch der Stühle, und daß sie von<lb/>
+einer Stelle an die andere gebracht werden konnten. Der &lt;persName ref="https://www.wikidata.org/wiki/Q213570"&gt;Ca¬&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;pitain&lt;/persName&gt; und mein Vater schenkten ihnen Beile und andere Dinge<lb/>
+von geringerm Werth. Letztere legte der Mann auf einen Hau¬<lb/>
+fen beisammen und würde sie auch beim Abschiede dort haben<lb/>
+liegen lassen, wenn man ihn nicht daran erinnert hätte; Beile<lb/>
+und große Nägel hingegen ließ er nie aus den Händen, sobald<lb/>
+man sie ihm einmal gegeben hatte. Als sie sahen, daß wir uns<lb/>
+zum Frühstück niederließen, setzten sie sich neben uns, waren<lb/>
+aber durch kein Bitten zu bewegen, das geringste von unserm<lb/>
+Essen zu kosten. Sie erkundigten sich vornehmlich wo wir schlie¬<lb/>
+fen; der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; führte sie deshalb nach seiner Hangmatte (cot),<lb/>
+die noch ausgespannt da hing und ihnen viel Freude machte.<lb/>
+Aus der Cajüte gingen sie nach dem zweiten Verdeck herab in<lb/>
+des Constabels Kammer; und, als sie auch da einige Geschenke<lb/>
+erhalten, kamen sie zum &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; zurück. Nun zog der Mann,<lb/>
+ein kleines ledernes Beutelchen, vermuthlich von Seehundfell,<lb/>
+hervor und steckte unter vielen Ceremonien die Finger hinein<lb/>
+um den &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; mit Öl oder Fett den Kopf zu salben; diese<lb/>
+Ehre ward aber verbeten, weil die Salbe unsern Nasen sehr<lb/>
+zuwider war, ob sie gleich von dem ehrlichen Manne für unge-<lb/>
+mein wohlriechend und als seine köstlichste Gabe angesehen wer-<lb/>
+7*</p></body></text>
+</TEI>

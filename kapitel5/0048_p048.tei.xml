@@ -1,41 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>162</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>den Zweigen saß, sah verwelkt und blaßgelb aus. Dergleichen<lb />
-Vorboten des herannahenden Winters waren in diesem Theile<lb />
-der Bei besonders in die Augen fallend; doch ist es wahrschein-<lb />
-lich, daß an einem so frühzeitigen, wintermäßigen Ansehen blos<lb />
-die Nachbarschaft der hohen Berge, die schon mit Schnee bedeckt<lb />
-waren, schuld sein mochte. Um 2 Uhr lenkten wir in eine<lb />
-Bucht ein, um von Fischen ein kleines Mittagbrod zu bereiten,<lb />
-und ruderten, nachdem wir solche verzehret, bis zu einbrechendem<lb />
-Abend weiter, um nicht fern von dem äußersten Ende dieses<lb />
-Seearms auf einem kleinen, flachen Ufer das Nachtquartier zu<lb />
-nehmen. Es ward zwar ein Feuer angemacht, doch konnten wir<lb />
-wenig schlafen, weil die Nacht sehr kalt und unsere Schlafstellen<lb />
-sehr hart waren. Am folgenden Morgen liefen wir nordwärts<lb />
-in eine kleine Bucht, allwo sich dieser Seearm nach einem Laufe<lb />
-von ungefähr acht Meilen endigte. Wir hielten uns daselbst<lb />
-eine Weile über mit Vogelschießen auf, und fingen bereits an<lb />
-nach der Resolution zurückzukehren, als das schöne Wetter auf<lb />
-einmal umschlug, und statt desselben ein Sturm aus Nordwesten<lb />
-mit harten Windstößen und heftigem Regen einbrach. Wir ru¬<lb />
-derten dieserhalb in möglichster Eile den Seearm herunter; und,<lb />
-als wir bis an die Einfahrt in den Canal gelangt waren, in<lb />
-welchem das Schiff vor Anker lag, theilten wir den Überrest einer<lb />
-Flasche Rum mit unsern Bootsleuten, um ihnen Muth zu ma¬<lb />
-chen, denn von hier aus bis nach dem Schiffe hin war noch<lb />
-das schwerste Stück Arbeit übrig. Nach dieser Herzstärkung<lb />
-wagten wir uns nun getrost weiter; allein die Wellen, welche<lb />
-hier von der offnen See her eindringen konnten, gingen erstaun¬<lb />
-lich schnell und hoch, und der Wind, gegen den wir jetzt gar<lb />
-keinen Schutz mehr vom Lande hatten, war so heftig, daß er<lb />
-uns, aller angewandten Mühe ungeachtet, innerhalb wenig Mi¬<lb />
-nuten eine halbe Meile weit vor sich hertrieb. Bei so gefähr¬<lb />
-lichen Umständen mußten wir alle Augenblicke gewärtig sein, daß<lb />
-das Boot umschlagen oder versinken würde, und es war daher<lb />
-unser sehnlichster Wunsch, wieder in den Seearm zu gelangen,<lb />
-den wir kurz zuvor so dreist verlassen hatten. Mit unsäglicher<lb />
-Mühe gelang uns dies endlich und ungefähr um 2 Uhr Nach¬<lb />
-mittags, liefen wir, an der Nordseite desselben, in eine kleine,<lb />
-hübsche Bucht ein. Hier ward das Boot, so gut sichs thun<lb />
-ließ, in Sicherheit gebracht und Anstalt zum Mittagsbrod ge¬<lb />
-macht. In dieser Absicht kletterten wir einen öden Felsen hin¬</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="162"/><head>Reise um die Welt</head><p/><p>den Zweigen saß, sah verwelkt und blaßgelb aus. Dergleichen<lb/>
+Vorboten des herannahenden Winters waren in diesem Theile<lb/>
+der Bei besonders in die Augen fallend; doch ist es wahrschein-<lb/>
+lich, daß an einem so frühzeitigen, wintermäßigen Ansehen blos<lb/>
+die Nachbarschaft der hohen Berge, die schon mit Schnee bedeckt<lb/>
+waren, schuld sein mochte. Um 2 Uhr lenkten wir in eine<lb/>
+Bucht ein, um von Fischen ein kleines Mittagbrod zu bereiten,<lb/>
+und ruderten, nachdem wir solche verzehret, bis zu einbrechendem<lb/>
+Abend weiter, um nicht fern von dem äußersten Ende dieses<lb/>
+Seearms auf einem kleinen, flachen Ufer das Nachtquartier zu<lb/>
+nehmen. Es ward zwar ein Feuer angemacht, doch konnten wir<lb/>
+wenig schlafen, weil die Nacht sehr kalt und unsere Schlafstellen<lb/>
+sehr hart waren. Am folgenden Morgen liefen wir nordwärts<lb/>
+in eine kleine Bucht, allwo sich dieser Seearm nach einem Laufe<lb/>
+von ungefähr acht Meilen endigte. Wir hielten uns daselbst<lb/>
+eine Weile über mit Vogelschießen auf, und fingen bereits an<lb/>
+nach der Resolution zurückzukehren, als das schöne Wetter auf<lb/>
+einmal umschlug, und statt desselben ein Sturm aus Nordwesten<lb/>
+mit harten Windstößen und heftigem Regen einbrach. Wir ru¬<lb/>
+derten dieserhalb in möglichster Eile den Seearm herunter; und,<lb/>
+als wir bis an die Einfahrt in den Canal gelangt waren, in<lb/>
+welchem das Schiff vor Anker lag, theilten wir den Überrest einer<lb/>
+Flasche Rum mit unsern Bootsleuten, um ihnen Muth zu ma¬<lb/>
+chen, denn von hier aus bis nach dem Schiffe hin war noch<lb/>
+das schwerste Stück Arbeit übrig. Nach dieser Herzstärkung<lb/>
+wagten wir uns nun getrost weiter; allein die Wellen, welche<lb/>
+hier von der offnen See her eindringen konnten, gingen erstaun¬<lb/>
+lich schnell und hoch, und der Wind, gegen den wir jetzt gar<lb/>
+keinen Schutz mehr vom Lande hatten, war so heftig, daß er<lb/>
+uns, aller angewandten Mühe ungeachtet, innerhalb wenig Mi¬<lb/>
+nuten eine halbe Meile weit vor sich hertrieb. Bei so gefähr¬<lb/>
+lichen Umständen mußten wir alle Augenblicke gewärtig sein, daß<lb/>
+das Boot umschlagen oder versinken würde, und es war daher<lb/>
+unser sehnlichster Wunsch, wieder in den Seearm zu gelangen,<lb/>
+den wir kurz zuvor so dreist verlassen hatten. Mit unsäglicher<lb/>
+Mühe gelang uns dies endlich und ungefähr um 2 Uhr Nach¬<lb/>
+mittags, liefen wir, an der Nordseite desselben, in eine kleine,<lb/>
+hübsche Bucht ein. Hier ward das Boot, so gut sichs thun<lb/>
+ließ, in Sicherheit gebracht und Anstalt zum Mittagsbrod ge¬<lb/>
+macht. In dieser Absicht kletterten wir einen öden Felsen hin¬</p></body></text>
+</TEI>

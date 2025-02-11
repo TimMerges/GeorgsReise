@@ -1,41 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>143</page-number><paragraph /><paragraph>groß wie unsere Stockente (mallard), aber ganz hellbraun. Jede<lb />
-Feder hatte eine gelblich weiße Einfassung, von welcher Farbe<lb />
-auch an den Seiten des Kopfes und um die Augenbraunen ein<lb />
-Streif zu sehen war. Die Iris des Auges war schön gelb und<lb />
-auf den Flügeln ein glänzender, blaugrüner Fleck in schwarze<lb />
-Linien eingeschlossen. Die dritte Art war eine bläulichgraue<lb />
-Pfeifente (whistling dunk) ungefähr so groß als die Bleßente<lb />
-(wigeon). Diese nährt sich von Seewürmern, die, vornehmlich<lb />
-zur Ebbezeit, in dem zurückgebliebenen Schlamm des Meeres zu<lb />
-finden sind, und um solche desto leichter einzusaugen hatte der<lb />
-Schnabel an beiden Seiten eine besondre membranöse Substanz.<lb />
-Die Brust war mit eisenfarbigen Federn gesprenkt und auf den<lb />
-Flügeln ein großer weißer Fleck. Die vierte und gemeinste Art<lb />
-ist eine kleine braune Ente, der englischen Knarrente (gadwall)<lb />
-fast in allen Stücken ähnlich. Nachdem wir mit Untersuchung<lb />
-aller hier umherliegenden Häfen fertig waren, auch genug Fische<lb />
-und Enten zum Abendessen für uns alle, theils gefangen theils<lb />
-erlegt hatten, eilte ein jeder nach dem verabredeten Sammelplatz,<lb />
-wo wir kurz vorm Dunkelwerden anlangten und von unsern<lb />
-Segeln und Rudern eine Art von Zelt aufschlugen. Wir hatten<lb />
-so guten Appetit, daß wirs mit der Küche so genau nicht nah¬<lb />
-men, und unsre Fische, die ganz à l'indienne zugerichtet, das<lb />
-ist, an hölzerne Speiler gesteckt und bei einem großen Feuer ge¬<lb />
-braten wurden, schmeckten vortrefflich. Nach dieser Mahlzeit<lb />
-und einem Trunk Sprossenbier (spruce-beer), wovon wir ein<lb />
-kleines Tönnchen mitgenommen, legten wir uns zur Ruhe, frei¬<lb />
-lich nicht so bequem als in unsern Betten, doch brachten wir<lb />
-die Nacht hin. Am folgenden Morgen ward ein Boot in die<lb />
-Bucht hinaufgeschickt, um das Wildpret aufzujagen; und das<lb />
-gelang auch vortrefflich, nur ereignete sich der einzige kleine Ne¬<lb />
-benumstand daß uns wegen des naßgewordenen Schießgewehrs<lb />
-fast alle Enten entwischten. Nach diesem mißlungenen Manövre<lb />
-stieg der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; in der Bucht aus und ging zu Fuß über<lb />
-eine schmale Erdzunge, die diese Bucht von einer andern, an der<lb />
-Nordseite von &lt;place ref="https://www.wikidata.org/wiki/Q32198818"&gt;Five-Finger-Land&lt;/place&gt; gelegnen, trennt. Hier fand<lb />
-er eine erstaunliche Menge von Wasserhühnern, an denen er sich<lb />
-für die fehlgeschlagene Entenjagd erholte, und zehn Paar mit<lb />
-zurück brachte; doch war ihm diese Schadloshaltung sauer genug<lb />
-geworden, denn er hatte sich ihretwegen durch verwachsenes Holz<lb />
-und Buschwerk, oftmals bis halb an den Leib im Wasser, durch-</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="143"/><p/><p>groß wie unsere Stockente (mallard), aber ganz hellbraun. Jede<lb/>
+Feder hatte eine gelblich weiße Einfassung, von welcher Farbe<lb/>
+auch an den Seiten des Kopfes und um die Augenbraunen ein<lb/>
+Streif zu sehen war. Die Iris des Auges war schön gelb und<lb/>
+auf den Flügeln ein glänzender, blaugrüner Fleck in schwarze<lb/>
+Linien eingeschlossen. Die dritte Art war eine bläulichgraue<lb/>
+Pfeifente (whistling dunk) ungefähr so groß als die Bleßente<lb/>
+(wigeon). Diese nährt sich von Seewürmern, die, vornehmlich<lb/>
+zur Ebbezeit, in dem zurückgebliebenen Schlamm des Meeres zu<lb/>
+finden sind, und um solche desto leichter einzusaugen hatte der<lb/>
+Schnabel an beiden Seiten eine besondre membranöse Substanz.<lb/>
+Die Brust war mit eisenfarbigen Federn gesprenkt und auf den<lb/>
+Flügeln ein großer weißer Fleck. Die vierte und gemeinste Art<lb/>
+ist eine kleine braune Ente, der englischen Knarrente (gadwall)<lb/>
+fast in allen Stücken ähnlich. Nachdem wir mit Untersuchung<lb/>
+aller hier umherliegenden Häfen fertig waren, auch genug Fische<lb/>
+und Enten zum Abendessen für uns alle, theils gefangen theils<lb/>
+erlegt hatten, eilte ein jeder nach dem verabredeten Sammelplatz,<lb/>
+wo wir kurz vorm Dunkelwerden anlangten und von unsern<lb/>
+Segeln und Rudern eine Art von Zelt aufschlugen. Wir hatten<lb/>
+so guten Appetit, daß wirs mit der Küche so genau nicht nah¬<lb/>
+men, und unsre Fische, die ganz à l'indienne zugerichtet, das<lb/>
+ist, an hölzerne Speiler gesteckt und bei einem großen Feuer ge¬<lb/>
+braten wurden, schmeckten vortrefflich. Nach dieser Mahlzeit<lb/>
+und einem Trunk Sprossenbier (spruce-beer), wovon wir ein<lb/>
+kleines Tönnchen mitgenommen, legten wir uns zur Ruhe, frei¬<lb/>
+lich nicht so bequem als in unsern Betten, doch brachten wir<lb/>
+die Nacht hin. Am folgenden Morgen ward ein Boot in die<lb/>
+Bucht hinaufgeschickt, um das Wildpret aufzujagen; und das<lb/>
+gelang auch vortrefflich, nur ereignete sich der einzige kleine Ne¬<lb/>
+benumstand daß uns wegen des naßgewordenen Schießgewehrs<lb/>
+fast alle Enten entwischten. Nach diesem mißlungenen Manövre<lb/>
+stieg der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; in der Bucht aus und ging zu Fuß über<lb/>
+eine schmale Erdzunge, die diese Bucht von einer andern, an der<lb/>
+Nordseite von &lt;place ref="https://www.wikidata.org/wiki/Q32198818"&gt;Five-Finger-Land&lt;/place&gt; gelegnen, trennt. Hier fand<lb/>
+er eine erstaunliche Menge von Wasserhühnern, an denen er sich<lb/>
+für die fehlgeschlagene Entenjagd erholte, und zehn Paar mit<lb/>
+zurück brachte; doch war ihm diese Schadloshaltung sauer genug<lb/>
+geworden, denn er hatte sich ihretwegen durch verwachsenes Holz<lb/>
+und Buschwerk, oftmals bis halb an den Leib im Wasser, durch-</p></body></text>
+</TEI>

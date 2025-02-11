@@ -1,39 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>126</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>bei dem Canot gewesen zu sein. Da das Wetter sehr hell war,<lb />
-so konnte man diese Bucht heute nach allen Seiten hin überse¬<lb />
-hen. Sie ist so geräumig, daß eine ganze Flotte darin vor An¬<lb />
-ker liegen kann, und hat an der Südwestseite einige hohe Berge,<lb />
-die beinahe von dem Gipfel an bis ganz an das Ufer herab mit<lb />
-Holz bewachsen sind. Die verschiednen Landspitzen, die in die<lb />
-See hinauslaufen, und die Inseln in der&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt; Bei&lt;/place&gt; bieten von hier<lb />
-aus einen schönen, malerischen Anblick dar. Die Spiegelfläche<lb />
-des Wassers, welche bei Untergang der Sonne herrlich erleuchtet<lb />
-ward, die Mannigfaltigkeit des Grüns und der Gesang der Vö¬<lb />
-gel, welche sich an diesem stillen Abende um die ganze Bei<lb />
-herum hören ließen, milderten die rauhen und wilden Umrisse<lb />
-dieser Landschaft auf eine sehr angenehm contrastirende Weise.</paragraph><paragraph /><paragraph>Das Vergnügen dieses Abends lockte uns, bei dem schönen,<lb />
-hellen Wetter des folgenden Tages, schon mit Sonnenaufgang<lb />
-wieder nach dieser Bucht und hielt uns bis am späten Abend<lb />
-dort zurück, da wir mit einer ganzen Ladung von neuen Vö¬<lb />
-geln und Pflanzen wieder auf dem Schiffe anlangten. Wir hat¬<lb />
-ten einen jungen Hund mit uns genommen, den sich einige Of¬<lb />
-ficiere am Vorgebirge der guten Hoffnung angeschafft hatten,<lb />
-und wollten versuchen, ob er sich nicht an das Schießen gewöh¬<lb />
-nen und zur Jagd abrichten ließe. Aber kaum ward die erste<lb />
-Flinte abgefeuert, als er davon und ins Holz lief, auch allem<lb />
-Rufen und Locken unerachtet nicht zu uns zurückkommen wollte.<lb />
-In unsrer Abwesenheit hatte Capitain Cook sich das schöne<lb />
-Wetter ebenfalls zu Nutze gemacht, um verschiedene Gegenden<lb />
-der Bei genauer zu untersuchen. Er kam bei dieser Gelegenheit<lb />
-an einen kleinen Felsen, unweit unserm ersten Ankerplatz, vorbei,<lb />
-den wir damals schon Seal rock oder Seehundfelsen genannt<lb />
-hatten, weil eine Menge von diesen Thieren ihr gewöhnliches<lb />
-Nachtlager dort zu nehmen pflegten. Auch heute fand er ihrer<lb />
-eine große Anzahl daselbst und erlegte drei Stück. Einer von<lb />
-diesen Seehunden, der zu wiederholten Malen angeschossen war,<lb />
-ward zuletzt ganz wüthend, und fiel das Boot an, welches ihm<lb />
-denn vollends das Leben kostete. Er war ungefähr 6 Fuß lang,<lb />
-und wog, unerachtet er nur sehr mager war, doch 220 Pfund.<lb />
-Von hier aus lief der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; an verschiedenen kleinen Inseln<lb />
-vorbei und gelangte zuletzt an das Nordwestende der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt;, wel¬<lb />
-ches die &lt;place ref="https://www.wikidata.org/wiki/Q32198818"&gt;Point Five Finger&lt;/place&gt; genannte Landspitze ausmacht. Allda</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="126"/><head>Reise um die Welt</head><p/><p>bei dem Canot gewesen zu sein. Da das Wetter sehr hell war,<lb/>
+so konnte man diese Bucht heute nach allen Seiten hin überse¬<lb/>
+hen. Sie ist so geräumig, daß eine ganze Flotte darin vor An¬<lb/>
+ker liegen kann, und hat an der Südwestseite einige hohe Berge,<lb/>
+die beinahe von dem Gipfel an bis ganz an das Ufer herab mit<lb/>
+Holz bewachsen sind. Die verschiednen Landspitzen, die in die<lb/>
+See hinauslaufen, und die Inseln in der&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt; Bei&lt;/place&gt; bieten von hier<lb/>
+aus einen schönen, malerischen Anblick dar. Die Spiegelfläche<lb/>
+des Wassers, welche bei Untergang der Sonne herrlich erleuchtet<lb/>
+ward, die Mannigfaltigkeit des Grüns und der Gesang der Vö¬<lb/>
+gel, welche sich an diesem stillen Abende um die ganze Bei<lb/>
+herum hören ließen, milderten die rauhen und wilden Umrisse<lb/>
+dieser Landschaft auf eine sehr angenehm contrastirende Weise.</p><p/><p>Das Vergnügen dieses Abends lockte uns, bei dem schönen,<lb/>
+hellen Wetter des folgenden Tages, schon mit Sonnenaufgang<lb/>
+wieder nach dieser Bucht und hielt uns bis am späten Abend<lb/>
+dort zurück, da wir mit einer ganzen Ladung von neuen Vö¬<lb/>
+geln und Pflanzen wieder auf dem Schiffe anlangten. Wir hat¬<lb/>
+ten einen jungen Hund mit uns genommen, den sich einige Of¬<lb/>
+ficiere am Vorgebirge der guten Hoffnung angeschafft hatten,<lb/>
+und wollten versuchen, ob er sich nicht an das Schießen gewöh¬<lb/>
+nen und zur Jagd abrichten ließe. Aber kaum ward die erste<lb/>
+Flinte abgefeuert, als er davon und ins Holz lief, auch allem<lb/>
+Rufen und Locken unerachtet nicht zu uns zurückkommen wollte.<lb/>
+In unsrer Abwesenheit hatte Capitain Cook sich das schöne<lb/>
+Wetter ebenfalls zu Nutze gemacht, um verschiedene Gegenden<lb/>
+der Bei genauer zu untersuchen. Er kam bei dieser Gelegenheit<lb/>
+an einen kleinen Felsen, unweit unserm ersten Ankerplatz, vorbei,<lb/>
+den wir damals schon Seal rock oder Seehundfelsen genannt<lb/>
+hatten, weil eine Menge von diesen Thieren ihr gewöhnliches<lb/>
+Nachtlager dort zu nehmen pflegten. Auch heute fand er ihrer<lb/>
+eine große Anzahl daselbst und erlegte drei Stück. Einer von<lb/>
+diesen Seehunden, der zu wiederholten Malen angeschossen war,<lb/>
+ward zuletzt ganz wüthend, und fiel das Boot an, welches ihm<lb/>
+denn vollends das Leben kostete. Er war ungefähr 6 Fuß lang,<lb/>
+und wog, unerachtet er nur sehr mager war, doch 220 Pfund.<lb/>
+Von hier aus lief der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; an verschiedenen kleinen Inseln<lb/>
+vorbei und gelangte zuletzt an das Nordwestende der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt;, wel¬<lb/>
+ches die &lt;place ref="https://www.wikidata.org/wiki/Q32198818"&gt;Point Five Finger&lt;/place&gt; genannte Landspitze ausmacht. Allda</p></body></text>
+</TEI>

@@ -1,40 +1,129 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>134</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>sten Matrosen empfand die guten Wirkungen dieser veränderten<lb />
-Diät; sogar jedes Thier am Bord schien sich dabei zu erholen,<lb />
-nur unsre Schafe nicht; doch konnten diese auch, vermöge der<lb />
-Natur des Landes, bei weitem nicht so gut dran sein als wir,<lb />
-weil das ganze südliche Ende von Tawai-poe-namu, (wie die<lb />
-südliche Insel von&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt; Neu=Seeland&lt;/place&gt; in der Landessprache heißt,)<lb />
-und besonders das Land um &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dusky-Bai &lt;/place&gt;herum, überall aus<lb />
-steilen, felsigen Bergen besteht, die durch tiefe Klüfte von ein¬<lb />
-ander abgesondert und unterhalb mit dicken Wäldern bewachsen,<lb />
-an den Gipfeln aber entweder unfruchtbar oder mit Schnee be¬<lb />
-deckt sind, dergestalt, daß es nirgends, weder Wiesen, noch flache<lb />
-Gründe giebt. Die einzigen Stellen, wo ein Fleck flaches Land<lb />
-anzutreffen war, fanden sich im Hintergrunde der Buchten, da,<lb />
-wo irgend ein Bach ins Meer sloß. Diese hatten allem An-<lb />
-schein nach aus den Höhen Erde und Steine herabgeführt und<lb />
-solche an ihren Ufern abgesetzt, wodurch nach und nach ein nie¬<lb />
-driger, flacher Grund entstanden war; allein auch dort wuchsen<lb />
-mehrentheils Stauden und Dornengebüsch, oder wenn es ja nahe<lb />
-am Wasser etwas Riedgras gab, so war es doch zu wenig, auch<lb />
-so hart und grob, daß es nicht zur Weide dienen konnte. Was<lb />
-das ärgste war, so mußten wir sehen, daß selbst unsre Mühe,<lb />
-die jüngsten Grossprossen zum Futter aufzusuchen, zu nichts<lb />
-diente, denn auch dieses wollten die Schafe zu Jedermanns Ver¬<lb />
-wunderung nicht anrühren. Bei genauerer Untersuchung fand<lb />
-sich, daß ihre Zähne los waren, und daß sie alle Anzeichen ei¬<lb />
-nes recht bösartigen Scorbuts an sich hatten. Von vier Mut¬<lb />
-terschafen und zwei Böcken, die &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; vom Vorgebirge<lb />
-der guten Hoffnung mitgenommen, um sie an der Küste von<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seeland&lt;/place&gt; auszusetzen, hatten wir nur zwei Stück, nämlich<lb />
-ein Schaf und einen Widder erhalten können, und auch diese<lb />
-waren in so elenden Umständen, daß es noch sehr dahin stand,<lb />
-ob sie am Leben bleiben oder gleich den andern nicht ebenfalls<lb />
-drauf gehen würden. Wenn daher in der Folge irgend ein<lb />
-Seefahrer so schätzbare Geschenke, als Vieh, unter die Einwohner<lb />
-der Südsee auszutheilen willens ist, so wird er diese wohlthätige<lb />
-Absicht nicht anders erreichen und das Vieh gesund dahin brin¬<lb />
-gen können, als wenn er die Ueberfahrt auf das geschwindeste<lb />
-zurückzulegen und der Kälte auszuweichen sucht, zu welchem<lb />
-Ende er in der besten Jahreszeit den kürzesten Weg vom &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cap&lt;/persName&gt;</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="134"/><head>Reise um die Welt</head><p/><p>sten Matrosen empfand die guten Wirkungen dieser veränderten<lb/>
+Diät; sogar jedes Thier am Bord schien sich dabei zu erholen,<lb/>
+nur unsre Schafe nicht; doch konnten diese auch, vermöge der<lb/>
+Natur des Landes, bei weitem nicht so gut dran sein als wir,<lb/>
+weil das ganze südliche Ende von Tawai-poe-namu, (wie die<lb/>
+südliche Insel von&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt; Neu=Seeland&lt;/place&gt; in der Landessprache heißt,)<lb/>
+und besonders das Land um &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Dusky-Bai &lt;/place&gt;herum, überall aus<lb/>
+steilen, felsigen Bergen besteht, die durch tiefe Klüfte von ein¬<lb/>
+ander abgesondert und unterhalb mit dicken Wäldern bewachsen,<lb/>
+an den Gipfeln aber entweder unfruchtbar oder mit Schnee be¬<lb/>
+deckt sind, dergestalt, daß es nirgends, weder Wiesen, noch flache<lb/>
+Gründe giebt. Die einzigen Stellen, wo ein Fleck flaches Land<lb/>
+anzutreffen war, fanden sich im Hintergrunde der Buchten, da,<lb/>
+wo irgend ein Bach ins Meer sloß. Diese hatten allem An-<lb/>
+schein nach aus den Höhen Erde und Steine herabgeführt und<lb/>
+solche an ihren Ufern abgesetzt, wodurch nach und nach ein nie¬<lb/>
+driger, flacher Grund entstanden war; allein auch dort wuchsen<lb/>
+mehrentheils Stauden und Dornengebüsch, oder wenn es ja nahe<lb/>
+am Wasser etwas Riedgras gab, so war es doch zu wenig, auch<lb/>
+so hart und grob, daß es nicht zur Weide dienen konnte. Was<lb/>
+das ärgste war, so mußten wir sehen, daß selbst unsre Mühe,<lb/>
+die jüngsten Grossprossen zum Futter aufzusuchen, zu nichts<lb/>
+diente, denn auch dieses wollten die Schafe zu Jedermanns Ver¬<lb/>
+wunderung nicht anrühren. Bei genauerer Untersuchung fand<lb/>
+sich, daß ihre Zähne los waren, und daß sie alle Anzeichen ei¬<lb/>
+nes recht bösartigen Scorbuts an sich hatten. Von vier Mut¬<lb/>
+terschafen und zwei Böcken, die &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; vom Vorgebirge<lb/>
+der guten Hoffnung mitgenommen, um sie an der Küste von<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seeland&lt;/place&gt; auszusetzen, hatten wir nur zwei Stück, nämlich<lb/>
+ein Schaf und einen Widder erhalten können, und auch diese<lb/>
+waren in so elenden Umständen, daß es noch sehr dahin stand,<lb/>
+ob sie am Leben bleiben oder gleich den andern nicht ebenfalls<lb/>
+drauf gehen würden. Wenn daher in der Folge irgend ein<lb/>
+Seefahrer so schätzbare Geschenke, als Vieh, unter die Einwohner<lb/>
+der Südsee auszutheilen willens ist, so wird er diese wohlthätige<lb/>
+Absicht nicht anders erreichen und das Vieh gesund dahin brin¬<lb/>
+gen können, als wenn er die Ueberfahrt auf das geschwindeste<lb/>
+zurückzulegen und der Kälte auszuweichen sucht, zu welchem<lb/>
+Ende er in der besten Jahreszeit den kürzesten Weg vom &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cap&lt;/persName&gt;</p></body></text>
+</TEI>

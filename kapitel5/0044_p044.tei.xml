@@ -1,36 +1,125 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>158</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>drei Monaten nicht würden zu Stande gebracht haben. Den<lb />
-öden und wilden Fleck, auf dem sonst unzählbare Pflanzen, sich<lb />
-selbst überlassen, wuchsen und wieder vergingen, den hatten wir<lb />
-zu einer lebendigen Gegend umgeschaffen in welcher hundert und<lb />
-zwanzig Mann unablässig auf verschiedene Weise beschäftigt<lb />
-waren</paragraph><paragraph>Quales apes aestate nova per florea rura<lb />
-Exercet sub sole labor.<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q1398"&gt;Virgil&lt;/persName&gt;.</paragraph><paragraph /><paragraph>Wir fällten Zimmerholz, das ohne uns durch Zeit und Alter<lb />
-umgefallen und verfault sein würde. Unsre Brettschneider säg¬<lb />
-ten Planken daraus oder es ward zu Brennholz gehauen. An<lb />
-einem rauschenden Bach, dem wir einen bequemern Ausfluß in<lb />
-die See verschafften, stand die Arbeit unsrer Böttcher, ganze Rei¬<lb />
-hen von neuen oder ausgebesserten Fässern, um mit Wasser ge¬<lb />
-füllt zu werden. Hier Dampfte ein großer Kessel, in welchem<lb />
-für unsre Arbeiter aus einländischen, bisher nicht geachteten Pflan¬<lb />
-zen, ein gesundes, wohlschmeckendes Getränk gebrauet ward.<lb />
-Nahebei kochten unsre Leute vortreffliche Fische für ihre Came¬<lb />
-raden, die zum Theil an den Außenseiten und Masten des Schif¬<lb />
-fes arbeiteten, um solches zu reinigen, zu kalfatern und das Tau¬<lb />
-werk wieder in Stand zu setzen. So verschiedene Arbeiten be¬<lb />
-lebten die Scene und waren in mannigfaltigem Geräusche zu<lb />
-hören, indeß der benachbarte Berg von den abgemessenen Schlä¬<lb />
-gen der Schmiedehämmer laut wiederschallte. Selbst die schönen<lb />
-Künste blühten in dieser neuen Colonie auf. Ein Anfänger in<lb />
-der Kunst *), zeichnete hier in seinem Noviciat die verschiedenen<lb />
-Thiere und Pflanzen dieser unbesuchten Wälder; die romanti¬<lb />
-schen Respecte des wilden, rauhen Landes hingegen standen mit<lb />
-den glühenden Farben der Schöpfung geschildert da, und die<lb />
-Natur wunderte sich gleichsam, auf des Künstlers (&lt;persName ref="https://www.wikidata.org/wiki/Q730841"&gt;Herrn Hod¬&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q730841"&gt;ges&lt;/persName&gt;) Staffelei so richtig nachgeahmt zu erscheinen. Auch die<lb />
-höhern Wissenschaften hatten diese wilde Einöde mit ihrer Ge¬<lb />
-genwart beehrt. Mitten unter den mechanischen Arbeiten regte<lb />
-eine Sternwarte empor, die mit den besten Instrumenten verse¬<lb />
-hen war, durch welche des Sternkundigen wachender Fleiß den<lb />
-Gang der Gestirne beobachtete. Die Pflanzen, die der Boden</paragraph><footer>*) Der Verfasser selbst ist gemeint.  A. d. H.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="158"/><head>Reise um die Welt</head><p/><p>drei Monaten nicht würden zu Stande gebracht haben. Den<lb/>
+öden und wilden Fleck, auf dem sonst unzählbare Pflanzen, sich<lb/>
+selbst überlassen, wuchsen und wieder vergingen, den hatten wir<lb/>
+zu einer lebendigen Gegend umgeschaffen in welcher hundert und<lb/>
+zwanzig Mann unablässig auf verschiedene Weise beschäftigt<lb/>
+waren</p><p>Quales apes aestate nova per florea rura<lb/>
+Exercet sub sole labor.<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q1398"&gt;Virgil&lt;/persName&gt;.</p><p/><p>Wir fällten Zimmerholz, das ohne uns durch Zeit und Alter<lb/>
+umgefallen und verfault sein würde. Unsre Brettschneider säg¬<lb/>
+ten Planken daraus oder es ward zu Brennholz gehauen. An<lb/>
+einem rauschenden Bach, dem wir einen bequemern Ausfluß in<lb/>
+die See verschafften, stand die Arbeit unsrer Böttcher, ganze Rei¬<lb/>
+hen von neuen oder ausgebesserten Fässern, um mit Wasser ge¬<lb/>
+füllt zu werden. Hier Dampfte ein großer Kessel, in welchem<lb/>
+für unsre Arbeiter aus einländischen, bisher nicht geachteten Pflan¬<lb/>
+zen, ein gesundes, wohlschmeckendes Getränk gebrauet ward.<lb/>
+Nahebei kochten unsre Leute vortreffliche Fische für ihre Came¬<lb/>
+raden, die zum Theil an den Außenseiten und Masten des Schif¬<lb/>
+fes arbeiteten, um solches zu reinigen, zu kalfatern und das Tau¬<lb/>
+werk wieder in Stand zu setzen. So verschiedene Arbeiten be¬<lb/>
+lebten die Scene und waren in mannigfaltigem Geräusche zu<lb/>
+hören, indeß der benachbarte Berg von den abgemessenen Schlä¬<lb/>
+gen der Schmiedehämmer laut wiederschallte. Selbst die schönen<lb/>
+Künste blühten in dieser neuen Colonie auf. Ein Anfänger in<lb/>
+der Kunst *), zeichnete hier in seinem Noviciat die verschiedenen<lb/>
+Thiere und Pflanzen dieser unbesuchten Wälder; die romanti¬<lb/>
+schen Respecte des wilden, rauhen Landes hingegen standen mit<lb/>
+den glühenden Farben der Schöpfung geschildert da, und die<lb/>
+Natur wunderte sich gleichsam, auf des Künstlers (&lt;persName ref="https://www.wikidata.org/wiki/Q730841"&gt;Herrn Hod¬&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q730841"&gt;ges&lt;/persName&gt;) Staffelei so richtig nachgeahmt zu erscheinen. Auch die<lb/>
+höhern Wissenschaften hatten diese wilde Einöde mit ihrer Ge¬<lb/>
+genwart beehrt. Mitten unter den mechanischen Arbeiten regte<lb/>
+eine Sternwarte empor, die mit den besten Instrumenten verse¬<lb/>
+hen war, durch welche des Sternkundigen wachender Fleiß den<lb/>
+Gang der Gestirne beobachtete. Die Pflanzen, die der Boden</p><footer>*) Der Verfasser selbst ist gemeint.  A. d. H.</footer></body></text>
+</TEI>

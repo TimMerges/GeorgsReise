@@ -1,39 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>124</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>sich vor, sie noch heute Nachmittag am Lande zu besuchen, um<lb />
-ihnen die Besorgniß zu benehmen, worin sie unserwegen zu sein<lb />
-schienen. Er ließ zu dem Ende zwei Boote aussetzen und fuhr<lb />
-nebst uns und verschiednen Officieren nach der Bucht hin, wo<lb />
-sich die Wilden zuerst hatten sehen lassen. Hier fanden wir ein<lb />
-doppeltes Canot, das neben etlichen alten, niedrigen Hütten aufs<lb />
-Land gezogen war, und in der Nachbarschaft sah man einige<lb />
-Stellen, wo Feuer gebrannt hatte, auch lagen Fischnetze und Fische<lb />
-umher. Das Canot war alt und in schlechtem Stande. Es<lb />
-bestand aus zwei Trögen oder Booten, die in der Mitte durch<lb />
-Querhölzer verbunden und mit Stricken von der &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seelän-&lt;/place&gt;<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;dischen&lt;/place&gt; Flachspflanze*) zusammen gekoppelt waren. Ein jedes<lb />
-einzelne dieser mit einander verbundnen Boote war für sich aus<lb />
-Planken verfertigt, die mit Schnüren aneinander genähet, und<lb />
-am Vordertheil durch ein grobgeschnitztes Menschengesicht verzie¬<lb />
-ret waren, in welchem sie statt der Augen kleine Stücke von<lb />
-perlmutterartigen Seeohr-Muscheln eingesetzt hatten. In diesem<lb />
-Canot fanden wir zwei Ruder, einen Korb voll Beeren von der<lb />
-coriaria ruscifolia Linnai und einige Fische. Von den Leuten<lb />
-aber bekamen wir nichts zu hören und zu sehen, weil sie, allem<lb />
-Anschein nach, in den Wald geflüchtet waren. Um uns ihr<lb />
-Vertrauen und Zuneigung zu erwerben, legten wir ihnen einige<lb />
-Schaumünzen, Spiegel, Glas-Korallen und andre Kleinigkeiten<lb />
-in das Canot und gingen, ohne weitern Aufenthalt, wieder zu<lb />
-unserm Boot, um tiefer in die Bucht hinein zu rudern und ei¬<lb />
-nen Plan von derselben aufzunehmen. Bei dieser Gelegenheit<lb />
-fanden wir einen schönen Bach, der sich über den flachen Strand<lb />
-ins Meer ergoß, welches hier eine ganze Strecke lang so seicht<lb />
-war, daß wir mit dem Boote einige Mal auf den Grund stie¬<lb />
-ßen. Enten, Seeraben (Shags), schwarze Austerfänger (Oyster¬<lb />
-catchers) und Kibitzarten (ployers) gab es hier in großer Menge.<lb />
-Auf dem Rückwege konnten wir uns nicht enthalten, noch einmal<lb />
-nach dem Canot hinzusehen; fanden aber noch alles wie wir es<lb />
-verlassen hatten. Den Werth, der bereits vorher zurückgelassenen<lb />
-Geschenke zu erhöhen, fügten wir jetzt noch ein Beil hinzu, und<lb />
-um ihnen den Gebrauch desselben begreiflich zu machen, haueten<lb />
-wir einige Späne von einem Baume ab, und ließen es alsdann</paragraph><footer>*) Siehe &lt;persName ref="https://www.wikidata.org/wiki/Q3181710"&gt;Hawkesworths&lt;/persName&gt; Geschichte der engl. Seereisen in 8. dritter<lb />
-Band, pag. 275 u. f.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="124"/><head>Reise um die Welt</head><p/><p>sich vor, sie noch heute Nachmittag am Lande zu besuchen, um<lb/>
+ihnen die Besorgniß zu benehmen, worin sie unserwegen zu sein<lb/>
+schienen. Er ließ zu dem Ende zwei Boote aussetzen und fuhr<lb/>
+nebst uns und verschiednen Officieren nach der Bucht hin, wo<lb/>
+sich die Wilden zuerst hatten sehen lassen. Hier fanden wir ein<lb/>
+doppeltes Canot, das neben etlichen alten, niedrigen Hütten aufs<lb/>
+Land gezogen war, und in der Nachbarschaft sah man einige<lb/>
+Stellen, wo Feuer gebrannt hatte, auch lagen Fischnetze und Fische<lb/>
+umher. Das Canot war alt und in schlechtem Stande. Es<lb/>
+bestand aus zwei Trögen oder Booten, die in der Mitte durch<lb/>
+Querhölzer verbunden und mit Stricken von der &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seelän-&lt;/place&gt;<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;dischen&lt;/place&gt; Flachspflanze*) zusammen gekoppelt waren. Ein jedes<lb/>
+einzelne dieser mit einander verbundnen Boote war für sich aus<lb/>
+Planken verfertigt, die mit Schnüren aneinander genähet, und<lb/>
+am Vordertheil durch ein grobgeschnitztes Menschengesicht verzie¬<lb/>
+ret waren, in welchem sie statt der Augen kleine Stücke von<lb/>
+perlmutterartigen Seeohr-Muscheln eingesetzt hatten. In diesem<lb/>
+Canot fanden wir zwei Ruder, einen Korb voll Beeren von der<lb/>
+coriaria ruscifolia Linnai und einige Fische. Von den Leuten<lb/>
+aber bekamen wir nichts zu hören und zu sehen, weil sie, allem<lb/>
+Anschein nach, in den Wald geflüchtet waren. Um uns ihr<lb/>
+Vertrauen und Zuneigung zu erwerben, legten wir ihnen einige<lb/>
+Schaumünzen, Spiegel, Glas-Korallen und andre Kleinigkeiten<lb/>
+in das Canot und gingen, ohne weitern Aufenthalt, wieder zu<lb/>
+unserm Boot, um tiefer in die Bucht hinein zu rudern und ei¬<lb/>
+nen Plan von derselben aufzunehmen. Bei dieser Gelegenheit<lb/>
+fanden wir einen schönen Bach, der sich über den flachen Strand<lb/>
+ins Meer ergoß, welches hier eine ganze Strecke lang so seicht<lb/>
+war, daß wir mit dem Boote einige Mal auf den Grund stie¬<lb/>
+ßen. Enten, Seeraben (Shags), schwarze Austerfänger (Oyster¬<lb/>
+catchers) und Kibitzarten (ployers) gab es hier in großer Menge.<lb/>
+Auf dem Rückwege konnten wir uns nicht enthalten, noch einmal<lb/>
+nach dem Canot hinzusehen; fanden aber noch alles wie wir es<lb/>
+verlassen hatten. Den Werth, der bereits vorher zurückgelassenen<lb/>
+Geschenke zu erhöhen, fügten wir jetzt noch ein Beil hinzu, und<lb/>
+um ihnen den Gebrauch desselben begreiflich zu machen, haueten<lb/>
+wir einige Späne von einem Baume ab, und ließen es alsdann</p><footer>*) Siehe &lt;persName ref="https://www.wikidata.org/wiki/Q3181710"&gt;Hawkesworths&lt;/persName&gt; Geschichte der engl. Seereisen in 8. dritter<lb/>
+Band, pag. 275 u. f.</footer></body></text>
+</TEI>

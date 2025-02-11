@@ -1,39 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>121</page-number><paragraph /><paragraph>nen sie zu schießen, wenn sie so nahe waren; aber in wenig<lb />
-Tagen ward sie ihnen sehr nachtheilig und verderblich, weil eine<lb />
-Katze aus unserm Schiff nicht so bald ausfindig gemacht hatte,<lb />
-daß hier eine so treffliche Gelegenheit zu einem herrlichen Fraße<lb />
-sei, als sie richtig alle Morgen einen Spaziergang ins Holz<lb />
-vornahm, und eine schreckliche Niederlage unter den kleinen Vö-<lb />
-geln anrichtete, die sich vor einem so hinterlistigen Feinde nicht<lb />
-hüteten, weil sie nichts Arges von ihm vermutheten.</paragraph><paragraph /><paragraph>Bei dem Überfluß an Fischen und der Menge von Wasser¬<lb />
-vögeln, die uns mehrere Arten von Fleischspeisen zu versprechen<lb />
-schien, fehlte es unsrer Tafel gleichsam nur noch allein an fri¬<lb />
-schem Gemüse. Diesem Mangel suchten wir daher auf unsren<lb />
-ersten botanischen Spaziergängen abzuhelfen, und fanden auch<lb />
-gleich den Tag nach unsrer Ankunft einen zum Myrthenge¬<lb />
-schlecht gehörigen, schönen Baum, der eben in Blüthe stand, und<lb />
-davon auf &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cooks &lt;/persName&gt;erster Reise eine Infusion, statt Thee<lb />
-war getrunken worden. Obgleich uns dies noch keine Schüssel<lb />
-gab, so war es uns doch, als ein frisches Kraut, willkommen<lb />
-und ward daher auch gleich versucht. Die Blätter waren ange¬<lb />
-nehm promatisch, etwas zusammenziehend, und gaben beim ersten<lb />
-Aufguß dem Wasser einen ganz besonders lieblichen Geschmack;<lb />
-allein, wenn zum zweiten Mal siedendes Wasser aufgegossen<lb />
-ward, so verschwand dieser angenehme Geschmack, und statt des¬<lb />
-sen bekam die Infusion eine ungemeine Bitterkeit, daher wir es<lb />
-auch nie zum zweiten Male ziehen ließen. Der Gebrauch dieser<lb />
-Pflanze ward unter unsern Leuten bald allgemein, und trug dem<lb />
-Ansehn nach viel dazu bei, das Blut zu reinigen und alle scor-<lb />
-butischen Symptome zu vertreiben. Da diese Pflanze künftigen<lb />
-Seefahrern sehr nützlich werden kann, so verdiente sie bekannter<lb />
-und folglich gezeichnet zu werden. Wir haben daher dem &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capi-&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;tain Cook&lt;/persName&gt; sehr gern erlaubt von unserer Zeichnung Gebrauch<lb />
-zu machen, und sie ist auf Befehl der Admiralität gestochen und<lb />
-seiner Reisebeschreibung beigefügt. Auch in gegenwärtiger deut¬<lb />
-schen Ausgabe unsrer Reisegeschichte wird sie der naturkundige<lb />
-Leser, hoffentlich mit Vergnügen, antreffen. *) In gutem Bo-<lb />
-den und dicken Wäldern wächst sie bis zur Größe eines ansehn¬<lb />
-lichen Baumes, der oft dreißig bis vierzig Fuß hoch ist, und</paragraph><footer>*) Wir haben es für unnöthig gehalten die wenigen, der Reisebe¬<lb />
-schreibung beigegebenen Zeichnungen, wiederzugeben. A. d. H.<lb />
-G. Forster's Schriften. I.     6</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="121"/><p/><p>nen sie zu schießen, wenn sie so nahe waren; aber in wenig<lb/>
+Tagen ward sie ihnen sehr nachtheilig und verderblich, weil eine<lb/>
+Katze aus unserm Schiff nicht so bald ausfindig gemacht hatte,<lb/>
+daß hier eine so treffliche Gelegenheit zu einem herrlichen Fraße<lb/>
+sei, als sie richtig alle Morgen einen Spaziergang ins Holz<lb/>
+vornahm, und eine schreckliche Niederlage unter den kleinen Vö-<lb/>
+geln anrichtete, die sich vor einem so hinterlistigen Feinde nicht<lb/>
+hüteten, weil sie nichts Arges von ihm vermutheten.</p><p/><p>Bei dem Überfluß an Fischen und der Menge von Wasser¬<lb/>
+vögeln, die uns mehrere Arten von Fleischspeisen zu versprechen<lb/>
+schien, fehlte es unsrer Tafel gleichsam nur noch allein an fri¬<lb/>
+schem Gemüse. Diesem Mangel suchten wir daher auf unsren<lb/>
+ersten botanischen Spaziergängen abzuhelfen, und fanden auch<lb/>
+gleich den Tag nach unsrer Ankunft einen zum Myrthenge¬<lb/>
+schlecht gehörigen, schönen Baum, der eben in Blüthe stand, und<lb/>
+davon auf &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cooks &lt;/persName&gt;erster Reise eine Infusion, statt Thee<lb/>
+war getrunken worden. Obgleich uns dies noch keine Schüssel<lb/>
+gab, so war es uns doch, als ein frisches Kraut, willkommen<lb/>
+und ward daher auch gleich versucht. Die Blätter waren ange¬<lb/>
+nehm promatisch, etwas zusammenziehend, und gaben beim ersten<lb/>
+Aufguß dem Wasser einen ganz besonders lieblichen Geschmack;<lb/>
+allein, wenn zum zweiten Mal siedendes Wasser aufgegossen<lb/>
+ward, so verschwand dieser angenehme Geschmack, und statt des¬<lb/>
+sen bekam die Infusion eine ungemeine Bitterkeit, daher wir es<lb/>
+auch nie zum zweiten Male ziehen ließen. Der Gebrauch dieser<lb/>
+Pflanze ward unter unsern Leuten bald allgemein, und trug dem<lb/>
+Ansehn nach viel dazu bei, das Blut zu reinigen und alle scor-<lb/>
+butischen Symptome zu vertreiben. Da diese Pflanze künftigen<lb/>
+Seefahrern sehr nützlich werden kann, so verdiente sie bekannter<lb/>
+und folglich gezeichnet zu werden. Wir haben daher dem &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capi-&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;tain Cook&lt;/persName&gt; sehr gern erlaubt von unserer Zeichnung Gebrauch<lb/>
+zu machen, und sie ist auf Befehl der Admiralität gestochen und<lb/>
+seiner Reisebeschreibung beigefügt. Auch in gegenwärtiger deut¬<lb/>
+schen Ausgabe unsrer Reisegeschichte wird sie der naturkundige<lb/>
+Leser, hoffentlich mit Vergnügen, antreffen. *) In gutem Bo-<lb/>
+den und dicken Wäldern wächst sie bis zur Größe eines ansehn¬<lb/>
+lichen Baumes, der oft dreißig bis vierzig Fuß hoch ist, und</p><footer>*) Wir haben es für unnöthig gehalten die wenigen, der Reisebe¬<lb/>
+schreibung beigegebenen Zeichnungen, wiederzugeben. A. d. H.<lb/>
+G. Forster's Schriften. I.     6</footer></body></text>
+</TEI>

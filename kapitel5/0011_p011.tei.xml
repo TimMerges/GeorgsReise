@@ -1,39 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>125</page-number><paragraph /><paragraph>in dem Stamme stecken. Allein unsre Hauptabsicht erreichten<lb />
-wir bei diesem zweiten Besuche eben so wenig, als bei dem vor¬<lb />
-hergehenden, denn wir bekamen abermals keinen von den Ein¬<lb />
-wohnern zu sehen, unerachtet sie, unserm Bedünken nach, nicht<lb />
-weit weg sein konnten, und wir sogar den Rauch von ihren<lb />
-Feuern zu riechen glaubten. Vermuthlich wären sie in dem nah<lb />
-gelegenen Walde leicht zu entdecken gewesen; da sie uns aber<lb />
-so geflissentlich aus dem Wege gegangen zu sein schienen, so<lb />
-wollte sie der&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt; Capitain&lt;/persName&gt; nicht aufsuchen lassen, sondern es lieber<lb />
-der Zeit und ihrem freien Willen anheim stellen, ob sie näher<lb />
-mit uns bekannt werden wollten oder nicht. Unterdessen war<lb />
-die Zeit so weit verstrichen, daß wir erst am späten Abend wie¬<lb />
-der an das Schiff zurück kamen.</paragraph><paragraph /><paragraph>Den ganzen folgenden Morgen regnete es heftig; Nachmit¬<lb />
-tags aber klärte sich das Wetter auf und verstattete uns in das<lb />
-auf dem jenseitigen Ufer der Bucht gelegene Holz zu gehen.<lb />
-Allein, wir fanden es jetzt doppelt mühsam darin fortzukommen,<lb />
-denn außer den bereits angezeigten Schwierigkeiten, sich durch<lb />
-die Schlingstauden und durch die umgefallenen Bäume hindurch<lb />
-zu arbeiten, hatte der heutige Regen das Erdreich dermaßen<lb />
-durchgeweicht und schlüpfrig gemacht, daß man fast bei jedem<lb />
-Schritte ausgleitete. Indessen ward unsre Mühe wenigstens da¬<lb />
-durch belohnt, daß wir noch einige Pflanzen in der Blüthe an¬<lb />
-trafen, unerachtet es hier zu Lande schon sehr spät im Jahre<lb />
-war. Außerdem erregte eine Menge von unbekannten Bäumen<lb />
-und Sträuchern unsre Verwunderung über den Reichthum die¬<lb />
-ses Landes an neuen Pflanzen, allein dabei mußten wir es auch<lb />
-bewenden lassen, denn es waren weder Blüthen noch Frucht<lb />
-mehr daran vorhanden, und folglich keine nähere botanische Un-<lb />
-tersuchung möglich.</paragraph><paragraph /><paragraph>Die beiden folgenden Tage über hielt uns das regnigte<lb />
-und stürmische Wetter an Bord eingeschlossen, und benahm uns<lb />
-fast den Muth, denn wenn diese Witterung so anhielt, welches<lb />
-der Jahreszeit nach allerdings zu befürchten stand, so ließ sich<lb />
-voraus sehen, wie unangenehm wir die Zeit unsers übrigen Auf-<lb />
-enthalts allhier zubringen würden. In dieser Besorgniß wand¬<lb />
-ten wir, am 1. April Nachmittags, den ersten heitern Augen¬<lb />
-blick dazu an, die Bucht wieder zu besuchen, in welcher wir die<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt; gesehen hatten. Wir fanden daselbst noch alles, wie<lb />
-wir es verlassen, und es schien die ganze Zeit über Niemand</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="125"/><p/><p>in dem Stamme stecken. Allein unsre Hauptabsicht erreichten<lb/>
+wir bei diesem zweiten Besuche eben so wenig, als bei dem vor¬<lb/>
+hergehenden, denn wir bekamen abermals keinen von den Ein¬<lb/>
+wohnern zu sehen, unerachtet sie, unserm Bedünken nach, nicht<lb/>
+weit weg sein konnten, und wir sogar den Rauch von ihren<lb/>
+Feuern zu riechen glaubten. Vermuthlich wären sie in dem nah<lb/>
+gelegenen Walde leicht zu entdecken gewesen; da sie uns aber<lb/>
+so geflissentlich aus dem Wege gegangen zu sein schienen, so<lb/>
+wollte sie der&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt; Capitain&lt;/persName&gt; nicht aufsuchen lassen, sondern es lieber<lb/>
+der Zeit und ihrem freien Willen anheim stellen, ob sie näher<lb/>
+mit uns bekannt werden wollten oder nicht. Unterdessen war<lb/>
+die Zeit so weit verstrichen, daß wir erst am späten Abend wie¬<lb/>
+der an das Schiff zurück kamen.</p><p/><p>Den ganzen folgenden Morgen regnete es heftig; Nachmit¬<lb/>
+tags aber klärte sich das Wetter auf und verstattete uns in das<lb/>
+auf dem jenseitigen Ufer der Bucht gelegene Holz zu gehen.<lb/>
+Allein, wir fanden es jetzt doppelt mühsam darin fortzukommen,<lb/>
+denn außer den bereits angezeigten Schwierigkeiten, sich durch<lb/>
+die Schlingstauden und durch die umgefallenen Bäume hindurch<lb/>
+zu arbeiten, hatte der heutige Regen das Erdreich dermaßen<lb/>
+durchgeweicht und schlüpfrig gemacht, daß man fast bei jedem<lb/>
+Schritte ausgleitete. Indessen ward unsre Mühe wenigstens da¬<lb/>
+durch belohnt, daß wir noch einige Pflanzen in der Blüthe an¬<lb/>
+trafen, unerachtet es hier zu Lande schon sehr spät im Jahre<lb/>
+war. Außerdem erregte eine Menge von unbekannten Bäumen<lb/>
+und Sträuchern unsre Verwunderung über den Reichthum die¬<lb/>
+ses Landes an neuen Pflanzen, allein dabei mußten wir es auch<lb/>
+bewenden lassen, denn es waren weder Blüthen noch Frucht<lb/>
+mehr daran vorhanden, und folglich keine nähere botanische Un-<lb/>
+tersuchung möglich.</p><p/><p>Die beiden folgenden Tage über hielt uns das regnigte<lb/>
+und stürmische Wetter an Bord eingeschlossen, und benahm uns<lb/>
+fast den Muth, denn wenn diese Witterung so anhielt, welches<lb/>
+der Jahreszeit nach allerdings zu befürchten stand, so ließ sich<lb/>
+voraus sehen, wie unangenehm wir die Zeit unsers übrigen Auf-<lb/>
+enthalts allhier zubringen würden. In dieser Besorgniß wand¬<lb/>
+ten wir, am 1. April Nachmittags, den ersten heitern Augen¬<lb/>
+blick dazu an, die Bucht wieder zu besuchen, in welcher wir die<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt; gesehen hatten. Wir fanden daselbst noch alles, wie<lb/>
+wir es verlassen, und es schien die ganze Zeit über Niemand</p></body></text>
+</TEI>

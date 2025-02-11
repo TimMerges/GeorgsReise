@@ -1,41 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>137</page-number><paragraph /><paragraph>meisterhafter Täuschung nachzuahmen. Die Stücke dieses Künst¬<lb />
-lers machen seinen Talenten und seiner Beurtheilungskraft, so wie<lb />
-dem Geschmack und der Wahl seiner Beförderer ungemein viel Ehre.<lb />
-Nachdem wir uns an diesem prächtigen Schauspiel lange<lb />
-genug vergnügt hatten, wandten wir unsre Aufmerksamkeit auf<lb />
-die Blumen, welche in dieser Gegend den Boden belebten, und<lb />
-auf die Vögel, die so lustig um uns her sangen. Bis jetzt hat¬<lb />
-ten wir noch an keinem Ort der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; die Natur im Pflanzen¬<lb />
-und Thierreiche so schön und reich gefunden, wie hier. Viel¬<lb />
-leicht machte die stärkere Brechung der Sonnenstrahlen an den<lb />
-steilen Felsenwänden und die bedeckte Lage gegen die Stürme,<lb />
-das Klima hier milder als anderer Orten, denn der Boden an<lb />
-und für sich war um nichts besser als an andern Stellen der<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bai&lt;/place&gt;. Er bestand hier, wie überall, aus guter fruchtbarer Erde,<lb />
-und die Felsen und Steine um die Cascade waren theils Gra¬<lb />
-nitmassen (Saxum), theils eine Art von gelblichem, kalkigen Thon-<lb />
-stein in Schichten, der durch ganz &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seeland&lt;/place&gt; sehr gemein ist.<lb />
-Gegen Abend kehrten wir, mit unsern heutigen Entdeckun¬<lb />
-gen überaus zufrieden, an Bord zurück. Bei der Ankunft da¬<lb />
-selbst erzählte man uns, daß die indianische Familie, welche wir<lb />
-des Morgens in ihrem größten Staat nach der Bucht hatten<lb />
-hineinrudern sehen, sich nach und nach, aber mit großer Behut¬<lb />
-samkeit, dem Schiffe genähert habe. &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; war ihnen<lb />
-in einem Boot entgegen gegangen, hatte sie aber nicht bewegen<lb />
-können an Bord des Schiffs zu kommen, und mußte sie daher<lb />
-ihrem eignen Willen überlassen. Dieser führte sie, nicht lange<lb />
-nachher, in eine kleine Bucht nahe bei der unsrigen, allwo sie<lb />
-sich, dem Schiffe gegenüber, ans Ufer setzten, und so nahe wa¬<lb />
-ren, daß man sie hören und sprechen konnte. Der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; ließ<lb />
-die Querpfeife und den Judelsack spielen und dazu trommeln<lb />
-allein auch dies konnte sie nicht näher locken, denn aus dem<lb />
-Pfeifen schienen sie sich gar nichts zu machen, und auf das<lb />
-Trommeln achteten sie eben so wenig. Da solchergestalt nichts<lb />
-vermögend war sie an das Schiff zu bringen, so ruderten ver¬<lb />
-schiedne Officiere und Seeleute zu ihnen hinüber. Die Wilden<lb />
-nahmen sie mit treuherzigem Wesen auf, aber alle Versuche<lb />
-durch Zeichen mit ihnen zu reden, waren vergebens, denn keiner<lb />
-von beiden Theilen konnte sich dem andern verständlich genug<lb />
-machen. Das Mädchen hatte anfänglich eine besondre Neigung<lb />
-und Zudringlichkeit zu einem jungen Matrosen gezeigt, den sie</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="137"/><p/><p>meisterhafter Täuschung nachzuahmen. Die Stücke dieses Künst¬<lb/>
+lers machen seinen Talenten und seiner Beurtheilungskraft, so wie<lb/>
+dem Geschmack und der Wahl seiner Beförderer ungemein viel Ehre.<lb/>
+Nachdem wir uns an diesem prächtigen Schauspiel lange<lb/>
+genug vergnügt hatten, wandten wir unsre Aufmerksamkeit auf<lb/>
+die Blumen, welche in dieser Gegend den Boden belebten, und<lb/>
+auf die Vögel, die so lustig um uns her sangen. Bis jetzt hat¬<lb/>
+ten wir noch an keinem Ort der &lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bei&lt;/place&gt; die Natur im Pflanzen¬<lb/>
+und Thierreiche so schön und reich gefunden, wie hier. Viel¬<lb/>
+leicht machte die stärkere Brechung der Sonnenstrahlen an den<lb/>
+steilen Felsenwänden und die bedeckte Lage gegen die Stürme,<lb/>
+das Klima hier milder als anderer Orten, denn der Boden an<lb/>
+und für sich war um nichts besser als an andern Stellen der<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q49300219"&gt;Bai&lt;/place&gt;. Er bestand hier, wie überall, aus guter fruchtbarer Erde,<lb/>
+und die Felsen und Steine um die Cascade waren theils Gra¬<lb/>
+nitmassen (Saxum), theils eine Art von gelblichem, kalkigen Thon-<lb/>
+stein in Schichten, der durch ganz &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seeland&lt;/place&gt; sehr gemein ist.<lb/>
+Gegen Abend kehrten wir, mit unsern heutigen Entdeckun¬<lb/>
+gen überaus zufrieden, an Bord zurück. Bei der Ankunft da¬<lb/>
+selbst erzählte man uns, daß die indianische Familie, welche wir<lb/>
+des Morgens in ihrem größten Staat nach der Bucht hatten<lb/>
+hineinrudern sehen, sich nach und nach, aber mit großer Behut¬<lb/>
+samkeit, dem Schiffe genähert habe. &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; war ihnen<lb/>
+in einem Boot entgegen gegangen, hatte sie aber nicht bewegen<lb/>
+können an Bord des Schiffs zu kommen, und mußte sie daher<lb/>
+ihrem eignen Willen überlassen. Dieser führte sie, nicht lange<lb/>
+nachher, in eine kleine Bucht nahe bei der unsrigen, allwo sie<lb/>
+sich, dem Schiffe gegenüber, ans Ufer setzten, und so nahe wa¬<lb/>
+ren, daß man sie hören und sprechen konnte. Der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; ließ<lb/>
+die Querpfeife und den Judelsack spielen und dazu trommeln<lb/>
+allein auch dies konnte sie nicht näher locken, denn aus dem<lb/>
+Pfeifen schienen sie sich gar nichts zu machen, und auf das<lb/>
+Trommeln achteten sie eben so wenig. Da solchergestalt nichts<lb/>
+vermögend war sie an das Schiff zu bringen, so ruderten ver¬<lb/>
+schiedne Officiere und Seeleute zu ihnen hinüber. Die Wilden<lb/>
+nahmen sie mit treuherzigem Wesen auf, aber alle Versuche<lb/>
+durch Zeichen mit ihnen zu reden, waren vergebens, denn keiner<lb/>
+von beiden Theilen konnte sich dem andern verständlich genug<lb/>
+machen. Das Mädchen hatte anfänglich eine besondre Neigung<lb/>
+und Zudringlichkeit zu einem jungen Matrosen gezeigt, den sie</p></body></text>
+</TEI>

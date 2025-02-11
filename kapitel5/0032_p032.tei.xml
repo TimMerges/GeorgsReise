@@ -1,39 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 5</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1732015748212">1732015748212</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>146</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>pagaifedern artig durchwebt war; dem &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; aber gab er noch<lb />
-überdies ein Stück Lapis nephriticus, oder Neu-Seeländischen<lb />
-grünen Tankstein *) der wie die Klinge eines Beils geschliffen<lb />
-war. Ehe er einen Fuß auf die Brücke setzte, trat er seitwärts,<lb />
-steckte ein Stück von einer Vogelhaut, an welcher noch weiße<lb />
-Fredern saßen, statt eines Gehänges, in das eine Ohr und brach<lb />
-von einem Busche einen grünen Zweig ab. Mit diesem in der<lb />
-Hand ging er nunmehr vorwärts; stand aber still, als er so<lb />
-weit gekommen war, daß er die Seitenwände des Schiffes eben<lb />
-erreichen konnte und schlug an diese, sowie an das daran befe¬<lb />
-stigte Tauwerk des Hauptmastes, zu wiederholtenmalen mit dem<lb />
-grünen Zweige. Hierauf fing er an eine Art von Anrede oder<lb />
-Gebet- oder Beschwörungsformel, gleichsam im Takte, als nach<lb />
-einem poetischen Sylbenmaaß, herzusagen, und hielt die Augen<lb />
-unverrückt auf die Stelle geheftet, welche er zuvor mit dem Zweige<lb />
-berührt hatte. Er redete lauter als gewöhnlich und sein ganzes<lb />
-Betragen war ernsthaft und feierlich. Während dieser Ceremonie,<lb />
-welche ungefähr 2 bis 3 Minuten dauerte, blieb das Mädchen,<lb />
-die sonst immer lachte und tanzte, ganz still und ernsthaft stehen<lb />
-ohne ein Wort dazwischen zu sprechen. Bei Endigung der Rede<lb />
-schlug er die Seiten des Schiffs nochmals, warf seinen Zweig<lb />
-zwischen die Wandketten und stieg sodann an Bord. Diese Art<lb />
-feierliche Anreden zu halten, und, wie wir's auslegten, Frieden<lb />
-zu stiften, ist bei allen Völkern der&lt;place ref="https://www.wikidata.org/wiki/Q2381484"&gt; Südsee&lt;/place&gt; üblich. Beide, der<lb />
-Mann und das Mädchen, hatten Speere in den Händen, als<lb />
-sie aufs Verdeck des Hintertheils (Quarter deck) gebracht wur¬<lb />
-den. Hier bewunderten sie alles, was ihnen vorkam, besonders<lb />
-zogen etliche Gänse, die in einem Gegitter eingesperrt waren, ihre<lb />
-ganze Aufmerksamkeit an sich. Auch machten sie sich viel mit<lb />
-einer schönen Katze zu schaffen, streichelten sie aber immer ver¬<lb />
-kehrt, daß die Haare in die Höhe zu stehen kamen, ob ihnen<lb />
-gleich gezeigt wurde wie man sie eigentlich streichen müsse. Doch<lb />
-thaten sie es vermuthlich, um das schöne, dickgewachsene Haar<lb />
-dieses Thieres zu bewundern. Der Mann sah alles, was ihm<lb />
-neu war, mit Erstaunen an; allein seine Aufmerksamkeit ver-<lb />
-weilte nie länger als einen einzigen Augenblick bei einem und<lb />
-demselben Gegenstande, daher ihm auch viele unserer Kunstwerke</paragraph><footer>'S. &lt;persName ref="https://www.wikidata.org/wiki/Q3181710"&gt;Hawkesworths&lt;/persName&gt; Geschichte der englischen Seereisen in 8. III. B.<lb />
-pag. 304.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="">
+    <titleStmt>
+      <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1  Seite</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um die Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-02-10</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="146"/><head>Reise um die Welt</head><p/><p>pagaifedern artig durchwebt war; dem &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; aber gab er noch<lb/>
+überdies ein Stück Lapis nephriticus, oder Neu-Seeländischen<lb/>
+grünen Tankstein *) der wie die Klinge eines Beils geschliffen<lb/>
+war. Ehe er einen Fuß auf die Brücke setzte, trat er seitwärts,<lb/>
+steckte ein Stück von einer Vogelhaut, an welcher noch weiße<lb/>
+Fredern saßen, statt eines Gehänges, in das eine Ohr und brach<lb/>
+von einem Busche einen grünen Zweig ab. Mit diesem in der<lb/>
+Hand ging er nunmehr vorwärts; stand aber still, als er so<lb/>
+weit gekommen war, daß er die Seitenwände des Schiffes eben<lb/>
+erreichen konnte und schlug an diese, sowie an das daran befe¬<lb/>
+stigte Tauwerk des Hauptmastes, zu wiederholtenmalen mit dem<lb/>
+grünen Zweige. Hierauf fing er an eine Art von Anrede oder<lb/>
+Gebet- oder Beschwörungsformel, gleichsam im Takte, als nach<lb/>
+einem poetischen Sylbenmaaß, herzusagen, und hielt die Augen<lb/>
+unverrückt auf die Stelle geheftet, welche er zuvor mit dem Zweige<lb/>
+berührt hatte. Er redete lauter als gewöhnlich und sein ganzes<lb/>
+Betragen war ernsthaft und feierlich. Während dieser Ceremonie,<lb/>
+welche ungefähr 2 bis 3 Minuten dauerte, blieb das Mädchen,<lb/>
+die sonst immer lachte und tanzte, ganz still und ernsthaft stehen<lb/>
+ohne ein Wort dazwischen zu sprechen. Bei Endigung der Rede<lb/>
+schlug er die Seiten des Schiffs nochmals, warf seinen Zweig<lb/>
+zwischen die Wandketten und stieg sodann an Bord. Diese Art<lb/>
+feierliche Anreden zu halten, und, wie wir's auslegten, Frieden<lb/>
+zu stiften, ist bei allen Völkern der&lt;place ref="https://www.wikidata.org/wiki/Q2381484"&gt; Südsee&lt;/place&gt; üblich. Beide, der<lb/>
+Mann und das Mädchen, hatten Speere in den Händen, als<lb/>
+sie aufs Verdeck des Hintertheils (Quarter deck) gebracht wur¬<lb/>
+den. Hier bewunderten sie alles, was ihnen vorkam, besonders<lb/>
+zogen etliche Gänse, die in einem Gegitter eingesperrt waren, ihre<lb/>
+ganze Aufmerksamkeit an sich. Auch machten sie sich viel mit<lb/>
+einer schönen Katze zu schaffen, streichelten sie aber immer ver¬<lb/>
+kehrt, daß die Haare in die Höhe zu stehen kamen, ob ihnen<lb/>
+gleich gezeigt wurde wie man sie eigentlich streichen müsse. Doch<lb/>
+thaten sie es vermuthlich, um das schöne, dickgewachsene Haar<lb/>
+dieses Thieres zu bewundern. Der Mann sah alles, was ihm<lb/>
+neu war, mit Erstaunen an; allein seine Aufmerksamkeit ver-<lb/>
+weilte nie länger als einen einzigen Augenblick bei einem und<lb/>
+demselben Gegenstande, daher ihm auch viele unserer Kunstwerke</p><footer>'S. &lt;persName ref="https://www.wikidata.org/wiki/Q3181710"&gt;Hawkesworths&lt;/persName&gt; Geschichte der englischen Seereisen in 8. III. B.<lb/>
+pag. 304.</footer></body></text>
+</TEI>
