@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><paragraph /><paragraph>hah's und seiner Freunde erzählten. Gibson, ein Seesoldat, dem<lb />
-die Insel so wohl gefallen, daß er es ehemals bei &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cooks&lt;/persName&gt; voriger Reise gar darauf anlegte, hier zu bleiben *), hatte<lb />
-den mehresten Antheil an der Unterredung, denn er verstand von<lb />
-der Landessprache mehr als irgend sonst einer von uns, weshalb<lb />
-ihn die Einwohner auch besonders hoch schätzten. Die guten<lb />
-Leute bezeigten hier noch ungleich mehr Zutrauen und Freimü¬<lb />
-thigkeit gegen uns als zu Aitepieha, und dies gereichte ihnen in<lb />
-unsern Augen zu desto größerer Ehre, weil sich daraus deutlich<lb />
-genug abnehmen ließ, daß sie die ehemaligen Beleidigungen edel¬<lb />
-müthig vergessen hatten, und daß ihr gutes, unverderbtes Herz<lb />
-auch nicht eines Gedanken von Rachsucht oder Bitterkeit fähig<lb />
-sei. Für ein empfindsames Gemüth ist aber das wahrlich ein<lb />
-tröstlicher Gedanke, daß Menschenliebe dem Menschen natürlich<lb />
-sei und daß die wilden Begriffe von Mißtrauen, Bosheit und<lb />
-und Rachsucht nur Folgen einer allmäligen Verderbniß der<lb />
-Sitten sind. Man findet auch in der That nur wenig Bei¬<lb />
-spiele vom Gegentheil, daß nämlich Völker, welche nicht ganz<lb />
-bis zur Barbarei herabgesunken, der Liebe zum Frieden, diesem<lb />
-allgemeinen Grundtriebe des Menschen, zuwider gehandelt haben<lb />
-sollten. Was &lt;persName ref="https://www.wikidata.org/wiki/Q7322"&gt;Colombus&lt;/persName&gt;, Cortez und Pizarro bei ihren Ent¬<lb />
-deckungen in &lt;place ref="https://www.wikidata.org/wiki/Q30"&gt;Amerika&lt;/place&gt;, und was Mendana, Quiros, Schouten,<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q42188"&gt;Tasman&lt;/persName&gt;*) und Wallis in der Süd=See hierüber erfahren ha¬<lb />
-ben, das stimmt mit unsrer Behauptung vollkommen überein.<lb />
-Selbst der Angriff, den die Tahitier ehemals auf den Delphin<lb />
-wagten, widerspricht derselben nicht. Es dünkt mir nämlich<lb />
-höchst wahrscheinlich, daß unsere Leute, wenn sie sich dessen gleich<lb />
-nicht bewußt sein mögen, durch irgend eine Beleidigung Gele¬<lb />
-genheit dazu gegeben haben müssen. Gesetzt aber auch, das wäre<lb />
-nicht, so ist doch Selbsterhaltung das erste Gesetz der Natur,<lb />
-und der Anschein berechtigte die Einwohner allerdings unsere<lb />
-Leute für ungebetene Gäste und für den angreifenden Theil zu<lb />
-halten, ja was mehr als das alles ist, sie hatten Ursache für<lb />
-ihre Freiheit besorgt zu sein. Als sie endlich die traurigen Wir¬<lb />
-kungen der europäischen Obermacht empfunden und man ihnen<lb />
-zu verstehen gegeben hatte, daß das Schiff nur einige Erfri¬</paragraph><page-number>265</page-number><footer>S. &lt;persName ref="https://www.wikidata.org/wiki/Q3181710"&gt;Hawkesworths&lt;/persName&gt; Gesch. der engl. Seereisen, in 8. II. Bd.<lb />
-S. 469.<lb />
-*) Die Wilden von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu=Seeland&lt;/place&gt; machen eine Ausnahme.<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q58062"&gt;G. Forster's&lt;/persName&gt; Schriften. I.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><p/><p>hah's und seiner Freunde erzählten. Gibson, ein Seesoldat, dem<lb/>
+die Insel so wohl gefallen, daß er es ehemals bei &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cooks&lt;/persName&gt; voriger Reise gar darauf anlegte, hier zu bleiben *), hatte<lb/>
+den mehresten Antheil an der Unterredung, denn er verstand von<lb/>
+der Landessprache mehr als irgend sonst einer von uns, weshalb<lb/>
+ihn die Einwohner auch besonders hoch schätzten. Die guten<lb/>
+Leute bezeigten hier noch ungleich mehr Zutrauen und Freimü¬<lb/>
+thigkeit gegen uns als zu Aitepieha, und dies gereichte ihnen in<lb/>
+unsern Augen zu desto größerer Ehre, weil sich daraus deutlich<lb/>
+genug abnehmen ließ, daß sie die ehemaligen Beleidigungen edel¬<lb/>
+müthig vergessen hatten, und daß ihr gutes, unverderbtes Herz<lb/>
+auch nicht eines Gedanken von Rachsucht oder Bitterkeit fähig<lb/>
+sei. Für ein empfindsames Gemüth ist aber das wahrlich ein<lb/>
+tröstlicher Gedanke, daß Menschenliebe dem Menschen natürlich<lb/>
+sei und daß die wilden Begriffe von Mißtrauen, Bosheit und<lb/>
+und Rachsucht nur Folgen einer allmäligen Verderbniß der<lb/>
+Sitten sind. Man findet auch in der That nur wenig Bei¬<lb/>
+spiele vom Gegentheil, daß nämlich Völker, welche nicht ganz<lb/>
+bis zur Barbarei herabgesunken, der Liebe zum Frieden, diesem<lb/>
+allgemeinen Grundtriebe des Menschen, zuwider gehandelt haben<lb/>
+sollten. Was &lt;persName ref="https://www.wikidata.org/wiki/Q7322"&gt;Colombus&lt;/persName&gt;, Cortez und Pizarro bei ihren Ent¬<lb/>
+deckungen in &lt;place ref="https://www.wikidata.org/wiki/Q30"&gt;Amerika&lt;/place&gt;, und was Mendana, Quiros, Schouten,<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q42188"&gt;Tasman&lt;/persName&gt;*) und Wallis in der Süd=See hierüber erfahren ha¬<lb/>
+ben, das stimmt mit unsrer Behauptung vollkommen überein.<lb/>
+Selbst der Angriff, den die Tahitier ehemals auf den Delphin<lb/>
+wagten, widerspricht derselben nicht. Es dünkt mir nämlich<lb/>
+höchst wahrscheinlich, daß unsere Leute, wenn sie sich dessen gleich<lb/>
+nicht bewußt sein mögen, durch irgend eine Beleidigung Gele¬<lb/>
+genheit dazu gegeben haben müssen. Gesetzt aber auch, das wäre<lb/>
+nicht, so ist doch Selbsterhaltung das erste Gesetz der Natur,<lb/>
+und der Anschein berechtigte die Einwohner allerdings unsere<lb/>
+Leute für ungebetene Gäste und für den angreifenden Theil zu<lb/>
+halten, ja was mehr als das alles ist, sie hatten Ursache für<lb/>
+ihre Freiheit besorgt zu sein. Als sie endlich die traurigen Wir¬<lb/>
+kungen der europäischen Obermacht empfunden und man ihnen<lb/>
+zu verstehen gegeben hatte, daß das Schiff nur einige Erfri¬</p><pb n="265"/><footer>S. &lt;persName ref="https://www.wikidata.org/wiki/Q3181710"&gt;Hawkesworths&lt;/persName&gt; Gesch. der engl. Seereisen, in 8. II. Bd.<lb/>
+S. 469.<lb/>
+*) Die Wilden von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu=Seeland&lt;/place&gt; machen eine Ausnahme.<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q58062"&gt;G. Forster's&lt;/persName&gt; Schriften. I.</footer></body></text>
+</TEI>

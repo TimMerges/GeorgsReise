@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>228</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>des Brodfruchtbaums gemacht, der ihnen solchergestalt auf mehr<lb />
-denn einerlei Art nutzbar wird. Indessen gab es doch mitunter<lb />
-einige Wohnungen, die vermuthlich nur deswegen, damit man<lb />
-innerhalb verborgner sein könne, mit einer Art von geflochtenen<lb />
-Rohrhürden eingeschlossen waren, welches sie denn einem großen<lb />
-Vogelbauer ziemlich ähnlich machte. In diesem Wandwerk war<lb />
-eine Oeffnung zur Thür gelassen, die mit einem Brete zuge¬<lb />
-macht werden konnte. Vor jeder Hütte sah man eine kleine<lb />
-Gruppe von Leuten, die sich ins weiche Gras gelagert hatten,<lb />
-oder mit kreuzweis übereinandergeschlagnen Beinen beisammen sa-<lb />
-ßen und ihre glücklichen Stunden entweder verplauderten oder<lb />
-ausruheten. Einige standen bei unsrer Annäherung auf und<lb />
-folgten dem Haufen, der mit uns ging; viele aber, besonders<lb />
-Leute von reiferem Alter, blieben unverrückt sitzen und begnügten<lb />
-sich uns im Vorübergehen ein freundschaftliches Taylor zuzurufen.<lb />
-Da unsre Begleiter gewahr wurden, daß wir Pflanzen sammel¬<lb />
-ten, so waren sie sehr emsig, dieselben Sorten zu pflücken und<lb />
-herbeizubringen, die sie von uns hatten abbrechen sehen. Es<lb />
-gab auch in der That eine Menge von allerhand wilden Arten<lb />
-in diesen Plantagen, die untereinander in jener schönen Unord¬<lb />
-nung der Natur aufsproßten, die über das steife Putzwerk künst¬<lb />
-licher Gärten immer unendlich erhaben, aber alsdann vollends<lb />
-bewundernswürdig ist, wenn die Kunst ihr am rechten Ort auf-<lb />
-zuhelfen weiß. Vornehmlich fanden wir verschiedne Grasarten,<lb />
-die, unerachtet sie dünner als unsre nördlichen standen, dennoch,<lb />
-weil sie im Schatten wuchsen, ein sehr frisches Ansehen hatten<lb />
-und einen weichen Rasen ausmachten. Sie dienten zugleich das<lb />
-Erdreich feucht zu erhalten, und solchergestalt den Bäumen Nah¬<lb />
-rung zu verschaffen, die auch ihrerseits im vortrefflichsten Stande<lb />
-waren. Mancherlei kleine Vögel wohnten auf den schattigen<lb />
-Zweigen der Brodfrucht= und andrer Bäume und sangen sehr<lb />
-angenehm, ob man gleich, ich weiß nicht warum, in &lt;place ref="https://www.wikidata.org/wiki/Q46"&gt;Europa&lt;/place&gt;<lb />
-den Wahn hegt, daß es in heißen Ländern den Vögeln an har¬<lb />
-monischen Stimmen fehle. In den Gipfeln der höchsten Co-<lb />
-cosnußbäume pflegte sich eine Art kleiner, schöner, saphirblauer<lb />
-Papagaien aufzuhalten, und eine andre grünliche Art mit ro¬<lb />
-then Flecken sah man unter den Pisangbäumen häufig, traf sie<lb />
-auch oft zahm in den Häusern an, wo die Einwohner sie der<lb />
-rothen Federn wegen sehr gern zu haben schienen. Ein Eisvo-<lb />
-gel, der von dunkelgrünem Gefieder und rings um die weiße</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="228"/><head>Reise um die Welt</head><p/><p>des Brodfruchtbaums gemacht, der ihnen solchergestalt auf mehr<lb/>
+denn einerlei Art nutzbar wird. Indessen gab es doch mitunter<lb/>
+einige Wohnungen, die vermuthlich nur deswegen, damit man<lb/>
+innerhalb verborgner sein könne, mit einer Art von geflochtenen<lb/>
+Rohrhürden eingeschlossen waren, welches sie denn einem großen<lb/>
+Vogelbauer ziemlich ähnlich machte. In diesem Wandwerk war<lb/>
+eine Oeffnung zur Thür gelassen, die mit einem Brete zuge¬<lb/>
+macht werden konnte. Vor jeder Hütte sah man eine kleine<lb/>
+Gruppe von Leuten, die sich ins weiche Gras gelagert hatten,<lb/>
+oder mit kreuzweis übereinandergeschlagnen Beinen beisammen sa-<lb/>
+ßen und ihre glücklichen Stunden entweder verplauderten oder<lb/>
+ausruheten. Einige standen bei unsrer Annäherung auf und<lb/>
+folgten dem Haufen, der mit uns ging; viele aber, besonders<lb/>
+Leute von reiferem Alter, blieben unverrückt sitzen und begnügten<lb/>
+sich uns im Vorübergehen ein freundschaftliches Taylor zuzurufen.<lb/>
+Da unsre Begleiter gewahr wurden, daß wir Pflanzen sammel¬<lb/>
+ten, so waren sie sehr emsig, dieselben Sorten zu pflücken und<lb/>
+herbeizubringen, die sie von uns hatten abbrechen sehen. Es<lb/>
+gab auch in der That eine Menge von allerhand wilden Arten<lb/>
+in diesen Plantagen, die untereinander in jener schönen Unord¬<lb/>
+nung der Natur aufsproßten, die über das steife Putzwerk künst¬<lb/>
+licher Gärten immer unendlich erhaben, aber alsdann vollends<lb/>
+bewundernswürdig ist, wenn die Kunst ihr am rechten Ort auf-<lb/>
+zuhelfen weiß. Vornehmlich fanden wir verschiedne Grasarten,<lb/>
+die, unerachtet sie dünner als unsre nördlichen standen, dennoch,<lb/>
+weil sie im Schatten wuchsen, ein sehr frisches Ansehen hatten<lb/>
+und einen weichen Rasen ausmachten. Sie dienten zugleich das<lb/>
+Erdreich feucht zu erhalten, und solchergestalt den Bäumen Nah¬<lb/>
+rung zu verschaffen, die auch ihrerseits im vortrefflichsten Stande<lb/>
+waren. Mancherlei kleine Vögel wohnten auf den schattigen<lb/>
+Zweigen der Brodfrucht= und andrer Bäume und sangen sehr<lb/>
+angenehm, ob man gleich, ich weiß nicht warum, in &lt;place ref="https://www.wikidata.org/wiki/Q46"&gt;Europa&lt;/place&gt;<lb/>
+den Wahn hegt, daß es in heißen Ländern den Vögeln an har¬<lb/>
+monischen Stimmen fehle. In den Gipfeln der höchsten Co-<lb/>
+cosnußbäume pflegte sich eine Art kleiner, schöner, saphirblauer<lb/>
+Papagaien aufzuhalten, und eine andre grünliche Art mit ro¬<lb/>
+then Flecken sah man unter den Pisangbäumen häufig, traf sie<lb/>
+auch oft zahm in den Häusern an, wo die Einwohner sie der<lb/>
+rothen Federn wegen sehr gern zu haben schienen. Ein Eisvo-<lb/>
+gel, der von dunkelgrünem Gefieder und rings um die weiße</p></body></text>
+</TEI>

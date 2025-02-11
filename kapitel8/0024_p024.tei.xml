@@ -1,39 +1,129 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>236</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>Mannschaft beider Schiffe damit gespeiset werden konnte. Bei<lb />
-einer so gesunden Kost erholten sich unsre mit dem Scorbut be¬<lb />
-hafteten Kranken gleichsam zusehends; ja wir alle befanden uns,<lb />
-bis auf einen Durchlauf, den die schleunige Veränderung der<lb />
-Nahrungsmittel im Anfang verursachte, ungemein wohl dabei.<lb />
-Das einzige, woran es uns noch fehlte, war frisches Schweine¬<lb />
-fleisch. Es kam uns desto härter an, desselben zu entbehren, da<lb />
-wir dergleichen Thiere auf allen unsern Spaziergängen in<lb />
-Menge antrafen, ob sich gleich die Leute immer Mühe gaben,<lb />
-sie vor uns versteckt zu halten. Zu dem Ende sperrten sie solche<lb />
-in kleine Ställe ein, die ganz niedrig gebaut und oben flach<lb />
-mit Bretern belegt waren, so daß eine Art von Plattform dar¬<lb />
-aus entstand, auf welche sie sich selbst setzten oder niederlegten.<lb />
-Wir suchten sie durch alle ersinnliche Mittel dahin zu bewegen,<lb />
-daß sie uns welche ablassen möchten. Wir boten ihnen Beile,<lb />
-Hemden und andre Waaren an, die hier zu Lande in hohem<lb />
-Werth standen; aber alles war umsonst. Sie blieben dabei, die<lb />
-Schweine gehörten dem Aerih oder König. Anstatt mit dieser<lb />
-Antwort zufrieden zu sein und dem guten Willen der Leute Ge¬<lb />
-rechtigkeit widerfahren zu lassen, die uns, wenn gleich nicht mit<lb />
-Schweinen, doch mit andern Lebensmitteln versorgten, denen un¬<lb />
-sre Kranken ihre Wiederherstellung, und wir alle unsre Erquickung<lb />
-zu verdanken hatten, ward den &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitains&lt;/persName&gt; von einigen Leuten an<lb />
-Bord der Vorschlag gemacht, mit Gewalt eine hinlängliche An-<lb />
-zahl Schweine zu unserm Gebrauche wegzunehmen, und her¬<lb />
-nach den Einwohnern so viel an europäischen Waaren zu geben,<lb />
-als das geraubte Vieh, dem Gutdünken nach, werth sein möchte.<lb />
-Da aber ein solches Verfahren ganz und gar tyranny, ja auf<lb />
-die niederträchtigste Weise eigennützig gewesen wäre, so ward der<lb />
-Antrag mit aller gebührenden Verachtung und Unwillen ver¬<lb />
-worfen.</paragraph><paragraph /><paragraph>Unsre Sammlung von Naturalien war bis jetzt noch im-<lb />
-mer so unbeträchtlich, daß uns die Zeichnung und Beschreibung<lb />
-derselben wenig zu thun machte, und daß wir Muße genug übrig<lb />
-hatten, täglich von neuem ans Land zu gehen, sowohl um<lb />
-mehrere zu suchen, als auch um den Charakter, die Sitten und<lb />
-den gegenwärtigen Zustand der Einwohner genau zu beobachten.</paragraph><paragraph /><paragraph>Am 20. nahm ich nebst verschiedenen Officieren um Mit¬<lb />
-tagszeit einen Spaziergang nach der östlichen Landspitze des Ha¬<lb />
-fens vor. Auf dem Wege dahin, fanden wir einen Bach vor</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="236"/><head>Reise um die Welt</head><p/><p>Mannschaft beider Schiffe damit gespeiset werden konnte. Bei<lb/>
+einer so gesunden Kost erholten sich unsre mit dem Scorbut be¬<lb/>
+hafteten Kranken gleichsam zusehends; ja wir alle befanden uns,<lb/>
+bis auf einen Durchlauf, den die schleunige Veränderung der<lb/>
+Nahrungsmittel im Anfang verursachte, ungemein wohl dabei.<lb/>
+Das einzige, woran es uns noch fehlte, war frisches Schweine¬<lb/>
+fleisch. Es kam uns desto härter an, desselben zu entbehren, da<lb/>
+wir dergleichen Thiere auf allen unsern Spaziergängen in<lb/>
+Menge antrafen, ob sich gleich die Leute immer Mühe gaben,<lb/>
+sie vor uns versteckt zu halten. Zu dem Ende sperrten sie solche<lb/>
+in kleine Ställe ein, die ganz niedrig gebaut und oben flach<lb/>
+mit Bretern belegt waren, so daß eine Art von Plattform dar¬<lb/>
+aus entstand, auf welche sie sich selbst setzten oder niederlegten.<lb/>
+Wir suchten sie durch alle ersinnliche Mittel dahin zu bewegen,<lb/>
+daß sie uns welche ablassen möchten. Wir boten ihnen Beile,<lb/>
+Hemden und andre Waaren an, die hier zu Lande in hohem<lb/>
+Werth standen; aber alles war umsonst. Sie blieben dabei, die<lb/>
+Schweine gehörten dem Aerih oder König. Anstatt mit dieser<lb/>
+Antwort zufrieden zu sein und dem guten Willen der Leute Ge¬<lb/>
+rechtigkeit widerfahren zu lassen, die uns, wenn gleich nicht mit<lb/>
+Schweinen, doch mit andern Lebensmitteln versorgten, denen un¬<lb/>
+sre Kranken ihre Wiederherstellung, und wir alle unsre Erquickung<lb/>
+zu verdanken hatten, ward den &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitains&lt;/persName&gt; von einigen Leuten an<lb/>
+Bord der Vorschlag gemacht, mit Gewalt eine hinlängliche An-<lb/>
+zahl Schweine zu unserm Gebrauche wegzunehmen, und her¬<lb/>
+nach den Einwohnern so viel an europäischen Waaren zu geben,<lb/>
+als das geraubte Vieh, dem Gutdünken nach, werth sein möchte.<lb/>
+Da aber ein solches Verfahren ganz und gar tyranny, ja auf<lb/>
+die niederträchtigste Weise eigennützig gewesen wäre, so ward der<lb/>
+Antrag mit aller gebührenden Verachtung und Unwillen ver¬<lb/>
+worfen.</p><p/><p>Unsre Sammlung von Naturalien war bis jetzt noch im-<lb/>
+mer so unbeträchtlich, daß uns die Zeichnung und Beschreibung<lb/>
+derselben wenig zu thun machte, und daß wir Muße genug übrig<lb/>
+hatten, täglich von neuem ans Land zu gehen, sowohl um<lb/>
+mehrere zu suchen, als auch um den Charakter, die Sitten und<lb/>
+den gegenwärtigen Zustand der Einwohner genau zu beobachten.</p><p/><p>Am 20. nahm ich nebst verschiedenen Officieren um Mit¬<lb/>
+tagszeit einen Spaziergang nach der östlichen Landspitze des Ha¬<lb/>
+fens vor. Auf dem Wege dahin, fanden wir einen Bach vor</p></body></text>
+</TEI>

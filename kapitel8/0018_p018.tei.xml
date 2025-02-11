@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>230</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>nieder, unsrer Uebermacht gleichsam zum Trotze. &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt;<lb />
-konnte sich aus Unwillen über das schändliche Betragen dieses<lb />
-Kerls nicht enthalten, ihm eine Flintenkugel übern Kopf hinzu¬<lb />
-feuern, allein dies fruchtete nichts mehr, als daß der &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt;<lb />
-von neuem ins Wasser sprang und das Canot umschlagen machte.<lb />
-Man feuerte zum zweitenmal nach ihm, allein, so bald er das<lb />
-Feuer von der Pfanne aufblitzen sah, tauchte er unter, und<lb />
-eben so machte er's beim dritten Schuß. Nunmehr bemannte<lb />
-der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; sein Boot und ruderte nach dem Canot hin, un-<lb />
-ter welches sich der Taucher versteckt hatte. Dieser aber wartete<lb />
-so lange nicht, sondern verließ sein Fahrzeug und schwamm nach<lb />
-einem doppelten Canot, das nicht weit von ihm war. Auch<lb />
-dem ward nachgesetzt. Es entkam aber durch die Brandung auf<lb />
-den Strand, und die &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt; fingen von daher an mit Stei¬<lb />
-nen nach unsern Leuten zu werfen, so daß diese es für rathsam<lb />
-hielten, sich zurückzuziehen. Endlich ward ein Vierpfünder gegen<lb />
-das &lt;place ref="https://www.wikidata.org/wiki/Q42000"&gt;Land&lt;/place&gt; abgefeuert, und dieser machte dem Handel auf einmal<lb />
-ein Ende, denn er jagte jenen ein solches Schrecken en ein, daß<lb />
-unsre Leute zwei doppelte Canots ohne Widerstand wegnehmen<lb />
-und mit sich ans Schiff bringen konnten.</paragraph><paragraph /><paragraph>Nachdem dieser Tumult vorüber war, gingen wir ans Land,<lb />
-um unweit dem Orte, wo unsre Wasserfässer gefüllt wurden,<lb />
-nach Tische einen Spaziergang zu machen und das Zutrauen<lb />
-des Volks wieder zu gewinnen, welches uns, der eben erzählten<lb />
-Feindseligkeiten wegen, mit einemmal verlassen hatte. Wir wähl¬<lb />
-ten einen andern Weg als den wir am Morgen genommen hat-<lb />
-ten, und fanden auf demselben eine Menge Pisange, Yams,<lb />
-Zehrwurzeln u. dergl. um die Häuser herumgepflanzt. Die Be¬<lb />
-wohner waren freundschaftliche, gutherzige Leute, jedoch des Vor¬<lb />
-gefallnen wegen, etwas scheuer und zurückhaltender, als zuvor.<lb />
-Endlich gelangten wir an ein großes mit Rohrwänden versehe¬<lb />
-nes Haus, welches ein artiges Ansehen hatte. Es sollte dem<lb />
-Abeatua gehören, und dieser sich jetzt in einer andern Gegend<lb />
-aufhalten. Wir fanden hier ein Schwein und etliche Hühner,<lb />
-die ersten, welche uns die Einwohner zu Gesicht kommen ließen,<lb />
-indem sie solche bisher sorgfältig versteckt und nie hatten verkau¬<lb />
-fen wollen, unter dem Vorwande, daß sie dem Aerih oder Kö-<lb />
-nige zugehörten. Sie machten jetzt eben die Entschuldigung, un¬<lb />
-erachtet wir ihnen ein Beil dafür anboten, welches, ihren Mei¬<lb />
-nungen und Bedürfnissen nach, gleichwohl das höchste war, was</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="230"/><head>Reise um die Welt</head><p/><p>nieder, unsrer Uebermacht gleichsam zum Trotze. &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt;<lb/>
+konnte sich aus Unwillen über das schändliche Betragen dieses<lb/>
+Kerls nicht enthalten, ihm eine Flintenkugel übern Kopf hinzu¬<lb/>
+feuern, allein dies fruchtete nichts mehr, als daß der &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt;<lb/>
+von neuem ins Wasser sprang und das Canot umschlagen machte.<lb/>
+Man feuerte zum zweitenmal nach ihm, allein, so bald er das<lb/>
+Feuer von der Pfanne aufblitzen sah, tauchte er unter, und<lb/>
+eben so machte er's beim dritten Schuß. Nunmehr bemannte<lb/>
+der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt; sein Boot und ruderte nach dem Canot hin, un-<lb/>
+ter welches sich der Taucher versteckt hatte. Dieser aber wartete<lb/>
+so lange nicht, sondern verließ sein Fahrzeug und schwamm nach<lb/>
+einem doppelten Canot, das nicht weit von ihm war. Auch<lb/>
+dem ward nachgesetzt. Es entkam aber durch die Brandung auf<lb/>
+den Strand, und die &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt; fingen von daher an mit Stei¬<lb/>
+nen nach unsern Leuten zu werfen, so daß diese es für rathsam<lb/>
+hielten, sich zurückzuziehen. Endlich ward ein Vierpfünder gegen<lb/>
+das &lt;place ref="https://www.wikidata.org/wiki/Q42000"&gt;Land&lt;/place&gt; abgefeuert, und dieser machte dem Handel auf einmal<lb/>
+ein Ende, denn er jagte jenen ein solches Schrecken en ein, daß<lb/>
+unsre Leute zwei doppelte Canots ohne Widerstand wegnehmen<lb/>
+und mit sich ans Schiff bringen konnten.</p><p/><p>Nachdem dieser Tumult vorüber war, gingen wir ans Land,<lb/>
+um unweit dem Orte, wo unsre Wasserfässer gefüllt wurden,<lb/>
+nach Tische einen Spaziergang zu machen und das Zutrauen<lb/>
+des Volks wieder zu gewinnen, welches uns, der eben erzählten<lb/>
+Feindseligkeiten wegen, mit einemmal verlassen hatte. Wir wähl¬<lb/>
+ten einen andern Weg als den wir am Morgen genommen hat-<lb/>
+ten, und fanden auf demselben eine Menge Pisange, Yams,<lb/>
+Zehrwurzeln u. dergl. um die Häuser herumgepflanzt. Die Be¬<lb/>
+wohner waren freundschaftliche, gutherzige Leute, jedoch des Vor¬<lb/>
+gefallnen wegen, etwas scheuer und zurückhaltender, als zuvor.<lb/>
+Endlich gelangten wir an ein großes mit Rohrwänden versehe¬<lb/>
+nes Haus, welches ein artiges Ansehen hatte. Es sollte dem<lb/>
+Abeatua gehören, und dieser sich jetzt in einer andern Gegend<lb/>
+aufhalten. Wir fanden hier ein Schwein und etliche Hühner,<lb/>
+die ersten, welche uns die Einwohner zu Gesicht kommen ließen,<lb/>
+indem sie solche bisher sorgfältig versteckt und nie hatten verkau¬<lb/>
+fen wollen, unter dem Vorwande, daß sie dem Aerih oder Kö-<lb/>
+nige zugehörten. Sie machten jetzt eben die Entschuldigung, un¬<lb/>
+erachtet wir ihnen ein Beil dafür anboten, welches, ihren Mei¬<lb/>
+nungen und Bedürfnissen nach, gleichwohl das höchste war, was</p></body></text>
+</TEI>

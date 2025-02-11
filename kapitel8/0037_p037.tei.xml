@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>249</page-number><paragraph /><paragraph>schen wären und auf den Gedanken kommen können, daß wir<lb />
-als Götter von Philemon und Baucis bewirthet würden; allein,<lb />
-unser Unvermögen sie zu belohnen, erinnerte uns nur zu sehr<lb />
-an unsre Sterblichkeit. Indessen suchten wir an eisernen Nä¬<lb />
-geln und Korallen zusammen, was wir allerseits noch übrig<lb />
-hatten, und schenkten ihnen diese Kleinigkeiten mehr zum Zei¬<lb />
-chen unsrer Dankbarkeit, als zur Vergeltung ihres guten Wil¬<lb />
-lens. Beim Abschied packte der Knabe alles, was wir nicht hat¬<lb />
-ten aufessen können, zusammen, und trug uns solches bis ans<lb />
-Schiff nach. Hier machten ihm seine Freunde ein Beil, ein<lb />
-Hemde und andre Artikel von geringerem Werthe zum Gegen¬<lb />
-geschenk, durch die er sich für weit reichlicher, als er selbst es<lb />
-erwartet haben mochte, belohnt zu halten schien, und noch des¬<lb />
-selben Abends ganz vergnügt zu seinen Eltern zurückkehrte. Wäh¬<lb />
-rend unsrer Abwesenheit war sowohl bei den Schiffen, als am<lb />
-Strande der Tauschhandel wie gewöhnlich fortgeführt worden,<lb />
-und es hatte sich nichts besonders ereignet, außer daß &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cook&lt;/persName&gt; einen seiner alten Bekannten, den Tuahau wieder ange¬<lb />
-troffen, der ihn auf der vorigen Reise, als er die ganze Insel<lb />
-mit einem Boot umschiffte, sehr weit begleitet hatte*). Bei<lb />
-unsrer Zurückkunft war er nebst zweien seiner Landsleute noch<lb />
-am Bord, indem sie allerseits gesonnen waren, die Nacht über<lb />
-bei uns zu bleiben. Während &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cooks&lt;/persName&gt; erster Anwesen¬<lb />
-heit, als er in &lt;place ref="https://www.wikidata.org/wiki/Q803710"&gt;Matavai-Bai&lt;/place&gt; vor Anker lag, hatten es die In¬<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;dianer&lt;/persName&gt; öfters so gemacht; seit unserm diesmaligen Hiersein aber<lb />
-hatte es noch keiner wagen wollen. Tuahau, dem unsre Le-<lb />
-bensart und die Gegenstände im Schiffe schon bekannt waren,<lb />
-überließ es seinen unerfahneren beiden Landsleuten solche mit<lb />
-Verwunderung in Augenschein zu nehmen, dahingegen er für<lb />
-seine Person gleich eine sehr lebhafte Unterredung mit uns an¬<lb />
-fing. Er fragte nach Tabane, &lt;persName ref="https://www.wikidata.org/wiki/Q153408"&gt;Herrn Bankes&lt;/persName&gt;, Tolano, Dr. So¬<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q39789"&gt;lander&lt;/persName&gt;, Tupaya und verschiednen andern Personen, die er ehe¬<lb />
-mals hier gesehen, und deren Namen er sich erinnerte. Es<lb />
-freute ihn zu hören, daß &lt;persName ref="https://www.wikidata.org/wiki/Q153408"&gt;Herr Banks&lt;/persName&gt; und Dr. Solander noch<lb />
-wohl wären. Er wiederholte diese Frage oft, als ob sie ihm<lb />
-die angelegentlichste wäre, und er bekam immer dieselbe Ant¬<lb />
-wort darauf. Endlich fragte er mit einem Blick, worin man</paragraph><footer>’) Siehe &lt;persName ref="https://www.wikidata.org/wiki/Q3181710"&gt;Hawkesworths&lt;/persName&gt; Geschichte der engl. Seereisen in 8. II.<lb />
-Band, S. 445 und 449.<lb />
-11**</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="249"/><p/><p>schen wären und auf den Gedanken kommen können, daß wir<lb/>
+als Götter von Philemon und Baucis bewirthet würden; allein,<lb/>
+unser Unvermögen sie zu belohnen, erinnerte uns nur zu sehr<lb/>
+an unsre Sterblichkeit. Indessen suchten wir an eisernen Nä¬<lb/>
+geln und Korallen zusammen, was wir allerseits noch übrig<lb/>
+hatten, und schenkten ihnen diese Kleinigkeiten mehr zum Zei¬<lb/>
+chen unsrer Dankbarkeit, als zur Vergeltung ihres guten Wil¬<lb/>
+lens. Beim Abschied packte der Knabe alles, was wir nicht hat¬<lb/>
+ten aufessen können, zusammen, und trug uns solches bis ans<lb/>
+Schiff nach. Hier machten ihm seine Freunde ein Beil, ein<lb/>
+Hemde und andre Artikel von geringerem Werthe zum Gegen¬<lb/>
+geschenk, durch die er sich für weit reichlicher, als er selbst es<lb/>
+erwartet haben mochte, belohnt zu halten schien, und noch des¬<lb/>
+selben Abends ganz vergnügt zu seinen Eltern zurückkehrte. Wäh¬<lb/>
+rend unsrer Abwesenheit war sowohl bei den Schiffen, als am<lb/>
+Strande der Tauschhandel wie gewöhnlich fortgeführt worden,<lb/>
+und es hatte sich nichts besonders ereignet, außer daß &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cook&lt;/persName&gt; einen seiner alten Bekannten, den Tuahau wieder ange¬<lb/>
+troffen, der ihn auf der vorigen Reise, als er die ganze Insel<lb/>
+mit einem Boot umschiffte, sehr weit begleitet hatte*). Bei<lb/>
+unsrer Zurückkunft war er nebst zweien seiner Landsleute noch<lb/>
+am Bord, indem sie allerseits gesonnen waren, die Nacht über<lb/>
+bei uns zu bleiben. Während &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cooks&lt;/persName&gt; erster Anwesen¬<lb/>
+heit, als er in &lt;place ref="https://www.wikidata.org/wiki/Q803710"&gt;Matavai-Bai&lt;/place&gt; vor Anker lag, hatten es die In¬<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;dianer&lt;/persName&gt; öfters so gemacht; seit unserm diesmaligen Hiersein aber<lb/>
+hatte es noch keiner wagen wollen. Tuahau, dem unsre Le-<lb/>
+bensart und die Gegenstände im Schiffe schon bekannt waren,<lb/>
+überließ es seinen unerfahneren beiden Landsleuten solche mit<lb/>
+Verwunderung in Augenschein zu nehmen, dahingegen er für<lb/>
+seine Person gleich eine sehr lebhafte Unterredung mit uns an¬<lb/>
+fing. Er fragte nach Tabane, &lt;persName ref="https://www.wikidata.org/wiki/Q153408"&gt;Herrn Bankes&lt;/persName&gt;, Tolano, Dr. So¬<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q39789"&gt;lander&lt;/persName&gt;, Tupaya und verschiednen andern Personen, die er ehe¬<lb/>
+mals hier gesehen, und deren Namen er sich erinnerte. Es<lb/>
+freute ihn zu hören, daß &lt;persName ref="https://www.wikidata.org/wiki/Q153408"&gt;Herr Banks&lt;/persName&gt; und Dr. Solander noch<lb/>
+wohl wären. Er wiederholte diese Frage oft, als ob sie ihm<lb/>
+die angelegentlichste wäre, und er bekam immer dieselbe Ant¬<lb/>
+wort darauf. Endlich fragte er mit einem Blick, worin man</p><footer>’) Siehe &lt;persName ref="https://www.wikidata.org/wiki/Q3181710"&gt;Hawkesworths&lt;/persName&gt; Geschichte der engl. Seereisen in 8. II.<lb/>
+Band, S. 445 und 449.<lb/>
+11**</footer></body></text>
+</TEI>

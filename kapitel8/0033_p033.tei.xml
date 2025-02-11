@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>245</page-number><paragraph /><paragraph>wir ungefähr noch 2 Meilen weiter gegen Südost gegangen wa¬<lb />
-ren, befanden wir uns an der See, die hier ziemlich weit in die<lb />
-Küste herein reichte und eine kleine Bucht ausmachte. Rings<lb />
-um uns her waren überall Plantagen und mitten auf einem<lb />
-schönen Grasplatz trafen wir auch ein Marai oder Begräbniß<lb />
-an, daß aus drei Reihen oder Stufen von Steinen übereinan¬<lb />
-der erbaut war. Jede Stufe mochte ungefähr viertehalb Fuß<lb />
-hoch sein, und alle waren mit Gras, Farnkraut und kleinem<lb />
-Strauchwerke bewachsen. Vor dem Marai war an der Land¬<lb />
-seite hin eine Mauer von fest übereinander gepackten Steinen<lb />
-aufgeführt, die ungefähr 3 Fuß Höhe hatte, und innerhalb dieser stan¬<lb />
-den nach dem Gebäude zu zwei bis drei einsam hingepflanzte<lb />
-Cocospalmen, und verschiedene junge Casuarinen, die mit ihren<lb />
-traurig herabhängenden Zweigen der ganzen Scene ein feierlich<lb />
-melancholisches Ansehen gaben. Nicht weit von diesem Marai,<lb />
-das mit dickem Buschwerk umgeben war, sahen wir eine kleine<lb />
-Hütte (Tupapau), und unter dieser lag ein todter Körper, mit<lb />
-einem Stück weißen Zeuges bedeckt, das auf den Seiten in lan¬<lb />
-gen Falten herabhing. Junge Cocospalmen und Pisange sproß¬<lb />
-ten hier aus der Erde, und der Drachenbaum blühte umher.<lb />
-Nahebei stand eine andre Hütte, darin ein Vorrath von Lebens-<lb />
-mitteln für die Gottheit (Eatua) befindlich, und unweit dersel-<lb />
-ben ein Pfahl aufgerichtet war, an welchem ein in Matten ein¬<lb />
-gewickelter Vogel hing. In dieser letztern Hütte, welche auf einer<lb />
-kleinen Anhöhe lag, erblickten wir eine Frauensperson, die in be¬<lb />
-trübter, gedankenvoller Stellung da saß. Bei unsrer Annäherung<lb />
-stand sie auf und winkte, daß wir nicht näher kommen möchten.<lb />
-Wir boten ihr von fern ein kleines Geschenk, sie wollte es aber<lb />
-nicht annehmen, und wir erfuhren von unsern indianischen Be¬<lb />
-gleitern daß diese Person zu dem Marai gehöre, daß der todte<lb />
-Körper eine Frauensperson sei, und daß erstere vermuthlich mit<lb />
-den Trauerceremonien beschäftigt wäre.</paragraph><paragraph /><paragraph>Wir ließen sie also ungestört, und sobald &lt;persName ref="https://www.wikidata.org/wiki/Q730841"&gt;Herr Hodges&lt;/persName&gt; mit<lb />
-einer Zeichnung von diesem Platz fertig war, gingen wir wieder<lb />
-zurück. Es war etwas Großes in dieser Scene, die in allen<lb />
-Stücken zu Religionsbetrachtungen Anlaß geben konnte. Auf<lb />
-dem Rückwege nach dem Wasserplatz; wo wir gemeiniglich an¬<lb />
-zulanden und des Abends uns wieder einzuschiffen pflegten, ka-<lb />
-men wir neben einem geräumigen Hause vorbei, das in der an¬<lb />
-genehmsten Lage unter einem Haufen niedriger Cocospalmen er¬</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="245"/><p/><p>wir ungefähr noch 2 Meilen weiter gegen Südost gegangen wa¬<lb/>
+ren, befanden wir uns an der See, die hier ziemlich weit in die<lb/>
+Küste herein reichte und eine kleine Bucht ausmachte. Rings<lb/>
+um uns her waren überall Plantagen und mitten auf einem<lb/>
+schönen Grasplatz trafen wir auch ein Marai oder Begräbniß<lb/>
+an, daß aus drei Reihen oder Stufen von Steinen übereinan¬<lb/>
+der erbaut war. Jede Stufe mochte ungefähr viertehalb Fuß<lb/>
+hoch sein, und alle waren mit Gras, Farnkraut und kleinem<lb/>
+Strauchwerke bewachsen. Vor dem Marai war an der Land¬<lb/>
+seite hin eine Mauer von fest übereinander gepackten Steinen<lb/>
+aufgeführt, die ungefähr 3 Fuß Höhe hatte, und innerhalb dieser stan¬<lb/>
+den nach dem Gebäude zu zwei bis drei einsam hingepflanzte<lb/>
+Cocospalmen, und verschiedene junge Casuarinen, die mit ihren<lb/>
+traurig herabhängenden Zweigen der ganzen Scene ein feierlich<lb/>
+melancholisches Ansehen gaben. Nicht weit von diesem Marai,<lb/>
+das mit dickem Buschwerk umgeben war, sahen wir eine kleine<lb/>
+Hütte (Tupapau), und unter dieser lag ein todter Körper, mit<lb/>
+einem Stück weißen Zeuges bedeckt, das auf den Seiten in lan¬<lb/>
+gen Falten herabhing. Junge Cocospalmen und Pisange sproß¬<lb/>
+ten hier aus der Erde, und der Drachenbaum blühte umher.<lb/>
+Nahebei stand eine andre Hütte, darin ein Vorrath von Lebens-<lb/>
+mitteln für die Gottheit (Eatua) befindlich, und unweit dersel-<lb/>
+ben ein Pfahl aufgerichtet war, an welchem ein in Matten ein¬<lb/>
+gewickelter Vogel hing. In dieser letztern Hütte, welche auf einer<lb/>
+kleinen Anhöhe lag, erblickten wir eine Frauensperson, die in be¬<lb/>
+trübter, gedankenvoller Stellung da saß. Bei unsrer Annäherung<lb/>
+stand sie auf und winkte, daß wir nicht näher kommen möchten.<lb/>
+Wir boten ihr von fern ein kleines Geschenk, sie wollte es aber<lb/>
+nicht annehmen, und wir erfuhren von unsern indianischen Be¬<lb/>
+gleitern daß diese Person zu dem Marai gehöre, daß der todte<lb/>
+Körper eine Frauensperson sei, und daß erstere vermuthlich mit<lb/>
+den Trauerceremonien beschäftigt wäre.</p><p/><p>Wir ließen sie also ungestört, und sobald &lt;persName ref="https://www.wikidata.org/wiki/Q730841"&gt;Herr Hodges&lt;/persName&gt; mit<lb/>
+einer Zeichnung von diesem Platz fertig war, gingen wir wieder<lb/>
+zurück. Es war etwas Großes in dieser Scene, die in allen<lb/>
+Stücken zu Religionsbetrachtungen Anlaß geben konnte. Auf<lb/>
+dem Rückwege nach dem Wasserplatz; wo wir gemeiniglich an¬<lb/>
+zulanden und des Abends uns wieder einzuschiffen pflegten, ka-<lb/>
+men wir neben einem geräumigen Hause vorbei, das in der an¬<lb/>
+genehmsten Lage unter einem Haufen niedriger Cocospalmen er¬</p></body></text>
+</TEI>

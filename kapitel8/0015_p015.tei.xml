@@ -1,39 +1,129 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>227</page-number><paragraph /><paragraph>Gegenden in der Nähe nichts von ihren Reizen verlören, und<lb />
-daß &lt;persName ref="https://www.wikidata.org/wiki/Q153911"&gt;Herr von Boupainville&lt;/persName&gt; nicht zu weit gegangen sei, wenn er<lb />
-dies Land als ein Paradies beschrieben. Wir befanden uns in<lb />
-einem Walde von Brodfruchtbäumen, auf denen aber bei dieser<lb />
-Jahreszeit keine Früchte mehr waren, und beim Ausgang des<lb />
-Gehölzes sahen wir einen schmalen, von Gras entblößten Fuß¬<lb />
-pfad vor uns, vermittelst dessen wir bald zu verschiednen Woh¬<lb />
-nungen gelangten, die unter mancherlei Buschwerk halb versteckt<lb />
-lagen. Hohe Cocospalmen rogten weit über die andern Bäume<lb />
-empor und neigten ihre hängenden Wipfel auf allen Seiten ge¬<lb />
-gen einander hin. Der Pisang prangte mit seinen schönen brei¬<lb />
-ten Blättern und zum Theil auch noch mit einzelnen trauben¬<lb />
-förmigen Früchten. Eine schattenreiche Art von Bäumen, mit<lb />
-dunkelgrünem Laube, trug goldgelbe Aepfel, die den würzhaften<lb />
-Geschmack und Saft der Ananas hatten. Der Zwischenraum<lb />
-war bald mit jungen chinesischen Paulbeerbäumen (morus pa¬<lb />
-pyrifera) bepflanzt, deren Rinde von den Einwohnern zu Ver¬<lb />
-fertigung der hiesigen Zeuge gebraucht wird; bald mit verschied¬<lb />
-nen Arten von Arum- oder Zehrwurzeln (Arum oder Eddoes<lb />
-mit Yams, Zuckerrohr und andern nutzbaren Pflanzen besetzt.<lb />
-Die Wohnungen der &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt; lagen einzeln, jedoch ziemlich dicht<lb />
-neben einander, im Schatten der Brodfruchtbäume auf der Ebene<lb />
-umher, und waren mit mancherlei Stauden, als Gardenia,<lb />
-Guettarda und Calophyllum umpflanzt. Die einfache Bau¬<lb />
-art und die Reinlichkeit derselben stimmte mit der kunstlosen<lb />
-Schönheit des darum her liegenden Waldes überaus gut zusam¬<lb />
-men. Sie bestanden nämlich mehrentheils nur aus einem Dach,<lb />
-das auf etlichen Pfosten ruhte und pflegten übrigens, an allen<lb />
-Seiten offen, ohne Wände zu sein. Diese sind auch bei dem<lb />
-vortrefflichen Klima des Landes, welches vielleicht eins der glück¬<lb />
-lichsten auf Erden ist, vollkommen gut zu entbehren; denn Thau<lb />
-und Regen, die einzigen Veränderungen der Witterung, gegen<lb />
-welche die Einwohner Schutz nöthig haben, kann in den mehr-<lb />
-sten Fällen ein bloßes Dach genugsam abhalten. Zu diesen lie¬<lb />
-fert ihnen der Pandang oder Palmnußbaum*) seine breiten<lb />
-Blätter statt der Ziegel und die Pfeiler werden aus dem Stamm</paragraph><footer>*) Athrodactylis. Char. Gen. nov. Forster. London. 1776. Bro¬<lb />
-melia sylvestris Linn. Flora Ceyl. Keura. Forskal Flor. Arab. Panda¬<lb />
-nus. Rumph. Amboin.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="227"/><p/><p>Gegenden in der Nähe nichts von ihren Reizen verlören, und<lb/>
+daß &lt;persName ref="https://www.wikidata.org/wiki/Q153911"&gt;Herr von Boupainville&lt;/persName&gt; nicht zu weit gegangen sei, wenn er<lb/>
+dies Land als ein Paradies beschrieben. Wir befanden uns in<lb/>
+einem Walde von Brodfruchtbäumen, auf denen aber bei dieser<lb/>
+Jahreszeit keine Früchte mehr waren, und beim Ausgang des<lb/>
+Gehölzes sahen wir einen schmalen, von Gras entblößten Fuß¬<lb/>
+pfad vor uns, vermittelst dessen wir bald zu verschiednen Woh¬<lb/>
+nungen gelangten, die unter mancherlei Buschwerk halb versteckt<lb/>
+lagen. Hohe Cocospalmen rogten weit über die andern Bäume<lb/>
+empor und neigten ihre hängenden Wipfel auf allen Seiten ge¬<lb/>
+gen einander hin. Der Pisang prangte mit seinen schönen brei¬<lb/>
+ten Blättern und zum Theil auch noch mit einzelnen trauben¬<lb/>
+förmigen Früchten. Eine schattenreiche Art von Bäumen, mit<lb/>
+dunkelgrünem Laube, trug goldgelbe Aepfel, die den würzhaften<lb/>
+Geschmack und Saft der Ananas hatten. Der Zwischenraum<lb/>
+war bald mit jungen chinesischen Paulbeerbäumen (morus pa¬<lb/>
+pyrifera) bepflanzt, deren Rinde von den Einwohnern zu Ver¬<lb/>
+fertigung der hiesigen Zeuge gebraucht wird; bald mit verschied¬<lb/>
+nen Arten von Arum- oder Zehrwurzeln (Arum oder Eddoes<lb/>
+mit Yams, Zuckerrohr und andern nutzbaren Pflanzen besetzt.<lb/>
+Die Wohnungen der &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianer&lt;/persName&gt; lagen einzeln, jedoch ziemlich dicht<lb/>
+neben einander, im Schatten der Brodfruchtbäume auf der Ebene<lb/>
+umher, und waren mit mancherlei Stauden, als Gardenia,<lb/>
+Guettarda und Calophyllum umpflanzt. Die einfache Bau¬<lb/>
+art und die Reinlichkeit derselben stimmte mit der kunstlosen<lb/>
+Schönheit des darum her liegenden Waldes überaus gut zusam¬<lb/>
+men. Sie bestanden nämlich mehrentheils nur aus einem Dach,<lb/>
+das auf etlichen Pfosten ruhte und pflegten übrigens, an allen<lb/>
+Seiten offen, ohne Wände zu sein. Diese sind auch bei dem<lb/>
+vortrefflichen Klima des Landes, welches vielleicht eins der glück¬<lb/>
+lichsten auf Erden ist, vollkommen gut zu entbehren; denn Thau<lb/>
+und Regen, die einzigen Veränderungen der Witterung, gegen<lb/>
+welche die Einwohner Schutz nöthig haben, kann in den mehr-<lb/>
+sten Fällen ein bloßes Dach genugsam abhalten. Zu diesen lie¬<lb/>
+fert ihnen der Pandang oder Palmnußbaum*) seine breiten<lb/>
+Blätter statt der Ziegel und die Pfeiler werden aus dem Stamm</p><footer>*) Athrodactylis. Char. Gen. nov. Forster. London. 1776. Bro¬<lb/>
+melia sylvestris Linn. Flora Ceyl. Keura. Forskal Flor. Arab. Panda¬<lb/>
+nus. Rumph. Amboin.</footer></body></text>
+</TEI>

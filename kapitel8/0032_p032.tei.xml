@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>244</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>auf sein Zeichnen geheftet, aber wie groß war ihr Erstaunen und<lb />
-Vergnügen, als sie zwischen seiner Arbeit und den Gesichtszügen<lb />
-einiger ihrer anwesenden Landsleute eine auffallende Aehnlichkeit<lb />
-gewahr wurden. Unerachtet wir uns seit unserm Hierseins schon<lb />
-viel Mühe gegeben hatten die Sprache zu erlernen, so waren<lb />
-wir doch noch nicht weit darin gekommen, und mußten daher<lb />
-Verzicht auf das Vergnügen thun, welches uns die Unterhaltung<lb />
-mit diesen glücklichen Leuten ohne Zweifel gewährt haben würde.<lb />
-Einzelne Wörter und stumme Pantomine war alles, wodurch<lb />
-wir uns ausdrücken konnten. Aber selbst das war hinreichend,<lb />
-die guten Leute zu vergnügen, und unsre Gelehrigkeit und Be¬<lb />
-streben ihnen zu gefallen, war ihnn wenigstens ebenso angenehm,<lb />
-als uns ihre Gefälligkeit uns zu dienen und zu unterrichten. Der<lb />
-alte Mann änderte unserwegen seine Stellung nicht. Ohne sein<lb />
-Haupt vom Stuhl zu erheben, that er verschiedene kleine Fra¬<lb />
-gen an uns: Z. E. wie der Erih oder Befehlshaber des Schif¬<lb />
-fes hieße? wie das Land genannt werde aus dem wir kämen?<lb />
-wie lang wir bleiben würden? ob wir unsre Frauen bei uns<lb />
-hätten? u. d. gl. Er schien zwar von alle dem schon durch seine<lb />
-Landsleute unterrichtet zu sein, doch mochte er von uns selbst<lb />
-die Bestätigung ihrer Aussage hören, oder durch das Gespräch<lb />
-uns blos unterhalten wollen. Wir beantworteten seine Fragen<lb />
-so gut wir konnten; theilten hierauf einige Korallen, Medaillen<lb />
-und andre Kleinigkeiten unter seine Familie aus, und gingen als¬<lb />
-dann weiter. Auf diese Weise hätten wir zu Fuß um die ganze<lb />
-Insel wandern können. Einerseits ließ uns die Gastfreiheit der<lb />
-Einwohner in jeder Hütte, wo wir hätten einkehren mögen, die<lb />
-nöthigen Erfrischungen hoffen, und auch in Absicht des Weges<lb />
-würde es sich überall haben gut fortkommen lassen, denn die<lb />
-Ebene zwischen den Bergen und der See läuft um die ganze<lb />
-Insel ununterbrochen herum; der Boden ist auf diesem schmalen<lb />
-Landstrich völlig eben und der Weg an vielen Stellen mit fei¬<lb />
-nem Grase bewachsen. Kein einziges schädliches Thier schreckte<lb />
-uns; nicht einmal Mücken oder Muskitofliegen summten um<lb />
-uns her. Die Brodfruchtwälder machten selbst gegen die Mit¬<lb />
-tagssonne einen angenehmen Schatten und die Hitze ward noch<lb />
-überdies durch eine kühle Seeluft gemäßigt. Da aber die Ein-<lb />
-wohner gewohnt sind, während den Mittagsstunden zu ruhen, so<lb />
-verliefen sie sich auch jetzt einer nach dem andern in die Büsche,<lb />
-und nur sehr wenige von ihnen blieben noch bei uns. Nachdem</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="244"/><head>Reise um die Welt</head><p/><p>auf sein Zeichnen geheftet, aber wie groß war ihr Erstaunen und<lb/>
+Vergnügen, als sie zwischen seiner Arbeit und den Gesichtszügen<lb/>
+einiger ihrer anwesenden Landsleute eine auffallende Aehnlichkeit<lb/>
+gewahr wurden. Unerachtet wir uns seit unserm Hierseins schon<lb/>
+viel Mühe gegeben hatten die Sprache zu erlernen, so waren<lb/>
+wir doch noch nicht weit darin gekommen, und mußten daher<lb/>
+Verzicht auf das Vergnügen thun, welches uns die Unterhaltung<lb/>
+mit diesen glücklichen Leuten ohne Zweifel gewährt haben würde.<lb/>
+Einzelne Wörter und stumme Pantomine war alles, wodurch<lb/>
+wir uns ausdrücken konnten. Aber selbst das war hinreichend,<lb/>
+die guten Leute zu vergnügen, und unsre Gelehrigkeit und Be¬<lb/>
+streben ihnen zu gefallen, war ihnn wenigstens ebenso angenehm,<lb/>
+als uns ihre Gefälligkeit uns zu dienen und zu unterrichten. Der<lb/>
+alte Mann änderte unserwegen seine Stellung nicht. Ohne sein<lb/>
+Haupt vom Stuhl zu erheben, that er verschiedene kleine Fra¬<lb/>
+gen an uns: Z. E. wie der Erih oder Befehlshaber des Schif¬<lb/>
+fes hieße? wie das Land genannt werde aus dem wir kämen?<lb/>
+wie lang wir bleiben würden? ob wir unsre Frauen bei uns<lb/>
+hätten? u. d. gl. Er schien zwar von alle dem schon durch seine<lb/>
+Landsleute unterrichtet zu sein, doch mochte er von uns selbst<lb/>
+die Bestätigung ihrer Aussage hören, oder durch das Gespräch<lb/>
+uns blos unterhalten wollen. Wir beantworteten seine Fragen<lb/>
+so gut wir konnten; theilten hierauf einige Korallen, Medaillen<lb/>
+und andre Kleinigkeiten unter seine Familie aus, und gingen als¬<lb/>
+dann weiter. Auf diese Weise hätten wir zu Fuß um die ganze<lb/>
+Insel wandern können. Einerseits ließ uns die Gastfreiheit der<lb/>
+Einwohner in jeder Hütte, wo wir hätten einkehren mögen, die<lb/>
+nöthigen Erfrischungen hoffen, und auch in Absicht des Weges<lb/>
+würde es sich überall haben gut fortkommen lassen, denn die<lb/>
+Ebene zwischen den Bergen und der See läuft um die ganze<lb/>
+Insel ununterbrochen herum; der Boden ist auf diesem schmalen<lb/>
+Landstrich völlig eben und der Weg an vielen Stellen mit fei¬<lb/>
+nem Grase bewachsen. Kein einziges schädliches Thier schreckte<lb/>
+uns; nicht einmal Mücken oder Muskitofliegen summten um<lb/>
+uns her. Die Brodfruchtwälder machten selbst gegen die Mit¬<lb/>
+tagssonne einen angenehmen Schatten und die Hitze ward noch<lb/>
+überdies durch eine kühle Seeluft gemäßigt. Da aber die Ein-<lb/>
+wohner gewohnt sind, während den Mittagsstunden zu ruhen, so<lb/>
+verliefen sie sich auch jetzt einer nach dem andern in die Büsche,<lb/>
+und nur sehr wenige von ihnen blieben noch bei uns. Nachdem</p></body></text>
+</TEI>

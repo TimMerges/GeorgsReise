@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>259</page-number><paragraph /><paragraph>hingegen verhielt es sich ganz umgekehrt. Die Insel sahe nicht<lb />
-nur schon fern reizend aus, sondern je näher wir derselben ka¬<lb />
-men, desto schöner wurden auch die Prospecte, ja selbst bei je-<lb />
-dem Spaziergang entdeckten wir neue Annehmlichkeiten. Je<lb />
-länger wir blieben, je mehr wurden die Eindrücke des ersten An¬<lb />
-blicks bestätigt, ungeachtet wir hier wegen den Erfrischungen<lb />
-schlimmer daran waren, als auf &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu=Seeland&lt;/place&gt;, woselbst es grö¬<lb />
-ßern Ueberfluß an Fischen und Vögeln gab, anstatt daß man<lb />
-sich hier mit eingesalzenen Speisen behelfen mußte. Die Jah¬<lb />
-reszeit, welche mit unserm Februar übereinstimmt, hatte natürli¬<lb />
-cherweise einen Mangel an Baumfrüchten verursacht; denn ob¬<lb />
-gleich hier zu Lande der Winter nicht in kalter Witterung be¬<lb />
-stehet, wie in Ländern, die weit von den Wendezirkeln liegen, so<lb />
-ist er dennoch hier so gut als überall die Jahreszeit, in welcher<lb />
-das ganze Pflanzenreich die Säfte zu einer neuen Ernte bereitet.<lb />
-Daher hatten einige Bäume ihre Blätter ganz verloren, verschie¬<lb />
-dene Pflanzen waren bis auf die Wurzeln abgestorben, und<lb />
-die übrigen alle sahen ganz vertrocknet aus, weil nämlich<lb />
-der Regen sich erst alsdann einstellt, wenn die Sonne wieder<lb />
-im südlichen Hemispher ist. Bei so bewandten Umständen hat¬<lb />
-ten Laub und Kraut auf dem flachen Lande überall eine dun¬<lb />
-kelbraune Farbe bekommen. Ein lebhafteres Grün fand man<lb />
-nur allein noch in den Wäldern, welche die höhern Berggipfel,<lb />
-krönen; denn diese sind fast beständig in Wolken verhüllt, und<lb />
-folglich ist es dort immer feucht. Von daher brachten uns die<lb />
-Einwohner unter andern auch eine Menge wilder Pisange, Ve-<lb />
-hie (Wehi) und das wohlriechende Holz e-ahaï, womit sie ihrem<lb />
-Cocosnußöle einen so starken Geruch geben. Die häufigen Erd¬<lb />
-risse und die zerrüttete Form der höhern Bergspitzen, rühren al¬<lb />
-lem Anschein nach von ehemaligen Erdbeben her; und die Laven,<lb />
-woraus die Berge zum Theil bestehen und wovon die Einwoh¬<lb />
-ner allerhand Werkzeuge machen, überzeugten uns noch mehr, daß vor<lb />
-Zeiten brennende Berge auf der Insel gewesen sein müssen. Eben<lb />
-dies beweiset auch der fruchtbare Boden in der Ebene, der aus recht<lb />
-fetter Gartenerde besteht und mit den Ueberbleibseln vulcanischer<lb />
-Ausbrüche vermischt ist, ingleichen der schwarze Eisensand, der<lb />
-sich oft am Fuße der Berge findet. Unter der vordersten Reihe<lb />
-von Bergen gibt es mehrere, die ganz unfruchtbar sind und<lb />
-aus gelbem, mit Eisenocher vermischtem Thon bestehen; andere<lb />
-hingegen haben gutes, fruchtbares Erdreich, und diese sind, gleich</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="259"/><p/><p>hingegen verhielt es sich ganz umgekehrt. Die Insel sahe nicht<lb/>
+nur schon fern reizend aus, sondern je näher wir derselben ka¬<lb/>
+men, desto schöner wurden auch die Prospecte, ja selbst bei je-<lb/>
+dem Spaziergang entdeckten wir neue Annehmlichkeiten. Je<lb/>
+länger wir blieben, je mehr wurden die Eindrücke des ersten An¬<lb/>
+blicks bestätigt, ungeachtet wir hier wegen den Erfrischungen<lb/>
+schlimmer daran waren, als auf &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu=Seeland&lt;/place&gt;, woselbst es grö¬<lb/>
+ßern Ueberfluß an Fischen und Vögeln gab, anstatt daß man<lb/>
+sich hier mit eingesalzenen Speisen behelfen mußte. Die Jah¬<lb/>
+reszeit, welche mit unserm Februar übereinstimmt, hatte natürli¬<lb/>
+cherweise einen Mangel an Baumfrüchten verursacht; denn ob¬<lb/>
+gleich hier zu Lande der Winter nicht in kalter Witterung be¬<lb/>
+stehet, wie in Ländern, die weit von den Wendezirkeln liegen, so<lb/>
+ist er dennoch hier so gut als überall die Jahreszeit, in welcher<lb/>
+das ganze Pflanzenreich die Säfte zu einer neuen Ernte bereitet.<lb/>
+Daher hatten einige Bäume ihre Blätter ganz verloren, verschie¬<lb/>
+dene Pflanzen waren bis auf die Wurzeln abgestorben, und<lb/>
+die übrigen alle sahen ganz vertrocknet aus, weil nämlich<lb/>
+der Regen sich erst alsdann einstellt, wenn die Sonne wieder<lb/>
+im südlichen Hemispher ist. Bei so bewandten Umständen hat¬<lb/>
+ten Laub und Kraut auf dem flachen Lande überall eine dun¬<lb/>
+kelbraune Farbe bekommen. Ein lebhafteres Grün fand man<lb/>
+nur allein noch in den Wäldern, welche die höhern Berggipfel,<lb/>
+krönen; denn diese sind fast beständig in Wolken verhüllt, und<lb/>
+folglich ist es dort immer feucht. Von daher brachten uns die<lb/>
+Einwohner unter andern auch eine Menge wilder Pisange, Ve-<lb/>
+hie (Wehi) und das wohlriechende Holz e-ahaï, womit sie ihrem<lb/>
+Cocosnußöle einen so starken Geruch geben. Die häufigen Erd¬<lb/>
+risse und die zerrüttete Form der höhern Bergspitzen, rühren al¬<lb/>
+lem Anschein nach von ehemaligen Erdbeben her; und die Laven,<lb/>
+woraus die Berge zum Theil bestehen und wovon die Einwoh¬<lb/>
+ner allerhand Werkzeuge machen, überzeugten uns noch mehr, daß vor<lb/>
+Zeiten brennende Berge auf der Insel gewesen sein müssen. Eben<lb/>
+dies beweiset auch der fruchtbare Boden in der Ebene, der aus recht<lb/>
+fetter Gartenerde besteht und mit den Ueberbleibseln vulcanischer<lb/>
+Ausbrüche vermischt ist, ingleichen der schwarze Eisensand, der<lb/>
+sich oft am Fuße der Berge findet. Unter der vordersten Reihe<lb/>
+von Bergen gibt es mehrere, die ganz unfruchtbar sind und<lb/>
+aus gelbem, mit Eisenocher vermischtem Thon bestehen; andere<lb/>
+hingegen haben gutes, fruchtbares Erdreich, und diese sind, gleich</p></body></text>
+</TEI>

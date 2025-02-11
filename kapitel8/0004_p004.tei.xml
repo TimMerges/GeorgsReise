@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>216</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>allen Seiten erschallte das willkommene Taylor und wir erwie¬<lb />
-derten es mit wahrhaftem und herzlichen Vergnügen über eine<lb />
-so günstige Veränderung unsrer Umstände. Sie brachten uns<lb />
-Cocosnüsse und Pisangs in Ueberfluß, nebst Brodfrucht und an¬<lb />
-dern Gewächsen, welche sie sehr eifrig gegen Glaskorallen und<lb />
-kleine Nägel vertauschten. Stücke Zeug, Fischangeln, steinerne<lb />
-Aexte, und allerhand Arten von Werkzeugen wurden gleichfalls<lb />
-zum Verkauf ausgeboten und leicht angebracht. Die Menge<lb />
-von Canots, welche zwischen uns und der Küste ab- und zu¬<lb />
-gingen, stellte ein schönes Schauspiel, gewissermaßen eine neue<lb />
-Art von Messe auf dem Wasser dar. Ich fing sogleich an durch<lb />
-die Cajütenfenster um Naturalien zu handeln, und in einer hal¬<lb />
-ben Stunde hatte ich schon zwei bis drei Arten unbekannter Vö¬<lb />
-gel und eine große Anzahl neuer Fische beisammen. Die Far¬<lb />
-ben der letztern waren, so lange sie lebten, von ausnehmender<lb />
-Schönheit, daher ich gleich diesen Morgen dazu anwendete, sie<lb />
-zu zeichnen und die hellen Farben anzulegen ehe sie mit dem<lb />
-Leben verschwanden.</paragraph><paragraph /><paragraph>Die Leute, welche uns umgaben, hatten so viel Sanftes in<lb />
-ihren Zügen, als Gefälliges in ihrem Betragen. Sie waren<lb />
-ungefähr von unsrer Größe, blaß mahagonybraun, hatten schöne<lb />
-schwarze Augen und Haare, und trugen ein Stück Zeug von<lb />
-ihrer eignen Arbeit mitten um den Leib, ein andres aber in<lb />
-mancherlei malerischen Formen als einen Turban um den Kopf<lb />
-gewickelt. Die Frauenspersonen, welche sich unter ihnen befan¬<lb />
-den, waren hübsch genug, um &lt;persName ref="https://www.wikidata.org/wiki/Q394067"&gt;Europäern&lt;/persName&gt; in die Augen zu fal-<lb />
-len, die seit Jahr und Tag nichts von ihren Landsmänninnen<lb />
-gesehen hatten. Die Kleidung derselben bestand in einem Stück<lb />
-Zeug, welches in der Mitte ein Loch hatte um den Kopf durch¬<lb />
-zustecken und hinten und vornen bis auf die Kniee herabhing.<lb />
-Hierüber trugen sie ein andres Stück von Zeuge, das so fein<lb />
-wie Nesseltuch und auf mannichfaltige, jedoch zierliche Weise, et-<lb />
-was unterhalb der Brust als eine Tunica um den Leib geschla¬<lb />
-gen war, so daß ein Theil davon, zuweilen mit vieler Grazie,<lb />
-über die Schulter hing. War diese Tracht gleich nicht vollkom¬<lb />
-men so schön, als jene an den griechischen Statuen bewunderten<lb />
-Daperien, so übertraf sie doch unsere Erwartungen gar sehr und<lb />
-dünkte uns der menschlichen Bildung ungleich vortheilhafter, als<lb />
-jede andere, die wir bis jetzt gesehen. Beide Geschlechter waren<lb />
-durch die von andern Reisenden bereits beschriebenen, sonderba-</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="216"/><head>Reise um die Welt</head><p/><p>allen Seiten erschallte das willkommene Taylor und wir erwie¬<lb/>
+derten es mit wahrhaftem und herzlichen Vergnügen über eine<lb/>
+so günstige Veränderung unsrer Umstände. Sie brachten uns<lb/>
+Cocosnüsse und Pisangs in Ueberfluß, nebst Brodfrucht und an¬<lb/>
+dern Gewächsen, welche sie sehr eifrig gegen Glaskorallen und<lb/>
+kleine Nägel vertauschten. Stücke Zeug, Fischangeln, steinerne<lb/>
+Aexte, und allerhand Arten von Werkzeugen wurden gleichfalls<lb/>
+zum Verkauf ausgeboten und leicht angebracht. Die Menge<lb/>
+von Canots, welche zwischen uns und der Küste ab- und zu¬<lb/>
+gingen, stellte ein schönes Schauspiel, gewissermaßen eine neue<lb/>
+Art von Messe auf dem Wasser dar. Ich fing sogleich an durch<lb/>
+die Cajütenfenster um Naturalien zu handeln, und in einer hal¬<lb/>
+ben Stunde hatte ich schon zwei bis drei Arten unbekannter Vö¬<lb/>
+gel und eine große Anzahl neuer Fische beisammen. Die Far¬<lb/>
+ben der letztern waren, so lange sie lebten, von ausnehmender<lb/>
+Schönheit, daher ich gleich diesen Morgen dazu anwendete, sie<lb/>
+zu zeichnen und die hellen Farben anzulegen ehe sie mit dem<lb/>
+Leben verschwanden.</p><p/><p>Die Leute, welche uns umgaben, hatten so viel Sanftes in<lb/>
+ihren Zügen, als Gefälliges in ihrem Betragen. Sie waren<lb/>
+ungefähr von unsrer Größe, blaß mahagonybraun, hatten schöne<lb/>
+schwarze Augen und Haare, und trugen ein Stück Zeug von<lb/>
+ihrer eignen Arbeit mitten um den Leib, ein andres aber in<lb/>
+mancherlei malerischen Formen als einen Turban um den Kopf<lb/>
+gewickelt. Die Frauenspersonen, welche sich unter ihnen befan¬<lb/>
+den, waren hübsch genug, um &lt;persName ref="https://www.wikidata.org/wiki/Q394067"&gt;Europäern&lt;/persName&gt; in die Augen zu fal-<lb/>
+len, die seit Jahr und Tag nichts von ihren Landsmänninnen<lb/>
+gesehen hatten. Die Kleidung derselben bestand in einem Stück<lb/>
+Zeug, welches in der Mitte ein Loch hatte um den Kopf durch¬<lb/>
+zustecken und hinten und vornen bis auf die Kniee herabhing.<lb/>
+Hierüber trugen sie ein andres Stück von Zeuge, das so fein<lb/>
+wie Nesseltuch und auf mannichfaltige, jedoch zierliche Weise, et-<lb/>
+was unterhalb der Brust als eine Tunica um den Leib geschla¬<lb/>
+gen war, so daß ein Theil davon, zuweilen mit vieler Grazie,<lb/>
+über die Schulter hing. War diese Tracht gleich nicht vollkom¬<lb/>
+men so schön, als jene an den griechischen Statuen bewunderten<lb/>
+Daperien, so übertraf sie doch unsere Erwartungen gar sehr und<lb/>
+dünkte uns der menschlichen Bildung ungleich vortheilhafter, als<lb/>
+jede andere, die wir bis jetzt gesehen. Beide Geschlechter waren<lb/>
+durch die von andern Reisenden bereits beschriebenen, sonderba-</p></body></text>
+</TEI>

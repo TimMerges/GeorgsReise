@@ -1,43 +1,133 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><paragraph /><paragraph>Reise um die Welt<lb />
-258<lb />
-die Segel in Ordnung brachten und andere ernsthafte Anstalten<lb />
-zur Abreise vorkehrten, so kamen sie hausenweise mit kleinen Ca¬<lb />
-nots voll Cocosnüsse, und andrer Gewächse an die Schiffe und<lb />
-verkauften alles zu sehr geringen Preisen, damit sie nur die Ge¬<lb />
-legenheit europäische Waaren zu bekommen nicht ungenutzt möch¬<lb />
-ten vorbeistreichen lassen. Der Geschmack an Kleinigkeiten und<lb />
-Spielzeug, der auf eine so unbegreifliche Weise mehr oder min¬<lb />
-der über die ganze Welt verbreitet ist, ging hier so weit, daß<lb />
-die Leute ein Dutzend der schönsten Cocosnüsse für eine einzige<lb />
-Glaskoralle hingaben, und auf diesen unbedeutenden Schmuck<lb />
-bisweilen einen höheren Werth legten als auf einen Nagel, der<lb />
-doch einigen Nutzen haben konnte. Wir fanden, daß die In¬<lb />
-sulaner jetzt weit ehrlicher zu Werk gingen, als bei unsrer An¬<lb />
-kunft. Vielleicht besorgten sie, daß die geringste Betrügerei dem<lb />
-Handel alsbald ein Ende machen würde, der ihnen erst recht am<lb />
-Herzen liegen mochte, seitdem sie sahen, daß er überhaupt nicht lange<lb />
-mehr dauern würde. Um die Vortheile desselben noch so lange<lb />
-als möglich zu genießen, begleiteten sie uns bis ein paar Meilen<lb />
-außerhalb des Riefs und kehrten dann erst zum Strande zurück,<lb />
-woselbst wir den &lt;persName ref="https://www.wikidata.org/wiki/Q2560123"&gt;Lieutenant Pikersgill&lt;/persName&gt; mit einem Boot zurück¬<lb />
-gelassen hatten, um auch unsrerseits von der Neigung, welche das<lb />
-Volk jetzt zum Handel blicken ließ, noch einigen Gebrauch zu machen.<lb />
-Nunmehr, da wir gleichsam von neuem wieder uns selbst<lb />
-überlassen waren, konnte man sich ein wenig erholen und ein¬<lb />
-mal wieder zu Athem kommen, welches sich während des kurzen<lb />
-Aufenthalts auf der Insel bei der Menge von neuen Gegenstän-<lb />
-den, kaum hatte thun lassen wollen. Diese Ruhe war uns um<lb />
-so willkommner, da sie uns Zeit gab, den mancherlei Betrach¬<lb />
-tungen nachzuhängen, zu denen wir während unsers Hierseins<lb />
-so vielfältigen Stoff gesammelt hatten. Nach allem, was wir<lb />
-auf dieser Insel gesehen und erfahren, dünkte sie uns, im Gan¬<lb />
-zen genommen, einer der glücklichsten Winkel der Erde. Zwar<lb />
-waren uns ehemals, nachdem wir lange Zeit vorher nichts als<lb />
-See, Eis und Luft vor uns gesehen hatten, auch die öden Fel¬<lb />
-sen von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seeland&lt;/place&gt; so vortheilhaft ins Gesicht gefallen, daß<lb />
-wir anfänglich ebenfalls sehr günstige Urtheile darüber fällten,<lb />
-allein diese ersten Eindrücke waren auch bald wieder verschwun¬<lb />
-den, und wir hatten in der Folge täglich mehr Gelegenheit ge¬<lb />
-funden, uns zu überzeugen, daß sich dieses Land allerdings noch<lb />
-in einem wilden, chaotischen Zustande befände. Bei &lt;place ref="https://www.wikidata.org/wiki/Q42000"&gt;O=Tahiti&lt;/place&gt;</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><p/><p>Reise um die Welt<lb/>
+258<lb/>
+die Segel in Ordnung brachten und andere ernsthafte Anstalten<lb/>
+zur Abreise vorkehrten, so kamen sie hausenweise mit kleinen Ca¬<lb/>
+nots voll Cocosnüsse, und andrer Gewächse an die Schiffe und<lb/>
+verkauften alles zu sehr geringen Preisen, damit sie nur die Ge¬<lb/>
+legenheit europäische Waaren zu bekommen nicht ungenutzt möch¬<lb/>
+ten vorbeistreichen lassen. Der Geschmack an Kleinigkeiten und<lb/>
+Spielzeug, der auf eine so unbegreifliche Weise mehr oder min¬<lb/>
+der über die ganze Welt verbreitet ist, ging hier so weit, daß<lb/>
+die Leute ein Dutzend der schönsten Cocosnüsse für eine einzige<lb/>
+Glaskoralle hingaben, und auf diesen unbedeutenden Schmuck<lb/>
+bisweilen einen höheren Werth legten als auf einen Nagel, der<lb/>
+doch einigen Nutzen haben konnte. Wir fanden, daß die In¬<lb/>
+sulaner jetzt weit ehrlicher zu Werk gingen, als bei unsrer An¬<lb/>
+kunft. Vielleicht besorgten sie, daß die geringste Betrügerei dem<lb/>
+Handel alsbald ein Ende machen würde, der ihnen erst recht am<lb/>
+Herzen liegen mochte, seitdem sie sahen, daß er überhaupt nicht lange<lb/>
+mehr dauern würde. Um die Vortheile desselben noch so lange<lb/>
+als möglich zu genießen, begleiteten sie uns bis ein paar Meilen<lb/>
+außerhalb des Riefs und kehrten dann erst zum Strande zurück,<lb/>
+woselbst wir den &lt;persName ref="https://www.wikidata.org/wiki/Q2560123"&gt;Lieutenant Pikersgill&lt;/persName&gt; mit einem Boot zurück¬<lb/>
+gelassen hatten, um auch unsrerseits von der Neigung, welche das<lb/>
+Volk jetzt zum Handel blicken ließ, noch einigen Gebrauch zu machen.<lb/>
+Nunmehr, da wir gleichsam von neuem wieder uns selbst<lb/>
+überlassen waren, konnte man sich ein wenig erholen und ein¬<lb/>
+mal wieder zu Athem kommen, welches sich während des kurzen<lb/>
+Aufenthalts auf der Insel bei der Menge von neuen Gegenstän-<lb/>
+den, kaum hatte thun lassen wollen. Diese Ruhe war uns um<lb/>
+so willkommner, da sie uns Zeit gab, den mancherlei Betrach¬<lb/>
+tungen nachzuhängen, zu denen wir während unsers Hierseins<lb/>
+so vielfältigen Stoff gesammelt hatten. Nach allem, was wir<lb/>
+auf dieser Insel gesehen und erfahren, dünkte sie uns, im Gan¬<lb/>
+zen genommen, einer der glücklichsten Winkel der Erde. Zwar<lb/>
+waren uns ehemals, nachdem wir lange Zeit vorher nichts als<lb/>
+See, Eis und Luft vor uns gesehen hatten, auch die öden Fel¬<lb/>
+sen von &lt;place ref="https://www.wikidata.org/wiki/Q664"&gt;Neu-Seeland&lt;/place&gt; so vortheilhaft ins Gesicht gefallen, daß<lb/>
+wir anfänglich ebenfalls sehr günstige Urtheile darüber fällten,<lb/>
+allein diese ersten Eindrücke waren auch bald wieder verschwun¬<lb/>
+den, und wir hatten in der Folge täglich mehr Gelegenheit ge¬<lb/>
+funden, uns zu überzeugen, daß sich dieses Land allerdings noch<lb/>
+in einem wilden, chaotischen Zustande befände. Bei &lt;place ref="https://www.wikidata.org/wiki/Q42000"&gt;O=Tahiti&lt;/place&gt;</p></body></text>
+</TEI>

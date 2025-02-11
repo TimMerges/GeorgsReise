@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>229</page-number><paragraph /><paragraph>Kehle mit einem ringförmigen Streif von vorgedachter Farbe ge¬<lb />
-zeichnet war, ein großer Kuckuck und verschiedne Arten von Tau¬<lb />
-ben hüpften fröhlich auf den Zweigen herum, indeß ein bläuli-<lb />
-cher Reiher gravitätisch am Seeufer einhertrat, um Muscheln,<lb />
-Schnecken und Würmer aufzulesen. Ein schöner Bach, der über<lb />
-ein Bette von Kieseln rollte, kam in schlängelndem Lauf das<lb />
-schmale Thal herab, und füllte beim Ausfluß in die See unsre<lb />
-leeren Fässer mit silberhellem Wasser. Wir gingen längs seinem<lb />
-krummen Ufer eine gute Strecke weit hinauf, bis uns ein gro¬<lb />
-ßer Haufen&lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt; Indianer&lt;/persName&gt; begegnete, der hinter dreien Leuten herzog,<lb />
-die in verschiedne Stücke ihres rothen und gelben Zeuges geklei¬<lb />
-det waren und von eben dergleichen zierliche Turbans aufhatten.<lb />
-Sie trugen lange Stöcke oder Stäbe in der Hand, und einer<lb />
-hatte eine Frauensperson bei sich, welches seine Frau sein sollte.<lb />
-Wir fragten, was dieser Aufzug zu bedeuten habe, und erhiel¬<lb />
-ten zur Antwort: es wären die Te-apunie; da die&lt;place ref="https://www.wikidata.org/wiki/Q49297"&gt; Indianer&lt;/place&gt;<lb />
-aber merkten, daß wir noch nicht genug von ihrer Sprache<lb />
-wüßten, um diesen Ausdruck zu verstehen, so setzten sie hinzu,<lb />
-es wären Tata-no-t' Eatua, das ist: Männer, die der Gott-<lb />
-heit und dem Marai oder Begräbniß= und Versammlungsplatze<lb />
-angehörten. Man möchte sie also wohl Priester nennen dürfen.<lb />
-Wir blieben einige Zeit stehen, um abzuwarten, ob sie etwa eine<lb />
-Art von gottesdienstlicher Handlung oder andre besondre Cere¬<lb />
-monie vornehmen würden, da aber nichts dergleichen erfolgte, so<lb />
-kehrten wir nach dem Strande zurück. Um Mittagszeit ging<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; mit uns und den beiden Söhnen des oberwähn¬<lb />
-ten O Pue wieder an Bord, ohne den Abeatua gesehen zu ha¬<lb />
-ben, der aus Ursachen, die kein Mensch errathen konnte, uns<lb />
-noch immer nicht vor sich kommen lassen wollte.</paragraph><paragraph /><paragraph>Unsre beiden indianischen Gäste setzten sich mit zu Tische<lb />
-und aßen von unsern Zugemüsen; das Pöckelfleisch aber ließen<lb />
-sie unberührt. Nach Tische nahm einer die Gelegenheit wahr,<lb />
-ein Messer und einen zinnernen Löffel zu mausen, ob ihm gleich<lb />
-der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt;, ohne alles Gegengeschenk, eine Menge von Sa¬<lb />
-chen gegeben hatte, daran er sich allerdings hätte genügen lassen<lb />
-und die Gesetze der Gastfreiheit nicht auf eine so häßliche Weise<lb />
-übertreten sollen. So bald er sah, daß die Dieberei entdeckt<lb />
-war, und daß man ihn deshalb vom Verdeck wegjagen wollte,<lb />
-besann er sich nicht lange, sondern sprang über Bord, schwamm<lb />
-nach dem nächsten Canot hin, und setzte sich ruhig in demselben</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="229"/><p/><p>Kehle mit einem ringförmigen Streif von vorgedachter Farbe ge¬<lb/>
+zeichnet war, ein großer Kuckuck und verschiedne Arten von Tau¬<lb/>
+ben hüpften fröhlich auf den Zweigen herum, indeß ein bläuli-<lb/>
+cher Reiher gravitätisch am Seeufer einhertrat, um Muscheln,<lb/>
+Schnecken und Würmer aufzulesen. Ein schöner Bach, der über<lb/>
+ein Bette von Kieseln rollte, kam in schlängelndem Lauf das<lb/>
+schmale Thal herab, und füllte beim Ausfluß in die See unsre<lb/>
+leeren Fässer mit silberhellem Wasser. Wir gingen längs seinem<lb/>
+krummen Ufer eine gute Strecke weit hinauf, bis uns ein gro¬<lb/>
+ßer Haufen&lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt; Indianer&lt;/persName&gt; begegnete, der hinter dreien Leuten herzog,<lb/>
+die in verschiedne Stücke ihres rothen und gelben Zeuges geklei¬<lb/>
+det waren und von eben dergleichen zierliche Turbans aufhatten.<lb/>
+Sie trugen lange Stöcke oder Stäbe in der Hand, und einer<lb/>
+hatte eine Frauensperson bei sich, welches seine Frau sein sollte.<lb/>
+Wir fragten, was dieser Aufzug zu bedeuten habe, und erhiel¬<lb/>
+ten zur Antwort: es wären die Te-apunie; da die&lt;place ref="https://www.wikidata.org/wiki/Q49297"&gt; Indianer&lt;/place&gt;<lb/>
+aber merkten, daß wir noch nicht genug von ihrer Sprache<lb/>
+wüßten, um diesen Ausdruck zu verstehen, so setzten sie hinzu,<lb/>
+es wären Tata-no-t' Eatua, das ist: Männer, die der Gott-<lb/>
+heit und dem Marai oder Begräbniß= und Versammlungsplatze<lb/>
+angehörten. Man möchte sie also wohl Priester nennen dürfen.<lb/>
+Wir blieben einige Zeit stehen, um abzuwarten, ob sie etwa eine<lb/>
+Art von gottesdienstlicher Handlung oder andre besondre Cere¬<lb/>
+monie vornehmen würden, da aber nichts dergleichen erfolgte, so<lb/>
+kehrten wir nach dem Strande zurück. Um Mittagszeit ging<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain Cook&lt;/persName&gt; mit uns und den beiden Söhnen des oberwähn¬<lb/>
+ten O Pue wieder an Bord, ohne den Abeatua gesehen zu ha¬<lb/>
+ben, der aus Ursachen, die kein Mensch errathen konnte, uns<lb/>
+noch immer nicht vor sich kommen lassen wollte.</p><p/><p>Unsre beiden indianischen Gäste setzten sich mit zu Tische<lb/>
+und aßen von unsern Zugemüsen; das Pöckelfleisch aber ließen<lb/>
+sie unberührt. Nach Tische nahm einer die Gelegenheit wahr,<lb/>
+ein Messer und einen zinnernen Löffel zu mausen, ob ihm gleich<lb/>
+der &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Capitain&lt;/persName&gt;, ohne alles Gegengeschenk, eine Menge von Sa¬<lb/>
+chen gegeben hatte, daran er sich allerdings hätte genügen lassen<lb/>
+und die Gesetze der Gastfreiheit nicht auf eine so häßliche Weise<lb/>
+übertreten sollen. So bald er sah, daß die Dieberei entdeckt<lb/>
+war, und daß man ihn deshalb vom Verdeck wegjagen wollte,<lb/>
+besann er sich nicht lange, sondern sprang über Bord, schwamm<lb/>
+nach dem nächsten Canot hin, und setzte sich ruhig in demselben</p></body></text>
+</TEI>

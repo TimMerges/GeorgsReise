@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775</heading><page-number>235</page-number><paragraph /><paragraph>Wind trieb die Adventure vom Anker, doch ward sie durch schleu¬<lb />
-nige gute Anstalten ihrer Leute bald wieder in die vorige Lage<lb />
-gebracht. Da dies schlimme Wetter uns an Bord eingeschlossen<lb />
-hielt, so beschäftigten wir uns diese Zeit über, um die bisher<lb />
-gesammelten Pflanzen und Thiere in Ordnung zu bringen und<lb />
-die unbekannten zu zeichnen. Ungeachtet wir aber bereits drei<lb />
-Tage lang aufs Botanisiren ausgegangen waren, so belief sich<lb />
-die Anzahl der neuentdeckten Pflanzen doch noch gar nicht hoch<lb />
-welches bei einer so blühenden Insel als &lt;place ref="https://www.wikidata.org/wiki/Q42000"&gt;Tahiti &lt;/place&gt;ein überzeugen¬<lb />
-der Beweis ihrer hohen Cultur ist. Wäre sie weniger ange¬<lb />
-bauet, so würde, dem herrlichen Boden und Klima nach, das<lb />
-Land uberall mit hunderterlei Arten von Kräutern wild über¬<lb />
-wachsen gewesen sein, statt daß jetzt dergleichen kaum hie und<lb />
-da einzeln aufsproßten. Auch von Thieren gab es nur wenige<lb />
-allhier, weil diese Insel nicht allein von geringem Umfange, son-<lb />
-dern auch auf allen Seiten gar zu weit vom festen Lande ent¬<lb />
-fernt ist. Außer einer ungeheuern Menge von Ratten, welche<lb />
-die Eingebornen aller Orten ungehindert herumlaufen ließen, ohne<lb />
-zu Vertilgung oder Verminderung derselben irgend ein Mittel<lb />
-vorzukehren, fanden wir kein andres vierfüßiges Thier allhier,<lb />
-als zahme Schweine und Hunde. Das Geschlecht der Vögel<lb />
-hingegen war schon ungleich zahlreicher, und von Fischer gab<lb />
-es vollends eine so große Menge neuer Arten, daß man fast<lb />
-jedesmal auf Entdeckungen rechnen konnte, so oft den &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianern&lt;/persName&gt;<lb />
-ein neuer, frischgefangner Vorrath davon abgekauft ward. Die<lb />
-große Mannigfaltigkeit, welche wir in dieser Classe der Geschöpfe<lb />
-fanden, rührt natürlicherweise daher, daß sie aus einem Theile<lb />
-des Oceans so leicht und ungehindert nach dem andern gelan¬<lb />
-gen können, und eben daher kommt es auch, daß man, zumal<lb />
-unter den Wendekreisen, gewisse Arten derselben rund um die<lb />
-ganze Welt antrifft.</paragraph><paragraph /><paragraph>Im Pflanzenreiche sah es hier nur allein für die Botanik<lb />
-unangenehm, in aller andern Hinsicht aber desto vortheilhafter<lb />
-aus. Von wilden Kräutern, die der Naturforscher in Menge<lb />
-zu finden wünschte, gab es nämlich, wie gesagt, nur wenige;<lb />
-dagegen desto mehr eßbare Gewächse und Früchte, als Yams,<lb />
-Zehrwurzeln (eddoes), Tahiti-Aepfel, Pisang- und Brodfrüchte.<lb />
-Von allen diesen, besonders von den ersteren drei Arten, als für<lb />
-welche gerade die rechte Jahreszeit war, brachten uns die Ein¬<lb />
-gebornen so große Quantitäten zum Verkauf, daß die gesammte</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775</head><pb n="235"/><p/><p>Wind trieb die Adventure vom Anker, doch ward sie durch schleu¬<lb/>
+nige gute Anstalten ihrer Leute bald wieder in die vorige Lage<lb/>
+gebracht. Da dies schlimme Wetter uns an Bord eingeschlossen<lb/>
+hielt, so beschäftigten wir uns diese Zeit über, um die bisher<lb/>
+gesammelten Pflanzen und Thiere in Ordnung zu bringen und<lb/>
+die unbekannten zu zeichnen. Ungeachtet wir aber bereits drei<lb/>
+Tage lang aufs Botanisiren ausgegangen waren, so belief sich<lb/>
+die Anzahl der neuentdeckten Pflanzen doch noch gar nicht hoch<lb/>
+welches bei einer so blühenden Insel als &lt;place ref="https://www.wikidata.org/wiki/Q42000"&gt;Tahiti &lt;/place&gt;ein überzeugen¬<lb/>
+der Beweis ihrer hohen Cultur ist. Wäre sie weniger ange¬<lb/>
+bauet, so würde, dem herrlichen Boden und Klima nach, das<lb/>
+Land uberall mit hunderterlei Arten von Kräutern wild über¬<lb/>
+wachsen gewesen sein, statt daß jetzt dergleichen kaum hie und<lb/>
+da einzeln aufsproßten. Auch von Thieren gab es nur wenige<lb/>
+allhier, weil diese Insel nicht allein von geringem Umfange, son-<lb/>
+dern auch auf allen Seiten gar zu weit vom festen Lande ent¬<lb/>
+fernt ist. Außer einer ungeheuern Menge von Ratten, welche<lb/>
+die Eingebornen aller Orten ungehindert herumlaufen ließen, ohne<lb/>
+zu Vertilgung oder Verminderung derselben irgend ein Mittel<lb/>
+vorzukehren, fanden wir kein andres vierfüßiges Thier allhier,<lb/>
+als zahme Schweine und Hunde. Das Geschlecht der Vögel<lb/>
+hingegen war schon ungleich zahlreicher, und von Fischer gab<lb/>
+es vollends eine so große Menge neuer Arten, daß man fast<lb/>
+jedesmal auf Entdeckungen rechnen konnte, so oft den &lt;persName ref="https://www.wikidata.org/wiki/Q49297"&gt;Indianern&lt;/persName&gt;<lb/>
+ein neuer, frischgefangner Vorrath davon abgekauft ward. Die<lb/>
+große Mannigfaltigkeit, welche wir in dieser Classe der Geschöpfe<lb/>
+fanden, rührt natürlicherweise daher, daß sie aus einem Theile<lb/>
+des Oceans so leicht und ungehindert nach dem andern gelan¬<lb/>
+gen können, und eben daher kommt es auch, daß man, zumal<lb/>
+unter den Wendekreisen, gewisse Arten derselben rund um die<lb/>
+ganze Welt antrifft.</p><p/><p>Im Pflanzenreiche sah es hier nur allein für die Botanik<lb/>
+unangenehm, in aller andern Hinsicht aber desto vortheilhafter<lb/>
+aus. Von wilden Kräutern, die der Naturforscher in Menge<lb/>
+zu finden wünschte, gab es nämlich, wie gesagt, nur wenige;<lb/>
+dagegen desto mehr eßbare Gewächse und Früchte, als Yams,<lb/>
+Zehrwurzeln (eddoes), Tahiti-Aepfel, Pisang- und Brodfrüchte.<lb/>
+Von allen diesen, besonders von den ersteren drei Arten, als für<lb/>
+welche gerade die rechte Jahreszeit war, brachten uns die Ein¬<lb/>
+gebornen so große Quantitäten zum Verkauf, daß die gesammte</p></body></text>
+</TEI>

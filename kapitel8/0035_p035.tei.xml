@@ -1,42 +1,132 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><paragraph /><paragraph>unter sich zu erhalten gewußt habe, dergestalt, daß alle Stände<lb />
-mehr oder minder gleiche Kost, gleiche Vergnügungen, gleich Ar¬<lb />
-beit und Ruhe mit einander gemein hätten. Aber wie verschwand<lb />
-diese schöne Einbildung beim Anblick dieses trägen Wollüstlings,<lb />
-der sein Leben in der üppigsten Unthätigkeit ohne allen Nutzen<lb />
-für die menschliche Gesellschaft eben so schlecht hinbrachte, wie<lb />
-jene privilegirten Schmarotzer in gesitteten Ländern, die sich mit<lb />
-dem Fette und Ueberflusse des Landes mästen, indeß der fleißigere<lb />
-Bürger desselben im Schweiß seines Angesichts darben muß.<lb />
-Die träge Ueppigkeit dieses Insulaners glich gewissermaßen dem<lb />
-Luxus dieser Art, der in Indien und andern östlichen Ländern<lb />
-unter den Großen so allgemein im Schwange ist, und über den<lb />
-sich &lt;persName ref="https://www.wikidata.org/wiki/Q24766"&gt;Sir John Mandeville&lt;/persName&gt;, in der Beschreibung seiner asiatischen<lb />
-Reisen, mit gerechtem Unwillen ausläßt. Dieser brave Ritters¬<lb />
-mann, dessen Denkungsart und Heldenmuth ganz auf den ritter¬<lb />
-haften Ton seiner Zeiten gestimmt waren, brachte sein Leben in<lb />
-beständiger Thätigkeit hin, und gerieth in herzlichen Eifer, als<lb />
-er irgendwo ein Ungeheuer von Haulheit antraf, das seine Tage<lb />
-verstreichen ließ, „ohne einiges ritterliches Ebentheuer und so im¬<lb />
-merfort faullenzte als ein Schwein, das auf dem Stalle gefüt¬<lb />
-tert wird, um gemästet zu werden.*)'</paragraph><page-number>247</page-number><footer>*)Die Stelle ist im Alt=Englischen ungemein naiv und fängt sich<lb />
-also an: „From that lond in returnynge be ten jorneys thorge out the<lb />
-lond of the grete Chane is another gode yle and a grete Kyngdom,<lb />
-where the Kyng is fulle riche and myghty etc. Wir wollen sie aber<lb />
-dem deutschen Leser zu Gefallen lieber deutsch geben. „Von dem Lande<lb />
-zehn Tagereisen rückwärts durchs Land des großen Chans ist ein anderes<lb />
-gutes Eiland und ein großes Königrich, dessen König sehr reich und<lb />
-mächtig ist. Und unter den Großen des Landes ist ein überschwenglich<lb />
-reicher Mann, der nicht Prinz, nicht Herzog nicht Graf ist; aber er hat<lb />
-mehr Vasallen, die Land und Herrschaften von ihm zu Lehen tragen, denn<lb />
-er ist reicher als Prinzen, Herzoge und Grafen sein mögen. Hat jedes<lb />
-Jahr an Renten 300,000 Rosse mit Korn verschiedener Art und mit<lb />
-Reis beladen. Lebt nach Landesbrauch als ein rechter Edelmann und köst¬<lb />
-lich. Hat jeden Tag funfzig schöne Mägdlein, die Jungfrauen sind, ihm<lb />
-aufzuwarten bei Tisch, und bei ihm zu liegen des Nachts und zu thun<lb />
-mit ihnen, was ihm wohlgefällt. Und wenn er bei Tische ist, so bringen<lb />
-sie die Speisen je fünf und füns; und singen dabei ein Liedlein, und zer¬<lb />
-legen denn das Essen und steckens ihm ins Paul, denn er rührt nichts<lb />
-an und thut nichts mit den Händen, die er immer vor sich hält auf dem<lb />
-Tische, weil er so lange Nägel an den Fingern hat, daß er dafür nichts<lb />
-anrühren oder anfassen kann, und das Kennzeichen des Adels in diesem</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><p/><p>unter sich zu erhalten gewußt habe, dergestalt, daß alle Stände<lb/>
+mehr oder minder gleiche Kost, gleiche Vergnügungen, gleich Ar¬<lb/>
+beit und Ruhe mit einander gemein hätten. Aber wie verschwand<lb/>
+diese schöne Einbildung beim Anblick dieses trägen Wollüstlings,<lb/>
+der sein Leben in der üppigsten Unthätigkeit ohne allen Nutzen<lb/>
+für die menschliche Gesellschaft eben so schlecht hinbrachte, wie<lb/>
+jene privilegirten Schmarotzer in gesitteten Ländern, die sich mit<lb/>
+dem Fette und Ueberflusse des Landes mästen, indeß der fleißigere<lb/>
+Bürger desselben im Schweiß seines Angesichts darben muß.<lb/>
+Die träge Ueppigkeit dieses Insulaners glich gewissermaßen dem<lb/>
+Luxus dieser Art, der in Indien und andern östlichen Ländern<lb/>
+unter den Großen so allgemein im Schwange ist, und über den<lb/>
+sich &lt;persName ref="https://www.wikidata.org/wiki/Q24766"&gt;Sir John Mandeville&lt;/persName&gt;, in der Beschreibung seiner asiatischen<lb/>
+Reisen, mit gerechtem Unwillen ausläßt. Dieser brave Ritters¬<lb/>
+mann, dessen Denkungsart und Heldenmuth ganz auf den ritter¬<lb/>
+haften Ton seiner Zeiten gestimmt waren, brachte sein Leben in<lb/>
+beständiger Thätigkeit hin, und gerieth in herzlichen Eifer, als<lb/>
+er irgendwo ein Ungeheuer von Haulheit antraf, das seine Tage<lb/>
+verstreichen ließ, „ohne einiges ritterliches Ebentheuer und so im¬<lb/>
+merfort faullenzte als ein Schwein, das auf dem Stalle gefüt¬<lb/>
+tert wird, um gemästet zu werden.*)'</p><pb n="247"/><footer>*)Die Stelle ist im Alt=Englischen ungemein naiv und fängt sich<lb/>
+also an: „From that lond in returnynge be ten jorneys thorge out the<lb/>
+lond of the grete Chane is another gode yle and a grete Kyngdom,<lb/>
+where the Kyng is fulle riche and myghty etc. Wir wollen sie aber<lb/>
+dem deutschen Leser zu Gefallen lieber deutsch geben. „Von dem Lande<lb/>
+zehn Tagereisen rückwärts durchs Land des großen Chans ist ein anderes<lb/>
+gutes Eiland und ein großes Königrich, dessen König sehr reich und<lb/>
+mächtig ist. Und unter den Großen des Landes ist ein überschwenglich<lb/>
+reicher Mann, der nicht Prinz, nicht Herzog nicht Graf ist; aber er hat<lb/>
+mehr Vasallen, die Land und Herrschaften von ihm zu Lehen tragen, denn<lb/>
+er ist reicher als Prinzen, Herzoge und Grafen sein mögen. Hat jedes<lb/>
+Jahr an Renten 300,000 Rosse mit Korn verschiedener Art und mit<lb/>
+Reis beladen. Lebt nach Landesbrauch als ein rechter Edelmann und köst¬<lb/>
+lich. Hat jeden Tag funfzig schöne Mägdlein, die Jungfrauen sind, ihm<lb/>
+aufzuwarten bei Tisch, und bei ihm zu liegen des Nachts und zu thun<lb/>
+mit ihnen, was ihm wohlgefällt. Und wenn er bei Tische ist, so bringen<lb/>
+sie die Speisen je fünf und füns; und singen dabei ein Liedlein, und zer¬<lb/>
+legen denn das Essen und steckens ihm ins Paul, denn er rührt nichts<lb/>
+an und thut nichts mit den Händen, die er immer vor sich hält auf dem<lb/>
+Tische, weil er so lange Nägel an den Fingern hat, daß er dafür nichts<lb/>
+anrühren oder anfassen kann, und das Kennzeichen des Adels in diesem</footer></body></text>
+</TEI>

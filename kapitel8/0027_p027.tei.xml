@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Kapitel 8</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2sasark@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1737046788248">1737046788248</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>239</page-number><paragraph /><paragraph>selbst, gehörte dem König, Abeatua zu. Wir spazierten unge¬<lb />
-fähr 2 Meilen weit beständig in den anmuthigsten Wäldern<lb />
-und Pflanzungen von Brodfruchtbäumen fort, und sahen, wie<lb />
-die Leute aller Orten wieder an ihr Tagewerk gingen, vornehm-<lb />
-lich hörten wir die Zeugarbeiter fleißig klopfen. Man muß sich<lb />
-indessen nicht vorstellen, daß die Leute eben durch Noth und<lb />
-Mangel genöthigt werden, so unablässig zu arbeiten: denn wo<lb />
-wir nur hinkamen, versammelte sich gemeiniglich bald ein gro-<lb />
-ßer Haufe um uns her, und folgte uns den ganzen Tag über<lb />
-zum Theil so unermüdet nach, daß mancher das Mittagbrod<lb />
-darüber versäumte. Doch gingen sie nicht so ganz ohne Neben¬<lb />
-absicht mit. Im Ganzen war ihr Betragen allemal gutherzig,<lb />
-freundschaftlich und dienstfertig; aber sie paßten auch jede Gele¬<lb />
-genheit ab, eine oder die andre Kleinigkeit zu entwenden, und<lb />
-damit wußten sie ausnehmend gut Bescheid. Wenn wir sie<lb />
-freundlich ansahen, oder ihnen zulächelten, so hielten manche es<lb />
-für die rechte Zeit, von unserm guten Willen Gebrauch zu ma¬<lb />
-chen und in einem bittenden Ton ein: Taylor, poe! hören zu<lb />
-lassen. Das bedeutete so viel als: Freund! ein Korallchen! Wir<lb />
-mochten ihnen hierin willfahren oder nicht, so brachte es niemals<lb />
-eine Aenderung in ihrem Betragen hervor, sondern sie blieben<lb />
-so aufgeräumt und freundlich als zuvor. Wenn sie mit diesem<lb />
-Anliegen zu häufig kamen, so zogen wir sie auf und wiederhol¬<lb />
-ten ihre kindische Bettelei im nämlichen Tone, worüber denn<lb />
-unter dem ganzen Haufen immer ein lautes Gelächter entstand.<lb />
-Sie redeten gemeiniglich sehr laut untereinander, und mehren¬<lb />
-theils waren wir der Gegenstand ihrer Unterredung. Jedem neu<lb />
-Ankommenden, der die Zahl unsrer Begleiter vermehren half,<lb />
-wurden wir sogleich mit Namen genannt, die nach ihrer Aus¬<lb />
-sprache auf wenige Vocale und weichere Consonanten reducirt<lb />
-zu sein pflegten; dann ward einem Jedem erzählt, was wir den<lb />
-ganzen Morgen über gethan oder gesagt hätten. Die erste Bitte<lb />
-bestand gewöhnlich darin, daß wir ein Gewehr abfeuern möchten<lb />
-und das thaten wir unter der Bedingung, wenn sie uns einen<lb />
-Vogel zum Ziel zeigen könnten. Doch waren wir dabei mehr<lb />
-als einmal in Verlegenheit, weil sie uns oft Vögel zeigten, die<lb />
-vier bis fünfhundert Schritte weit von uns saßen. Sie wußten<lb />
-nicht, daß die Wirkung unsres Gewehrs nur bis auf gewisse<lb />
-Entfernungen reicht; und da es eben nicht rathsam war, sie das<lb />
-Geheimniß zu lehren, so stellten wir uns gemeiniglich, als könn-</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="239"/><p/><p>selbst, gehörte dem König, Abeatua zu. Wir spazierten unge¬<lb/>
+fähr 2 Meilen weit beständig in den anmuthigsten Wäldern<lb/>
+und Pflanzungen von Brodfruchtbäumen fort, und sahen, wie<lb/>
+die Leute aller Orten wieder an ihr Tagewerk gingen, vornehm-<lb/>
+lich hörten wir die Zeugarbeiter fleißig klopfen. Man muß sich<lb/>
+indessen nicht vorstellen, daß die Leute eben durch Noth und<lb/>
+Mangel genöthigt werden, so unablässig zu arbeiten: denn wo<lb/>
+wir nur hinkamen, versammelte sich gemeiniglich bald ein gro-<lb/>
+ßer Haufe um uns her, und folgte uns den ganzen Tag über<lb/>
+zum Theil so unermüdet nach, daß mancher das Mittagbrod<lb/>
+darüber versäumte. Doch gingen sie nicht so ganz ohne Neben¬<lb/>
+absicht mit. Im Ganzen war ihr Betragen allemal gutherzig,<lb/>
+freundschaftlich und dienstfertig; aber sie paßten auch jede Gele¬<lb/>
+genheit ab, eine oder die andre Kleinigkeit zu entwenden, und<lb/>
+damit wußten sie ausnehmend gut Bescheid. Wenn wir sie<lb/>
+freundlich ansahen, oder ihnen zulächelten, so hielten manche es<lb/>
+für die rechte Zeit, von unserm guten Willen Gebrauch zu ma¬<lb/>
+chen und in einem bittenden Ton ein: Taylor, poe! hören zu<lb/>
+lassen. Das bedeutete so viel als: Freund! ein Korallchen! Wir<lb/>
+mochten ihnen hierin willfahren oder nicht, so brachte es niemals<lb/>
+eine Aenderung in ihrem Betragen hervor, sondern sie blieben<lb/>
+so aufgeräumt und freundlich als zuvor. Wenn sie mit diesem<lb/>
+Anliegen zu häufig kamen, so zogen wir sie auf und wiederhol¬<lb/>
+ten ihre kindische Bettelei im nämlichen Tone, worüber denn<lb/>
+unter dem ganzen Haufen immer ein lautes Gelächter entstand.<lb/>
+Sie redeten gemeiniglich sehr laut untereinander, und mehren¬<lb/>
+theils waren wir der Gegenstand ihrer Unterredung. Jedem neu<lb/>
+Ankommenden, der die Zahl unsrer Begleiter vermehren half,<lb/>
+wurden wir sogleich mit Namen genannt, die nach ihrer Aus¬<lb/>
+sprache auf wenige Vocale und weichere Consonanten reducirt<lb/>
+zu sein pflegten; dann ward einem Jedem erzählt, was wir den<lb/>
+ganzen Morgen über gethan oder gesagt hätten. Die erste Bitte<lb/>
+bestand gewöhnlich darin, daß wir ein Gewehr abfeuern möchten<lb/>
+und das thaten wir unter der Bedingung, wenn sie uns einen<lb/>
+Vogel zum Ziel zeigen könnten. Doch waren wir dabei mehr<lb/>
+als einmal in Verlegenheit, weil sie uns oft Vögel zeigten, die<lb/>
+vier bis fünfhundert Schritte weit von uns saßen. Sie wußten<lb/>
+nicht, daß die Wirkung unsres Gewehrs nur bis auf gewisse<lb/>
+Entfernungen reicht; und da es eben nicht rathsam war, sie das<lb/>
+Geheimniß zu lehren, so stellten wir uns gemeiniglich, als könn-</p></body></text>
+</TEI>
