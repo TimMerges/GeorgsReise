@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>71</page-number><paragraph /><paragraph>bauen; und selbst gegenwärtig haben diese noch keinen eigenen<lb />
-Prediger am Cap, sondern müssen sich mit den Schiffspredigern<lb />
-der Dänischen oder Schwedischen Ostindienfahrer begnügen, die<lb />
-gegen gute Bezahlung ein bis zweimal des Jahrs hier predigen<lb />
-und das Abendmahl austheilen. Die Sclaven sind in diesem<lb />
-Stück noch viel übler dran; denn weder die Regierung überhaupt,<lb />
-noch die einzelnen Eigenthumsherren insbesondere, bekümmern<lb />
-sich um einen so geringfügigen Umstand, als ihnen die Religion<lb />
-ihrer Leibeigenen zu sein dünkt, im allergeringsten; daher denn<lb />
-auch diese, im Ganzen genommen, gar keine zu haben scheinen.<lb />
-Einige wenige derselben sind dem Mohamedanischen Glauben<lb />
-zugethan, und versammeln sich wöchentlich einmal in dem Hause<lb />
-eines freien Mohamedaners, um einige Gebete und Capitel aus<lb />
-dem Koran zu lesen und abzusingen, worauf sich ihr ganzer äu-<lb />
-ferlicher Gottesdienst hier einschränkt, weil sie keine Priester<lb />
-haben *).<lb />
-Die Anzahl der Sclaven, welche die Compagnie hier zu<lb />
-ihrem Dienst hält, beläuft sich auf etliche hundert, die sämmtlich<lb />
-in einem geräumigen Hause wohnen, in welchem sie auch zur<lb />
-Arbeit angehalten werden. Ein anderes großes Gebäude ist zum<lb />
-Hospital für die Matrosen der Compagnieschiffe bestimmt, die<lb />
-hier anzulegen pflegen und auf ihren Reisen von Curopa nach<lb />
-Indien gemeiniglich eine ungeheure Menge von Kranken an<lb />
-Bord haben. Ein solcher Ostindienfahrer führt oft sechs bis<lb />
-acht hundert Mann Recruten nach Batavia, und da sie, auf der<lb />
-langen Reise durch den heißen Himmelsstrich, sehr eng zusam-<lb />
-mengesteckt, auch an Wasser sehr knapp gehalten werden, und<lb />
-nichts als Eingesalznes zu essen bekommen, so ist es kein Wunder,<lb />
-daß ihrer so viele drauf gehen. Es ist was sehr gewöhnliches,<lb />
-daß ein Holländisches Schiff von Curopa bis hiether 80, oder<lb />
-gar 100 Mann Tode zählt und bei seiner Ankunft allhier noch<lb />
-) Wir sind nicht gemeinet dies den Holländern allein schuld zu ge-<lb />
-ben; denn es ist zu bekannt, daß alle Reger in englischen und französi-<lb />
-schen Solonien in diesem Punkt eben so vernachläßigt sind. Wir wünsch-<lb />
-ten nur unter den Solonisten aller Nationen ein mitleldiges Gefühl gegen<lb />
-diese Unglücklichen rege zu machen; und sie, die das unschätbare Glück der<lb />
-zu erinnern,<lb />
-Freiheit selbst genießen oder wenigstens darnach streben,<lb />
-daß sie menschlich und gütig gegen Elende sein sollen, denen sie den Se-<lb />
-gen der Freiheit vielleicht ohne alles Mitleid vorenthalten.</paragraph><paragraph /><paragraph /></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="71"/><p/><p>bauen; und selbst gegenwärtig haben diese noch keinen eigenen<lb/>
+Prediger am Cap, sondern müssen sich mit den Schiffspredigern<lb/>
+der Dänischen oder Schwedischen Ostindienfahrer begnügen, die<lb/>
+gegen gute Bezahlung ein bis zweimal des Jahrs hier predigen<lb/>
+und das Abendmahl austheilen. Die Sclaven sind in diesem<lb/>
+Stück noch viel übler dran; denn weder die Regierung überhaupt,<lb/>
+noch die einzelnen Eigenthumsherren insbesondere, bekümmern<lb/>
+sich um einen so geringfügigen Umstand, als ihnen die Religion<lb/>
+ihrer Leibeigenen zu sein dünkt, im allergeringsten; daher denn<lb/>
+auch diese, im Ganzen genommen, gar keine zu haben scheinen.<lb/>
+Einige wenige derselben sind dem Mohamedanischen Glauben<lb/>
+zugethan, und versammeln sich wöchentlich einmal in dem Hause<lb/>
+eines freien Mohamedaners, um einige Gebete und Capitel aus<lb/>
+dem Koran zu lesen und abzusingen, worauf sich ihr ganzer äu-<lb/>
+ferlicher Gottesdienst hier einschränkt, weil sie keine Priester<lb/>
+haben *).<lb/>
+Die Anzahl der Sclaven, welche die Compagnie hier zu<lb/>
+ihrem Dienst hält, beläuft sich auf etliche hundert, die sämmtlich<lb/>
+in einem geräumigen Hause wohnen, in welchem sie auch zur<lb/>
+Arbeit angehalten werden. Ein anderes großes Gebäude ist zum<lb/>
+Hospital für die Matrosen der Compagnieschiffe bestimmt, die<lb/>
+hier anzulegen pflegen und auf ihren Reisen von Curopa nach<lb/>
+Indien gemeiniglich eine ungeheure Menge von Kranken an<lb/>
+Bord haben. Ein solcher Ostindienfahrer führt oft sechs bis<lb/>
+acht hundert Mann Recruten nach Batavia, und da sie, auf der<lb/>
+langen Reise durch den heißen Himmelsstrich, sehr eng zusam-<lb/>
+mengesteckt, auch an Wasser sehr knapp gehalten werden, und<lb/>
+nichts als Eingesalznes zu essen bekommen, so ist es kein Wunder,<lb/>
+daß ihrer so viele drauf gehen. Es ist was sehr gewöhnliches,<lb/>
+daß ein Holländisches Schiff von Curopa bis hiether 80, oder<lb/>
+gar 100 Mann Tode zählt und bei seiner Ankunft allhier noch<lb/>
+) Wir sind nicht gemeinet dies den Holländern allein schuld zu ge-<lb/>
+ben; denn es ist zu bekannt, daß alle Reger in englischen und französi-<lb/>
+schen Solonien in diesem Punkt eben so vernachläßigt sind. Wir wünsch-<lb/>
+ten nur unter den Solonisten aller Nationen ein mitleldiges Gefühl gegen<lb/>
+diese Unglücklichen rege zu machen; und sie, die das unschätbare Glück der<lb/>
+zu erinnern,<lb/>
+Freiheit selbst genießen oder wenigstens darnach streben,<lb/>
+daß sie menschlich und gütig gegen Elende sein sollen, denen sie den Se-<lb/>
+gen der Freiheit vielleicht ohne alles Mitleid vorenthalten.</p><p/><p/></body></text>
+</TEI>

@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>79</page-number><paragraph /><paragraph>Zu dem Ende ist er in Rechtssachen gemeiniglich wohl erfahren,<lb />
-und hängt lediglich von Holland ab. Der Major (welche Stelle<lb />
-jetzt ein Herr von Prehn bekleidet, der uns überaus viel Höf-<lb />
-lichkeit erwies), hat den Rang eines Kaufmanns — ein Um-<lb />
-stand, der uns sonderbar scheint, weil wir in allen europkischen<lb />
-Staaten daran gewöhnt sind, daß das Militair einen selbststän-<lb />
-digen Rang giebt, und der denen noch befremdender vorkommen<lb />
-muß, die den besondern Contrast kennen, der in diesem Stück<lb />
-zwischen Holland und Rukland obwaltet, wo nemlich alle Staats-<lb />
-bedienten ohne Unterschied, sogar die Professoren auf den Uni-<lb />
-versitäten, einen Militair-Rang haben. Die Zahl der hiesigen<lb />
-regulairen Truppen besteht ungefähr aus 700 Mann, wovon<lb />
-400 in dem bei der Stadt befindlichen Fort zur Besatzung lie-<lb />
-gen. Die Einwohner, welche Waffen tragen können, machen<lb />
-eine Militz von 4000 Mann aus, die, vermittelst einiger Si-<lb />
-gnale größtentheils in Zeit von wenig Stunden auf ihren respec-<lb />
-tiven Tärmplätzen zusammengebracht werden kann. Aus der<lb />
-vorgedachten Anzahl läßt sich ungefähr die Volksmenge der wei-<lb />
-sen Einwohner auf dieser Colonie bestimmen, die sich gegenwär-<lb />
-tig so weit ausgebreitet hat, daß die entferntesten Colonisten über<lb />
-vier Wochen reisen müssen, ehe sie das Cap erreichen können.<lb />
-Man darf aber von dem Umfang, bis auf welchen sich diese<lb />
-Plantagen ausgebreitet haben, keinesweges auf ihre Anzahl schlie-<lb />
-ßen, denn zumal die Äußersten derselben, liegen bisweilen ganze<lb />
-Tagereisen weit von einander, und sind von verschiedenen hot-<lb />
-tentottischen Nationen umgeben, daher sie denn auch nur gar<lb />
-zu oft empfinden, daß ihre eigne Regierung sie in so weiter<lb />
-Entlegenheit nicht schützen kann. Gegen einen weißen Einwoh-<lb />
-ner zählet man hier fünf und mehr Sclaven, und die vornehm-<lb />
-sten Personen am Cap halten deren oft zwanzig bis dreißig.<lb />
-Im Ganzen haben es diese Leibeignen gut genug, und wenn<lb />
-ihre Herren Gefallen an ihnen finden, so bekommen sie recht<lb />
-gute Kleider, doch müssen sie alle, ohne Ausnahme, barfuß ein-<lb />
-hergehen, indem ihre Herren sich Schuh und Strümpfe zu ei-<lb />
-nem Unterscheidungszeichen vorbehalten. Diese Sclaven werden<lb />
-hauptsächlich von Madagastar gebracht, wohin gemeiniglich alle<lb />
-Jahre ein kleines Schiff von hier aus auf diesen Handel aus-<lb />
-geschickt wird. Doch giebt es auch außer diesen eine Menge<lb />
-von Malayen, Bengalesen und einige Neger unter ihnen. Die<lb />
-Colonisten bestehen aus holländischen Familien, aus französischen</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="79"/><p/><p>Zu dem Ende ist er in Rechtssachen gemeiniglich wohl erfahren,<lb/>
+und hängt lediglich von Holland ab. Der Major (welche Stelle<lb/>
+jetzt ein Herr von Prehn bekleidet, der uns überaus viel Höf-<lb/>
+lichkeit erwies), hat den Rang eines Kaufmanns — ein Um-<lb/>
+stand, der uns sonderbar scheint, weil wir in allen europkischen<lb/>
+Staaten daran gewöhnt sind, daß das Militair einen selbststän-<lb/>
+digen Rang giebt, und der denen noch befremdender vorkommen<lb/>
+muß, die den besondern Contrast kennen, der in diesem Stück<lb/>
+zwischen Holland und Rukland obwaltet, wo nemlich alle Staats-<lb/>
+bedienten ohne Unterschied, sogar die Professoren auf den Uni-<lb/>
+versitäten, einen Militair-Rang haben. Die Zahl der hiesigen<lb/>
+regulairen Truppen besteht ungefähr aus 700 Mann, wovon<lb/>
+400 in dem bei der Stadt befindlichen Fort zur Besatzung lie-<lb/>
+gen. Die Einwohner, welche Waffen tragen können, machen<lb/>
+eine Militz von 4000 Mann aus, die, vermittelst einiger Si-<lb/>
+gnale größtentheils in Zeit von wenig Stunden auf ihren respec-<lb/>
+tiven Tärmplätzen zusammengebracht werden kann. Aus der<lb/>
+vorgedachten Anzahl läßt sich ungefähr die Volksmenge der wei-<lb/>
+sen Einwohner auf dieser Colonie bestimmen, die sich gegenwär-<lb/>
+tig so weit ausgebreitet hat, daß die entferntesten Colonisten über<lb/>
+vier Wochen reisen müssen, ehe sie das Cap erreichen können.<lb/>
+Man darf aber von dem Umfang, bis auf welchen sich diese<lb/>
+Plantagen ausgebreitet haben, keinesweges auf ihre Anzahl schlie-<lb/>
+ßen, denn zumal die Äußersten derselben, liegen bisweilen ganze<lb/>
+Tagereisen weit von einander, und sind von verschiedenen hot-<lb/>
+tentottischen Nationen umgeben, daher sie denn auch nur gar<lb/>
+zu oft empfinden, daß ihre eigne Regierung sie in so weiter<lb/>
+Entlegenheit nicht schützen kann. Gegen einen weißen Einwoh-<lb/>
+ner zählet man hier fünf und mehr Sclaven, und die vornehm-<lb/>
+sten Personen am Cap halten deren oft zwanzig bis dreißig.<lb/>
+Im Ganzen haben es diese Leibeignen gut genug, und wenn<lb/>
+ihre Herren Gefallen an ihnen finden, so bekommen sie recht<lb/>
+gute Kleider, doch müssen sie alle, ohne Ausnahme, barfuß ein-<lb/>
+hergehen, indem ihre Herren sich Schuh und Strümpfe zu ei-<lb/>
+nem Unterscheidungszeichen vorbehalten. Diese Sclaven werden<lb/>
+hauptsächlich von Madagastar gebracht, wohin gemeiniglich alle<lb/>
+Jahre ein kleines Schiff von hier aus auf diesen Handel aus-<lb/>
+geschickt wird. Doch giebt es auch außer diesen eine Menge<lb/>
+von Malayen, Bengalesen und einige Neger unter ihnen. Die<lb/>
+Colonisten bestehen aus holländischen Familien, aus französischen</p></body></text>
+</TEI>

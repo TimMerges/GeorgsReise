@@ -1,38 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><paragraph /><paragraph>und jedes wird auf der Stelle zu ungefähr 50 Pfund Sterling,<lb />
-das ist 300 Thaler, verkauft. Die Stöcke, von denen er kommt,<lb />
-sind ursprünglich von Schiras, in Persien, hiehergebracht. Was<lb />
-wir in Europa für ächten Constantia trinken, sind andre süße<lb />
-Weine, die in denen zunächst an der Constantia gelegenen Wein-<lb />
-bergen wachsen. Man hat auch versucht Neben vom Burgun-<lb />
-der-Wein aus Frankreich, desgleichen Frontignac und Musca-<lb />
-tellerstöcke von eben daher, hier anzupflanzen, und die sind alle<lb />
-so gut eingeschlagen, daß das Gewächs zuweilen das französische<lb />
-übertrifft. In den vornehmen Häusern ist der gewöhnliche Tisch-<lb />
-wein ein herber, starker Wein, der von Madera-Reben hier ge-<lb />
-zogen wird und eine angenehme Schärfe hat. Geringere, nicht<lb />
-unangenehme Sorten, fallen in großer Menge, und sind sehr<lb />
-wohlfeil, so daß die Matrosen der Ostindienfahrer sich gemei-<lb />
-niglich etwas rechtes damit zu gut thun.</paragraph><page-number>83</page-number><paragraph /><paragraph>Das Land versieht die Schiffe aller Nationen, die hier an-<lb />
-legen, mit Lebensmitteln. Korn, Mehl, Schiffs-Zwieback, ge-<lb />
-pökeltes Rindfleisch, Brandwein und Wein sind im Ueberfluß und<lb />
-zu billigen Preisen zu haben, und das frische Gartengewächs*),<lb />
-ingleichen das Obst, welches hier gezogen wird, sind, nebst dem<lb />
-guten Hammel- und Rindfleisch, vortreffliche Erfrischungsmittel<lb />
-für diejenigen, die von weiten Reisen kommen. Das Clima ist<lb />
-dabei so gesund, daß die Einwohner selten kranken, und daß<lb />
-Fremde, vom Scorbut und andern Krankheiten sich sehr leicht<lb />
-erholen. Der Winter ist so gelinde, daß bei der Stadt fast.<lb />
-niemals Eis zu sehen ist; auf den Bergen aber, vornehmlich weit<lb />
-ins Land, giebts harten Frost mit Schnee- oder Hagelstürmen,<lb />
-und die scharfen Südostwinde bringen ihnen sogar im Novem-<lb />
-ber, welches hier Frühling ist, manchmal noch Nachtfröste zu-<lb />
-wege. Schnupfen und Verkältungen sind die einzigen gewöhn-<lb />
-lichen Plagen, und entstehen von der schnellen Veränderung der<lb />
-Luft bei starken Winden, denen das Cap zu allen Jahrszeiten<lb />
-unterworfen ist. Der Hitze unerachtet, welche zuweilen ausneh-<lb />
-mend ist, haben die Einwohner holländischer Herkunft ihre an-<lb />
-geborne, eigenthümliche Gestalt und Bildung beibehalten. Sie<lb />
-sind durchgehends dick und fett, wozu ihr gutes Leben nicht we-<lb />
-nig beitragen mag.</paragraph><paragraph>Vornehmlich sind die Weintrauben und Drangen hier ganz unver-<lb />
-gleichlich.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><p/><p>und jedes wird auf der Stelle zu ungefähr 50 Pfund Sterling,<lb/>
+das ist 300 Thaler, verkauft. Die Stöcke, von denen er kommt,<lb/>
+sind ursprünglich von Schiras, in Persien, hiehergebracht. Was<lb/>
+wir in Europa für ächten Constantia trinken, sind andre süße<lb/>
+Weine, die in denen zunächst an der Constantia gelegenen Wein-<lb/>
+bergen wachsen. Man hat auch versucht Neben vom Burgun-<lb/>
+der-Wein aus Frankreich, desgleichen Frontignac und Musca-<lb/>
+tellerstöcke von eben daher, hier anzupflanzen, und die sind alle<lb/>
+so gut eingeschlagen, daß das Gewächs zuweilen das französische<lb/>
+übertrifft. In den vornehmen Häusern ist der gewöhnliche Tisch-<lb/>
+wein ein herber, starker Wein, der von Madera-Reben hier ge-<lb/>
+zogen wird und eine angenehme Schärfe hat. Geringere, nicht<lb/>
+unangenehme Sorten, fallen in großer Menge, und sind sehr<lb/>
+wohlfeil, so daß die Matrosen der Ostindienfahrer sich gemei-<lb/>
+niglich etwas rechtes damit zu gut thun.</p><pb n="83"/><p/><p>Das Land versieht die Schiffe aller Nationen, die hier an-<lb/>
+legen, mit Lebensmitteln. Korn, Mehl, Schiffs-Zwieback, ge-<lb/>
+pökeltes Rindfleisch, Brandwein und Wein sind im Ueberfluß und<lb/>
+zu billigen Preisen zu haben, und das frische Gartengewächs*),<lb/>
+ingleichen das Obst, welches hier gezogen wird, sind, nebst dem<lb/>
+guten Hammel- und Rindfleisch, vortreffliche Erfrischungsmittel<lb/>
+für diejenigen, die von weiten Reisen kommen. Das Clima ist<lb/>
+dabei so gesund, daß die Einwohner selten kranken, und daß<lb/>
+Fremde, vom Scorbut und andern Krankheiten sich sehr leicht<lb/>
+erholen. Der Winter ist so gelinde, daß bei der Stadt fast.<lb/>
+niemals Eis zu sehen ist; auf den Bergen aber, vornehmlich weit<lb/>
+ins Land, giebts harten Frost mit Schnee- oder Hagelstürmen,<lb/>
+und die scharfen Südostwinde bringen ihnen sogar im Novem-<lb/>
+ber, welches hier Frühling ist, manchmal noch Nachtfröste zu-<lb/>
+wege. Schnupfen und Verkältungen sind die einzigen gewöhn-<lb/>
+lichen Plagen, und entstehen von der schnellen Veränderung der<lb/>
+Luft bei starken Winden, denen das Cap zu allen Jahrszeiten<lb/>
+unterworfen ist. Der Hitze unerachtet, welche zuweilen ausneh-<lb/>
+mend ist, haben die Einwohner holländischer Herkunft ihre an-<lb/>
+geborne, eigenthümliche Gestalt und Bildung beibehalten. Sie<lb/>
+sind durchgehends dick und fett, wozu ihr gutes Leben nicht we-<lb/>
+nig beitragen mag.</p><p>Vornehmlich sind die Weintrauben und Drangen hier ganz unver-<lb/>
+gleichlich.</p></body></text>
+</TEI>

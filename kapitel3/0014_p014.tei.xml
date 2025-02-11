@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>﻿80</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>Protestanten, gröftentheils aber aus Deutschen. Der Character<lb />
-der Einwohner in der Stadt ist sehr gemischt. Sie sind flei-<lb />
-ßig, aber leben dabei gut; sind gesellig und gastfrei, aber lassen<lb />
-sich dies nicht abhalten, durch Vermiethung ihrer Zimmer eine<lb />
-Art von Wucher zu treiben*), und von den Officiers der Kauf-<lb />
-farthei-Schiffe ansehnliche Geschenke von fremden Zeugen und<lb />
-andern Waaren zu erwarten. Es fehlt ihnen gewissermaßen an<lb />
-Gelegenheit sich Kenntnisse zu erwerben, denn auf dem ganzen<lb />
-Cap ist keine einzige Schule von einiger Bedeutung. Die Söhne<lb />
-werden daher gemeiniglich nach Holland geschickt; die Erziehung<lb />
-der Töchter aber ist fast ganz vernachläßigt. Ihre Abneigung<lb />
-gegen das Lesen, und der Mangel öffentlicher Veränderungen<lb />
-macht, daß ihre Gespräche nichts weniger als unterhaltend sind<lb />
-und gemeiniglich auf Klatschereien hinauslaufen, die hier so bit-<lb />
-ter sind als sie in allen kleinen Städten zu sein pflegen. Fran-<lb />
-zösisch, Englisch, Portugiesisch und Malayisch wird hier häufig<lb />
-gesprochen, und viele Frauenzimmer wissen alle diese Sprachen.<lb />
-Dies und ihre Geschicklichkeit im Singen, Lautenspielen und<lb />
-Tanzen, nebst einer angenehmen Bildung, die hier nicht selten<lb />
-ist, tritt einigermaßen an die Stelle feiner Sitten und Senti-<lb />
-ments, die ihnen gemeiniglich fehlen. Doch giebts unter den<lb />
-Vornehmern, sowohl des einen als des andern Geschlechts, Per-<lb />
-sonen, deren Betragen, weitläuftige Lectüre und großer Ver-<lb />
-stand selbst in Curopa nicht unbemerkt und unbewundert blei-<lb />
-ben wurder</paragraph><paragraph>) Die Bedingungen finden sich in &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cooks&lt;/persName&gt; voriger Reise, S. Han-<lb />
-kesworths Geschichte der engl. See-Reisen in 8. 4ter Band, pag. 808.<lb />
-Die Glieder des Raths machen hierin eine Ausnahme.<lb />
-) Ohne Ungerechtigkeit dürfen wir nicht vergessen, hier vorzüglich<lb />
-zu nennen den Gouverneur Baron Joachim von Plettenberg, einen Herrn,<lb />
-der durch seine Gastfreiheit und Gesprächigkeit seiner Nation Ehre macht;<lb />
-Herrn Hemmy, den zweiten Gouverneur, und seine Familie; Herrn von<lb />
-prehn, den Major; den Herrn Secretarius Bergh, einen Mann von<lb />
-Wissenschaft und edler philosophischer Denkungsart, dessen Familie durch<lb />
-Schönheit und Verstand sich vor der ganzen Capischen Jugend auszeich-<lb />
-net; Herrn Kerste; Herrn de Wit, und unsern würdigen Hauswirth,<lb />
-Herrn Christoph Brandt, Commandeur von Falsebai — alle insgesammt<lb />
-mit ihren Familien. Es ist eine wahre Freude, so vieler schätzbaren<lb />
-Glieder der Gesellschaft und so vieler Menschenfreunde Andenken zu er-<lb />
-halten.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="﻿80"/><head>Reise um die Welt</head><p/><p>Protestanten, gröftentheils aber aus Deutschen. Der Character<lb/>
+der Einwohner in der Stadt ist sehr gemischt. Sie sind flei-<lb/>
+ßig, aber leben dabei gut; sind gesellig und gastfrei, aber lassen<lb/>
+sich dies nicht abhalten, durch Vermiethung ihrer Zimmer eine<lb/>
+Art von Wucher zu treiben*), und von den Officiers der Kauf-<lb/>
+farthei-Schiffe ansehnliche Geschenke von fremden Zeugen und<lb/>
+andern Waaren zu erwarten. Es fehlt ihnen gewissermaßen an<lb/>
+Gelegenheit sich Kenntnisse zu erwerben, denn auf dem ganzen<lb/>
+Cap ist keine einzige Schule von einiger Bedeutung. Die Söhne<lb/>
+werden daher gemeiniglich nach Holland geschickt; die Erziehung<lb/>
+der Töchter aber ist fast ganz vernachläßigt. Ihre Abneigung<lb/>
+gegen das Lesen, und der Mangel öffentlicher Veränderungen<lb/>
+macht, daß ihre Gespräche nichts weniger als unterhaltend sind<lb/>
+und gemeiniglich auf Klatschereien hinauslaufen, die hier so bit-<lb/>
+ter sind als sie in allen kleinen Städten zu sein pflegen. Fran-<lb/>
+zösisch, Englisch, Portugiesisch und Malayisch wird hier häufig<lb/>
+gesprochen, und viele Frauenzimmer wissen alle diese Sprachen.<lb/>
+Dies und ihre Geschicklichkeit im Singen, Lautenspielen und<lb/>
+Tanzen, nebst einer angenehmen Bildung, die hier nicht selten<lb/>
+ist, tritt einigermaßen an die Stelle feiner Sitten und Senti-<lb/>
+ments, die ihnen gemeiniglich fehlen. Doch giebts unter den<lb/>
+Vornehmern, sowohl des einen als des andern Geschlechts, Per-<lb/>
+sonen, deren Betragen, weitläuftige Lectüre und großer Ver-<lb/>
+stand selbst in Curopa nicht unbemerkt und unbewundert blei-<lb/>
+ben wurder</p><p>) Die Bedingungen finden sich in &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cooks&lt;/persName&gt; voriger Reise, S. Han-<lb/>
+kesworths Geschichte der engl. See-Reisen in 8. 4ter Band, pag. 808.<lb/>
+Die Glieder des Raths machen hierin eine Ausnahme.<lb/>
+) Ohne Ungerechtigkeit dürfen wir nicht vergessen, hier vorzüglich<lb/>
+zu nennen den Gouverneur Baron Joachim von Plettenberg, einen Herrn,<lb/>
+der durch seine Gastfreiheit und Gesprächigkeit seiner Nation Ehre macht;<lb/>
+Herrn Hemmy, den zweiten Gouverneur, und seine Familie; Herrn von<lb/>
+prehn, den Major; den Herrn Secretarius Bergh, einen Mann von<lb/>
+Wissenschaft und edler philosophischer Denkungsart, dessen Familie durch<lb/>
+Schönheit und Verstand sich vor der ganzen Capischen Jugend auszeich-<lb/>
+net; Herrn Kerste; Herrn de Wit, und unsern würdigen Hauswirth,<lb/>
+Herrn Christoph Brandt, Commandeur von Falsebai — alle insgesammt<lb/>
+mit ihren Familien. Es ist eine wahre Freude, so vieler schätzbaren<lb/>
+Glieder der Gesellschaft und so vieler Menschenfreunde Andenken zu er-<lb/>
+halten.</p></body></text>
+</TEI>

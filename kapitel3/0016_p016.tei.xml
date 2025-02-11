@@ -1,37 +1,127 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>82</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>gemeiniglich noch einige drmere Hottentotten dazu, und zwar-<lb />
-wie man uns sagte, von dem Stamm der sogenannten Bosch-<lb />
-mans oder Waldmenschen, die kein eignes Zuchtvieh haben, son-<lb />
-dern sich von Jagd und Raub nähren. Reiche Pächter helfen.<lb />
-Anfängern dadurch auf, daß sie ihnen eine Heerde von 4 bis<lb />
-﻿500 Schafen anvertrauen, um solche auf entlegene, gute Wei-<lb />
-den zu treiben; dafür lassen sie ihnen die Hälfte der Cämmer,<lb />
-und so werden sie in kurzem eben so reich als ihre Wohlthäter.</paragraph><paragraph /><paragraph>Obgleich die Compagnie dadurch, daß sie sich das Grund-<lb />
-recht und Eigenthum der Tändereien allein vorbehält, den neuen<lb />
-Colonisten offenbar keine Ermunterung giebt, so hat es der Fleiß<lb />
-dieser letztern dennoch so weit gebracht, daß sie seit einiger Zeit<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q12060804"&gt;Isle de France&lt;/place&gt; und Bourbon mit Korn versehen, ja sogar ver-<lb />
-schiedne Ladungen nach Holland geschickt haben. Diese Aus-<lb />
-fuhr würde ohne Zweifel zu bessern Preisen geschehen können,<lb />
-wenn die Plantagen nicht so weit ins Land hinein lägen; denn<lb />
-alles Korn muß zur Are und auf sehr bösen Wegen bis nach<lb />
-Tafelbai gebracht werden. Man darf sich indessen nicht wun-<lb />
-dern, daß die Plantagen so tief ins Land und so weit ausein-<lb />
-ander liegen, und daß es zwischen denselben große Bezirke giebt,<lb />
-die ganz wüst sind, da sie doch zum Theil angebauet werden.<lb />
-könnten. Die Compagnie will es gerade so haben; denn sie<lb />
-hat ausdrücklich verordnet, daß kein Colonist sich innerhalb ei-<lb />
-ner deutschen Meile von der nächsten Plantage anbauen soll.<lb />
-Stände diese Colonie unmittelbar unter den General-Staaten,<lb />
-so würde sie zweifelsohne ungleich volkreicher sein, und sich längst<lb />
-großen Reichthum und Ansehen erworben haben, wozu jetzt keine<lb />
-Aussicht ist; aber eine Handlungsgesellschaft von ostindischen<lb />
-Kaufleuten findet ihre Rechnung besser dabei, das Land-Eigen-<lb />
-thum für sich zu behalten, und dem Colonisten die Flügel zu<lb />
-beschneiden, damit er nicht zu groß und zu mächtig werden<lb />
-möge.</paragraph><paragraph /><paragraph>Der Wein, welcher auf dem Cap gebauet wird, ist von<lb />
-unendlich verschiedenen Sorten. Der beste fällt auf Herrn Van-<lb />
-der Spy's Plantage zu Constantia, und den kennt man in Eu-<lb />
-ropa größtentheils wohl nur vom Hörensagen, denn es werden<lb />
-ährlich höchstens nur 30 Faß (legger*)) davon eingeerntet,</paragraph><paragraph>ein Legger ist ungefähr 108 Gallons englischen Mases, davon<lb />
-iedes 4 ordinaire Bouteillen giebt.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="82"/><head>Reise um die Welt</head><p/><p>gemeiniglich noch einige drmere Hottentotten dazu, und zwar-<lb/>
+wie man uns sagte, von dem Stamm der sogenannten Bosch-<lb/>
+mans oder Waldmenschen, die kein eignes Zuchtvieh haben, son-<lb/>
+dern sich von Jagd und Raub nähren. Reiche Pächter helfen.<lb/>
+Anfängern dadurch auf, daß sie ihnen eine Heerde von 4 bis<lb/>
+﻿500 Schafen anvertrauen, um solche auf entlegene, gute Wei-<lb/>
+den zu treiben; dafür lassen sie ihnen die Hälfte der Cämmer,<lb/>
+und so werden sie in kurzem eben so reich als ihre Wohlthäter.</p><p/><p>Obgleich die Compagnie dadurch, daß sie sich das Grund-<lb/>
+recht und Eigenthum der Tändereien allein vorbehält, den neuen<lb/>
+Colonisten offenbar keine Ermunterung giebt, so hat es der Fleiß<lb/>
+dieser letztern dennoch so weit gebracht, daß sie seit einiger Zeit<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q12060804"&gt;Isle de France&lt;/place&gt; und Bourbon mit Korn versehen, ja sogar ver-<lb/>
+schiedne Ladungen nach Holland geschickt haben. Diese Aus-<lb/>
+fuhr würde ohne Zweifel zu bessern Preisen geschehen können,<lb/>
+wenn die Plantagen nicht so weit ins Land hinein lägen; denn<lb/>
+alles Korn muß zur Are und auf sehr bösen Wegen bis nach<lb/>
+Tafelbai gebracht werden. Man darf sich indessen nicht wun-<lb/>
+dern, daß die Plantagen so tief ins Land und so weit ausein-<lb/>
+ander liegen, und daß es zwischen denselben große Bezirke giebt,<lb/>
+die ganz wüst sind, da sie doch zum Theil angebauet werden.<lb/>
+könnten. Die Compagnie will es gerade so haben; denn sie<lb/>
+hat ausdrücklich verordnet, daß kein Colonist sich innerhalb ei-<lb/>
+ner deutschen Meile von der nächsten Plantage anbauen soll.<lb/>
+Stände diese Colonie unmittelbar unter den General-Staaten,<lb/>
+so würde sie zweifelsohne ungleich volkreicher sein, und sich längst<lb/>
+großen Reichthum und Ansehen erworben haben, wozu jetzt keine<lb/>
+Aussicht ist; aber eine Handlungsgesellschaft von ostindischen<lb/>
+Kaufleuten findet ihre Rechnung besser dabei, das Land-Eigen-<lb/>
+thum für sich zu behalten, und dem Colonisten die Flügel zu<lb/>
+beschneiden, damit er nicht zu groß und zu mächtig werden<lb/>
+möge.</p><p/><p>Der Wein, welcher auf dem Cap gebauet wird, ist von<lb/>
+unendlich verschiedenen Sorten. Der beste fällt auf Herrn Van-<lb/>
+der Spy's Plantage zu Constantia, und den kennt man in Eu-<lb/>
+ropa größtentheils wohl nur vom Hörensagen, denn es werden<lb/>
+ährlich höchstens nur 30 Faß (legger*)) davon eingeerntet,</p><p>ein Legger ist ungefähr 108 Gallons englischen Mases, davon<lb/>
+iedes 4 ordinaire Bouteillen giebt.</p></body></text>
+</TEI>

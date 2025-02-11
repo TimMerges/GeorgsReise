@@ -1,35 +1,125 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>﻿88</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>angesehen worden, von dessen vielfachen Arten wir längst eine<lb />
-richtigere Kenntniß würden bekommen haben, wenn die verschie-<lb />
-denen, zum Theil unschicklichen Namen, die man ihnen hin<lb />
-und wieder beigelegt hat, solches nicht verhindert und erschweret<lb />
-hätten. An reißenden Raubthieren fehlt es dem Cap auch nicht,<lb />
-und die Colonisten können sich nicht Mühe genug geben sie aus-<lb />
-zurotten. Löwen, Leoparden, Tiegerkatzen, gestreifte und fleckige<lb />
-Syänen (S. Pennants Synopsis Quadr.), Jakals und andre<lb />
-dergleichen Thiere nähren sich hauptsächlich von Antelopen, Ha-<lb />
-sen, Ferbua's, Cavia's und kleinen vierfüßigen Thieren, wovon<lb />
-das Land überall voll ist. Die Anzahl der Tögel ist eben-<lb />
-falls sehr groß, und viele derselben sind mit den schönsten Far-<lb />
-ben gezeichnet.</paragraph><paragraph /><paragraph>Ich habe hier eine Veranlassung noch einmal auf Kolben.<lb />
-zurückzukommen. Er sagt unter andern, daß es Schwalben<lb />
-hier gebe, und das ist unläugbar, denn wir haben selbst zweier-<lb />
-lei Arten davon gesehen. Der Abt la Caille hingegen findet für<lb />
-gut Kolben in diesem Punkt zu widersprechen, wahrscheinlicher-<lb />
-weise bloß darum, weil ihm selbst keine zu Gesicht gekommen.<lb />
-sind. Eben so irrt sich der Abt auch in Ansehung des Knort-<lb />
-hahns; dieser gehört keinesweges zu den gelinottes oder grous,<lb />
-d. i. Birkhähnen, wie er behaupten will; sondern es ist eine<lb />
-africanische Trappe (bustard). Ueberhaupt würde es sehr leicht<lb />
-sein, fast jeden Urtheilsspruch des Abts gegen Kolben zu ent-<lb />
-kräften, wenn sein unbedeutendes Werklein so viel Achtung ver-<lb />
-diente.</paragraph><paragraph /><paragraph>Von kriechenden Thieren aller Art, Schlangen, worunter<lb />
-einige deren Biß tödtlich ist, und von unterschiedlichen Insekten<lb />
-und anderm Gewürm, wimmelt es gleichsam am Cap; auch<lb />
-sind die Küsten reich an wohlschmeckenden Fischen, davon viele<lb />
-den Naturkundigen noch unbekannt sind. Mit einem Wort,<lb />
-so große Reichthümer des Pflanzen- und Thierreiches auch jetzt<lb />
-schon aus Africa gebracht sind, so giebt es in dessen inneren,<lb />
-fast noch ganz unbekannten Theilen doch noch große Schätze für<lb />
-die Naturwissenschaft, und für den Beobachtungsgeist eines zwei-<lb />
-ten Thunbergs oder zweiten Bruces.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="﻿88"/><head>Reise um die Welt</head><p/><p>angesehen worden, von dessen vielfachen Arten wir längst eine<lb/>
+richtigere Kenntniß würden bekommen haben, wenn die verschie-<lb/>
+denen, zum Theil unschicklichen Namen, die man ihnen hin<lb/>
+und wieder beigelegt hat, solches nicht verhindert und erschweret<lb/>
+hätten. An reißenden Raubthieren fehlt es dem Cap auch nicht,<lb/>
+und die Colonisten können sich nicht Mühe genug geben sie aus-<lb/>
+zurotten. Löwen, Leoparden, Tiegerkatzen, gestreifte und fleckige<lb/>
+Syänen (S. Pennants Synopsis Quadr.), Jakals und andre<lb/>
+dergleichen Thiere nähren sich hauptsächlich von Antelopen, Ha-<lb/>
+sen, Ferbua's, Cavia's und kleinen vierfüßigen Thieren, wovon<lb/>
+das Land überall voll ist. Die Anzahl der Tögel ist eben-<lb/>
+falls sehr groß, und viele derselben sind mit den schönsten Far-<lb/>
+ben gezeichnet.</p><p/><p>Ich habe hier eine Veranlassung noch einmal auf Kolben.<lb/>
+zurückzukommen. Er sagt unter andern, daß es Schwalben<lb/>
+hier gebe, und das ist unläugbar, denn wir haben selbst zweier-<lb/>
+lei Arten davon gesehen. Der Abt la Caille hingegen findet für<lb/>
+gut Kolben in diesem Punkt zu widersprechen, wahrscheinlicher-<lb/>
+weise bloß darum, weil ihm selbst keine zu Gesicht gekommen.<lb/>
+sind. Eben so irrt sich der Abt auch in Ansehung des Knort-<lb/>
+hahns; dieser gehört keinesweges zu den gelinottes oder grous,<lb/>
+d. i. Birkhähnen, wie er behaupten will; sondern es ist eine<lb/>
+africanische Trappe (bustard). Ueberhaupt würde es sehr leicht<lb/>
+sein, fast jeden Urtheilsspruch des Abts gegen Kolben zu ent-<lb/>
+kräften, wenn sein unbedeutendes Werklein so viel Achtung ver-<lb/>
+diente.</p><p/><p>Von kriechenden Thieren aller Art, Schlangen, worunter<lb/>
+einige deren Biß tödtlich ist, und von unterschiedlichen Insekten<lb/>
+und anderm Gewürm, wimmelt es gleichsam am Cap; auch<lb/>
+sind die Küsten reich an wohlschmeckenden Fischen, davon viele<lb/>
+den Naturkundigen noch unbekannt sind. Mit einem Wort,<lb/>
+so große Reichthümer des Pflanzen- und Thierreiches auch jetzt<lb/>
+schon aus Africa gebracht sind, so giebt es in dessen inneren,<lb/>
+fast noch ganz unbekannten Theilen doch noch große Schätze für<lb/>
+die Naturwissenschaft, und für den Beobachtungsgeist eines zwei-<lb/>
+ten Thunbergs oder zweiten Bruces.</p></body></text>
+</TEI>

@@ -1,38 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>85</page-number><paragraph /><paragraph>Die südliche Spitze von Africa bestehet aus einer Masse<lb />
-hoher Berge; davon die zunächst am Meere gelegenen, schwarze,<lb />
-steile und unfruchtbare Granitfelsen sind, in denen man weder-<lb />
-fremde Körper, als versteinerte Muscheln und dergleichen, noch<lb />
-Tavenarten oder andere Spuren von ehemaligen Bulcanen fin-<lb />
-det. An den angebaueten Flecken bestand das Erdreich aus<lb />
-Thon mit etwas Sand und kleinen Steinen vermischt; aber ge-<lb />
-gen Falsebai hin haben fast alle Plantagen sändigen Boden.<lb />
-In der Colonie Stellenbusch soll das Erdreich unter allen am<lb />
-fruchtbarsten sein, und die Pflanzungen dort besser als andrer<lb />
-Orten gerathen. Besonders rühmte man, daß die europkischen<lb />
-Sichen dort gut fortkämen, und nebst einem stattlichen Ansehen<lb />
-auch eine beträchtliche Höhe erreicht hätten. Bei der Stadt hin-<lb />
-gegen wollen sie nicht recht fort; denn die größten, die wir da-<lb />
-selbst sahen, waren nicht über dreißig Fuß hoch. In den wei-<lb />
-ter landeinwärts gelegenen Bergen giebt es ohne Zweifel Metall,<lb />
-besonders Eisen und Kupfer; von diesen beiden Erzarten zeigte<lb />
-uns Herr Hemmy etliche Stufen vor, und da verschiedene<lb />
-Stämme der Hottentotten sie zu schmelzen wissen, so müssen sie<lb />
-reichhaltig und leicht in Fluß zu bringen sein. Man findet auch<lb />
-im Innern des Landes heiße Quellen, darunter vorzüglich eine<lb />
-ist, deren sich die Einwohner am Cap bedienen, weil sie nur<lb />
-drei Tagereisen weit von der Stadt liegt. Sie soll gegen Krank-<lb />
-heiten der Haut und andre Zufälle gut sein, und muß also<lb />
-wohl viel Schwefel enthalten.</paragraph><paragraph /><paragraph>In dem Pflanzenreiche herrscht hier eine verwundernswürdige<lb />
-Mannigfaltigkeit. Ungeachtet wir uns gar nicht lange hier auf-<lb />
-hielten, fanden wir dennoch verschiedne neue Arten, und zwar<lb />
-nahe bei der Stadt, wo wir sie gerade am wenigsten vermu-<lb />
-thet hätten. So beträchtlich daher auch die Sammlungen un-<lb />
-srer bisherigen Kräuterkenner in diesem Lande ausgefallen sind,<lb />
-so haben Dr. Sparrmann und der gelehrte &lt;persName ref="https://www.wikidata.org/wiki/Q39658"&gt;Dr. Thunberg&lt;/persName&gt; *) doch</paragraph><paragraph>)Ein geschickter Schüler des Herrn von Linné, der zuerst D. Bur-<lb />
-mans Kräutersammlung zu Leyden in Ordnung brachte, darauf drei Jahre<lb />
-lang am Sap botanisirte, und, nach mancher daselbst gemachten neuen<lb />
-Entdeckung, auf Kosten der ostindischen Compagnie nach Batavia geschickt<lb />
-ward, um von da im Jahr 1775 nach Japan zu gehen. Auf Dr. &lt;persName ref="https://www.wikidata.org/wiki/Q433984"&gt;Sparr-&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q433984"&gt;manns&lt;/persName&gt; Bitte nahm er Herrn Franz Masson, einen Unter-Gärtner des<lb />
-königlichen Gartens zu Kew, mit auf seine hotanischen Reisen am Cap.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="85"/><p/><p>Die südliche Spitze von Africa bestehet aus einer Masse<lb/>
+hoher Berge; davon die zunächst am Meere gelegenen, schwarze,<lb/>
+steile und unfruchtbare Granitfelsen sind, in denen man weder-<lb/>
+fremde Körper, als versteinerte Muscheln und dergleichen, noch<lb/>
+Tavenarten oder andere Spuren von ehemaligen Bulcanen fin-<lb/>
+det. An den angebaueten Flecken bestand das Erdreich aus<lb/>
+Thon mit etwas Sand und kleinen Steinen vermischt; aber ge-<lb/>
+gen Falsebai hin haben fast alle Plantagen sändigen Boden.<lb/>
+In der Colonie Stellenbusch soll das Erdreich unter allen am<lb/>
+fruchtbarsten sein, und die Pflanzungen dort besser als andrer<lb/>
+Orten gerathen. Besonders rühmte man, daß die europkischen<lb/>
+Sichen dort gut fortkämen, und nebst einem stattlichen Ansehen<lb/>
+auch eine beträchtliche Höhe erreicht hätten. Bei der Stadt hin-<lb/>
+gegen wollen sie nicht recht fort; denn die größten, die wir da-<lb/>
+selbst sahen, waren nicht über dreißig Fuß hoch. In den wei-<lb/>
+ter landeinwärts gelegenen Bergen giebt es ohne Zweifel Metall,<lb/>
+besonders Eisen und Kupfer; von diesen beiden Erzarten zeigte<lb/>
+uns Herr Hemmy etliche Stufen vor, und da verschiedene<lb/>
+Stämme der Hottentotten sie zu schmelzen wissen, so müssen sie<lb/>
+reichhaltig und leicht in Fluß zu bringen sein. Man findet auch<lb/>
+im Innern des Landes heiße Quellen, darunter vorzüglich eine<lb/>
+ist, deren sich die Einwohner am Cap bedienen, weil sie nur<lb/>
+drei Tagereisen weit von der Stadt liegt. Sie soll gegen Krank-<lb/>
+heiten der Haut und andre Zufälle gut sein, und muß also<lb/>
+wohl viel Schwefel enthalten.</p><p/><p>In dem Pflanzenreiche herrscht hier eine verwundernswürdige<lb/>
+Mannigfaltigkeit. Ungeachtet wir uns gar nicht lange hier auf-<lb/>
+hielten, fanden wir dennoch verschiedne neue Arten, und zwar<lb/>
+nahe bei der Stadt, wo wir sie gerade am wenigsten vermu-<lb/>
+thet hätten. So beträchtlich daher auch die Sammlungen un-<lb/>
+srer bisherigen Kräuterkenner in diesem Lande ausgefallen sind,<lb/>
+so haben Dr. Sparrmann und der gelehrte &lt;persName ref="https://www.wikidata.org/wiki/Q39658"&gt;Dr. Thunberg&lt;/persName&gt; *) doch</p><p>)Ein geschickter Schüler des Herrn von Linné, der zuerst D. Bur-<lb/>
+mans Kräutersammlung zu Leyden in Ordnung brachte, darauf drei Jahre<lb/>
+lang am Sap botanisirte, und, nach mancher daselbst gemachten neuen<lb/>
+Entdeckung, auf Kosten der ostindischen Compagnie nach Batavia geschickt<lb/>
+ward, um von da im Jahr 1775 nach Japan zu gehen. Auf Dr. &lt;persName ref="https://www.wikidata.org/wiki/Q433984"&gt;Sparr-&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q433984"&gt;manns&lt;/persName&gt; Bitte nahm er Herrn Franz Masson, einen Unter-Gärtner des<lb/>
+königlichen Gartens zu Kew, mit auf seine hotanischen Reisen am Cap.</p></body></text>
+</TEI>

@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>78</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>Europa und Indien so wohl gelegenen Orte eine Colonie ange-<lb />
-legt würde. Er stiftete daher diesen Pflanzort, der seitdem im-<lb />
-mer in den Händen der Holländer und noch lange nach seinem<lb />
-Tode in beständigem Wachsthum und Flor geblieben ist.<lb />
-Der Gouverneur hängt unmittelbar von der Compagnie<lb />
-ab, und hat den Rang eines Edlen Heeren, welcher Titel den<lb />
-Gliedern des obersten Raths zu Batavia gegeben wird. Er hat<lb />
-den Vorsitz in einem Rath, welcher aus dem Unter-Gouverneur,<lb />
-dem Fiscal, dem im Fort commandirenden Major, dem Secret-<lb />
-tair, dem Schatzmeister, dem Kellermeister und dem Buchhalter<lb />
-besteht. Jedes dieser Mitglieder hat einen Zweig von der Com-<lb />
-pagnie Handlungsgeschäften in besondrer Aufsicht. Von dem<lb />
-gesammten Rath hängen alle Civil- und Militairsachen ab; doch<lb />
-hat der Unter-Gouverneur noch ein Collegium, nemlich den Zu-<lb />
-stiz-Rath, unter sich, der aus den Mitgliedern der andern De-<lb />
-partements besteht, und die Criminalsachen untersucht. Um gat<lb />
-zu großen Einfluß oder Parteilichkeit so viel möglich zu vermei-<lb />
-den, dürfen in keinem Rath zwei Verwandte zugleich Sitz haben.<lb />
-Die Einkünfte des Gouverneurs sind sehr ansehnlich, denn<lb />
-außer einem Firum an Gehalt, freier Wohnung, Ammeuble-<lb />
-ment und allem was zum Haushalt und zur Tafel gehört, hat<lb />
-er zehn Reichsthaler von jedem Faß (Legger) Wein, welches<lb />
-die Compagnie von den Landleuten kauft und nach Batavia<lb />
-führt. Für ein solches Faß zahlt die Compagnie vierzig Tha-<lb />
-ler; davon aber bekommt der Landmann nur vierundzwanzig,<lb />
-das übrige fällt den beiden Gouverneurs, und zwar zwei Dritt-<lb />
-theile dem ersten zu, deren jährlicher Ertrag sich zuweilen auf<lb />
-4000 Thaler belaufen soll. Der Unter-Gouverneur hat alles<lb />
-zu besorgen, was der Compagnie Handlungsgeschäfte allhier an-<lb />
-geht, auch muß er alle Befehle unterschreiben, welche an die<lb />
-unter ihm stehenden Departements ergehen. Er und der Fistal-<lb />
-haben den Rang von Ober-Kaufmann. Der Fiscal verwaltet<lb />
-die Polizei, und läßt die Strafgesetze in Execution bringen. Sein<lb />
-Einkommen besteht in Geldstrafen und in Auflagen auf gewisse<lb />
-Handlungsartikel; wenn er aber in Beitreibung derselben etwas<lb />
-zu scharf ist, so zieht er sich allgemeinen Haß zu. Die gesunde<lb />
-Politik der Holländer hat es gleichfalls für nöthig befunden, den<lb />
-Fiscal zum Oberaufseher der andern Compagniebedienten zu<lb />
-machen, damit diese dem Nutzen ihrer Herren nicht entgegen<lb />
-handeln, noch die Gesetze des Vaterlands aus den Augen setzen.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="78"/><head>Reise um die Welt</head><p/><p>Europa und Indien so wohl gelegenen Orte eine Colonie ange-<lb/>
+legt würde. Er stiftete daher diesen Pflanzort, der seitdem im-<lb/>
+mer in den Händen der Holländer und noch lange nach seinem<lb/>
+Tode in beständigem Wachsthum und Flor geblieben ist.<lb/>
+Der Gouverneur hängt unmittelbar von der Compagnie<lb/>
+ab, und hat den Rang eines Edlen Heeren, welcher Titel den<lb/>
+Gliedern des obersten Raths zu Batavia gegeben wird. Er hat<lb/>
+den Vorsitz in einem Rath, welcher aus dem Unter-Gouverneur,<lb/>
+dem Fiscal, dem im Fort commandirenden Major, dem Secret-<lb/>
+tair, dem Schatzmeister, dem Kellermeister und dem Buchhalter<lb/>
+besteht. Jedes dieser Mitglieder hat einen Zweig von der Com-<lb/>
+pagnie Handlungsgeschäften in besondrer Aufsicht. Von dem<lb/>
+gesammten Rath hängen alle Civil- und Militairsachen ab; doch<lb/>
+hat der Unter-Gouverneur noch ein Collegium, nemlich den Zu-<lb/>
+stiz-Rath, unter sich, der aus den Mitgliedern der andern De-<lb/>
+partements besteht, und die Criminalsachen untersucht. Um gat<lb/>
+zu großen Einfluß oder Parteilichkeit so viel möglich zu vermei-<lb/>
+den, dürfen in keinem Rath zwei Verwandte zugleich Sitz haben.<lb/>
+Die Einkünfte des Gouverneurs sind sehr ansehnlich, denn<lb/>
+außer einem Firum an Gehalt, freier Wohnung, Ammeuble-<lb/>
+ment und allem was zum Haushalt und zur Tafel gehört, hat<lb/>
+er zehn Reichsthaler von jedem Faß (Legger) Wein, welches<lb/>
+die Compagnie von den Landleuten kauft und nach Batavia<lb/>
+führt. Für ein solches Faß zahlt die Compagnie vierzig Tha-<lb/>
+ler; davon aber bekommt der Landmann nur vierundzwanzig,<lb/>
+das übrige fällt den beiden Gouverneurs, und zwar zwei Dritt-<lb/>
+theile dem ersten zu, deren jährlicher Ertrag sich zuweilen auf<lb/>
+4000 Thaler belaufen soll. Der Unter-Gouverneur hat alles<lb/>
+zu besorgen, was der Compagnie Handlungsgeschäfte allhier an-<lb/>
+geht, auch muß er alle Befehle unterschreiben, welche an die<lb/>
+unter ihm stehenden Departements ergehen. Er und der Fistal-<lb/>
+haben den Rang von Ober-Kaufmann. Der Fiscal verwaltet<lb/>
+die Polizei, und läßt die Strafgesetze in Execution bringen. Sein<lb/>
+Einkommen besteht in Geldstrafen und in Auflagen auf gewisse<lb/>
+Handlungsartikel; wenn er aber in Beitreibung derselben etwas<lb/>
+zu scharf ist, so zieht er sich allgemeinen Haß zu. Die gesunde<lb/>
+Politik der Holländer hat es gleichfalls für nöthig befunden, den<lb/>
+Fiscal zum Oberaufseher der andern Compagniebedienten zu<lb/>
+machen, damit diese dem Nutzen ihrer Herren nicht entgegen<lb/>
+handeln, noch die Gesetze des Vaterlands aus den Augen setzen.</p></body></text>
+</TEI>

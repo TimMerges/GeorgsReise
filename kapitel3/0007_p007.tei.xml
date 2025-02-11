@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>73</page-number><paragraph /><paragraph>Andere mit stolzer Berachtung einen Bettelmönchs-Garten*)<lb />
-nennen.<lb />
-Den Tag nach unsrer Ankunft richteten die Astronomen<lb />
-beider Schiffe, Herren Wales und Baily, ihre Instrumente am<lb />
-Ufer auf, und zwar wenig Fuß weit von demselbigen Fleck, wo<lb />
-die Herren Mason und Diron vorher ihre astronomischen Beob-<lb />
-achtungen gleichfalls gemacht hatten. An eben dem Tage fingen<lb />
-auch wir unsere botanischen Spatziergänge in diesen Gegenden<lb />
-an. Der Boden erhebt sich von der Stadt nach und nach an<lb />
-allen Seiten gegen die drei Berge, die hinter der Bai liegen.<lb />
-An der See ist er niebrig und flach; zwischen False-Bai und<lb />
-der Tafel-Bai aber, wo ein kleiner Bach salzigen Wassers in<lb />
-letztere fällt, ist das Erdreich morastig. Dieser morastige Grund<lb />
-ist hin und wieder mit etwas Grin bewachsen, jedoch dem größ-<lb />
-ten Theile nach mit Sand bedeckt. Die höhern Gegenden aber<lb />
-sind, so dürr und öde sie auch von der See her aussehen, den-<lb />
-noch mit einer Menge unendlich verschiedener Pflanzen überwach-<lb />
-fen. Auch gibt es eine ungeheure Menge von Buschwerk allhier,<lb />
-doch verdienen kaum zwei oder drei Arten desselben den Namen<lb />
-von Bäumen. An den kleinen Bächen haben die Einwohner<lb />
-überall Landsitze angelegt, welches der Gegend ein sehr lebhaftes<lb />
-Ansehen gibt. Insecten von allen Arten, mehrere Sorten von<lb />
-Eidechsen, Landschildkröten und Schlangen finden sich unter dem<lb />
-trocknen Gebüsch, in welchem sich auch eine große Menge ver-<lb />
-schiedener kleiner Vögel aufhält. Wir brachten Tag für Tag<lb />
-reiche Ernten von Kräutern und Thieren zurück, und wunderten<lb />
-uns, daß, besonders von letztern, so viele den Naturkundigen<lb />
-ganz unbekannt waren, da sie sich doch hart an den Mauern<lb />
-einer Stadt finden, von woher die Cabinette und Sammlungen<lb />
-des ganzen Curopa beständig versehen worden sind.<lb />
-Einer unsrer Spaziergänge war nach dem Tafelberge ge-<lb />
-richtet. Er ist steil und, wegen der vielen losen Steine, die un-<lb />
-ter des Wanderers Füßen wegrollen, mühsam und schwer zu er-<lb />
-steigen. Gegen die mittlere Höhe des Berges kamen wir an eine<lb />
-tiefe Schlucht, deren Seiten aus senkrechtstehenden und oft über-<lb />
-hängenden Felsenschichten bestanden, aus deren Rissen kleine<lb />
-Quellen aussprudelten oder von den Felsen herab träufelten, und<lb />
-in der Tiefe ganzen Hunderten von Pflanzen und Sträuchern</paragraph><paragraph /><paragraph>*) S. Vougainville's Reise um die Welt.<lb />
-G. Forster's Schriften. I.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="73"/><p/><p>Andere mit stolzer Berachtung einen Bettelmönchs-Garten*)<lb/>
+nennen.<lb/>
+Den Tag nach unsrer Ankunft richteten die Astronomen<lb/>
+beider Schiffe, Herren Wales und Baily, ihre Instrumente am<lb/>
+Ufer auf, und zwar wenig Fuß weit von demselbigen Fleck, wo<lb/>
+die Herren Mason und Diron vorher ihre astronomischen Beob-<lb/>
+achtungen gleichfalls gemacht hatten. An eben dem Tage fingen<lb/>
+auch wir unsere botanischen Spatziergänge in diesen Gegenden<lb/>
+an. Der Boden erhebt sich von der Stadt nach und nach an<lb/>
+allen Seiten gegen die drei Berge, die hinter der Bai liegen.<lb/>
+An der See ist er niebrig und flach; zwischen False-Bai und<lb/>
+der Tafel-Bai aber, wo ein kleiner Bach salzigen Wassers in<lb/>
+letztere fällt, ist das Erdreich morastig. Dieser morastige Grund<lb/>
+ist hin und wieder mit etwas Grin bewachsen, jedoch dem größ-<lb/>
+ten Theile nach mit Sand bedeckt. Die höhern Gegenden aber<lb/>
+sind, so dürr und öde sie auch von der See her aussehen, den-<lb/>
+noch mit einer Menge unendlich verschiedener Pflanzen überwach-<lb/>
+fen. Auch gibt es eine ungeheure Menge von Buschwerk allhier,<lb/>
+doch verdienen kaum zwei oder drei Arten desselben den Namen<lb/>
+von Bäumen. An den kleinen Bächen haben die Einwohner<lb/>
+überall Landsitze angelegt, welches der Gegend ein sehr lebhaftes<lb/>
+Ansehen gibt. Insecten von allen Arten, mehrere Sorten von<lb/>
+Eidechsen, Landschildkröten und Schlangen finden sich unter dem<lb/>
+trocknen Gebüsch, in welchem sich auch eine große Menge ver-<lb/>
+schiedener kleiner Vögel aufhält. Wir brachten Tag für Tag<lb/>
+reiche Ernten von Kräutern und Thieren zurück, und wunderten<lb/>
+uns, daß, besonders von letztern, so viele den Naturkundigen<lb/>
+ganz unbekannt waren, da sie sich doch hart an den Mauern<lb/>
+einer Stadt finden, von woher die Cabinette und Sammlungen<lb/>
+des ganzen Curopa beständig versehen worden sind.<lb/>
+Einer unsrer Spaziergänge war nach dem Tafelberge ge-<lb/>
+richtet. Er ist steil und, wegen der vielen losen Steine, die un-<lb/>
+ter des Wanderers Füßen wegrollen, mühsam und schwer zu er-<lb/>
+steigen. Gegen die mittlere Höhe des Berges kamen wir an eine<lb/>
+tiefe Schlucht, deren Seiten aus senkrechtstehenden und oft über-<lb/>
+hängenden Felsenschichten bestanden, aus deren Rissen kleine<lb/>
+Quellen aussprudelten oder von den Felsen herab träufelten, und<lb/>
+in der Tiefe ganzen Hunderten von Pflanzen und Sträuchern</p><p/><p>*) S. Vougainville's Reise um die Welt.<lb/>
+G. Forster's Schriften. I.</p></body></text>
+</TEI>
