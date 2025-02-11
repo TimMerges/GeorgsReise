@@ -1,130 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-  <fileDesc n="bsb10916719">
-    <titleStmt>
-      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
-      <editor>
-        <persName role="Herausgeber">
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-        <persName role="Herausgeberin">
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-        <persName role="Herausgeberin">
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-      </editor>
-      <respStmt>
-        <resp>Mitwirkende an der Transkription</resp>
-        <persName>
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-        </persName>
-        <persName>
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-        </persName>
-        <persName>
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-        </persName>
-      </respStmt>
-    </titleStmt>
-    <editionStmt>
-      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
-    </editionStmt>
-    <publicationStmt>
-      <publisher>
-        <persName>
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-        </persName>
-        <persName>
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-        </persName>
-        <persName>
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-        </persName>
-      </publisher>
-      <availability>
-        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
-          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
-        </licence>
-        <ab type="version">version-01-22</ab>
-        <ab type="edition">Digitale Edition</ab>
-        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
-      </availability>
-      <date when="2025-02-10"/>
-      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
-    </publicationStmt>
-    <sourceDesc>
-      <bibl>
-        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
-        <idno type="print">BSB-ID 991123990369707356</idno>
-      </bibl>
-      <msDesc>
-        <msIdentifier>
-          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
-          <idno type="signatur">BSB-ID 991123990369707356</idno>
-        </msIdentifier>
-        <physDesc>
-          <objectDesc>
-            <supportDesc>
-              <!-- ggf. weitere physische Beschreibungen -->
-            </supportDesc>
-          </objectDesc>
-        </physDesc>
-      </msDesc>
-    </sourceDesc>
-  </fileDesc>
-</teiHeader>
-
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="Reise um die Welt"/><head>70</head><p/><p>Wendezirkeln, unter dem glücklichsten Himmelsstrich gelegen ist,<lb/>
-ein ziemlich gutes Ansehen hat und sehr verbessert werden könnte;<lb/>
-aber es war durch seine trägen, unterdrückten Bewohner ganz<lb/>
-vernachlässigt. Hier im Gegentheil, fanden wir mitten in einer<lb/>
-Wüste, die von gebrochnen Massen schwarzer fürchterlicher Berge.<lb/>
-umgeben war, eine nette Stadt aufgebaut; mit einem Wort,</p><p/><p>wir sahen hier überall Fleiß und Arbeitsamkeit von Glück ge-<lb/>
-krönt. Das äußere Ansehen des Ortes nach der Seeseite ist.<lb/>
-nicht so malerisch als zu Funchal. Die Packhäuser der Com-<lb/>
-pagnie stehen alle nahe am Wasser, die Wohnungen der Privat-<lb/>
-personen aber liegen hinter selbigen an einer sanften Anhöhe.<lb/>
-Das Fort, welches die Rhede bestreicht, befindet sich an der Ost-<lb/>
-seite der Stadt, es scheint aber nicht stark zu sein, doch sind<lb/>
-noch außerdem an beiden Seiten einige Vatterien angelegt. Die<lb/>
-Straßen sind breit und regelmäßig, die vornehmsten derselben mit<lb/>
-Eichen bepflanzt, und einige haben in der Mitte einen Canal;<lb/>
-da es ihnen aber zu Wässerung derselben, an der erforderlichen<lb/>
-Quantität fließenden Wassers fehlt, so können sie, ungeachtet<lb/>
-der vielfältig angebrachten Schleußen, dennoch nicht verhindern,<lb/>
-daß nicht einzelne Theile des Canals oft ganz ohne Wasser sein<lb/>
-sollten, die denn eben keinen angenehmen Geruch ausduften. Der<lb/>
-holländische Nationalcharakter offenbart sich hierin sehr deutlich.<lb/>
-Ihre Städte sind durchgehends mit Canälen versehen, obgleich<lb/>
-Vernunft und Erfahrung augenscheinlich zeigen, daß die Aus-<lb/>
-dünstungen derselben den Einwohnern, besonders zu Batavia,<lb/>
-höchst nachtheilig werden müssen.<lb/>
-Quanto praestantius esset<lb/>
-viridi si margine clauderet undas<lb/>
-Herba, nec ingenuum violarent marmora.<lb/>
-tophum!<lb/>
-Juvenal.<lb/>
-Die Häuser sind von Backsteinen und an der Außenseite meh-<lb/>
-rentheils mit Kalk beworfen. Die Zimmer sind gemeiniglich<lb/>
-hoch, räumlich und luftig, wie das heiße Elima solches erfordert.<lb/>
-In der ganzen Stadt ist nur eine Kirche, und auch diese nicht<lb/>
-allein von schlechter Bauart, sondern, dem Ansehen nach, für die<lb/>
-Gemeine auch zu klein. Der Duldungsgeist, welcher den Hol-<lb/>
-ländern in Curopa so viel Nutzen verschafft hat, ist in ihren<lb/>
-Colonien nicht zu finden. Nur erst seit ganz kurzer Zeit haben<lb/>
-sie den Lutheranern erlaubt, hier und zu Batavia Kirchen zu</p><p/><p/></body></text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>Reise um die Welt</page-number><heading>70</heading><paragraph /><paragraph>Wendezirkeln, unter dem glücklichsten Himmelsstrich gelegen ist,<lb />
+ein ziemlich gutes Ansehen hat und sehr verbessert werden könnte;<lb />
+aber es war durch seine trägen, unterdrückten Bewohner ganz<lb />
+vernachlässigt. Hier im Gegentheil, fanden wir mitten in einer<lb />
+Wüste, die von gebrochnen Massen schwarzer fürchterlicher Berge.<lb />
+umgeben war, eine nette Stadt aufgebaut; mit einem Wort,</paragraph><paragraph /><paragraph>wir sahen hier überall Fleiß und Arbeitsamkeit von Glück ge-<lb />
+krönt. Das äußere Ansehen des Ortes nach der Seeseite ist.<lb />
+nicht so malerisch als zu Funchal. Die Packhäuser der Com-<lb />
+pagnie stehen alle nahe am Wasser, die Wohnungen der Privat-<lb />
+personen aber liegen hinter selbigen an einer sanften Anhöhe.<lb />
+Das Fort, welches die Rhede bestreicht, befindet sich an der Ost-<lb />
+seite der Stadt, es scheint aber nicht stark zu sein, doch sind<lb />
+noch außerdem an beiden Seiten einige Vatterien angelegt. Die<lb />
+Straßen sind breit und regelmäßig, die vornehmsten derselben mit<lb />
+Eichen bepflanzt, und einige haben in der Mitte einen Canal;<lb />
+da es ihnen aber zu Wässerung derselben, an der erforderlichen<lb />
+Quantität fließenden Wassers fehlt, so können sie, ungeachtet<lb />
+der vielfältig angebrachten Schleußen, dennoch nicht verhindern,<lb />
+daß nicht einzelne Theile des Canals oft ganz ohne Wasser sein<lb />
+sollten, die denn eben keinen angenehmen Geruch ausduften. Der<lb />
+holländische Nationalcharakter offenbart sich hierin sehr deutlich.<lb />
+Ihre Städte sind durchgehends mit Canälen versehen, obgleich<lb />
+Vernunft und Erfahrung augenscheinlich zeigen, daß die Aus-<lb />
+dünstungen derselben den Einwohnern, besonders zu Batavia,<lb />
+höchst nachtheilig werden müssen.<lb />
+Quanto praestantius esset<lb />
+viridi si margine clauderet undas<lb />
+Herba, nec ingenuum violarent marmora.<lb />
+tophum!<lb />
+Juvenal.<lb />
+Die Häuser sind von Backsteinen und an der Außenseite meh-<lb />
+rentheils mit Kalk beworfen. Die Zimmer sind gemeiniglich<lb />
+hoch, räumlich und luftig, wie das heiße Elima solches erfordert.<lb />
+In der ganzen Stadt ist nur eine Kirche, und auch diese nicht<lb />
+allein von schlechter Bauart, sondern, dem Ansehen nach, für die<lb />
+Gemeine auch zu klein. Der Duldungsgeist, welcher den Hol-<lb />
+ländern in Curopa so viel Nutzen verschafft hat, ist in ihren<lb />
+Colonien nicht zu finden. Nur erst seit ganz kurzer Zeit haben<lb />
+sie den Lutheranern erlaubt, hier und zu Batavia Kirchen zu</paragraph><paragraph /><paragraph /></body></text></TEI>

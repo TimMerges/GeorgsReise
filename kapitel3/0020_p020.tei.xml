@@ -1,129 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-  <fileDesc n="bsb10916719">
-    <titleStmt>
-      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
-      <editor>
-        <persName role="Herausgeber">
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-        <persName role="Herausgeberin">
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-        <persName role="Herausgeberin">
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-      </editor>
-      <respStmt>
-        <resp>Mitwirkende an der Transkription</resp>
-        <persName>
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-        </persName>
-        <persName>
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-        </persName>
-        <persName>
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-        </persName>
-      </respStmt>
-    </titleStmt>
-    <editionStmt>
-      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
-    </editionStmt>
-    <publicationStmt>
-      <publisher>
-        <persName>
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-        </persName>
-        <persName>
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-        </persName>
-        <persName>
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-        </persName>
-      </publisher>
-      <availability>
-        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
-          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
-        </licence>
-        <ab type="version">version-01-22</ab>
-        <ab type="edition">Digitale Edition</ab>
-        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
-      </availability>
-      <date when="2025-02-10"/>
-      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
-    </publicationStmt>
-    <sourceDesc>
-      <bibl>
-        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
-        <idno type="print">BSB-ID 991123990369707356</idno>
-      </bibl>
-      <msDesc>
-        <msIdentifier>
-          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
-          <idno type="signatur">BSB-ID 991123990369707356</idno>
-        </msIdentifier>
-        <physDesc>
-          <objectDesc>
-            <supportDesc>
-              <!-- ggf. weitere physische Beschreibungen -->
-            </supportDesc>
-          </objectDesc>
-        </physDesc>
-      </msDesc>
-    </sourceDesc>
-  </fileDesc>
-</teiHeader>
-
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="﻿86"/><head>Reise um die Welt</head><p/><p>mehr als Tausend ganz neue Arten hier angetroffen. Das Thier-<lb/>
-reich ist verhältnißmäßig eben so reich. Die größten vierfüßigen<lb/>
-Thiere, der Elephant, das Rhinoceros und dieGSiraffe oder das<lb/>
-Camelopardalis sind in dieser Spitze von Africa zu Haus. Die<lb/>
-beiden ersten Arten fanden sich sonst innerhalb der nächsten funf-<lb/>
-zig Meilen von der Stadt; sie sind aber so häufig gejagt und<lb/>
-verfolgt worden, daß sie jetzt, viele Tagereisen weit jenseits der<lb/>
-Stadt, nur noch selten zum Vorschein kommen. Das Nas-<lb/>
-horn besonders ist so rar geworden, daß das Gouvernement so-<lb/>
-gar eine Verordnung hat ergehen lassen müssen, um dessen<lb/>
-gänzliche Ausrottung zu verhindern. Das Flußpferd (Hippopo-<lb/>
-tamus) wird hier Seekuh genannt, und war ehedem unweit der<lb/>
-Stadt, schon in &lt;place ref="https://www.wikidata.org/wiki/Q1563436"&gt;Saldanha-Bai&lt;/place&gt; anzutreffen, jetzt aber ist es<lb/>
-ebenfalls so selten geworden, daß, kraft obrigkeitlichen Verbots,<lb/>
-innerhalb einer großen Entfernung vom Cap keines mehr ge-<lb/>
-schossen werden darf. Ungeachtet dies Thier, seinem Namen<lb/>
-nach, im Wasser leben sollte, so nährt es sich doch bloß von<lb/>
-Kräutern, und soll nur auf kurze Zeit, auch nie auf größere<lb/>
-Strecken, als ungefähr auf dreißig Schritt weit, untertauchen<lb/>
-können. Das Fleisch wird hier zu Lande gegessen und für ei-<lb/>
-nen Leckerbissen gehalten, gleichwohl schmeckte es mir nicht bes-<lb/>
-ser als festes Rindfleisch, das Fett aber hat mit Mark viel Aehn-<lb/>
-lichkeit. Zu den übrigen großen Thieren, die es hier giebt, ge-<lb/>
-hört auch der wilde Büffel, dessen Hörner jenen vom america-<lb/>
-nischen wilden Ochsen (bison) gleichen, worüber man die im<lb/>
-neunten Theile von Büffons Naturgeschichte befindliche Abbil-<lb/>
-dung nachsehen kann. Sie halten sich jetzt ebenfalls nur in den<lb/>
-entlegnern Gegenden auf, und sollen von ausnehmender Stärke<lb/>
-und Wildheit sein. Die Bauern werden dies zu ihrem Scha-<lb/>
-den inne, denn sie fallen die Heerden öfters an, und bringen<lb/>
-das Vieh um, indem sie es mit den Füßen zertreten. Dr. Thun-<lb/>
-berg verlor durch einen Anfall dieser Thiere seine Pferde, und<lb/>
-sein Begleiter, der holländische Compagnie-Gärtner, hatte kaum<lb/>
-noch Zeit, sich zwischen zwei Bäume zu retten. Ein junger</p><p>Dieser Masson war an Bord der Resolution nach dem Cap gesandt wor-<lb/>
-den, um sowohl frische Pflanzen, als auch Gesäme für den königlichen bo-<lb/>
-tanischen Garten, nach England zu bringen. Dr. Thunberg lehrte ihn<lb/>
-was merkwürdig sei, und er ist mit einer reichen Ernte nach England<lb/>
-zurückgekommen.</p></body></text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>﻿86</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>mehr als Tausend ganz neue Arten hier angetroffen. Das Thier-<lb />
+reich ist verhältnißmäßig eben so reich. Die größten vierfüßigen<lb />
+Thiere, der Elephant, das Rhinoceros und dieGSiraffe oder das<lb />
+Camelopardalis sind in dieser Spitze von Africa zu Haus. Die<lb />
+beiden ersten Arten fanden sich sonst innerhalb der nächsten funf-<lb />
+zig Meilen von der Stadt; sie sind aber so häufig gejagt und<lb />
+verfolgt worden, daß sie jetzt, viele Tagereisen weit jenseits der<lb />
+Stadt, nur noch selten zum Vorschein kommen. Das Nas-<lb />
+horn besonders ist so rar geworden, daß das Gouvernement so-<lb />
+gar eine Verordnung hat ergehen lassen müssen, um dessen<lb />
+gänzliche Ausrottung zu verhindern. Das Flußpferd (Hippopo-<lb />
+tamus) wird hier Seekuh genannt, und war ehedem unweit der<lb />
+Stadt, schon in &lt;place ref="https://www.wikidata.org/wiki/Q1563436"&gt;Saldanha-Bai&lt;/place&gt; anzutreffen, jetzt aber ist es<lb />
+ebenfalls so selten geworden, daß, kraft obrigkeitlichen Verbots,<lb />
+innerhalb einer großen Entfernung vom Cap keines mehr ge-<lb />
+schossen werden darf. Ungeachtet dies Thier, seinem Namen<lb />
+nach, im Wasser leben sollte, so nährt es sich doch bloß von<lb />
+Kräutern, und soll nur auf kurze Zeit, auch nie auf größere<lb />
+Strecken, als ungefähr auf dreißig Schritt weit, untertauchen<lb />
+können. Das Fleisch wird hier zu Lande gegessen und für ei-<lb />
+nen Leckerbissen gehalten, gleichwohl schmeckte es mir nicht bes-<lb />
+ser als festes Rindfleisch, das Fett aber hat mit Mark viel Aehn-<lb />
+lichkeit. Zu den übrigen großen Thieren, die es hier giebt, ge-<lb />
+hört auch der wilde Büffel, dessen Hörner jenen vom america-<lb />
+nischen wilden Ochsen (bison) gleichen, worüber man die im<lb />
+neunten Theile von Büffons Naturgeschichte befindliche Abbil-<lb />
+dung nachsehen kann. Sie halten sich jetzt ebenfalls nur in den<lb />
+entlegnern Gegenden auf, und sollen von ausnehmender Stärke<lb />
+und Wildheit sein. Die Bauern werden dies zu ihrem Scha-<lb />
+den inne, denn sie fallen die Heerden öfters an, und bringen<lb />
+das Vieh um, indem sie es mit den Füßen zertreten. Dr. Thun-<lb />
+berg verlor durch einen Anfall dieser Thiere seine Pferde, und<lb />
+sein Begleiter, der holländische Compagnie-Gärtner, hatte kaum<lb />
+noch Zeit, sich zwischen zwei Bäume zu retten. Ein junger</paragraph><paragraph>Dieser Masson war an Bord der Resolution nach dem Cap gesandt wor-<lb />
+den, um sowohl frische Pflanzen, als auch Gesäme für den königlichen bo-<lb />
+tanischen Garten, nach England zu bringen. Dr. Thunberg lehrte ihn<lb />
+was merkwürdig sei, und er ist mit einer reichen Ernte nach England<lb />
+zurückgekommen.</paragraph></body></text></TEI>

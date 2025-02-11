@@ -1,131 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-  <fileDesc n="bsb10916719">
-    <titleStmt>
-      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
-      <editor>
-        <persName role="Herausgeber">
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-        <persName role="Herausgeberin">
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-        <persName role="Herausgeberin">
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-      </editor>
-      <respStmt>
-        <resp>Mitwirkende an der Transkription</resp>
-        <persName>
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-        </persName>
-        <persName>
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-        </persName>
-        <persName>
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-        </persName>
-      </respStmt>
-    </titleStmt>
-    <editionStmt>
-      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
-    </editionStmt>
-    <publicationStmt>
-      <publisher>
-        <persName>
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-        </persName>
-        <persName>
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-        </persName>
-        <persName>
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-        </persName>
-      </publisher>
-      <availability>
-        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
-          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
-        </licence>
-        <ab type="version">version-01-22</ab>
-        <ab type="edition">Digitale Edition</ab>
-        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
-      </availability>
-      <date when="2025-02-10"/>
-      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
-    </publicationStmt>
-    <sourceDesc>
-      <bibl>
-        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
-        <idno type="print">BSB-ID 991123990369707356</idno>
-      </bibl>
-      <msDesc>
-        <msIdentifier>
-          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
-          <idno type="signatur">BSB-ID 991123990369707356</idno>
-        </msIdentifier>
-        <physDesc>
-          <objectDesc>
-            <supportDesc>
-              <!-- ggf. weitere physische Beschreibungen -->
-            </supportDesc>
-          </objectDesc>
-        </physDesc>
-      </msDesc>
-    </sourceDesc>
-  </fileDesc>
-</teiHeader>
-
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="74"/><head>Reise um die Welt</head><p/><p>Leben und Nahrung gaben. Andre Pflanzen, die an trockneren<lb/>
-Stellen standen, und aus denselben mehr verdickte Nahrungssäfte<lb/>
-zu ihrem Wachsthum zogen, verbreiteten aromatische Gerüche,<lb/>
-welche uns durch eine sanftwehende Luft von den Seiten dieses<lb/>
-Erdrisses zugeführt wurden. Nach einem dreistündigen Marsch<lb/>
-erreichten wir endlich den Gipfel des Berges, der fast ganz<lb/>
-eben, sehr unfruchtbar und beinahe völlig von Erdreich entblößt<lb/>
-ist. Hie und da gab es Vertiefungen auf demselben, die theils<lb/>
-mit Regenwasser, theils mit guter fruchtbarer Erde angefüllt wa-<lb/>
-ren, in welcher allerhand fruchtbare Kräuter wuchsen. Von Thie-<lb/>
-ren trifft man manchmal Antelopen, heulende Pavians, einsame<lb/>
-Geier und Kröten auf diesem Berge. Die Aussicht, welche man<lb/>
-von der Höhe desselben genießt, ist groß und malerisch. Die Bai<lb/>
-schien ein kleiner Fischteich und die darin liegenden Schiffe kleine<lb/>
-Boote zu sein. Die Stadt unter unsern Füßen und die regel-<lb/>
-mäßigen Abtheilungen der dabei liegenden Gärten sahen wie<lb/>
-Kinderspielwerke aus. Der Löwenberg ward zu einem unbeträcht-<lb/>
-lichen, niedrigen Vergrücken, gleichwie auch ein andrer Berg,<lb/>
-der Löwenkopf genannt, der von unten aus hoch genug zu sein<lb/>
-scheint, weit unter uns blieb, und nur der einzige Carleberg<lb/>
-schien sich neben dem Tafelberge bis in eine etwas beträchtliche<lb/>
-Höhe zu erheben. Gegen Norden ward die Aussicht durch Rob-<lb/>
-ben-Giland, die blauen Berge, die Tiegerberge und, über diese<lb/>
-hinaus, von einer noch höhern, majestätischen Kette von Ver-<lb/>
-gen beschränkt. Eine Gruppe gebrochner Felsenmassen schloß<lb/>
-Hout-Bai oder die Holz-Bai gegen Westen ein, und lief von<lb/>
-da gegen Süden fort, woselbst sie die eine Seite von Taselbai<lb/>
-ausmachte, und zuletzt sich in dem berühmten stürmischen Cap<lb/>
-endigte, welches &lt;persName ref="https://www.wikidata.org/wiki/Q959286"&gt;König Manuel von Portugal&lt;/persName&gt; das Vorgebirge<lb/>
-der guten Hoffnung genannt hat. Gegen Sudost hatten wir<lb/>
-eine Aussicht über die niedrige Erdzunge, welche zwischen den<lb/>
-beiden Baien inne liegt; und jenseits derselben konnten wir die<lb/>
-Colonie von &lt;place ref="https://www.wikidata.org/wiki/Q5460"&gt;Hottentot-Holland&lt;/place&gt; und die Berge bei Stellenbosch<lb/>
-erkennen. Auch vergnügte uns an dieser Seite der Anblick ei-<lb/>
-ner Menge von angebauten Grundstücken, die auf der Haide<lb/>
-einzeln zerstreut lagen, und durch ihr schönes Grün vom übri-<lb/>
-gen Lande sehr gut abstachen. Hierunter zeichnete sich, vor an-<lb/>
-dern, das unter den neuern Epikureern so berühmte Constantia<lb/>
-aus. Nachdem wir uns zwei Stunden lang an diesen Schön-<lb/>
-heiten ergötzt hatten, und die Luft sehr kalt und scharf zu wer-</p></body></text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>74</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>Leben und Nahrung gaben. Andre Pflanzen, die an trockneren<lb />
+Stellen standen, und aus denselben mehr verdickte Nahrungssäfte<lb />
+zu ihrem Wachsthum zogen, verbreiteten aromatische Gerüche,<lb />
+welche uns durch eine sanftwehende Luft von den Seiten dieses<lb />
+Erdrisses zugeführt wurden. Nach einem dreistündigen Marsch<lb />
+erreichten wir endlich den Gipfel des Berges, der fast ganz<lb />
+eben, sehr unfruchtbar und beinahe völlig von Erdreich entblößt<lb />
+ist. Hie und da gab es Vertiefungen auf demselben, die theils<lb />
+mit Regenwasser, theils mit guter fruchtbarer Erde angefüllt wa-<lb />
+ren, in welcher allerhand fruchtbare Kräuter wuchsen. Von Thie-<lb />
+ren trifft man manchmal Antelopen, heulende Pavians, einsame<lb />
+Geier und Kröten auf diesem Berge. Die Aussicht, welche man<lb />
+von der Höhe desselben genießt, ist groß und malerisch. Die Bai<lb />
+schien ein kleiner Fischteich und die darin liegenden Schiffe kleine<lb />
+Boote zu sein. Die Stadt unter unsern Füßen und die regel-<lb />
+mäßigen Abtheilungen der dabei liegenden Gärten sahen wie<lb />
+Kinderspielwerke aus. Der Löwenberg ward zu einem unbeträcht-<lb />
+lichen, niedrigen Vergrücken, gleichwie auch ein andrer Berg,<lb />
+der Löwenkopf genannt, der von unten aus hoch genug zu sein<lb />
+scheint, weit unter uns blieb, und nur der einzige Carleberg<lb />
+schien sich neben dem Tafelberge bis in eine etwas beträchtliche<lb />
+Höhe zu erheben. Gegen Norden ward die Aussicht durch Rob-<lb />
+ben-Giland, die blauen Berge, die Tiegerberge und, über diese<lb />
+hinaus, von einer noch höhern, majestätischen Kette von Ver-<lb />
+gen beschränkt. Eine Gruppe gebrochner Felsenmassen schloß<lb />
+Hout-Bai oder die Holz-Bai gegen Westen ein, und lief von<lb />
+da gegen Süden fort, woselbst sie die eine Seite von Taselbai<lb />
+ausmachte, und zuletzt sich in dem berühmten stürmischen Cap<lb />
+endigte, welches &lt;persName ref="https://www.wikidata.org/wiki/Q959286"&gt;König Manuel von Portugal&lt;/persName&gt; das Vorgebirge<lb />
+der guten Hoffnung genannt hat. Gegen Sudost hatten wir<lb />
+eine Aussicht über die niedrige Erdzunge, welche zwischen den<lb />
+beiden Baien inne liegt; und jenseits derselben konnten wir die<lb />
+Colonie von &lt;place ref="https://www.wikidata.org/wiki/Q5460"&gt;Hottentot-Holland&lt;/place&gt; und die Berge bei Stellenbosch<lb />
+erkennen. Auch vergnügte uns an dieser Seite der Anblick ei-<lb />
+ner Menge von angebauten Grundstücken, die auf der Haide<lb />
+einzeln zerstreut lagen, und durch ihr schönes Grün vom übri-<lb />
+gen Lande sehr gut abstachen. Hierunter zeichnete sich, vor an-<lb />
+dern, das unter den neuern Epikureern so berühmte Constantia<lb />
+aus. Nachdem wir uns zwei Stunden lang an diesen Schön-<lb />
+heiten ergötzt hatten, und die Luft sehr kalt und scharf zu wer-</paragraph></body></text></TEI>

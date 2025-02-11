@@ -1,128 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-  <fileDesc n="bsb10916719">
-    <titleStmt>
-      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
-      <editor>
-        <persName role="Herausgeber">
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-        <persName role="Herausgeberin">
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-        <persName role="Herausgeberin">
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-          <affiliation>Universität Trier (Student)</affiliation>
-        </persName>
-      </editor>
-      <respStmt>
-        <resp>Mitwirkende an der Transkription</resp>
-        <persName>
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-        </persName>
-        <persName>
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-        </persName>
-        <persName>
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-        </persName>
-      </respStmt>
-    </titleStmt>
-    <editionStmt>
-      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
-    </editionStmt>
-    <publicationStmt>
-      <publisher>
-        <persName>
-          <forename>Tim</forename>
-          <surname>Merges</surname>
-        </persName>
-        <persName>
-          <forename>Patricia</forename>
-          <surname>Folly</surname>
-        </persName>
-        <persName>
-          <forename>Sarah</forename>
-          <surname>Sarkis</surname>
-        </persName>
-      </publisher>
-      <availability>
-        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
-          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
-        </licence>
-        <ab type="version">version-01-22</ab>
-        <ab type="edition">Digitale Edition</ab>
-        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
-      </availability>
-      <date when="2025-02-10"/>
-      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
-    </publicationStmt>
-    <sourceDesc>
-      <bibl>
-        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
-        <idno type="print">BSB-ID 991123990369707356</idno>
-      </bibl>
-      <msDesc>
-        <msIdentifier>
-          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
-          <idno type="signatur">BSB-ID 991123990369707356</idno>
-        </msIdentifier>
-        <physDesc>
-          <objectDesc>
-            <supportDesc>
-              <!-- ggf. weitere physische Beschreibungen -->
-            </supportDesc>
-          </objectDesc>
-        </physDesc>
-      </msDesc>
-    </sourceDesc>
-  </fileDesc>
-</teiHeader>
-
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="72"/><head>Reise um die Welt</head><p/><p>überdies zwei bis drei hundert gefährlich Kranke ins Hospital<lb/>
-schickt. Die geringen Kosten und die große Leichtigkeit, womit die<lb/>
-Holländischen Ziel-verkoopers ihren, die Menschheit entehrenden<lb/>
-Recrutenhandel für die Ostindische Compagnie zu treiben im<lb/>
-Stande sind, macht sie gegen die Erhaltung der armen Men-<lb/>
-schen so gleichgültig. Nichts ist hier und in andern Holländi-<lb/>
-schen Colonien gemeiner, als Soldaten in der Compagnie Dien-<lb/>
-sten zu finden, die öffentlich gestehen, daß sie in Holland ,weg-<lb/>
-gestohlen“ sind. In der zum Hospital gehörenden Apotheke wer-<lb/>
-den die nöthigen Arzeneien zubereitet; aber kein einziges etwas<lb/>
-theures Medicament ist darin anzutreffen, und da zwei oder drei-<lb/>
-große Bouteillen ohne Unterschied für alle Patienten dienen müs-<lb/>
-sen, so scheint wohl die gesunde Landluft nebst den frischen Le-<lb/>
-bensmitteln zur Genesung der Kranken mehr beizutragen als die<lb/>
-Geschicklichkeit der Aerzte. Kranke, die gehen können, müssen<lb/>
-des Morgens bei gutem Wetter in den Straßen auf und nie-<lb/>
-der spazieren; und der benachbarte Garten der Compagnie liefert<lb/>
-ihnen alle Arten von Gartengewächs und antiscorbutischen Kräutern.<lb/>
-Verschiedene Reisende haben diesen Garten bald gelobt und bald<lb/>
-verachtet, je nachdem der Gesichtspunkt verschieden war, aus dem<lb/>
-sie solchen betrachteten. Ein paar regelmäßige Alleen von ge-<lb/>
-meinen Eichbäumen, mit Ulmen- und Myrtenhecken eingeschlos-<lb/>
-sen, ist das beste was er aufzuweisen hat. Daran wird nun-<lb/>
-freilich derjenige wenig Geschmack finden, der an die Vollkom-<lb/>
-menheit der englischen Gärtnerei gewöhnt ist, oder gelernt hat.<lb/>
-in Holland und Frankreich Sypressen, Buchsbaum und Eyben zu<lb/>
-bewundern, die in Gestalt von Vasen, Pyramiden und Statuen<lb/>
-geschnitten sind, oder wo das grüne Heckenwerk gar Häuser und<lb/>
-Palläste vorstellt. Wenn man aber auf der andern Seite er-<lb/>
-wägt, daß diese Bäume im Anfang gegenwärtigen Jahrhunderts<lb/>
-und, mehr zum Nutzen als zum Staat gepflanzt sind; daß sie<lb/>
-zugleich den Küchengarten des Hospitals gegen die Stürme schützen,<lb/>
-welche hier zu Lande sehr heftig sind, und endlich, daß sie die<lb/>
-einzigen schattigen und kühlen Spatziergänge für Reisende und<lb/>
-Kranke in dieser heißen Gegend ausmachen, so ist es wohl nicht<lb/>
-zu verwundern, daß ihn Einige einen reizenden Lustort*) und</p><p/><p>) S. Commodore (Admiral) &lt;persName ref="https://www.wikidata.org/wiki/Q507665"&gt;Byrons&lt;/persName&gt; Reise in Hawkeswerth's Ge-<lb/>
-schichte der engl. See-Reisen in 8. l. Band, pag. 183.</p></body></text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>72</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>überdies zwei bis drei hundert gefährlich Kranke ins Hospital<lb />
+schickt. Die geringen Kosten und die große Leichtigkeit, womit die<lb />
+Holländischen Ziel-verkoopers ihren, die Menschheit entehrenden<lb />
+Recrutenhandel für die Ostindische Compagnie zu treiben im<lb />
+Stande sind, macht sie gegen die Erhaltung der armen Men-<lb />
+schen so gleichgültig. Nichts ist hier und in andern Holländi-<lb />
+schen Colonien gemeiner, als Soldaten in der Compagnie Dien-<lb />
+sten zu finden, die öffentlich gestehen, daß sie in Holland ,weg-<lb />
+gestohlen“ sind. In der zum Hospital gehörenden Apotheke wer-<lb />
+den die nöthigen Arzeneien zubereitet; aber kein einziges etwas<lb />
+theures Medicament ist darin anzutreffen, und da zwei oder drei-<lb />
+große Bouteillen ohne Unterschied für alle Patienten dienen müs-<lb />
+sen, so scheint wohl die gesunde Landluft nebst den frischen Le-<lb />
+bensmitteln zur Genesung der Kranken mehr beizutragen als die<lb />
+Geschicklichkeit der Aerzte. Kranke, die gehen können, müssen<lb />
+des Morgens bei gutem Wetter in den Straßen auf und nie-<lb />
+der spazieren; und der benachbarte Garten der Compagnie liefert<lb />
+ihnen alle Arten von Gartengewächs und antiscorbutischen Kräutern.<lb />
+Verschiedene Reisende haben diesen Garten bald gelobt und bald<lb />
+verachtet, je nachdem der Gesichtspunkt verschieden war, aus dem<lb />
+sie solchen betrachteten. Ein paar regelmäßige Alleen von ge-<lb />
+meinen Eichbäumen, mit Ulmen- und Myrtenhecken eingeschlos-<lb />
+sen, ist das beste was er aufzuweisen hat. Daran wird nun-<lb />
+freilich derjenige wenig Geschmack finden, der an die Vollkom-<lb />
+menheit der englischen Gärtnerei gewöhnt ist, oder gelernt hat.<lb />
+in Holland und Frankreich Sypressen, Buchsbaum und Eyben zu<lb />
+bewundern, die in Gestalt von Vasen, Pyramiden und Statuen<lb />
+geschnitten sind, oder wo das grüne Heckenwerk gar Häuser und<lb />
+Palläste vorstellt. Wenn man aber auf der andern Seite er-<lb />
+wägt, daß diese Bäume im Anfang gegenwärtigen Jahrhunderts<lb />
+und, mehr zum Nutzen als zum Staat gepflanzt sind; daß sie<lb />
+zugleich den Küchengarten des Hospitals gegen die Stürme schützen,<lb />
+welche hier zu Lande sehr heftig sind, und endlich, daß sie die<lb />
+einzigen schattigen und kühlen Spatziergänge für Reisende und<lb />
+Kranke in dieser heißen Gegend ausmachen, so ist es wohl nicht<lb />
+zu verwundern, daß ihn Einige einen reizenden Lustort*) und</paragraph><paragraph /><paragraph>) S. Commodore (Admiral) &lt;persName ref="https://www.wikidata.org/wiki/Q507665"&gt;Byrons&lt;/persName&gt; Reise in Hawkeswerth's Ge-<lb />
+schichte der engl. See-Reisen in 8. l. Band, pag. 183.</paragraph></body></text></TEI>
