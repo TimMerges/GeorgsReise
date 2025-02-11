@@ -10,10 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    // Optional: Marker zum Testen hinzufügen (z.B. Berlin Brandenburger Tor)
-    var marker = L.marker([52.5163, 13.3777]).addTo(map);
-    marker.bindPopup("<b>Brandenburger Tor, Berlin</b><br>Ein Beispiel-Marker.").openPopup();
-
     // Marker für Plymouth
     var plymouthMarker = L.marker([50.3755, -4.1427]).addTo(map);
     plymouthMarker.bindPopup("<b>Plymouth, England</b><br>Ausgangspunkt der Expedition (Juli 1772)");
