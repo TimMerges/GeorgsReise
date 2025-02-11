@@ -22,7 +22,6 @@ document.addEventListener('DOMContentLoaded', function() {
     var capetownMarker = L.marker([-33.9249, 18.4241]).addTo(map);
     capetownMarker.bindPopup("<b>Kapstadt, Südafrika</b><br>Aufenthalt zum Auffüllen der Vorräte und Reparaturen (Okt.-Nov. 1772)<br><a href='https://de.wikipedia.org/wiki/Kapstadt' target='_blank'>Wikipedia</a>");
 
-
     // Zentrum der Karte auf Europa setzen, damit Plymouth und Madera sichtbar sind
     map.setView([40, -10], 4); // Angepasste Zentrumskoordinaten und Zoom
 });
