@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>32</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>sen sein würde, wenn unser besseres Schicksal nicht unter einer<lb />
-höhern Aufsicht gestanden hätte, ohne welche kein Haar von un-<lb />
-serm Haupte fällt? Zwar sind wir geneigt, der Vortrefflichkeit<lb />
-und dem wachsamen Auge unsrer erfahrnen Weltumsegler die<lb />
-billigste und rühmlichste Gerechtigkeit wiederfahren zu lassen; al¬<lb />
-lein im Grunde werden wir uns nie enthalten, alles auf sei¬<lb />
-nen wahren Ursprung, vornehmlich aber solche Vorfälle auf<lb />
-eine höhere Macht zurückzuführen, wovon keine menschliche Kunst,<lb />
-wäre sie auch mit frecher Religionsverachtung gewaffnet, die Ehre<lb />
-sich anmaßen darf.<lb />
-Montags früh, am 13., segelten wir in Begleitung der<lb />
-Adventure von &lt;place ref="https://www.wikidata.org/wiki/Q43382"&gt;Plymouth&lt;/place&gt; ab. Ich kehrte einen Abschiedsblick<lb />
-gegen Englands fruchtbare Hügel zurück, und ließ dem natür¬<lb />
-lichen Gefühl der Verbindungen, woran mich diese Aussicht er¬<lb />
-innerte, freien Lauf; bis endlich die Heiterkeit des schönen Mor¬<lb />
-gens, und die Neuheit unsrer Fahrt durch die glatte See die<lb />
-Oberhand gewannen und jene trüben Gedanken zerstreuten. Bald<lb />
-blieb nun hinter uns der berühmte hohe Leuchtthurm, der mit¬<lb />
-ten im Meer auf dem Felsen Eddistone zum Besten der Schiff-<lb />
-fahrt gebauet ist, und den man unmöglich ansehen kann, ohne<lb />
-für die einsamen Wächter zu zittern, die oft drei Monate lang,<lb />
-von aller Gemeinschaft mit dem festen Lande abgeschnitten, da¬<lb />
-selbst zubringen müssen. Denn das Schicksal eines gewissen<lb />
-Winstanley, der unter dem Schutt eines ähnlichen Gebäudes,<lb />
-das er selbst auf dieser Klippe angelegt hatte, vergraben wurde,<lb />
-und die schwankende Bewegung des jetzigen Thurms, wenn Wind<lb />
-und Wetter ihn bestürmen, müssen sie unaufhörlich mit einem<lb />
-schleunigen und schreckenvollen Untergange bedrohen.<lb />
-In eben dem Maaße als wir uns vom Lande entfern¬<lb />
-ten, ward der Wind heftiger; die Wellen wuchsen an, das Schif<lb />
-rollte von einer Seite zur andern und die der See nicht ge¬<lb />
-wohnt waren, ja selbst einige der ältesten Seeleute, litten nun-<lb />
-mehr, doch in verschiedenem Grade, von der Seekrankheit. Auch<lb />
-war diese Uebelkeit nicht bei Allen von gleicher Dauer, und<lb />
-nachdem sie drei Tage lang angehalten hatte, fanden wir uns<lb />
-größtentheils durch gewärmten, rothen Oportowein mit Zucker und<lb />
-Gewürzen wieder hergestellt.<lb />
-Am 20. bekamen wir das Vorgebirge Ortegal an der ga¬<lb />
-licischen Küste in &lt;place ref="https://www.wikidata.org/wiki/Q29"&gt;Spanien&lt;/place&gt; zu Gesicht; welches die Einwohner<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q157878"&gt;Ortiguera&lt;/place&gt; nennen und vermuthlich das Promontorium trileucum</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="32"/><head>Reise um die Welt</head><p/><p>sen sein würde, wenn unser besseres Schicksal nicht unter einer<lb/>
+höhern Aufsicht gestanden hätte, ohne welche kein Haar von un-<lb/>
+serm Haupte fällt? Zwar sind wir geneigt, der Vortrefflichkeit<lb/>
+und dem wachsamen Auge unsrer erfahrnen Weltumsegler die<lb/>
+billigste und rühmlichste Gerechtigkeit wiederfahren zu lassen; al¬<lb/>
+lein im Grunde werden wir uns nie enthalten, alles auf sei¬<lb/>
+nen wahren Ursprung, vornehmlich aber solche Vorfälle auf<lb/>
+eine höhere Macht zurückzuführen, wovon keine menschliche Kunst,<lb/>
+wäre sie auch mit frecher Religionsverachtung gewaffnet, die Ehre<lb/>
+sich anmaßen darf.<lb/>
+Montags früh, am 13., segelten wir in Begleitung der<lb/>
+Adventure von &lt;place ref="https://www.wikidata.org/wiki/Q43382"&gt;Plymouth&lt;/place&gt; ab. Ich kehrte einen Abschiedsblick<lb/>
+gegen Englands fruchtbare Hügel zurück, und ließ dem natür¬<lb/>
+lichen Gefühl der Verbindungen, woran mich diese Aussicht er¬<lb/>
+innerte, freien Lauf; bis endlich die Heiterkeit des schönen Mor¬<lb/>
+gens, und die Neuheit unsrer Fahrt durch die glatte See die<lb/>
+Oberhand gewannen und jene trüben Gedanken zerstreuten. Bald<lb/>
+blieb nun hinter uns der berühmte hohe Leuchtthurm, der mit¬<lb/>
+ten im Meer auf dem Felsen Eddistone zum Besten der Schiff-<lb/>
+fahrt gebauet ist, und den man unmöglich ansehen kann, ohne<lb/>
+für die einsamen Wächter zu zittern, die oft drei Monate lang,<lb/>
+von aller Gemeinschaft mit dem festen Lande abgeschnitten, da¬<lb/>
+selbst zubringen müssen. Denn das Schicksal eines gewissen<lb/>
+Winstanley, der unter dem Schutt eines ähnlichen Gebäudes,<lb/>
+das er selbst auf dieser Klippe angelegt hatte, vergraben wurde,<lb/>
+und die schwankende Bewegung des jetzigen Thurms, wenn Wind<lb/>
+und Wetter ihn bestürmen, müssen sie unaufhörlich mit einem<lb/>
+schleunigen und schreckenvollen Untergange bedrohen.<lb/>
+In eben dem Maaße als wir uns vom Lande entfern¬<lb/>
+ten, ward der Wind heftiger; die Wellen wuchsen an, das Schif<lb/>
+rollte von einer Seite zur andern und die der See nicht ge¬<lb/>
+wohnt waren, ja selbst einige der ältesten Seeleute, litten nun-<lb/>
+mehr, doch in verschiedenem Grade, von der Seekrankheit. Auch<lb/>
+war diese Uebelkeit nicht bei Allen von gleicher Dauer, und<lb/>
+nachdem sie drei Tage lang angehalten hatte, fanden wir uns<lb/>
+größtentheils durch gewärmten, rothen Oportowein mit Zucker und<lb/>
+Gewürzen wieder hergestellt.<lb/>
+Am 20. bekamen wir das Vorgebirge Ortegal an der ga¬<lb/>
+licischen Küste in &lt;place ref="https://www.wikidata.org/wiki/Q29"&gt;Spanien&lt;/place&gt; zu Gesicht; welches die Einwohner<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q157878"&gt;Ortiguera&lt;/place&gt; nennen und vermuthlich das Promontorium trileucum</p></body></text>
+</TEI>

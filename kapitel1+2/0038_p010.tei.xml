@@ -1,41 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><paragraph /><paragraph>in den Jahren 1772 bis 1775.</paragraph><paragraph /><paragraph>65</paragraph><paragraph /><paragraph>aller Art, worunter auch der Malmuck (procellaria glexialis)<lb />
-war, ließen sich in diesen Gegenden täglich sehen.<lb />
-Am 17. entstand plötzlich Lärm. Es hieß einer unsrer<lb />
-Leute sei über Bord gefallen. Wir wandten das Schiff sogleich<lb />
-um ihm zu Hülfe zu kommen; da wir aber in der See nir¬<lb />
-gends etwas gewahr werden konnten, so wurde die Namenliste<lb />
-abgerufen, und zu unsrer großen Freude zeigte sich, daß keiner<lb />
-fehlte. Unsre Freunde an Bord der Adventure, welche wir ei¬<lb />
-nige Tage nachher besuchten, erzählten uns sie hätten aus un-<lb />
-serm Manövre die Ursache unsrer Besorgniß errathen, aber zu¬<lb />
-gleich ganz deutlich einen Seelöwen gesehen, der zu diesem fal¬<lb />
-schen Lärm Veranlassung gegeben hatte.<lb />
-Am 19. ging die See sehr hoch aus Süden, und ein gro¬<lb />
-ßer Wallfisch, desgleichen ein Haysisch, der 18 bis 20 Fuß lang<lb />
-war, schwammen bei dem Schiffe vorüber; letzterer war von<lb />
-weißlicher Farbe, und hatte zwei Flußfedern auf dem Rücken.<lb />
-Da wir schon lange in See waren, so hatte der Capitain seit<lb />
-einigen Wochen, an den Fleischtagen, das ist viermal die Woche,<lb />
-Sauerkraut unter die Leute austheilen lassen, wovon der Mann<lb />
-jedesmal ein halbes Quart (pint) bekam. Aus Vorsorge für<lb />
-die Gesundheit der Seeleute war, auf Befehl der Admiralität,<lb />
-ein großer Vorrath dieses gesunden und wohlschmeckenden Ge¬<lb />
-müses mit an Bord beider Schiffe genommen worden; und der<lb />
-Erfolg hat gezeigt, daß es eins der besten Verwahrungsmittel<lb />
-wider den Scorbut ist.<lb />
-Am 24., da die Adventure weit zurück war, ließ der Ca¬</paragraph><paragraph /><paragraph>sen scheint, daß man die Alten nicht nachgeschlagen. Wer nur je in den<lb />
-Plinius geguckt hat, kann nicht die geringste Vermuthung hegen, daß<lb />
-obbenannte dünnschalige Muschel die Purpur-Schnecke der Alten sein<lb />
-könne. Sie kannten verschiedne Schnecken, die Purpur gaben, aber die¬<lb />
-ses waren lauter Klippen=Schnecken (rockshells). Earum genera plura,<lb />
-pabulo et SOLO discreta, IX. 1. Exquiruntur omnes scopuli gaetuli<lb />
-muricibus ac purpuris. V. l. Eben so deutlich und unleugbar ists, daß<lb />
-die Gestalt und Härte ihrer Purpur-Schnecken von der kleinen helix jan-<lb />
-thina ganz verschieden waren. PVRPVRA vocatur, cuniculatim procur¬<lb />
-rente rostro et cuniculi latere introrsus tabulato quo proferatur lingua.<lb />
-IX. 61. — Lingua purpurae longitudine digitalis qua pascitur, perfo-<lb />
-rando reliqua conchylia, tanta DVRITIA aculeo est. IX. 60. -- Prae-<lb />
-terea clavatum est ad turbinem usque aculeis in orbem septenis fere<lb />
-IX. 61. D. Ant. Ulloa's Reisen nach Süd=Amerika verdienen hierüber<lb />
-nachgelesen zu werden.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><p/><p>in den Jahren 1772 bis 1775.</p><p/><p>65</p><p/><p>aller Art, worunter auch der Malmuck (procellaria glexialis)<lb/>
+war, ließen sich in diesen Gegenden täglich sehen.<lb/>
+Am 17. entstand plötzlich Lärm. Es hieß einer unsrer<lb/>
+Leute sei über Bord gefallen. Wir wandten das Schiff sogleich<lb/>
+um ihm zu Hülfe zu kommen; da wir aber in der See nir¬<lb/>
+gends etwas gewahr werden konnten, so wurde die Namenliste<lb/>
+abgerufen, und zu unsrer großen Freude zeigte sich, daß keiner<lb/>
+fehlte. Unsre Freunde an Bord der Adventure, welche wir ei¬<lb/>
+nige Tage nachher besuchten, erzählten uns sie hätten aus un-<lb/>
+serm Manövre die Ursache unsrer Besorgniß errathen, aber zu¬<lb/>
+gleich ganz deutlich einen Seelöwen gesehen, der zu diesem fal¬<lb/>
+schen Lärm Veranlassung gegeben hatte.<lb/>
+Am 19. ging die See sehr hoch aus Süden, und ein gro¬<lb/>
+ßer Wallfisch, desgleichen ein Haysisch, der 18 bis 20 Fuß lang<lb/>
+war, schwammen bei dem Schiffe vorüber; letzterer war von<lb/>
+weißlicher Farbe, und hatte zwei Flußfedern auf dem Rücken.<lb/>
+Da wir schon lange in See waren, so hatte der Capitain seit<lb/>
+einigen Wochen, an den Fleischtagen, das ist viermal die Woche,<lb/>
+Sauerkraut unter die Leute austheilen lassen, wovon der Mann<lb/>
+jedesmal ein halbes Quart (pint) bekam. Aus Vorsorge für<lb/>
+die Gesundheit der Seeleute war, auf Befehl der Admiralität,<lb/>
+ein großer Vorrath dieses gesunden und wohlschmeckenden Ge¬<lb/>
+müses mit an Bord beider Schiffe genommen worden; und der<lb/>
+Erfolg hat gezeigt, daß es eins der besten Verwahrungsmittel<lb/>
+wider den Scorbut ist.<lb/>
+Am 24., da die Adventure weit zurück war, ließ der Ca¬</p><p/><p>sen scheint, daß man die Alten nicht nachgeschlagen. Wer nur je in den<lb/>
+Plinius geguckt hat, kann nicht die geringste Vermuthung hegen, daß<lb/>
+obbenannte dünnschalige Muschel die Purpur-Schnecke der Alten sein<lb/>
+könne. Sie kannten verschiedne Schnecken, die Purpur gaben, aber die¬<lb/>
+ses waren lauter Klippen=Schnecken (rockshells). Earum genera plura,<lb/>
+pabulo et SOLO discreta, IX. 1. Exquiruntur omnes scopuli gaetuli<lb/>
+muricibus ac purpuris. V. l. Eben so deutlich und unleugbar ists, daß<lb/>
+die Gestalt und Härte ihrer Purpur-Schnecken von der kleinen helix jan-<lb/>
+thina ganz verschieden waren. PVRPVRA vocatur, cuniculatim procur¬<lb/>
+rente rostro et cuniculi latere introrsus tabulato quo proferatur lingua.<lb/>
+IX. 61. — Lingua purpurae longitudine digitalis qua pascitur, perfo-<lb/>
+rando reliqua conchylia, tanta DVRITIA aculeo est. IX. 60. -- Prae-<lb/>
+terea clavatum est ad turbinem usque aculeis in orbem septenis fere<lb/>
+IX. 61. D. Ant. Ulloa's Reisen nach Süd=Amerika verdienen hierüber<lb/>
+nachgelesen zu werden.</p></body></text>
+</TEI>

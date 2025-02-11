@@ -1,39 +1,129 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>66</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>pitain ein Boot aussetzen, in welchem verschiedene Officiere und<lb />
-Reisende aufs Vogelschießen ausgingen. Dies gab uns wie¬<lb />
-derum Gelegenheit die beiden Arten von Albatroßen, ingleichen<lb />
-eine große schwarze Art von Sturmvögeln (procellaria aequi¬<lb />
-noctialis) zu untersuchen. Wir hatten nun seit neun Wochen<lb />
-kein Land gesehen und das Reisen zur See fing an denjenigen<lb />
-unter uns verdrießlich und widerlich zu werden, die eben so we¬<lb />
-nig an das einförmige eingeschloßne Leben am Bord eines Schiffs,<lb />
-als an das ewige Einerlei der Lebensmittel und übrigen Gegen¬<lb />
-stände gewöhnt waren. Auch uns würde dies zweifelsohne eben<lb />
-so unangenehm vorgekommen sein, wenn wir nicht von Zeit zu<lb />
-Zeit Beschäftigung gefunden und uns mit der Hoffnung ermun¬<lb />
-tert hätten, daß noch manche wichtige Entdeckung in der Natur¬<lb />
-geschichte auf uns warte.</paragraph><paragraph /><paragraph>Am 29. früh Morgens entdeckten wir das äußerste Ende<lb />
-von Africa. Es war mit Wolken und Nebel bedeckt, und ei¬<lb />
-nige Solandgänse, ingleichen kleine Sturmtaucher (diving pe¬<lb />
-trels) nebst verschiedenen wilden Enten kamen von da in See.<lb />
-Der zunehmende Nebel entzog uns den Anblick des Landes bald<lb />
-wieder, bis sich endlich um drei Uhr Nachmittags die Luft aus¬<lb />
-hellte, und uns die Küste von neuem, zwar nicht ganz wolken-<lb />
-frei, jedoch ungleich deutlicher als zuvor, sehen ließ. Da der<lb />
-Wind sehr frisch und die Adventure weit zurück war, so durften<lb />
-wir es nicht wagen, noch diese Nacht in die Tafel-Bai einzu¬<lb />
-laufen. Wir nahmen daher bei einbrechendem Abend die Segel<lb />
-ein, zumal da das Wetter sehr finster wurde und harter Regen<lb />
-mit Stoßwinden beständig abwechselten.</paragraph><paragraph /><paragraph>Kaum wars Nacht worden als die See rund um uns her<lb />
-einen großen, bewundrungswürdigen Anblick darbot. So weit<lb />
-wir sehen konnten schien der ganze Ocean in Feuer zu sein.<lb />
-Jede brechende Welle war an der Spitze von einem hellen Glanz<lb />
-erleuchtet, der dem Lichte des Phosphorus glich, und längst den<lb />
-Seiten des Schiffs verursachte das Anschlagen der Wellen eine<lb />
-feuerhelle Linie. Hiernächst konnten wir auch große leuchtende<lb />
-Körper im Wasser unterscheiden, die sich bald geschwind, bald<lb />
-langsam, jetzt in einerlei Richtung mit dem Schiff, dann wie¬<lb />
-der von uns weg, bewegten. Zuweilen sahen wir ganz deutlich<lb />
-daß diese Massen als Fische gestaltet waren, und daß die klei¬<lb />
-nern den größern aus dem Wege gingen. Um dies wunderbare<lb />
-Phänomen genauer zu untersuchen, ließen wir einen Eimer sol-</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="66"/><head>Reise um die Welt</head><p/><p>pitain ein Boot aussetzen, in welchem verschiedene Officiere und<lb/>
+Reisende aufs Vogelschießen ausgingen. Dies gab uns wie¬<lb/>
+derum Gelegenheit die beiden Arten von Albatroßen, ingleichen<lb/>
+eine große schwarze Art von Sturmvögeln (procellaria aequi¬<lb/>
+noctialis) zu untersuchen. Wir hatten nun seit neun Wochen<lb/>
+kein Land gesehen und das Reisen zur See fing an denjenigen<lb/>
+unter uns verdrießlich und widerlich zu werden, die eben so we¬<lb/>
+nig an das einförmige eingeschloßne Leben am Bord eines Schiffs,<lb/>
+als an das ewige Einerlei der Lebensmittel und übrigen Gegen¬<lb/>
+stände gewöhnt waren. Auch uns würde dies zweifelsohne eben<lb/>
+so unangenehm vorgekommen sein, wenn wir nicht von Zeit zu<lb/>
+Zeit Beschäftigung gefunden und uns mit der Hoffnung ermun¬<lb/>
+tert hätten, daß noch manche wichtige Entdeckung in der Natur¬<lb/>
+geschichte auf uns warte.</p><p/><p>Am 29. früh Morgens entdeckten wir das äußerste Ende<lb/>
+von Africa. Es war mit Wolken und Nebel bedeckt, und ei¬<lb/>
+nige Solandgänse, ingleichen kleine Sturmtaucher (diving pe¬<lb/>
+trels) nebst verschiedenen wilden Enten kamen von da in See.<lb/>
+Der zunehmende Nebel entzog uns den Anblick des Landes bald<lb/>
+wieder, bis sich endlich um drei Uhr Nachmittags die Luft aus¬<lb/>
+hellte, und uns die Küste von neuem, zwar nicht ganz wolken-<lb/>
+frei, jedoch ungleich deutlicher als zuvor, sehen ließ. Da der<lb/>
+Wind sehr frisch und die Adventure weit zurück war, so durften<lb/>
+wir es nicht wagen, noch diese Nacht in die Tafel-Bai einzu¬<lb/>
+laufen. Wir nahmen daher bei einbrechendem Abend die Segel<lb/>
+ein, zumal da das Wetter sehr finster wurde und harter Regen<lb/>
+mit Stoßwinden beständig abwechselten.</p><p/><p>Kaum wars Nacht worden als die See rund um uns her<lb/>
+einen großen, bewundrungswürdigen Anblick darbot. So weit<lb/>
+wir sehen konnten schien der ganze Ocean in Feuer zu sein.<lb/>
+Jede brechende Welle war an der Spitze von einem hellen Glanz<lb/>
+erleuchtet, der dem Lichte des Phosphorus glich, und längst den<lb/>
+Seiten des Schiffs verursachte das Anschlagen der Wellen eine<lb/>
+feuerhelle Linie. Hiernächst konnten wir auch große leuchtende<lb/>
+Körper im Wasser unterscheiden, die sich bald geschwind, bald<lb/>
+langsam, jetzt in einerlei Richtung mit dem Schiff, dann wie¬<lb/>
+der von uns weg, bewegten. Zuweilen sahen wir ganz deutlich<lb/>
+daß diese Massen als Fische gestaltet waren, und daß die klei¬<lb/>
+nern den größern aus dem Wege gingen. Um dies wunderbare<lb/>
+Phänomen genauer zu untersuchen, ließen wir einen Eimer sol-</p></body></text>
+</TEI>

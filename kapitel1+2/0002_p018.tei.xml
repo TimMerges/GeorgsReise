@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>Reise um die Welt in den Jahren 1772 bis 1775.</heading><page-number>29</page-number><paragraph /><paragraph>lord) glaubten, die Resolution würde noch denselben Tag auf der<lb />
-Rhede ankommen, und verlangten, daß wir uns Abends zwischen<lb />
-fünf und sechs Uhr an Bord derselben begeben möchten. Al-<lb />
-lein zu unserm großen Mißvergnügen erschien das Schiff nicht,<lb />
-und der Graf verließ Plymouth am folgenden Morgen*)<lb />
-Früh am 3. Julius sahen wir die Resolution auf der Rhede<lb />
-vor Anker, wo sie in voriger Nacht angelangt war. Capitain<lb />
-Cook gedachte, etwa acht bis zehn Tage hier zuzubringen, und<lb />
-befahl, mittlerweile in unsern Cajüten noch einige schlechterdings<lb />
-nothwendige Einrichtungen zu treffen. Da wir inzwischen keine<lb />
-Gelegenheit zu Erweiterung der Wissenschaft, oder zu unsrer Be¬<lb />
-lehrung versäumen wollten, so bedienten wir uns dieser Zeit,<lb />
-um die Zinnbergwerke in Cornwall zu besuchen, und nachdem<lb />
-wir in den großen und reichhaltigen Gruben zu Poldyce und<lb />
-Kenwyn Vergnügen und Unterricht gefunden hatten, so kehrten<lb />
-wir am &lt;date ref="https://www.wikidata.org/wiki/Q43382"&gt;8. Julius&lt;/date&gt; nach Plymouth wieder zurück<lb />
-„&lt;persName ref="https://www.wikidata.org/wiki/Q43382"&gt;Capitain Cook &lt;/persName&gt;bekam in Plymouth Verhaltungsbefehle<lb />
-vom 25. Junius datirt*). Diesen zufolge sollte er die Adven-<lb />
-ture unter sein Commando nehmen, nach Madera segeln, sich<lb />
-dort mit Wein versehen, und sodann zu Erfrischung seiner Leute<lb />
-und um beide Schiffe mit Lebensmitteln zu versorgen, am Vor¬<lb />
-gebirge der guten Hoffnung anlegen. Von da aus sollte er süd¬<lb />
-lich laufen, und wo möglich das Cap de la Circoncision ent¬<lb />
-decken, welches Herr Bouvet unter dem 54. Grad Süderbreite<lb />
-und ungefähr 11° - 20´ östlicher Länge, von Greenwich angiebt.<lb />
-Entdeckte er dieses, so sollte er untersuchen, ob es zum festen</paragraph><paragraph>*) Dieser Umstand scheint beim ersten Anblick ziemlich unbedeutend<lb />
-und die Erwähnung desselben überflüssig zu sein; allein für die Reisen-<lb />
-den war er wichtig. Wäre das Schiff noch vor der Abreise des Grafen <lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q43382"&gt;Sandwich&lt;/persName&gt; in Plymouth eingetroffen, so hätte es dieser Herr, billiger¬<lb />
-weise, selbst in Augenschein nehmen müssen, und dann würden zur Be¬<lb />
-quemlichkeit und zum Nutzen der Herren Forster in den Cajuten und<lb />
-andern Dingen gewisse Einrichtungen getroffen worden sein, die jetzt<lb />
-weil Mylord Sandwich die Sachen nicht mit eigenen Augen gesehen hatte,<lb />
-entweder ganz unterblieben, oder doch nur unvollkommen vorgenommen<lb />
-wurden, und über deren Mangel unsre Reisenden, in der Folge, sich mit<lb />
-Recht zu beklagen hatten.<lb />
-U.d.B.</paragraph><paragraph>**) Man sehe &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cook's&lt;/persName&gt; Reisebeschreibung im Englischen 1. Bd. S. 2.,<lb />
-woraus ich die obenangeführte Instruction zu Ergänzung meines Werks<lb />
-dem heutigen Publikum vortrage.</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>Reise um die Welt in den Jahren 1772 bis 1775.</head><pb n="29"/><p/><p>lord) glaubten, die Resolution würde noch denselben Tag auf der<lb/>
+Rhede ankommen, und verlangten, daß wir uns Abends zwischen<lb/>
+fünf und sechs Uhr an Bord derselben begeben möchten. Al-<lb/>
+lein zu unserm großen Mißvergnügen erschien das Schiff nicht,<lb/>
+und der Graf verließ Plymouth am folgenden Morgen*)<lb/>
+Früh am 3. Julius sahen wir die Resolution auf der Rhede<lb/>
+vor Anker, wo sie in voriger Nacht angelangt war. Capitain<lb/>
+Cook gedachte, etwa acht bis zehn Tage hier zuzubringen, und<lb/>
+befahl, mittlerweile in unsern Cajüten noch einige schlechterdings<lb/>
+nothwendige Einrichtungen zu treffen. Da wir inzwischen keine<lb/>
+Gelegenheit zu Erweiterung der Wissenschaft, oder zu unsrer Be¬<lb/>
+lehrung versäumen wollten, so bedienten wir uns dieser Zeit,<lb/>
+um die Zinnbergwerke in Cornwall zu besuchen, und nachdem<lb/>
+wir in den großen und reichhaltigen Gruben zu Poldyce und<lb/>
+Kenwyn Vergnügen und Unterricht gefunden hatten, so kehrten<lb/>
+wir am &lt;date ref="https://www.wikidata.org/wiki/Q43382"&gt;8. Julius&lt;/date&gt; nach Plymouth wieder zurück<lb/>
+„&lt;persName ref="https://www.wikidata.org/wiki/Q43382"&gt;Capitain Cook &lt;/persName&gt;bekam in Plymouth Verhaltungsbefehle<lb/>
+vom 25. Junius datirt*). Diesen zufolge sollte er die Adven-<lb/>
+ture unter sein Commando nehmen, nach Madera segeln, sich<lb/>
+dort mit Wein versehen, und sodann zu Erfrischung seiner Leute<lb/>
+und um beide Schiffe mit Lebensmitteln zu versorgen, am Vor¬<lb/>
+gebirge der guten Hoffnung anlegen. Von da aus sollte er süd¬<lb/>
+lich laufen, und wo möglich das Cap de la Circoncision ent¬<lb/>
+decken, welches Herr Bouvet unter dem 54. Grad Süderbreite<lb/>
+und ungefähr 11° - 20´ östlicher Länge, von Greenwich angiebt.<lb/>
+Entdeckte er dieses, so sollte er untersuchen, ob es zum festen</p><p>*) Dieser Umstand scheint beim ersten Anblick ziemlich unbedeutend<lb/>
+und die Erwähnung desselben überflüssig zu sein; allein für die Reisen-<lb/>
+den war er wichtig. Wäre das Schiff noch vor der Abreise des Grafen <lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q43382"&gt;Sandwich&lt;/persName&gt; in Plymouth eingetroffen, so hätte es dieser Herr, billiger¬<lb/>
+weise, selbst in Augenschein nehmen müssen, und dann würden zur Be¬<lb/>
+quemlichkeit und zum Nutzen der Herren Forster in den Cajuten und<lb/>
+andern Dingen gewisse Einrichtungen getroffen worden sein, die jetzt<lb/>
+weil Mylord Sandwich die Sachen nicht mit eigenen Augen gesehen hatte,<lb/>
+entweder ganz unterblieben, oder doch nur unvollkommen vorgenommen<lb/>
+wurden, und über deren Mangel unsre Reisenden, in der Folge, sich mit<lb/>
+Recht zu beklagen hatten.<lb/>
+U.d.B.</p><p>**) Man sehe &lt;persName ref="https://www.wikidata.org/wiki/Q7324"&gt;Cook's&lt;/persName&gt; Reisebeschreibung im Englischen 1. Bd. S. 2.,<lb/>
+woraus ich die obenangeführte Instruction zu Ergänzung meines Werks<lb/>
+dem heutigen Publikum vortrage.</p></body></text>
+</TEI>

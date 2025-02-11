@@ -1,39 +1,129 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>49</page-number><paragraph /><paragraph>waren, sahen wir verschiedene fliegende Fische, die, von Bonniten<lb />
-und Doraden verfolgt, sich über die Oberfläche des Wassers er¬<lb />
-hoben. Sie flogen nach allen Richtungen bald hier bald dorthin<lb />
-und nicht etwa blos gegen den Wind allein wie Kalm ausschlie¬<lb />
-ßenderweise zu glauben scheint. Auch flogen sie nicht immer in<lb />
-geraden, sondern auch in krummen Linien. Wenn sie im Fluge<lb />
-über die Oberfläche der See die Spitze einer Welle antrafen, so<lb />
-gingen sie durch selbige gerade durch und flogen auf der andern<lb />
-Seite weiter fort. Von dieser Zeit an bis wir den heißen Him¬<lb />
-melsstrich (Zona torrida) verließen, hatten wir fast täglich das<lb />
-Schauspiel, unabsehliche Züge und Heere dieser Fische um uns<lb />
-her zu sehen. Zuweilen wurden auch wohl einige auf dem Ver¬<lb />
-deck gefangen, wenn sie zu ihrem Unglück zu weit geflogen, oder<lb />
-sich zu hoch erhoben und abgemattet hatten. Bei dem einför¬<lb />
-migen Leben, das wir zwischen den Wendezirkeln führten, wo<lb />
-Wetter, Wind und See stets angenehm und günstig waren, gab<lb />
-jeder kleine Umstand Gelegenheit zu Betrachtungen. Wenn wir<lb />
-zum Beispiel jene schönen Fische der See, die Bonniten und Do-<lb />
-raden, auf der Jagd der kleinern, fliegenden Fische antrafen, und<lb />
-bemerkten, wie diese ihr Element verließen, um in der Luft Si¬<lb />
-cherheit zu suchen; so war die Anwendung auf den Menschen<lb />
-nur gar zu natürlich. Denn wo ist wohl ein Reich, das nicht<lb />
-dem brausenden Ocean gliche, und in welchem die Großen, in<lb />
-allem Pomp und Pracht ihrer Größe, nicht immer die Unter¬<lb />
-drückung der Kleinern und Wehrlosen suchen sollten? Zuweilen<lb />
-ward das Gemählde noch weiter ausgeführt, wenn die armen<lb />
-Flüchtlinge auch in der Luft neue Feinde antrafen und ein Raub<lb />
-der Vögel*) wurden.</paragraph><paragraph /><paragraph>Am 8. hatte das Seewasser eine weißliche Farbe. Insofern<lb />
-die veränderte Farbe des Meerwassers oft von einer Untiefe, einer<lb />
-Sandbank, oder einem Felsen herzurühren pflegt, warfen wir,<lb />
-Sicherheits halber, das Senkblei aus, fanden aber mit funfzig<lb />
-Faden keinen Grund. Abends passirten wir den Wendezirkel des<lb />
-Krebses. Um diese Zeit beschlugen unsere Bücher und Geräth¬<lb />
-schaften mit Schimmel, und Eisen und Stahl fing in freier<lb />
-Luft an zu rosten. Wegen dieser Beschaffenheit der Luft ließ</paragraph><footer>*) Dergleichen Raubvögel sind der Tölpel, (Pelecanus piscator.<lb />
-(Boobies) die Fregatten, (Pelecanus aquitus. Man of war bird.)<lb />
-und Tropit=Vögel (Phaeton aethereus.)<lb />
-G. Forster's Schriften. I.</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="49"/><p/><p>waren, sahen wir verschiedene fliegende Fische, die, von Bonniten<lb/>
+und Doraden verfolgt, sich über die Oberfläche des Wassers er¬<lb/>
+hoben. Sie flogen nach allen Richtungen bald hier bald dorthin<lb/>
+und nicht etwa blos gegen den Wind allein wie Kalm ausschlie¬<lb/>
+ßenderweise zu glauben scheint. Auch flogen sie nicht immer in<lb/>
+geraden, sondern auch in krummen Linien. Wenn sie im Fluge<lb/>
+über die Oberfläche der See die Spitze einer Welle antrafen, so<lb/>
+gingen sie durch selbige gerade durch und flogen auf der andern<lb/>
+Seite weiter fort. Von dieser Zeit an bis wir den heißen Him¬<lb/>
+melsstrich (Zona torrida) verließen, hatten wir fast täglich das<lb/>
+Schauspiel, unabsehliche Züge und Heere dieser Fische um uns<lb/>
+her zu sehen. Zuweilen wurden auch wohl einige auf dem Ver¬<lb/>
+deck gefangen, wenn sie zu ihrem Unglück zu weit geflogen, oder<lb/>
+sich zu hoch erhoben und abgemattet hatten. Bei dem einför¬<lb/>
+migen Leben, das wir zwischen den Wendezirkeln führten, wo<lb/>
+Wetter, Wind und See stets angenehm und günstig waren, gab<lb/>
+jeder kleine Umstand Gelegenheit zu Betrachtungen. Wenn wir<lb/>
+zum Beispiel jene schönen Fische der See, die Bonniten und Do-<lb/>
+raden, auf der Jagd der kleinern, fliegenden Fische antrafen, und<lb/>
+bemerkten, wie diese ihr Element verließen, um in der Luft Si¬<lb/>
+cherheit zu suchen; so war die Anwendung auf den Menschen<lb/>
+nur gar zu natürlich. Denn wo ist wohl ein Reich, das nicht<lb/>
+dem brausenden Ocean gliche, und in welchem die Großen, in<lb/>
+allem Pomp und Pracht ihrer Größe, nicht immer die Unter¬<lb/>
+drückung der Kleinern und Wehrlosen suchen sollten? Zuweilen<lb/>
+ward das Gemählde noch weiter ausgeführt, wenn die armen<lb/>
+Flüchtlinge auch in der Luft neue Feinde antrafen und ein Raub<lb/>
+der Vögel*) wurden.</p><p/><p>Am 8. hatte das Seewasser eine weißliche Farbe. Insofern<lb/>
+die veränderte Farbe des Meerwassers oft von einer Untiefe, einer<lb/>
+Sandbank, oder einem Felsen herzurühren pflegt, warfen wir,<lb/>
+Sicherheits halber, das Senkblei aus, fanden aber mit funfzig<lb/>
+Faden keinen Grund. Abends passirten wir den Wendezirkel des<lb/>
+Krebses. Um diese Zeit beschlugen unsere Bücher und Geräth¬<lb/>
+schaften mit Schimmel, und Eisen und Stahl fing in freier<lb/>
+Luft an zu rosten. Wegen dieser Beschaffenheit der Luft ließ</p><footer>*) Dergleichen Raubvögel sind der Tölpel, (Pelecanus piscator.<lb/>
+(Boobies) die Fregatten, (Pelecanus aquitus. Man of war bird.)<lb/>
+und Tropit=Vögel (Phaeton aethereus.)<lb/>
+G. Forster's Schriften. I.</footer></body></text>
+</TEI>

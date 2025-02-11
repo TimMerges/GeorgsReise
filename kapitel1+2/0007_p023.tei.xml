@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>34</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>lassen, und die armen Leute nahmen sie alsdann mit solchen<lb />
-Mienen wieder in Empfang, aus welchen die lebhafteste Freude<lb />
-strahlte. Sie dankten dem Himmel und uns, und freuten sich,<lb />
-daß sie endlich wieder Feuer machen und nach langem Fasten et-<lb />
-was Warmes genießen könnten. So wahr ist's, daß ein gefühl¬<lb />
-volles Herz oft Gelegenheit hat seine Wohlthätigkeit ohne Ko¬<lb />
-sten zu üben.</paragraph><paragraph /><paragraph>Des folgenden Nachmittags segelten drei spanische Kriegs¬<lb />
-schiffe nach dem Hafen &lt;place ref="https://www.wikidata.org/wiki/Q485329"&gt;Ferrol &lt;/place&gt;vorbei. Eines schien 74 Kano¬<lb />
-nen, die andern zwei aber nur 60 zu führen. Das letzte zog<lb />
-anfänglich englische Flaggen auf, nachdem wir aber die unsrige<lb />
-gezeigt, ließ es diese wieder herunter, feuerte eine Kanone unter<lb />
-dem Winde ab, und steckte die spanische Flagge auf. Bald dar¬<lb />
-nach feuerte es eine Kugel nach der Adventure; weil wir aber<lb />
-fortsegelten ohne uns an sein Feuern zu kehren, so kam das<lb />
-spanische Schiff zurück, und schoß noch eine Kugel, welche dicht<lb />
-vor dem Schiff vorbeiging. Als Capitain Cook dies sah, ließ er<lb />
-unser Schiff in den Wind legen (d. i. wir hielten mit Segeln<lb />
-inne), und die Adventure that nun ein gleiches, doch schien es<lb />
-als ob sie sich hierin nur nach unserm Beispiel richtete. Der<lb />
-Spanier rief dies Schiff auf Englisch an und fragte „was für<lb />
-eine Fregatte die vor ihnen wäre?" indem er auf uns zeigte.<lb />
-Sobald er hierauf Antwort bekommen hatte, wollte er eine<lb />
-ähnliche Frage, die man ihm vorlegte, nicht beantworten, son-<lb />
-dern erwiederte beständig: „Ich wünsch' Euch glückliche Reise."<lb />
-Nach diesem Auftritte, der für die „Herren der See“ eben nicht<lb />
-schmeichelhaft war, setzten wir unsre Reise fort und passirten das<lb />
-Vorgebirge &lt;place ref="https://www.wikidata.org/wiki/Q732090"&gt;Finisterre &lt;/place&gt;in der Nacht*).</paragraph><paragraph /><paragraph>*) Zum Besten mancher Leser auf dem festen Lande, wird viel¬<lb />
-leicht die nachstehende Erläuterung obiger Stelle nicht ganz überflüßig<lb />
-sein. Wenn ein Kriegsschiff, ein Rauffarthei- oder ein kleineres Kriegs¬<lb />
-schiff anhalten will, um dasselbe entweder auszufragen oder gar zu durch¬<lb />
-suchen, so geschieht das gewöhnliche Zeichen dazu, durch Abfeurung einer<lb />
-Kanonenkugel, welche jedoch so gerichtet wird, daß sie das Schiff nicht<lb />
-trifft, sondern nur bei demselben vorbei streicht. Wenn ein solcherge¬<lb />
-stalt angehaltenes Schiff die superiorität des andern und die Rechtmä¬<lb />
-ßigkeit eines solchen Verfahrens nicht anerkennt, so setzt es entweder<lb />
-seinen Lauf fort, ohne sich an die Aufforderung des andern zu kehren,<lb />
-oder es erwiedert die Unbescheidenheit des Fremden wohl gar durch eine<lb />
-ernstliche Antwort aus seinen eigenen Kanonen. Hält es sich im Gegen¬<lb />
-theil für verbunden, dem andern zu gehorchen, so nimmt es zum Zeichen</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="34"/><head>Reise um die Welt</head><p/><p>lassen, und die armen Leute nahmen sie alsdann mit solchen<lb/>
+Mienen wieder in Empfang, aus welchen die lebhafteste Freude<lb/>
+strahlte. Sie dankten dem Himmel und uns, und freuten sich,<lb/>
+daß sie endlich wieder Feuer machen und nach langem Fasten et-<lb/>
+was Warmes genießen könnten. So wahr ist's, daß ein gefühl¬<lb/>
+volles Herz oft Gelegenheit hat seine Wohlthätigkeit ohne Ko¬<lb/>
+sten zu üben.</p><p/><p>Des folgenden Nachmittags segelten drei spanische Kriegs¬<lb/>
+schiffe nach dem Hafen &lt;place ref="https://www.wikidata.org/wiki/Q485329"&gt;Ferrol &lt;/place&gt;vorbei. Eines schien 74 Kano¬<lb/>
+nen, die andern zwei aber nur 60 zu führen. Das letzte zog<lb/>
+anfänglich englische Flaggen auf, nachdem wir aber die unsrige<lb/>
+gezeigt, ließ es diese wieder herunter, feuerte eine Kanone unter<lb/>
+dem Winde ab, und steckte die spanische Flagge auf. Bald dar¬<lb/>
+nach feuerte es eine Kugel nach der Adventure; weil wir aber<lb/>
+fortsegelten ohne uns an sein Feuern zu kehren, so kam das<lb/>
+spanische Schiff zurück, und schoß noch eine Kugel, welche dicht<lb/>
+vor dem Schiff vorbeiging. Als Capitain Cook dies sah, ließ er<lb/>
+unser Schiff in den Wind legen (d. i. wir hielten mit Segeln<lb/>
+inne), und die Adventure that nun ein gleiches, doch schien es<lb/>
+als ob sie sich hierin nur nach unserm Beispiel richtete. Der<lb/>
+Spanier rief dies Schiff auf Englisch an und fragte „was für<lb/>
+eine Fregatte die vor ihnen wäre?" indem er auf uns zeigte.<lb/>
+Sobald er hierauf Antwort bekommen hatte, wollte er eine<lb/>
+ähnliche Frage, die man ihm vorlegte, nicht beantworten, son-<lb/>
+dern erwiederte beständig: „Ich wünsch' Euch glückliche Reise."<lb/>
+Nach diesem Auftritte, der für die „Herren der See“ eben nicht<lb/>
+schmeichelhaft war, setzten wir unsre Reise fort und passirten das<lb/>
+Vorgebirge &lt;place ref="https://www.wikidata.org/wiki/Q732090"&gt;Finisterre &lt;/place&gt;in der Nacht*).</p><p/><p>*) Zum Besten mancher Leser auf dem festen Lande, wird viel¬<lb/>
+leicht die nachstehende Erläuterung obiger Stelle nicht ganz überflüßig<lb/>
+sein. Wenn ein Kriegsschiff, ein Rauffarthei- oder ein kleineres Kriegs¬<lb/>
+schiff anhalten will, um dasselbe entweder auszufragen oder gar zu durch¬<lb/>
+suchen, so geschieht das gewöhnliche Zeichen dazu, durch Abfeurung einer<lb/>
+Kanonenkugel, welche jedoch so gerichtet wird, daß sie das Schiff nicht<lb/>
+trifft, sondern nur bei demselben vorbei streicht. Wenn ein solcherge¬<lb/>
+stalt angehaltenes Schiff die superiorität des andern und die Rechtmä¬<lb/>
+ßigkeit eines solchen Verfahrens nicht anerkennt, so setzt es entweder<lb/>
+seinen Lauf fort, ohne sich an die Aufforderung des andern zu kehren,<lb/>
+oder es erwiedert die Unbescheidenheit des Fremden wohl gar durch eine<lb/>
+ernstliche Antwort aus seinen eigenen Kanonen. Hält es sich im Gegen¬<lb/>
+theil für verbunden, dem andern zu gehorchen, so nimmt es zum Zeichen</p></body></text>
+</TEI>

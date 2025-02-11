@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>in den Jahren 1772 bis 1775.</heading><page-number>59</page-number><paragraph /><paragraph>barer Tribut für einen vernünftigen Mitmenschen, der gut und<lb />
-liebreich gesinnt war.</paragraph><paragraph /><paragraph>Seitdem wir S. Jago verlassen, hatten wir oft Regen,<lb />
-vornehmlich aber regnete es am 21. ganz ausserordentlich stark.<lb />
-Der Capitain ließ über das ganze Schiff Zelt-Tücher und<lb />
-Decken ausspannen, um das Regenwasser aufzufangen, und wir<lb />
-bekamen auf diese Weise eine solche Menge davon, daß sieben<lb />
-Fässer damit angefüllt werden konnten. Ob wir gleich keinen<lb />
-Mangel an Wasser hatten, so war uns doch dieser frische Vor¬<lb />
-rath sehr willkommen, weil es den Matrosen nun desto reichli¬<lb />
-cher gegeben werden konnte. Unser Capitain hatte aus vieljäh-<lb />
-riger Erfahrung angemerkt, daß auf langen See-Reisen eine<lb />
-reichliche Vertheilung und Genuß von frischem Wasser, zur Er¬<lb />
-haltung der Gesundheit ungemein vieles beiträgt. Die Ursache<lb />
-hievon läßt sich auch leicht erklären, denn, wenn es reichlich ge-<lb />
-trunken und zum Theil auch zum Waschen des Körpers und<lb />
-des leinenen Zeuges gebraucht wird, so verdünnet es nicht nur<lb />
-das Blut, sondern durch die Reinlichkeit und öftere Veränderung<lb />
-der Wäsche bleiben auch die Schweißlöcher der Haut stets offen,<lb />
-mithin wird die zur Gesundheit nöthige, unmerkliche Ausdün¬<lb />
-stung nicht unterbrochen. Solchergestalt wird der Gefahr fauler<lb />
-Krankheiten auf zweifache Art vorgebeugt, einmal weil die Aus-<lb />
-dünstungen des Körpers nicht wieder durch die Haut eingesaugt<lb />
-werden können, und weil andrer Seits die vom beständigen<lb />
-Schwitzen verloren gegangene Feuchtigkeiten durch häufiges Trin¬<lb />
-ken wieder ersetzt werden, in dessen Ermangelung die verdickten<lb />
-Säfte leicht salzig und caustisch werden, welches man eigentlich<lb />
-als die Ursachen der Entzündungsfieber anzugeben pflegt.<lb />
-Der heutige Regen hatte unsre arme Schwalbe durchaus<lb />
-naß gemacht. Sie setzte sich also auf das Gelender des Ver¬<lb />
-decks am Hintertheil des Schiffes und ließ sich geduldig fangen.<lb />
-Ich trocknete sie und ließ sie, sobald sie sich erholt, im Steuer-<lb />
-Raum fliegen, wo sie, unbekümmert über ihre Einsperrung, so¬<lb />
-gleich über die Fliegen herfiel, welche daselbst sehr häufig waren.<lb />
-Beim Mittagsessen öffneten wir die Fenster und sie setzte sich<lb />
-wieder in Freiheit; um sechs Uhr des Abends aber kam sie in<lb />
-den Steuer=Raum und in die Cajüte zurück, gleichsam über¬<lb />
-zeugt, daß wir ihr nichts Uebles wollten. Nach einer abermali¬<lb />
-gen Fliegen-Collation flog sie wieder fort und blieb die Nacht<lb />
-über auf der Aussenseite des Schiffes. Früh Morgens kam sie</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>in den Jahren 1772 bis 1775.</head><pb n="59"/><p/><p>barer Tribut für einen vernünftigen Mitmenschen, der gut und<lb/>
+liebreich gesinnt war.</p><p/><p>Seitdem wir S. Jago verlassen, hatten wir oft Regen,<lb/>
+vornehmlich aber regnete es am 21. ganz ausserordentlich stark.<lb/>
+Der Capitain ließ über das ganze Schiff Zelt-Tücher und<lb/>
+Decken ausspannen, um das Regenwasser aufzufangen, und wir<lb/>
+bekamen auf diese Weise eine solche Menge davon, daß sieben<lb/>
+Fässer damit angefüllt werden konnten. Ob wir gleich keinen<lb/>
+Mangel an Wasser hatten, so war uns doch dieser frische Vor¬<lb/>
+rath sehr willkommen, weil es den Matrosen nun desto reichli¬<lb/>
+cher gegeben werden konnte. Unser Capitain hatte aus vieljäh-<lb/>
+riger Erfahrung angemerkt, daß auf langen See-Reisen eine<lb/>
+reichliche Vertheilung und Genuß von frischem Wasser, zur Er¬<lb/>
+haltung der Gesundheit ungemein vieles beiträgt. Die Ursache<lb/>
+hievon läßt sich auch leicht erklären, denn, wenn es reichlich ge-<lb/>
+trunken und zum Theil auch zum Waschen des Körpers und<lb/>
+des leinenen Zeuges gebraucht wird, so verdünnet es nicht nur<lb/>
+das Blut, sondern durch die Reinlichkeit und öftere Veränderung<lb/>
+der Wäsche bleiben auch die Schweißlöcher der Haut stets offen,<lb/>
+mithin wird die zur Gesundheit nöthige, unmerkliche Ausdün¬<lb/>
+stung nicht unterbrochen. Solchergestalt wird der Gefahr fauler<lb/>
+Krankheiten auf zweifache Art vorgebeugt, einmal weil die Aus-<lb/>
+dünstungen des Körpers nicht wieder durch die Haut eingesaugt<lb/>
+werden können, und weil andrer Seits die vom beständigen<lb/>
+Schwitzen verloren gegangene Feuchtigkeiten durch häufiges Trin¬<lb/>
+ken wieder ersetzt werden, in dessen Ermangelung die verdickten<lb/>
+Säfte leicht salzig und caustisch werden, welches man eigentlich<lb/>
+als die Ursachen der Entzündungsfieber anzugeben pflegt.<lb/>
+Der heutige Regen hatte unsre arme Schwalbe durchaus<lb/>
+naß gemacht. Sie setzte sich also auf das Gelender des Ver¬<lb/>
+decks am Hintertheil des Schiffes und ließ sich geduldig fangen.<lb/>
+Ich trocknete sie und ließ sie, sobald sie sich erholt, im Steuer-<lb/>
+Raum fliegen, wo sie, unbekümmert über ihre Einsperrung, so¬<lb/>
+gleich über die Fliegen herfiel, welche daselbst sehr häufig waren.<lb/>
+Beim Mittagsessen öffneten wir die Fenster und sie setzte sich<lb/>
+wieder in Freiheit; um sechs Uhr des Abends aber kam sie in<lb/>
+den Steuer=Raum und in die Cajüte zurück, gleichsam über¬<lb/>
+zeugt, daß wir ihr nichts Uebles wollten. Nach einer abermali¬<lb/>
+gen Fliegen-Collation flog sie wieder fort und blieb die Nacht<lb/>
+über auf der Aussenseite des Schiffes. Früh Morgens kam sie</p></body></text>
+</TEI>

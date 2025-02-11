@@ -1,36 +1,126 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>64</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>als zuvor. Ich ward diesen Unterschied der Luft am nachdrück¬<lb />
-lichsten inne, denn mir brachte derselbe einen heftigen Schnu¬<lb />
-pfen, Zahnweh und geschwollne Backen zuwege.</paragraph><paragraph /><paragraph>Am 4. October sahen wir, bei kaltem Wetter und schar¬<lb />
-fer Luft, große Haufen der gewöhnlichen kleinen Sturmvögel<lb />
-(procellaria pelagica), die von rußbrauner Farbe sind, und weiße<lb />
-Steiße haben. Am folgenden Tage zeigten sich auch die ersten<lb />
-Albatroße (diomedea exulans) und Pintaden (procellaria ca¬<lb />
-pensis).</paragraph><paragraph /><paragraph>Am 11. wars gelinde und fast Meerstill, hingegen war es<lb />
-einige Tage zuvor neblig und stürmisch gewesen; diese Witte¬<lb />
-rung mußte die Seevögel, vornemlich die Pintaden, ganz heiß¬<lb />
-hungrig gemacht haben, denn letztere schluckten so gierig nach<lb />
-unsren mit etwas Schweins - oder Hammelfleisch besteckten An¬<lb />
-geln, daß wir ihrer mehr als acht Stück in kurzer Zeit fingen.<lb />
-Am Abend beobachteten wir eine Mondfinsterniß, deren Ende<lb />
-Nachmittags ungefähr um 6 Uhr 58 Minuten 45 Secunden<lb />
-eintraf. Am Mittage war unsre Breite 34 Grad 45 Minuten<lb />
-südlich gewesen.</paragraph><paragraph /><paragraph>Des folgenden Tages untersuchten wir die Strömung und<lb />
-die Wärme des Wassers zum drittenmal. Wir ließen das Ther¬<lb />
-mometer zwanzig Minuten lang in einer Tiefe von einhundert<lb />
-Faden, und nachdem es innerhalb sieben Minuten wieder herauf¬<lb />
-gezogen worden war, fanden wir, daß es auf 58 Grad stand.<lb />
-Dicht unter der Oberfläche des Wassers hatte es 59 und in<lb />
-freier Luft 60 Grad angegeben. Da es windstill war, so mach¬<lb />
-ten wir uns das Vergnügen vom Boot aus Seevögel zu schie¬<lb />
-ßen, worunter eine kleine Meerschwalbe, ein großer Sturmvogel<lb />
-oder Puffin, eine neue Art von Albatroßen und ein neuer Sturm¬<lb />
-vogel war. Auch fielen uns einige Mollusken, nebst einer vio-<lb />
-letten Schnecke (helix janthina) in die Hände, welche letztere<lb />
-wegen ihrer außerordentlich dünnen Schale merkwürdig ist. Aus<lb />
-dieser ihrer so zerbrechlichen Wohnung läßt sich schließen, daß sie<lb />
-für die offne See geschaffen ist, wenigstens würde sie sich einer<lb />
-felsigen Küste nicht ohne Gefahr nähern können, wie schon in<lb />
-der Beschreibung von Capitain Cooks erster Reise um die Welt<lb />
-richtig angemerkt ist*). Albatroße, Pintaden und Sturmvöge</paragraph><footer>) Hawkesworths Samml. B. 2. S. 14. Wir finden am Ende<lb />
-dieser Stelle eine Anmerkung, die weit geringhaltiger ist, und zu bewei-</footer></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="64"/><head>Reise um die Welt</head><p/><p>als zuvor. Ich ward diesen Unterschied der Luft am nachdrück¬<lb/>
+lichsten inne, denn mir brachte derselbe einen heftigen Schnu¬<lb/>
+pfen, Zahnweh und geschwollne Backen zuwege.</p><p/><p>Am 4. October sahen wir, bei kaltem Wetter und schar¬<lb/>
+fer Luft, große Haufen der gewöhnlichen kleinen Sturmvögel<lb/>
+(procellaria pelagica), die von rußbrauner Farbe sind, und weiße<lb/>
+Steiße haben. Am folgenden Tage zeigten sich auch die ersten<lb/>
+Albatroße (diomedea exulans) und Pintaden (procellaria ca¬<lb/>
+pensis).</p><p/><p>Am 11. wars gelinde und fast Meerstill, hingegen war es<lb/>
+einige Tage zuvor neblig und stürmisch gewesen; diese Witte¬<lb/>
+rung mußte die Seevögel, vornemlich die Pintaden, ganz heiß¬<lb/>
+hungrig gemacht haben, denn letztere schluckten so gierig nach<lb/>
+unsren mit etwas Schweins - oder Hammelfleisch besteckten An¬<lb/>
+geln, daß wir ihrer mehr als acht Stück in kurzer Zeit fingen.<lb/>
+Am Abend beobachteten wir eine Mondfinsterniß, deren Ende<lb/>
+Nachmittags ungefähr um 6 Uhr 58 Minuten 45 Secunden<lb/>
+eintraf. Am Mittage war unsre Breite 34 Grad 45 Minuten<lb/>
+südlich gewesen.</p><p/><p>Des folgenden Tages untersuchten wir die Strömung und<lb/>
+die Wärme des Wassers zum drittenmal. Wir ließen das Ther¬<lb/>
+mometer zwanzig Minuten lang in einer Tiefe von einhundert<lb/>
+Faden, und nachdem es innerhalb sieben Minuten wieder herauf¬<lb/>
+gezogen worden war, fanden wir, daß es auf 58 Grad stand.<lb/>
+Dicht unter der Oberfläche des Wassers hatte es 59 und in<lb/>
+freier Luft 60 Grad angegeben. Da es windstill war, so mach¬<lb/>
+ten wir uns das Vergnügen vom Boot aus Seevögel zu schie¬<lb/>
+ßen, worunter eine kleine Meerschwalbe, ein großer Sturmvogel<lb/>
+oder Puffin, eine neue Art von Albatroßen und ein neuer Sturm¬<lb/>
+vogel war. Auch fielen uns einige Mollusken, nebst einer vio-<lb/>
+letten Schnecke (helix janthina) in die Hände, welche letztere<lb/>
+wegen ihrer außerordentlich dünnen Schale merkwürdig ist. Aus<lb/>
+dieser ihrer so zerbrechlichen Wohnung läßt sich schließen, daß sie<lb/>
+für die offne See geschaffen ist, wenigstens würde sie sich einer<lb/>
+felsigen Küste nicht ohne Gefahr nähern können, wie schon in<lb/>
+der Beschreibung von Capitain Cooks erster Reise um die Welt<lb/>
+richtig angemerkt ist*). Albatroße, Pintaden und Sturmvöge</p><footer>) Hawkesworths Samml. B. 2. S. 14. Wir finden am Ende<lb/>
+dieser Stelle eine Anmerkung, die weit geringhaltiger ist, und zu bewei-</footer></body></text>
+</TEI>

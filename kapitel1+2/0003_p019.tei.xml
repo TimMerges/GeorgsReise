@@ -1,40 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><page-number>30</page-number><heading>Reise um die Welt</heading><paragraph /><paragraph>Lande gehöre, welches aller Geographen und voriger Seefahrer<lb />
-Aufmerksamkeit erregt hatte, oder ob es nur ein Theil einer In¬<lb />
-sel sei? Im ersten Falle sollte so viel als möglich von der<lb />
-Küste befahren und untersucht, zugleich auch Bemerkungen zum<lb />
-Vortheil der Handlung, der Seefahrt und der Naturgeschichte<lb />
-gemacht werden. Träfe man Einwohner an, so sollte &lt;persName ref="https://www.wikidata.org/wiki/Q2671214"&gt;Capitain&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q2671214"&gt;Cook&lt;/persName&gt; ihren Charakter, Temperament, Genie und Anzahl be¬<lb />
-merken, und wo möglich freundschaftlichen Umgang mit ihnen<lb />
-zu haben suchen. So lange die Schiffe in gutem Stande, die<lb />
-Leute gesund, und die Lebensmittel brauchbar blieben, sollte er<lb />
-diese Entdeckungen fortsetzen, und, je nachdem es die Umstände<lb />
-erforderten, nach Osten oder Westen laufen, dabei aber so weit<lb />
-gegen den Südpol als nur immer möglich zu dringen suchen.<lb />
-Wäre aber das Vorgebirge de la Circoncision nur ein Theil<lb />
-einer Insel, oder könnte er es gar nicht antreffen, so blieb ihm<lb />
-übrig so lange als er noch Hoffnung hätte ein großes oder fe¬<lb />
-stes Land zu finden, südwärts zu steuern, alsdann aber seinen<lb />
-Lauf nach Osten zu richten, und in hohen südlichen Breiten,<lb />
-so nah an den Pol als thunlich sein würde, rund um die Welt<lb />
-zu segeln, zuletzt am Vorgebirge der guten Hoffnung wieder zu<lb />
-ankern und von dort nach &lt;place ref="https://www.wikidata.org/wiki/Q1783560"&gt;Spithead&lt;/place&gt; bei Portsmouth zurückzu¬<lb />
-kehren. So oft die Jahreszeit den ferneren Aufenthalt in ho¬<lb />
-hen Breiten gefährlich machen würde, sollte er sich nach irgend<lb />
-einem bekannten Orte weiter gegen Norden, unter mildern Him¬<lb />
-melsstrichen, zurückziehen, um seine Leute zu erfrischen, und die<lb />
-Schiffe wieder in Stand zu setzen. In allen Fällen, welche<lb />
-man nicht vorhergesehn, könne er übrigens nach eignem Gut¬<lb />
-dünken verfahren, und ginge unglücklicher Weise die Resolution<lb />
-verloren, so sollte er dennoch die Fahrt im kleinern Schiffe fort¬<lb />
-setzen. Eine Abschrift dieser Befehle theilte er dem &lt;persName ref="https://www.wikidata.org/wiki/Q100293049"&gt;Capitain&lt;/persName&gt;<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q100293049"&gt;Furneaux&lt;/persName&gt; mit, und zeigte ihm zugleich die Sammelplätze, im<lb />
-Fall der Trennung an."</paragraph><paragraph /><paragraph>„Die Sternkundigen aus beiden Schiffen, Herren Wales<lb />
-und Baylay, machten, während daß wir nach &lt;place ref="https://www.wikidata.org/wiki/Q23148"&gt;Cornwall&lt;/place&gt; gereiset<lb />
-waren, ihre Beobachtungen auf einem kleinen Eiland (&lt;place ref="https://www.wikidata.org/wiki/Q23442"&gt;Drake's&lt;/place&gt;<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q23442"&gt;Island&lt;/place&gt;) im Hafen von Plymouth. Die Länge dieses Orts<lb />
-mußte astronomisch bestimmt werden, weil man hier die Län¬<lb />
-gen- Uhren in Gang bringen sollte, welche diese Herren mit sich<lb />
-am Bord hatten. Herr Arnold hatte deren drei verfertigt, wo¬<lb />
-von zwei in der Adventure bleiben sollten. Die dritte mit noch</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb n="30"/><head>Reise um die Welt</head><p/><p>Lande gehöre, welches aller Geographen und voriger Seefahrer<lb/>
+Aufmerksamkeit erregt hatte, oder ob es nur ein Theil einer In¬<lb/>
+sel sei? Im ersten Falle sollte so viel als möglich von der<lb/>
+Küste befahren und untersucht, zugleich auch Bemerkungen zum<lb/>
+Vortheil der Handlung, der Seefahrt und der Naturgeschichte<lb/>
+gemacht werden. Träfe man Einwohner an, so sollte &lt;persName ref="https://www.wikidata.org/wiki/Q2671214"&gt;Capitain&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q2671214"&gt;Cook&lt;/persName&gt; ihren Charakter, Temperament, Genie und Anzahl be¬<lb/>
+merken, und wo möglich freundschaftlichen Umgang mit ihnen<lb/>
+zu haben suchen. So lange die Schiffe in gutem Stande, die<lb/>
+Leute gesund, und die Lebensmittel brauchbar blieben, sollte er<lb/>
+diese Entdeckungen fortsetzen, und, je nachdem es die Umstände<lb/>
+erforderten, nach Osten oder Westen laufen, dabei aber so weit<lb/>
+gegen den Südpol als nur immer möglich zu dringen suchen.<lb/>
+Wäre aber das Vorgebirge de la Circoncision nur ein Theil<lb/>
+einer Insel, oder könnte er es gar nicht antreffen, so blieb ihm<lb/>
+übrig so lange als er noch Hoffnung hätte ein großes oder fe¬<lb/>
+stes Land zu finden, südwärts zu steuern, alsdann aber seinen<lb/>
+Lauf nach Osten zu richten, und in hohen südlichen Breiten,<lb/>
+so nah an den Pol als thunlich sein würde, rund um die Welt<lb/>
+zu segeln, zuletzt am Vorgebirge der guten Hoffnung wieder zu<lb/>
+ankern und von dort nach &lt;place ref="https://www.wikidata.org/wiki/Q1783560"&gt;Spithead&lt;/place&gt; bei Portsmouth zurückzu¬<lb/>
+kehren. So oft die Jahreszeit den ferneren Aufenthalt in ho¬<lb/>
+hen Breiten gefährlich machen würde, sollte er sich nach irgend<lb/>
+einem bekannten Orte weiter gegen Norden, unter mildern Him¬<lb/>
+melsstrichen, zurückziehen, um seine Leute zu erfrischen, und die<lb/>
+Schiffe wieder in Stand zu setzen. In allen Fällen, welche<lb/>
+man nicht vorhergesehn, könne er übrigens nach eignem Gut¬<lb/>
+dünken verfahren, und ginge unglücklicher Weise die Resolution<lb/>
+verloren, so sollte er dennoch die Fahrt im kleinern Schiffe fort¬<lb/>
+setzen. Eine Abschrift dieser Befehle theilte er dem &lt;persName ref="https://www.wikidata.org/wiki/Q100293049"&gt;Capitain&lt;/persName&gt;<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q100293049"&gt;Furneaux&lt;/persName&gt; mit, und zeigte ihm zugleich die Sammelplätze, im<lb/>
+Fall der Trennung an."</p><p/><p>„Die Sternkundigen aus beiden Schiffen, Herren Wales<lb/>
+und Baylay, machten, während daß wir nach &lt;place ref="https://www.wikidata.org/wiki/Q23148"&gt;Cornwall&lt;/place&gt; gereiset<lb/>
+waren, ihre Beobachtungen auf einem kleinen Eiland (&lt;place ref="https://www.wikidata.org/wiki/Q23442"&gt;Drake's&lt;/place&gt;<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q23442"&gt;Island&lt;/place&gt;) im Hafen von Plymouth. Die Länge dieses Orts<lb/>
+mußte astronomisch bestimmt werden, weil man hier die Län¬<lb/>
+gen- Uhren in Gang bringen sollte, welche diese Herren mit sich<lb/>
+am Bord hatten. Herr Arnold hatte deren drei verfertigt, wo¬<lb/>
+von zwei in der Adventure bleiben sollten. Die dritte mit noch</p></body></text>
+</TEI>

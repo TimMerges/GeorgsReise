@@ -1,30 +1,120 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Digitale Edition Georg Forster's sämmtliche Schriften Kapitel 1 und 2</title><author>Unbekannter Autor</author></titleStmt><publicationStmt><publisher>s2pafoll@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1738421666838">1738421666838</date></publicationStmt><sourceDesc><p>Keine Beschreibung</p></sourceDesc></fileDesc></teiHeader><text><body><heading>Erstes Capitel.</heading><paragraph>Abreise. — Fahrt von &lt;place ref="https://www.wikidata.org/wiki/Q43382"&gt;Plymouth&lt;/place&gt; nach Madera. — Beschreibung die¬<lb />
-ser Insel.</paragraph><paragraph /><paragraph>Ubi animus ex multis miseriis atque periculis requie<lb />
-vit, — statui res gestas - - perscribere; tamen (hoc) in¬<lb />
-primis arduum videtur, - quia plerique, quae delicta re¬<lb />
-prehenderis, malivolentia et invidia putant, ubi de magna<lb />
-virtute et gloria bonorum memores, quae sibi quisque<lb />
-ficta, pro falsis ducit.<lb />
-facilia factu putat, aequo animo accipit; supra ea, veluti<lb />
-&lt;persName ref="https://www.wikidata.org/wiki/Q7170"&gt;Sallust&lt;/persName&gt;.</paragraph><paragraph /><paragraph>Kaum war das Schiff Endeavour im Jahre 1771 wieder nach<lb />
-&lt;place ref="https://www.wikidata.org/wiki/Q21"&gt;England&lt;/place&gt; zurückgekommen, als man schon den Entwurf zu ei¬<lb />
-ner neuen Reise machte, auf welcher die südlichen Gegenden un¬<lb />
-srer Erdkugel weiter erforscht und untersucht werden sollten.<lb />
-Zwei tüchtige, starke Schiffe, die Resolution und die Ad-<lb />
-venture, wurden zu dem Ende als königliche Schiffe vom sech¬<lb />
-sten Range (Sloops) ausgerüstet, und die Capitaine &lt;persName ref="https://www.wikidata.org/wiki/Q89608399"&gt;Jacob Cook&lt;/persName&gt;<lb />
-und &lt;persName ref="https://www.wikidata.org/wiki/Q710410"&gt;Tobias Furneaux&lt;/persName&gt; zu Befehlshabern ernannt. Am 11. Ju¬<lb />
-nius erhielten mein Vater und ich Befehl, diese Reise gleichfalls<lb />
-zu unternehmen, um Gegenstände der Naturgeschichte zu sam¬<lb />
-meln, zu beschreiben und zu zeichnen. In möglichster Geschwin¬<lb />
-digkeit rüsteten wir uns zu diesem wichtigen Vorhaben, und<lb />
-schickten innerhalb neun Tagen alle unsere Reisegeräthschaft an<lb />
-Bord der Resolution, welche damals noch bei Sheerneß lag, am<lb />
-22. aber schon nach &lt;place ref="https://www.wikidata.org/wiki/Q43382"&gt;Plymouth&lt;/place&gt; abging.<lb />
-Am 26. verließen auch wir &lt;place ref="https://www.wikidata.org/wiki/Q84"&gt;London&lt;/place&gt;, und kamen, weil wir<lb />
-zu Lande reisten, schon in zwei Tagen nach Plymouth, wo<lb />
-aber unser Schiff noch nicht eingetroffen war. Den 1. Julius<lb />
-verfügten wir uns an Bord der Jagd Augustus, und machten<lb />
-dem damaligen Präsidenten des Admiralitätscollegiums, dem<lb />
-Grafen Sandwich, unsere Aufwartung. Se. Herrlichkeit (My¬</paragraph></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc n="bsb10916719">
+    <titleStmt>
+      <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+      <editor>
+        <persName role="Herausgeber">
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+        <persName role="Herausgeberin">
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+          <affiliation>Universität Trier (Student)</affiliation>
+        </persName>
+      </editor>
+      <respStmt>
+        <resp>Mitwirkende an der Transkription</resp>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>Digitale Edition Georg Forster's Reise um di Welt 1. Band in Teilen 2025</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>
+        <persName>
+          <forename>Tim</forename>
+          <surname>Merges</surname>
+        </persName>
+        <persName>
+          <forename>Patricia</forename>
+          <surname>Folly</surname>
+        </persName>
+        <persName>
+          <forename>Sarah</forename>
+          <surname>Sarkis</surname>
+        </persName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/3.0/de/">
+          Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-NC-SA 3.0 DE)
+        </licence>
+        <ab type="version">version-01-22</ab>
+        <ab type="edition">Digitale Edition</ab>
+        <ab type="state">Transkription mit Wikidata-Verlinkungen</ab>
+      </availability>
+      <date when="2025-02-10"/>
+      <idno type="url">https://timmerges.github.io/GeorgsReise/index.html</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Forster, Georg: Georg Forster's sämmtliche Schriften...</title>
+        <idno type="print">BSB-ID 991123990369707356</idno>
+      </bibl>
+      <msDesc>
+        <msIdentifier>
+          <institution>Leipzig: F. A. Brockhaus, 1843</institution>
+          <idno type="signatur">BSB-ID 991123990369707356</idno>
+        </msIdentifier>
+        <physDesc>
+          <objectDesc>
+            <supportDesc>
+              <!-- ggf. weitere physische Beschreibungen -->
+            </supportDesc>
+          </objectDesc>
+        </physDesc>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><head>Erstes Capitel.</head><p>Abreise. — Fahrt von &lt;place ref="https://www.wikidata.org/wiki/Q43382"&gt;Plymouth&lt;/place&gt; nach Madera. — Beschreibung die¬<lb/>
+ser Insel.</p><p/><p>Ubi animus ex multis miseriis atque periculis requie<lb/>
+vit, — statui res gestas - - perscribere; tamen (hoc) in¬<lb/>
+primis arduum videtur, - quia plerique, quae delicta re¬<lb/>
+prehenderis, malivolentia et invidia putant, ubi de magna<lb/>
+virtute et gloria bonorum memores, quae sibi quisque<lb/>
+ficta, pro falsis ducit.<lb/>
+facilia factu putat, aequo animo accipit; supra ea, veluti<lb/>
+&lt;persName ref="https://www.wikidata.org/wiki/Q7170"&gt;Sallust&lt;/persName&gt;.</p><p/><p>Kaum war das Schiff Endeavour im Jahre 1771 wieder nach<lb/>
+&lt;place ref="https://www.wikidata.org/wiki/Q21"&gt;England&lt;/place&gt; zurückgekommen, als man schon den Entwurf zu ei¬<lb/>
+ner neuen Reise machte, auf welcher die südlichen Gegenden un¬<lb/>
+srer Erdkugel weiter erforscht und untersucht werden sollten.<lb/>
+Zwei tüchtige, starke Schiffe, die Resolution und die Ad-<lb/>
+venture, wurden zu dem Ende als königliche Schiffe vom sech¬<lb/>
+sten Range (Sloops) ausgerüstet, und die Capitaine &lt;persName ref="https://www.wikidata.org/wiki/Q89608399"&gt;Jacob Cook&lt;/persName&gt;<lb/>
+und &lt;persName ref="https://www.wikidata.org/wiki/Q710410"&gt;Tobias Furneaux&lt;/persName&gt; zu Befehlshabern ernannt. Am 11. Ju¬<lb/>
+nius erhielten mein Vater und ich Befehl, diese Reise gleichfalls<lb/>
+zu unternehmen, um Gegenstände der Naturgeschichte zu sam¬<lb/>
+meln, zu beschreiben und zu zeichnen. In möglichster Geschwin¬<lb/>
+digkeit rüsteten wir uns zu diesem wichtigen Vorhaben, und<lb/>
+schickten innerhalb neun Tagen alle unsere Reisegeräthschaft an<lb/>
+Bord der Resolution, welche damals noch bei Sheerneß lag, am<lb/>
+22. aber schon nach &lt;place ref="https://www.wikidata.org/wiki/Q43382"&gt;Plymouth&lt;/place&gt; abging.<lb/>
+Am 26. verließen auch wir &lt;place ref="https://www.wikidata.org/wiki/Q84"&gt;London&lt;/place&gt;, und kamen, weil wir<lb/>
+zu Lande reisten, schon in zwei Tagen nach Plymouth, wo<lb/>
+aber unser Schiff noch nicht eingetroffen war. Den 1. Julius<lb/>
+verfügten wir uns an Bord der Jagd Augustus, und machten<lb/>
+dem damaligen Präsidenten des Admiralitätscollegiums, dem<lb/>
+Grafen Sandwich, unsere Aufwartung. Se. Herrlichkeit (My¬</p></body></text>
+</TEI>
