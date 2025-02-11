@@ -1,32 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>georgkap3</title><author>Forster, Georg -- (GND: 118534416)</author></titleStmt><publicationStmt><publisher>s2timerg@uni-trier.de</publisher><pubPlace>Unbekannte Quelle</pubPlace><date when="1736762958323">1736762958323</date></publicationStmt><sourceDesc><p>Georg Forster's sämmtliche Schriften: In neun Bänden. 1</p></sourceDesc></fileDesc></teiHeader><text><body><header>in den Jahren 1772 bis 1775.</header><page-number>69</page-number><paragraph /><paragraph>Nach einer sehr regnigen Nacht liefen wir endlich mit<lb />
-Tages Anbruch in die Tafel-Bai ein. Die im Hintergrunde<lb />
-uns durch ihren steilen, felsigen und dürren Anblick in Erstaunen.<lb />
-Als wir tiefer in die Bai kamen, entdeckten wir die Stadt, am<lb />
-Fuß des schwarzen Tafelberges, und gelangten bald darauf vor<lb />
-Anker. Nachdem wir das Fort begrüßt und von verschiedenen<lb />
-hiesigen Bedienten der Holländisch-Ostindischen Compagnie am<lb />
-Vord unsers Schiffes Zuspruch bekommen hatten, gingen wir<lb />
-in Begleitung unserer beiden Capitains, Cook und Furneaur,<lb />
-mit der frohen Erwartung ans Land, daß wir in einem von<lb />
-dem unsrigen so weit entfernten und auf der andern Hälfte der<lb />
-Erdkugel gelegenen Welttheile viel Neues für die Wissenschaften<lb />
-finden müßten.</paragraph><heading>Drittes Capitel.<lb />
-derselben liegenden Berge waren nun ohne Wolken, und setzten<lb />
-Aufenthalt am Cap. Nachricht von der dortigen-Solonie.</heading><paragraph /><paragraph>Kaum waren wir aus unsern Booten gestiegen, so machten wir<lb />
-dem Gouverneur, Baron &lt;persName ref="https://www.wikidata.org/wiki/Q380945"&gt;Joachim von Plettenberg&lt;/persName&gt;, unsere Auf-<lb />
-wartung. Er ist ein Herr von Wissenschaft und großer Kennt-<lb />
-niß, dessen Höflichkeit und Gesprächigkeit uns gleich einen guten<lb />
-Begriff von ihm beibrachte. Hiernächst verfügten wir uns auch<lb />
-zu den andern Rathspersonen, und sodann gingen wir zu dem<lb />
-gegenwärtigen Befehlshaber in &lt;place ref="https://www.wikidata.org/wiki/Q1394912"&gt;False-Bai&lt;/place&gt;, Herrn Brand, in des-<lb />
-sen hier belegenem Hause die Capitains der englischen Schiffe<lb />
-gemeiniglich einzukehren pflegen, und wo auch wir unser Quar-<lb />
-tier zu nehmen gedachten. Fast alle hiesige Unterbedienten des<lb />
-Compagnie-Gouvernements, die Glieder des Raths allein ausge-<lb />
-nommen, vermiethen Zimmer an die Officiers und Reisenden<lb />
-der Englischen, Französischen, Dänischen und Schwedischen Schiffe,<lb />
-die auf ihrer Fahrt, von oder nach Indien, hier anlegen.<lb />
-Der merkliche Unterschied zwischen dieser Colonie und der<lb />
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Georg Forster: Reise um die Welt (1793) in electronic form</title>
+        <author>Forster, Georg (1754–1794)</author>
+        <respStmt>
+          <resp>Transcription prepared by</resp>
+          <name>Tim Merges, Sarah Sarkis, Patricia Folly</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <distributor>Bayerische Staatsbibliothek, München</distributor>
+        <address>
+          <addrLine>Res/Eur. 1005 f, Bayerische Staatsbibliothek, München, Deutschland</addrLine>
+        </address>
+        <idno type="URN">urn:nbn:de:bvb:12-bsb10916719-1</idno>
+        <idno type="digitalObject">bsb10916719</idno>
+        <availability>
+          <p>Freely available on a non-commercial basis.</p>
+        </availability>
+        <date when="2012-07-31">31. Juli 2012</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Reise um die Welt von Georg Forster, erschienen in Berlin: In der Vossischen Buchhandlung, 1793.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Transcription based on scans of the original edition, digitized by the Bayerische Staatsbibliothek, München. Transcription took place between 01.11 and 10.02.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction>
+          <p>Typographical errors and illegible characters are silently corrected.</p>
+        </correction>
+        <normalization>
+          <p>Original spelling and typography are retained, except that long s and ligatured forms are not encoded.</p>
+        </normalization>
+      </editorialDecl>
+      <refsDecl xml:id="ASLREF">
+        <cRefPattern matchPattern="(\S+) ([^.]+)\.(.*)"
+          replacementPattern="#xpath(//div1[@n='$1']/div2[@n='$2']//lb[@n='$3'])">
+          <p>A reference is created by assembling the following, in the reverse order as that listed here: <list>
+            <item>the <att>n</att> value of the preceding <gi>lb</gi></item>
+            <item>a period</item>
+            <item>the <att>n</att> value of the ancestor <gi>div2</gi></item>
+            <item>a space</item>
+            <item>the <att>n</att> value of the parent <gi>div1</gi></item>
+          </list>
+          </p>
+        </cRefPattern>
+      </refsDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <list>
+        <item>
+          <date when="2024-11-01">31. Juli 2012</date> Digitalization completed</item>
+        <item>
+          <date when="2025-02-10">10. Feb 2013</date> Last transcription check by Tim Merges, Sarah Sarkis, Patricia Folly</item>
+      </list>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="69"/>
+      <head>Drittes Kapitel: Aufenthalt am Kap und Nachricht von der dortigen Kolonie</head>
+      <heading>In den Jahren 1772 bis 1775.</heading>
+      
+      <paragraph>Nach einer sehr regnigen Nacht liefen wir endlich mit Tagesanbruch in die Tafel-Bai ein. Die im Hintergrunde uns durch ihren steilen, felsigen und dürren Anblick in Erstaunen versetzende Landschaft war 
+        beeindruckend. 
+        Als wir tiefer in die Bai kamen, 
+        entdeckten wir die Stadt am Fuß des schwarzen Tafelberges und gelangten bald darauf vor Anker. Nachdem wir das Fort begrüßt und von verschiedenen Bediensteten der Holländisch-Ostindischen Compagnie angesprochen wurden, 
+        gingen wir mit unseren Capitains Cook und Furneaur an Land, voller Erwartung, in einem so entfernten Teil der Welt Neues für die Wissenschaften zu entdecken.</paragraph>
+      <paragraph>Kaum waren wir aus unseren Booten gestiegen, so machten wir dem Gouverneur, Baron <persName ref="https://www.wikidata.org/wiki/Q380945">Joachim von Plettenberg</persName>, unsere Aufwartung. Er war ein Herr von Wissenschaft und großer Kenntnis, 
+      dessen Höflichkeit und Gesprächigkeit uns gleich beeindruckte. Danach besuchten wir weitere Ratsmitglieder und begaben uns schließlich zum Befehlshaber in <place ref="https://www.wikidata.org/wiki/Q1394912">False-Bai</place>, 
+        Herrn Brand, wo sich die Capitains der englischen Schiffe üblicherweise einquartierten. Auch wir planten, dort unser Quartier zu nehmen.</paragraph>
+    </body>
+  </text>
+</TEI>
 Portugiesischen Insel S. Tago war uns auffallend und ange-<lb />
 nehm. Dort hatten wir ein Land gesehen, das zwischen den</paragraph></body></text></TEI>
