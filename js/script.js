@@ -5,9 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-    var testMarker = L.marker([0, 0]).addTo(map); // Marker bei 0,0 (Nullmeridian, Äquator)
-    testMarker.bindPopup("Test-Marker");
-
     // Marker für Plymouth
     var plymouthMarker = L.marker([50.3755, -4.1427]).addTo(map);
     plymouthMarker.bindPopup("<b>Plymouth, England</b><br>Ausgangspunkt der Expedition (Juli 1772)");
