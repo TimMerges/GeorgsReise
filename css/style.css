@@ -1,0 +1,128 @@
+/* Basic Reset and Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f5f0; /* Light beige solid color fallback */
+    background-image: linear-gradient(to bottom, #f8f5f0, #e8e5e0); /* Subtle vertical gradient for texture */
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif; /* Georgia for headings, fallback to serif */
+    font-weight: bold;
+    color: #333;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+/* Header and Navigation */
+header {
+    background-color: #5d8a78; /* Muted earthy green header */
+    color: #fff;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 1rem;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #4a6e5f;
+}
+
+/* General Link Styles (These are for links *outside* the navigation) */
+a {
+    color: #a37957; /* Muted brown link color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline on hover for general links */
+}
+
+
+#hero {
+    background-color: #c1d5cc; /* Fallback background color (still keep a color) */
+    background-image: url('../img/old-world-map.jpg'); /* Path to your map image */
+    background-size: cover; /* Cover the entire hero section */
+    background-position: center center; /* Center the image */
+    background-blend-mode: multiply; /* Blend image with background color */
+    padding: 4rem 2rem;
+    text-align: center;
+    color: #333; /* Make text color white for better contrast on map background */
+}
+
+#hero h1 {
+    margin-bottom: 1rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Subtle text shadow */
+}
+
+/* General Section Styles */
+section {
+    padding: 2rem;
+    margin-bottom: 2rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Styles */
+footer {
+    background-color: #5d8a78; /* Muted earthy green footer */
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.synoptic-view {
+    display: flex; /* Macht den Container zum Flexbox-Container für Spaltenlayout */
+    margin-bottom: 2rem; /* Abstand nach unten */
+}
+
+.facsimile-column {
+    width: 50%; /* Nimmt 50% der Breite des synoptic-view Containers ein */
+    padding-right: 20px; /* Abstand rechts zwischen den Spalten */
+}
+
+.transcription-column {
+    width: 50%; /* Nimmt 50% der Breite ein */
+    padding-left: 20px; /* Abstand links zwischen den Spalten */
+}
+
+.transcription-text {
+    padding: 15px;
+    border: 1px solid #ddd; /* Rahmen um den Textbereich */
+    border-radius: 5px;
+    background-color: #fefefe; /* Leichter Hintergrund für besseren Kontrast */
+    font-family: monospace, monospace; /* Feste Breite Schriftart für Transkriptionen (optional) */
+    white-space: pre-line; /* Zeilenumbrüche im Text respektieren */
+}
+
+#map-teaser img {
+    width: 70%; /* Beispiel: 70% Breite */
+    max-width: 100%; /* Stellen Sie sicher, dass die Karte nicht breiter als ihr Container wird */
+    height: auto; /* Höhe automatisch anpassen, um das Seitenverhältnis beizubehalten */
+    display: block; /* Verhindert unnötigen Leerraum unterhalb des Bildes */
+    margin: 0 auto; /* Zentriert die Karte horizontal im Container */
+}
