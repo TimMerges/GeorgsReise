@@ -86,10 +86,11 @@ section {
 
 /* Footer Styles */
 footer {
-    background-color: #5d8a78; /* Muted earthy green footer */
+    background-color: #5d8a78; /* Behalte deine aktuelle Farbe */
     color: #fff;
     text-align: center;
-    padding: 1rem 0;
+    padding: 0.5rem 0; /* Weniger Padding */
+    font-size: 0.9em; /* Kleinere Schriftgröße */
     position: relative;
     bottom: 0;
     width: 100%;
