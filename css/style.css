@@ -95,6 +95,16 @@ footer {
     width: 100%;
 }
 
+/* Logo oben links positionieren */
+.site-logo {
+    position: absolute;
+    top: -10px;  /* Bewege das Logo weiter nach oben */
+    left: 10px;  /* Falls nötig, weiter nach links anpassen */
+    width: 60px;  /* Größe des Logos */
+    height: auto;  /* Behalte das Seitenverhältnis bei */
+    z-index: 1000;  /* Stelle sicher, dass es über anderen Elementen liegt */
+}
+
 .synoptic-view {
     display: flex; /* Macht den Container zum Flexbox-Container für Spaltenlayout */
     margin-bottom: 2rem; /* Abstand nach unten */
