@@ -108,7 +108,7 @@ footer a[href="impressum.html"]:hover {
 /* Logo oben links positionieren */
 .site-logo {
     position: absolute;
-    top: -10px;  /* Bewege das Logo noch höher */
+    top: -20px;  /* Bewege das Logo noch höher */
     left: 15px;  /* Falls nötig, leicht nach links verschieben */
     height: 85px;  /* Größeres Logo (z.B. 85px statt 65px) */
     width: auto;  /* Behalte das Seitenverhältnis bei */
