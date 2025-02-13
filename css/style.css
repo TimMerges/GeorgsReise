@@ -85,12 +85,13 @@ section {
 }
 
 footer {
-    background-color: #5d8a78; /* Muted earthy green */
-    color: ##fff;
+    background-color: #5d8a78; /* Muted earthy green footer */
+    color: #fff;
     text-align: center;
-    padding: 0.3rem 0; /* Viel weniger Padding */
-    font-size: 15px; /* Kleinere Schriftgröße */
-    line-height: 1.2; /* Weniger Zeilenhöhe */
+    padding: 1rem 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
 
 /* Logo oben links positionieren */
