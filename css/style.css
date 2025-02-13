@@ -96,11 +96,11 @@ footer {
 /* Logo oben links positionieren */
 .site-logo {
     position: absolute;
-    top: 15px;  /* Bewege das Logo weiter nach oben */
-    left: 15px;  /* Falls nötig, weiter nach links anpassen */
-    width: 700px;  /* Größe des Logos */
-    height: auto;  /* Behalte das Seitenverhältnis bei */
-    z-index: 1000;  /* Stelle sicher, dass es über anderen Elementen liegt */
+    top: 10px;  /* Setzt das Logo weiter nach oben */
+    left: 10px;  /* Falls nötig, weiter nach links */
+    width: 80px;  /* Kleinere Größe für das Logo */
+    height: auto;  /* Seitenverhältnis beibehalten */
+    z-index: 1000;  /* Logo über andere Elemente legen */
 }
 
 .synoptic-view {
