@@ -99,7 +99,7 @@ footer {
     position: absolute;
     top: 8px;  /* Gleiche Positionierung auf allen Seiten */
     left: 8px;
-    height: 55px;  /* Einheitliche Höhe für das Logo */
+    height: 65px;  /* Einheitliche Höhe für das Logo */
     width: auto;  /* Automatische Breite, um das Seitenverhältnis zu wahren */
     z-index: 1000;  /* Sicherstellen, dass das Logo über anderen Elementen liegt */
 }
