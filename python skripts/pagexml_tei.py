@@ -110,7 +110,6 @@ def convert_pagexml_to_tei(pagexml_path, tei_output_path, metadata):
         if structure_type == 'paragraph':
             current_paragraph = None
 
-    # TEI in Datei speichern
     tree = ET.ElementTree(tei)
     tree.write(tei_output_path, encoding="utf-8", xml_declaration=True)
 
@@ -130,5 +129,5 @@ def batch_convert_pagexml_to_tei(input_folder, output_folder, metadata_path):
 
 
 # Beispielaufruf
-batch_convert_pagexml_to_tei("C:\\Users\\Tim\\Desktop\\kap7\\page", "C:\\Users\\Tim\\Desktop\\kap7\\tei",
-                             "C:\\Users\\Tim\\Desktop\\kap7\\metadata.xml")
+batch_convert_pagexml_to_tei("pfad/zu/input",
+                             "pfad/zu/output")
