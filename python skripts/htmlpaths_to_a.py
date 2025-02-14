@@ -20,8 +20,8 @@ def convert_tags_to_links(html_folder):
 
             print(f"Verlinkungen aktualisiert in: {filename}")
 
-# Pfad zu deinem HTML-Ordner angeben
-html_folder = "C:\\Users\\Tim\\Desktop\\kap7\\html"
+# Pfad zum HTML-Ordner angeben
+html_folder = ""
 convert_tags_to_links(html_folder)
 
 
