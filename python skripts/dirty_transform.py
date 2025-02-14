@@ -9,8 +9,8 @@ from lxml import etree
 ################################################################################
 # 1) HIER EINSTELLEN: Feste Pfade, in & output
 ################################################################################
-INPUT_FOLDER = r"C:\Users\Tim\Desktop\kap7\tei"
-OUTPUT_FOLDER = r"C:\Users\Tim\Desktop\kap7\html"
+INPUT_FOLDER = r"pfad\zum\input"
+OUTPUT_FOLDER = r"pfad\zum\output"
 
 Path(OUTPUT_FOLDER).mkdir(parents=True, exist_ok=True)
 
