@@ -10,7 +10,7 @@ def convert_tei_to_html(tei_file, html_file):
     page_number_elem = root.find('.//tei:page-number', ns)
     page_number = page_number_elem.text if page_number_elem is not None else ""
 
-    # Nur die Seitenzahl ausgeben, ohne "Reisebericht" oder "Seitenzahl:"
+    # Nur die Seitenzahl ausgeben
     html_content = f'<span class="page-number">{page_number}</span>'
 
     # Verarbeite die einzelnen Elemente im Body
@@ -65,4 +65,4 @@ def batch_convert_tei_to_html(tei_folder, html_folder):
 
 
 # Beispielaufruf
-batch_convert_tei_to_html("C:\\Users\\Tim\\Desktop\\kap7\\tei", "C:\\Users\\Tim\\Desktop\\kap7\\html")
+batch_convert_tei_to_html("pfad/zum/input", "pfad/zum/output")
